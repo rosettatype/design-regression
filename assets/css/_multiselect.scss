@@ -1,0 +1,258 @@
+@import "../node_modules/vue-multiselect/dist/vue-multiselect.min";
+
+.multiselect {
+    background: $blue-lightest;
+    border-radius: 2px;
+    padding: 0;
+    min-height: 2rem; // Needs to grow if more tags select in multiselect
+    font-size: 1rem;
+}
+
+.multiselect__placeholder {
+    font-size: 1rem;
+    color: $grey-transluscent;
+    padding: 0;
+    margin: 0;
+    line-height: 2rem;
+    padding: 2px 15px;
+}
+
+.multiselect__tags-wrap {
+    max-height: 6.75rem;
+    overflow: hidden;
+}
+
+// Cut off tags after too many
+.concat-tags .multiselect__tags-wrap {
+
+    &:after {
+        content: " ";
+        text-align: right;
+        padding-right: $gutter/2;
+        // line-height: 2.5rem;
+        // color: $blue-dark;
+        display: block;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 2.5rem;
+        background: linear-gradient(0deg, #DCE5ED 0%, rgba(220, 229, 237, 0) 100%);
+        z-index: 15;
+        pointer-events: none;
+    }
+}
+
+.multiselect__tags {
+    background: none;
+    border: none;
+    padding: 0;
+    min-height: auto;
+
+    // Th wrapper of selected choices in multiselect
+    .multiselect__tags-wrap {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 4px 35px 4px 4px;
+        min-height: 2.3rem;
+    }
+
+    // The search input
+    .multiselect__input {
+        padding: 0 $gutter/2;
+        background: $white;
+        border-bottom: $border;
+        border-radius: 0;
+        height: 2rem;
+        line-height: 2rem;
+        margin-bottom: 0;
+        width: 100%;
+        top: 0;
+    }
+}
+
+.multiselect__single {
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    line-height: 2rem;
+    padding: 3px 15px;
+    color: $blue-dark;
+    font-size: 1rem;
+}
+
+// The tags in the language dropdown
+.multiselect__tag {
+    cursor: default;
+    background: transparent;
+    margin: 3px;
+    padding: 0 0 0 7px;
+    line-height: 32px;
+    font-size: 16px;
+    letter-spacing: -0.01em;
+    height: 32px;
+    color: $blue-dark;
+    border: 0.5px solid $blue-light;
+    border-radius: 2px;
+
+    &:hover {
+        .multiselect__tag-icon:after {
+            color: $blue;
+        }
+    }
+
+    .multiselect__tag span {
+        display: inline-block;
+        margin-right: -3px;
+    }
+
+    .multiselect__tag-icon {
+        background: transparent;
+        margin: 0;
+        padding: 0 8px 0 4px;
+        display: inline-block;
+        position: relative;
+        top: auto;
+        right: auto;
+        bottom: auto;
+        font-weight: 400;
+        font-size: 14px;
+
+        &:after {
+            @include icon($font-icons-remove);
+            line-height: 32px;
+            color: $blue-light;
+            font-weight: 400;
+            position: relative;
+            font-size: 11px;
+            top: -2px;
+        }
+    }
+}
+
+#language-select-option .multiselect--active .multiselect__tags-wrap {
+    display: flex !important;
+}
+
+.multiselect--active {
+    .multiselect__select {
+        transform: scaleY(-1);
+    }
+}
+
+// The dropdown arrow
+.multiselect__select {
+    height: 44px;
+    right: 0px;
+    top: 0px;
+    z-index: 9;
+    padding: 0;
+    transform-origin: center;
+
+    &:before {
+        @include icon($font-icons-dropdown);
+        transition: $transition;
+        position: relative;
+        top: 0;
+        margin: 0;
+        border: 0;
+        width: 40px;
+        right: 50%;
+        margin-right: -20px;
+        line-height: 40px;
+        color: $blue-dark;
+    }
+}
+
+// The dropdown icon
+.multiselect__select:before {
+    font-size: 16px;
+    top: 17px;
+    right: 4px;
+    width: auto;
+    margin-right: 0;
+    line-height: 1;
+}
+
+.multiselect:hover {
+    cursor: pointer;
+
+    .multiselect__select:before {
+        color: $blue;
+    }
+}
+
+.multiselect__element {
+    $dropdown-row-height: 1.75rem;
+    height: $dropdown-row-height;
+
+    .multiselect__option {
+        padding: 0 $gutter/2;
+        height: $dropdown-row-height;
+        min-height: $dropdown-row-height;
+        line-height: $dropdown-row-height;
+
+        // Remove the "help" text
+        &:after {
+            display: none;
+        }
+
+        // hover
+        &.multiselect__option--highlight {
+            background: $blue-lighter;
+            color: $blue-dark;
+        }
+
+        // selected items
+        &.multiselect__option--selected {
+            font-weight: normal;
+            background: $blue-dark;
+            color: $white;
+
+            &:before {
+                @include icon($font-icons-check);
+                font-size: 14px;
+                line-height: $dropdown-row-height;
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                right: $gutter/2;
+            }
+        }
+
+        &.multiselect__option--disabled {
+            cursor: not-allowed !important;
+            background: transparent !important;
+            color: $grey-light !important;
+        }
+    }
+}
+
+// The dropdown list
+.multiselect__content-wrapper {
+    left: 0;
+    top: auto;
+    font-size: 16px;
+    color: $blue-dark;
+}
+
+.multiselect--active #search-languages-quicklinks {
+    display: flex;
+}
+
+#search-languages-quicklinks {
+    display: none;
+    position: absolute;
+    bottom: 0rem;
+    z-index: 10;
+    height: 2rem;
+    line-height: 2rem;
+    right: $gutter/4;
+    justify-content: flex-end;
+
+    button {
+        border: 0;
+        margin: 0 0 0$gutter/4;
+    }
+}

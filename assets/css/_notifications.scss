@@ -1,0 +1,35 @@
+body .vue-notification-group {
+    margin-top: 1rem;
+    left: 50% !important;
+    transform: translateX(-50%);
+    width: auto !important;
+    max-width: 60vw;
+}
+
+body .vue-notification {
+    @include font-text();
+
+    border: 0;
+    outline: 0;
+    border-radius: 2px;
+    box-shadow: none;
+    border-left: none;
+    font-size: 0.8rem;
+    text-align: center;
+    padding: $gutter/4 $gutter/4;
+
+    .notification-title,
+    .notification-content {
+        font-weight: inherit;
+    }
+
+    &.warn {
+        background: $black;
+        color: $light;
+    }
+
+    &.error {
+        background: $alert;
+        color: $notification-text;
+    }
+}

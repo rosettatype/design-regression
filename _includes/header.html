@@ -1,0 +1,21 @@
+<nav id="menu">
+  <ul>
+    {% for item in site.data.navigation %}
+    <li><a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;" {% endif %}>
+        {{ item.name }}
+      </a></li>
+    {% endfor %}
+  </ul>
+</nav>
+
+<header id="header">
+  <div>
+    <h1 id="title"><a href="/">Reading Design</a></h1>
+    <a class="byline" href="https://www.rosettatype.com"><span class="wide">A project by Rosetta</span><span
+        class="narrow">By Rosetta</span></a>
+    <button class="toggle-menu info">
+      <i class="icon-menu"></i>
+      <i class="icon-close"></i>
+    </button>
+  </div>
+</header>

@@ -54,6 +54,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-collections:
-  authors:
-    output: true
+sass:
+  sass_dir: assets/css
+
+# collections:
+#   authors:
+#     output: false

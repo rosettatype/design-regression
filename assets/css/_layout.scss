@@ -1,0 +1,177 @@
+///////////////////////////////////////////////////////////////////////////////
+// Layout mixings
+///////////////////////////////////////////////////////////////////////////////
+@mixin mobile () {
+    @media screen and (max-width: 768px) {
+        @content;
+    }
+}
+
+@mixin tablet () {
+    @media screen and (max-width: 1024px) {
+        @content;
+    }
+}
+
+@mixin gutter($factorVertical: 1, $factorHorizontal: 1, $prop: "padding") {
+    #{$prop}: $gutter*$factorVertical $gutter*$factorHorizontal;
+
+    @include mobile () {
+        #{$prop}: $gutter*$factorVertical/2 $gutter*$factorHorizontal/2;
+    }
+}
+
+///////////////////////////////////////////////////////////////////////////////
+// General cascading layout classes
+///////////////////////////////////////////////////////////////////////////////
+* {
+    box-sizing: border-box;
+    padding: 0;
+    position: relative;
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+hr {
+    border: 0;
+    border-top: $border;
+    background: none;
+    max-width: 40rem;
+    margin: 3rem 0;
+}
+
+body {
+    &.menu-open {
+        overflow: hidden;
+    }
+}
+
+body>* {
+    max-width: 1280px;
+    padding: 0 5vw;
+    margin: 0 auto;
+
+    @include mobile {
+        padding: 0 ($gutter/2) 0;
+    }
+}
+
+///////////////////////////////////////////////////////////////////////////////
+// Page header
+///////////////////////////////////////////////////////////////////////////////
+body>header,
+#about>header,
+nav {
+    padding-top: $gutter/3*2;
+
+    .wide {
+        @media screen and (min-width: 600px) {
+            display: initial;
+        }
+    }
+
+    .narrow {
+        display: inline-block;
+
+        @media screen and (min-width: 600px) {
+            display: none;
+        }
+
+        @media screen and (max-width: 480px) {
+            display: none;
+        }
+
+    }
+}
+
+aside#note {
+    @include gutter(1.5, 1);
+
+    @include mobile {
+        @include gutter(3, 0);
+    }
+}
+
+.button-toggle-text {
+    i:before {
+        font-size: 14px;
+        margin-left: 5px;
+        position: relative;
+        top: 2px;
+        transition: $transition;
+        transform: scaleY(-1);
+    }
+
+    i.collapsed:before {
+        transform: scaleY(1);
+    }
+}
+
+[dir="rtl"] .button-toggle-text i:before {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+%list-plain {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.articles {
+    @extend %list-plain;
+    li {
+        margin: 1rem 0;
+    }
+}
+
+///////////////////////////////////////////////////////////////////////////////
+// Page footer
+///////////////////////////////////////////////////////////////////////////////
+footer {
+    border-top: $border;
+    padding-top: 0;
+    overflow: hidden;
+}
+
+#not-found {
+    min-height: 50vh;
+    padding: 10vh $gutter 200px;
+
+    div {
+        background: url("/404.svg") no-repeat center center;
+        background-size: contain;
+        padding-top: 40%;
+
+        p {
+            position: absolute;
+            top: 105%;
+            left: 40%;
+            max-width: 50vw;
+        }
+    }
+
+    @include mobile {
+        min-height: 0;
+        padding: 3em $gutter/2 10em;
+
+        div {
+            min-height: 0;
+            height: 0;
+            padding-top: 50%;
+
+            p {
+                position: relative;
+                width: 100%;
+                top: auto;
+                left: auto;
+                max-width: none;
+                margin-top: 32px;
+            }
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+  "checksum": {
+    "previous": "f5d4db87e0311e9a7b8bf6b0d2d0fdd2107a3dc63008c707689f5482db0c365c",
+    "current": "f5d4db87e0311e9a7b8bf6b0d2d0fdd2107a3dc63008c707689f5482db0c365c"
+  },
+  "fonts": [
+    "assets/ui-fonts/icons_f5d4db87e0311e9a7b8bf6b0d2d0fdd2.ttf",
+    "assets/ui-fonts/icons_f5d4db87e0311e9a7b8bf6b0d2d0fdd2.svg",
+    "assets/ui-fonts/icons_f5d4db87e0311e9a7b8bf6b0d2d0fdd2.woff",
+    "assets/ui-fonts/icons_f5d4db87e0311e9a7b8bf6b0d2d0fdd2.eot",
+    "assets/ui-fonts/icons_f5d4db87e0311e9a7b8bf6b0d2d0fdd2.woff2"
+  ],
+  "glyphs": {
+    "arrow": {
+      "codepoint": 61696,
+      "source": "icons/arrow.svg"
+    },
+    "check": {
+      "codepoint": 61697,
+      "source": "icons/check.svg"
+    },
+    "close": {
+      "codepoint": 61698,
+      "source": "icons/close.svg"
+    },
+    "dropdown": {
+      "codepoint": 61699,
+      "source": "icons/dropdown.svg"
+    },
+    "info": {
+      "codepoint": 61700,
+      "source": "icons/info.svg"
+    },
+    "remove": {
+      "codepoint": 61701,
+      "source": "icons/remove.svg"
+    },
+    "tooltip": {
+      "codepoint": 61702,
+      "source": "icons/tooltip.svg"
+    }
+  },
+  "options": {
+    "autowidth": true,
+    "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 700,
+    "font_descent": 300,
+    "font_design_size": 20,
+    "font_em": 1000,
+    "font_name": "icons",
+    "force": true,
+    "input": {
+      "templates": "icons",
+      "vectors": "icons"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "assets/css",
+      "fonts": "assets/ui-fonts",
+      "preview": "assets/ui-fonts"
+    },
+    "preprocessor_path": "/assets/ui-fonts/",
+    "quiet": false,
+    "templates": [
+      "scss"
+    ]
+  },
+  "templates": [
+    "assets/css/_icons.scss"
+  ]
+}

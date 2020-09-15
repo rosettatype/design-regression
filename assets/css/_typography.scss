@@ -1,0 +1,266 @@
+@mixin underline($thickness, $color, $hovercolor:$color) {
+    &:after {
+        content: " ";
+        display: block;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: $thickness;
+        background-color: $color;
+        border-radius: $thickness/2;
+        transition: background-color 0.2s ease-out;
+    }
+
+    &:hover,
+    &:focus {
+        &:after {
+            background-color: $hovercolor;
+        }
+    }
+}
+
+@mixin no-underline {
+    border: none;
+    &:after {
+        display: none;
+    }
+}
+
+%label {
+    @include font-bold;
+    font-size: 14px;
+    line-height: 32px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+%switch-label {
+    @include font-text;
+    font-size: 20px;
+    line-height: 160%;
+    color: $blue-dark;
+}
+
+%button-label {
+    @extend %label;
+    color: $blue-dark;
+}
+
+.label {
+    @extend %label;
+}
+
+a.button-filled,
+button {
+    @include underline(2px, $blue-dark, $blue);
+    @extend %button-label;
+    background: transparent;
+    cursor: pointer;
+    border: 0;
+    font-family: inherit;
+    transition: $transition;
+    line-height: 24px;
+
+    &:hover,
+    &:focus {
+        color: $blue;
+        border-color: $blue;
+    }
+}
+
+a.button-filled,
+button.button-filled {
+    @include no-underline;
+    border: 0;
+    border-radius: 4px;
+    background: $black;
+    color: $white;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 50px; // Text a little down off center
+    padding: 0.1em 2.5em 0;
+    transition: $transition;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+    &:hover,
+    &:focus {
+        background: $blue;
+        color: $white;
+    }
+}
+
+button {
+    @include font-bold;
+}
+
+html {
+    font-size: 20px;
+
+    @include mobile {
+        font-size: 18px;
+    }
+}
+
+body {
+    @include font-text;
+    background: $light;
+    color: $black;
+    line-height: 1.6;
+}
+
+h1#title {
+    @include underline(4px, $black);
+    height: 1.225em;
+    @include font-heading;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    line-height: (26/24);
+    letter-spacing: 0.03em;
+    font-feature-settings: "ss14"1;
+}
+
+article h1 {
+    @include font-heading;
+    letter-spacing: 0.01em;
+    font-size: 96px;
+    font-size: 15vmin;
+    line-height: 1.05em;
+    margin: 1rem 0 3rem;
+}
+
+.byline {
+    @include no-underline;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid $black;
+}
+
+small a {
+    @include font-bold;
+}
+
+em {
+    @include font-bold;
+}
+
+p {
+    max-width: 40rem;
+}
+
+body>header,
+#about>header {
+
+    div {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        width: 100%;
+    }
+
+    p {
+        max-width: 25rem;
+        padding: 3rem 0 1rem;
+        line-height: 1.6;
+
+        @include mobile {
+            max-width: 100%;
+            padding: 2rem 0 1.5rem;
+        }
+    }
+
+    a {
+        margin-left: auto;
+        top: -0.1em;
+        text-decoration: none;
+        border: none;
+    }
+
+    span {
+        @include font-bold;
+        text-transform: uppercase;
+        font-size: 0.8rem;
+        position: relative;
+        letter-spacing: 0.04em;
+
+        @include mobile {
+            display: none;
+        }
+    }
+
+    button.info {
+        @include no-underline;
+        background: $black;
+        width: 2rem;
+        height: 2rem;
+        color: $white;
+        text-align: center;
+        border-radius: 100%;
+        margin: 0;
+        margin-top: -0.55em;
+        border: none;
+
+        &:hover,
+        &:focus {
+            background: $blue;
+
+            i.icon-close {
+                color: $white;
+            }
+        }
+
+        i {
+            font-size: 18px;
+        }
+
+        i:before {
+        }
+
+        i.icon-info:before {
+            margin-left: 2px;
+        }
+        
+        i.icon-close:before {
+            margin-left: 2px;
+            top: 1px;
+        }
+    }
+}
+
+aside small {
+    font-size: 1rem;
+}
+
+footer aside a {
+    margin-right: 1em;
+}
+
+footer {
+    font-size: 16px;
+}
+
+#footer-content {
+    .button-filled {
+        @include no-underline();
+    }
+
+    a {
+        border-bottom-width: 0.5px;
+        display: inline-block;
+        margin-bottom: 0.75em;
+    }
+}
+
+#footer-text {
+    line-height: 2;
+}
+
+.meta {
+    @include text-small;
+}

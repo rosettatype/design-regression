@@ -1,14 +1,30 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 
-<head>
-    <title>POST layout {{ page.title }}</title>
-</head>
+<article>
+    <header>
+    <div class="tags">
+        <div class="tag">
+            {{ page.categories|join: ", "}}
+        </div>
 
-<body>
-    {% include navigation.html %}
-    POST
-    {{ content }}
-</body>
+        <div class="tag">
+            {{ page.authors|join: ", " }}
+        </div>
+    </div>
 
-</html>
+    <h1>{{ page.title }}</h1>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+
+    <aside class="tags">
+        <div class="tag">{{ page.editor }}</div>
+        <div class="tag">{{ page.readingtime }}</div>
+        <div class="tag">{{ page.date|date_to_string }}</div>
+    </aside>
+</article>

@@ -1,6 +1,63 @@
 ---
 ---
+$gutter: 48px;
 
-body {
-    background: lightgray;
-}
+$blue: #007BEC;
+$blue-dark: #0057A7;
+// $blue-light: rgba(0, 87, 167, 0.25);
+// $blue-lighter: rgba(0, 87, 167, 0.13);
+// $blue-extralight: rgba(0, 87, 167, 0.1);
+// $blue-lightest: rgba(0, 87, 167, 0.07);
+$blue-light: #ADCBDC;
+
+$black: #002241; 
+$dark: #004362;
+$grey: #99A6B3;
+$grey-light: #BFC8CF;
+$grey-lighter: #D9DEE2;
+$light: #EDF0F2;
+$white: #FFFFFF;
+
+$alert: #FED9CC;
+$notification-text: #4A2012;
+
+$white-transparent: rgba(255, 255, 255, 0);
+$grey-transluscent: rgba(0, 34, 65, 0.4);
+$blue-transluscent: rgba(0, 67, 98, 0.1);
+$blue-light-transparent: rgba(0, 87, 167, 0);
+$blue-light-transluscent: rgba(0, 67, 127, 0.25);
+$light-transparent: rgba(237, 240, 242, 0);
+
+$border: 1px solid $grey-lighter;
+
+$transition: all 0.15s ease-out; 
+
+// note changing this requires re-aligning the rounded caps (separate elements) in _spinner.scss
+$spinner-size: 64px;
+
+@import "icons";
+@import "fonts";
+
+// @import "spinner";
+
+// @import "rangeslider";
+// @import "multiselect";
+// @import "tooltip";
+// @import "switch";
+
+@import "nav";
+
+@import "layout";
+@import "typography";
+
+@import "tags";
+@import "post";
+
+// @import "notifications";
+
+// @import "about";
+
+
+// body {
+//     background: lightgray;
+// }
