@@ -1,12 +1,11 @@
 article {
-
+    @include maxwidth();
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
     margin-bottom: 5rem;
 
-    header {
-        width: 100%;
+    .header {
         margin-top: 50vh;
     }
 
@@ -19,10 +18,10 @@ article {
     aside.meta {
         flex-wrap: wrap;
 
-        & > * {
+        &>* {
             flex-grow: 1;
             flex-basis: 50%;
-            
+
         }
 
         .meta-editor {

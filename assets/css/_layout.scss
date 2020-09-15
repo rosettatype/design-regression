@@ -21,6 +21,17 @@
     }
 }
 
+@mixin maxwidth() {
+    max-width: 1280px;
+    padding: 0 5vw;
+    margin: 0 auto;
+    width: 100%;
+
+    @include mobile {
+        padding: 0 ($gutter/2) 0;
+    }
+}
+
 ///////////////////////////////////////////////////////////////////////////////
 // General cascading layout classes
 ///////////////////////////////////////////////////////////////////////////////
@@ -50,25 +61,19 @@ body {
     }
 }
 
-body>article,
-body>.header,
-nav>.header {
-    max-width: 1280px;
-    padding: 0 5vw;
-    margin: 0 auto;
-
-    @include mobile {
-        padding: 0 ($gutter/2) 0;
-    }
-}
-
 
 ///////////////////////////////////////////////////////////////////////////////
 // Page header
 ///////////////////////////////////////////////////////////////////////////////
 .header {
+    @include maxwidth();
     display: flex;
     padding-top: $gutter/3*2 !important;
+}
+
+article .header,
+.main .header {
+    padding: 0;
 }
 
 .header-logo {
@@ -149,8 +154,47 @@ footer {
     border-top: $border;
     padding-top: 0;
     overflow: hidden;
+
+    .main {
+        @include maxwidth();
+        display: flex;
+        justify-content: space-between;
+
+        >* {
+            padding: 1rem;
+        }
+    }
+
+    #newsletter {
+        display: flex;
+        justify-content: flex-start;
+        margin-right: auto;
+        flex-grow: 0.5;
+        padding-left: 0;
+
+        input {
+            background: transparent;
+            padding: 0.5em;
+            border: $border;
+            flex-grow: 2;
+        }
+        button {
+            flex-grow: 1;
+            color: white;
+            background: $dark;
+            padding: 0.5em;
+        }
+    }
+
+    aside {
+        border-left: $border;
+        width: 33%;
+    }
 }
 
+///////////////////////////////////////////////////////////////////////////////
+// Custom 404
+///////////////////////////////////////////////////////////////////////////////
 #not-found {
     min-height: 50vh;
     padding: 10vh $gutter 200px;

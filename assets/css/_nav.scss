@@ -22,34 +22,35 @@ nav {
         list-style: none;
         padding: 0;
     }
-}
 
-header {
-    width: 100%;
-
-    .toggle-menu {
-        .icon-close {
-            display: none;
-        }
-
-        .icon-menu {
-            display: block;
-        }
-    }
-
-    &.menu-open {
-        position: fixed;
-        top: 0;
-        left: 0;
-        z-index: 100;
-
+    .header {
+        @include maxwidth();
+        width: 100%;
+    
         .toggle-menu {
             .icon-close {
+                display: none;
+            }
+    
+            .icon-menu {
                 display: block;
             }
-
-            .icon-menu {
-                display: none;
+        }
+    
+        &.menu-open {
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 100;
+    
+            .toggle-menu {
+                .icon-close {
+                    display: block;
+                }
+    
+                .icon-menu {
+                    display: none;
+                }
             }
         }
     }

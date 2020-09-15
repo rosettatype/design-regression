@@ -45,9 +45,9 @@ $spinner-size: 64px;
 // @import "tooltip";
 // @import "switch";
 
-@import "nav";
-
 @import "layout";
+
+@import "nav";
 @import "typography";
 
 @import "meta";
@@ -58,8 +58,3 @@ $spinner-size: 64px;
 // @import "notifications";
 
 // @import "about";
-
-
-// body {
-//     background: lightgray;
-// }

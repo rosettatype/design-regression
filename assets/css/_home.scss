@@ -26,6 +26,10 @@ body.split {
 
         .main {
             margin-left: auto;
+
+            .excerpt .meta > *{
+                border-color: $dark;
+            }
         }
     }
 
@@ -60,6 +64,22 @@ body.split {
                 }
             }
         }
+    }
+
+    .excerpt .meta {
+        margin-bottom: 1em;
+
+        &>* {
+            margin-left: -1px;
+
+            &:first-child {
+                margin-left: 0;
+            }
+        }
+    }
+    .meta-date {
+        display: inline-block;
+        margin-top: 1rem;
     }
 }
 
