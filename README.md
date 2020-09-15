@@ -8,7 +8,7 @@ The site is built from the Markdown (.md) files in this repository and hosted on
 
 - name the file by date and title, without spaces or non-ascii characters
 - set the article metadata in the "Front Matter" (between the `---`)
-- author your article in the [Markdown syntax](https://daringfireball.net/projects/markdown/)
+- author your article in the [Markdown syntax](https://www.markdownguide.org/tools/jekyll/)
 - to preview your edits:
     - you need [Ruby](https://www.ruby-lang.org) installed on your system
     - install Jekyll locally, run `gem install`

@@ -153,16 +153,13 @@ p {
     max-width: 40rem;
 }
 
-body>header,
-#about>header {
+.header {
 
-    div {
-        display: flex;
-        justify-content: space-between;
-        flex-wrap: wrap;
-        align-items: flex-start;
-        width: 100%;
-    }
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    width: 100%;
 
     p {
         max-width: 25rem;
@@ -263,4 +260,10 @@ footer {
 
 .meta {
     @include text-small;
+}
+
+.excerpt {
+    h2 a {
+        border: none;
+    }
 }

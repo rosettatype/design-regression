@@ -1,0 +1,71 @@
+/**
+ * Most of the home/index page follows the general page styling. 
+ * However, for desktop we want to make the first article a featured
+ * element that takes half the space
+ */
+
+body.split {
+
+    #featured,
+    main {
+        width: 50%;
+        height: 100%;
+
+        // left and right "main" area
+        .main {
+            max-width: 640px;
+            padding: 0 5vw;
+            height: 100%;
+        }
+    }
+
+    // left area
+    #featured {
+        float: left;
+        background: $blue-light;
+
+        .main {
+            margin-left: auto;
+        }
+    }
+
+    // right area
+    main {
+        float: right;
+        overflow-y: scroll;
+
+        .main {
+            margin-right: auto;
+
+            .article-excerpt {
+                display: none;
+            }
+
+            .excerpt {
+                padding: 5rem 0;
+
+                &:after {
+                    content: " ";
+                    border-bottom: $border;
+                    position: absolute;
+                    left: -5vw;
+                    width: 50vw;
+                    bottom: 0;
+                }
+
+                &:last-of-type {
+                    &:after {
+                        display: none;
+                    }
+                }
+            }
+        }
+    }
+}
+
+#featured-article {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding-right: 5vw;
+}

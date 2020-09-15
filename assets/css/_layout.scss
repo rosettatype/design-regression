@@ -50,7 +50,9 @@ body {
     }
 }
 
-body>* {
+body>article,
+body>.header,
+nav>.header {
     max-width: 1280px;
     padding: 0 5vw;
     margin: 0 auto;
@@ -60,14 +62,23 @@ body>* {
     }
 }
 
+
 ///////////////////////////////////////////////////////////////////////////////
 // Page header
 ///////////////////////////////////////////////////////////////////////////////
-body>header,
-#about>header,
-nav {
-    padding-top: $gutter/3*2;
+.header {
+    display: flex;
+    padding-top: $gutter/3*2 !important;
+}
 
+.header-logo {
+    margin-right: auto;
+}
+
+.header-menu {
+    margin-left: auto;
+
+    // Long and short tag lines next to the header menu button
     .wide {
         @media screen and (min-width: 600px) {
             display: initial;
@@ -87,6 +98,7 @@ nav {
 
     }
 }
+
 
 aside#note {
     @include gutter(1.5, 1);
@@ -124,6 +136,7 @@ aside#note {
 
 .articles {
     @extend %list-plain;
+
     li {
         margin: 1rem 0;
     }
