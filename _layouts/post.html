@@ -4,17 +4,17 @@ layout: default
 
 <article>
     <header>
-    <div class="tags">
-        <div class="tag">
-            {{ page.categories|join: ", "}}
+        <div class="meta">
+            <div class="meta-tags">
+                {{ page.categories|join: ", "}}
+            </div>
+
+            <div class="meta-authors">
+                {{ page.authors|join: ", " }}
+            </div>
         </div>
 
-        <div class="tag">
-            {{ page.authors|join: ", " }}
-        </div>
-    </div>
-
-    <h1>{{ page.title }}</h1>
+        <h1>{{ page.title }}</h1>
     </header>
 
     <main>
@@ -22,9 +22,15 @@ layout: default
     </main>
 
 
-    <aside class="tags">
-        <div class="tag">{{ page.editor }}</div>
-        <div class="tag">{{ page.readingtime }}</div>
-        <div class="tag">{{ page.date|date_to_string }}</div>
+    <aside class="meta">
+        {% if page.editor %}
+        <div class="meta-editor">Edited by {{ page.editor }}</div>
+        {% endif %}
+        {% if page.readingtime %}
+        <div class="meta-readingtime">{{ page.readingtime }}</div>
+        {% endif %}
+        {% if page.date %}
+        <div class="meta-date">{{ page.date|date_to_string }}</div>
+        {% endif %}
     </aside>
 </article>

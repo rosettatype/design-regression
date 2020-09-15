@@ -11,7 +11,8 @@ window.addEventListener("load", function () {
 
     var toggleMenu = document.querySelectorAll(".toggle-menu"),
         menu = document.getElementById("menu"),
-        header = document.getElementById("header")
+        header = document.getElementById("header"),
+        body = document.getElementsByTagName("body")[0]
 
     for (var i = 0; i < toggleMenu.length; i++) {
         toggleMenu[i].addEventListener("click", function () {
@@ -19,7 +20,7 @@ window.addEventListener("load", function () {
             toggleClass(header, "menu-open")
             toggleClass(body, "menu-open")
         })
-    }   
+    }
 
 
 })

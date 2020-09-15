@@ -184,14 +184,18 @@ body>header,
 
     span {
         @include font-bold;
+        @include text-small;
         text-transform: uppercase;
-        font-size: 0.8rem;
         position: relative;
         letter-spacing: 0.04em;
 
         @include mobile {
             display: none;
         }
+    }
+
+    small {
+        @include text-small;
     }
 
     button.info {
@@ -231,10 +235,6 @@ body>header,
             top: 1px;
         }
     }
-}
-
-aside small {
-    font-size: 1rem;
 }
 
 footer aside a {

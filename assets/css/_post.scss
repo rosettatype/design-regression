@@ -1,20 +1,72 @@
-
 article {
 
     display: flex;
     flex-wrap: wrap;
+    align-items: flex-start;
+    margin-bottom: 5rem;
 
     header {
         width: 100%;
         margin-top: 50vh;
     }
 
-    main {
-        width: 100% / 6 * 4;
+    aside {
+        box-sizing: border-box;
+        padding-left: 1em;
+        width: 100% / 6 * 2;
     }
 
-    aside {
-        width: 100% / 6 * 2;
-        outline: 1px solid red;
+    aside.meta {
+        flex-wrap: wrap;
+
+        & > * {
+            flex-grow: 1;
+            flex-basis: 50%;
+            
+        }
+
+        .meta-editor {
+            flex-basis: 100%;
+            width: 100%;
+            margin-bottom: -1px;
+        }
+
+        .meta-date {
+            margin-left: -1px;
+        }
+    }
+
+    main {
+        width: 100% / 6 * 4;
+
+        >* {
+            margin: 0 0 1em;
+        }
+
+        aside {
+            position: absolute;
+            right: -50%;
+            width: 50%;
+        }
+
+        figure {
+            border: $border;
+            margin: 1em 0;
+            padding: 1em;
+
+            figcaption {
+                margin: 1em 0 0;
+            }
+        }
+
+        .full {
+            width: 150%;
+        }
+
+        img {
+            display: block;
+            height: auto;
+            width: 100%;
+        }
     }
 }
