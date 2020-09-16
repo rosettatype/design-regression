@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "An article with sample styling"
+title: "A brief overview of the various arabic calligraphic styles"
 date: 2020-05-20 11:16:57 +0300
 categories: 
     - "Research"
 authors:
-    - David Březina
-    - Johannes Neumeier
+    - Jane Doe
+    - John Doe
 editor:
     - Mr Meeseeks
 readingtime: 15 min

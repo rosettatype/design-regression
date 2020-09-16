@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Another sample article"
-date: 2019-11-06 11:16:57 +0300
+title: "Towards a feature-based approach to character similarity"
+date: 2020-05-20 11:16:57 +0300
 categories: 
-    - "Editorial"
+    - "Research"
 authors:
-    - John Doe
+    - Jane Doe
 ---
 Whenever there is a series of products, be it furniture, icons, books, or letters, designers aim to achieve some level of coherence among the individual items. They seem to think of coherence as not only an aesthetic preference but also as a practical measure aiding usability.
 
