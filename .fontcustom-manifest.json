@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "0747325fe8c081a3e346349fca78716fe8ccea0ce8d8f13922a8c1c9215ed889",
-    "current": "0747325fe8c081a3e346349fca78716fe8ccea0ce8d8f13922a8c1c9215ed889"
+    "previous": "2e08d375eb5ba171c4f0ce12bf425224dff3dd95e6ac288329294bf4ed771913",
+    "current": "2e08d375eb5ba171c4f0ce12bf425224dff3dd95e6ac288329294bf4ed771913"
   },
   "fonts": [
-    "assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.ttf",
-    "assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.svg",
-    "assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.woff",
-    "assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.eot",
-    "assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.woff2"
+    "assets/ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.ttf",
+    "assets/ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.svg",
+    "assets/ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.woff",
+    "assets/ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.eot",
+    "assets/ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.woff2"
   ],
   "glyphs": {
     "arrow": {
@@ -67,7 +67,7 @@
       "fonts": "assets/ui-fonts",
       "preview": "assets/ui-fonts"
     },
-    "preprocessor_path": "/assets/ui-fonts/",
+    "preprocessor_path": "../ui-fonts/",
     "quiet": false,
     "templates": [
       "scss"

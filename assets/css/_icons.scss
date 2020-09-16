@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "icons";
-  src: url("/assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.eot");
-  src: url("/assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.eot?#iefix") format("embedded-opentype"),
-       url("/assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.woff2") format("woff2"),
-       url("/assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.woff") format("woff"),
-       url("/assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.ttf") format("truetype"),
-       url("/assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.svg#icons") format("svg");
+  src: url("../ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.eot");
+  src: url("../ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.eot?#iefix") format("embedded-opentype"),
+       url("../ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.woff2") format("woff2"),
+       url("../ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.woff") format("woff"),
+       url("../ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.ttf") format("truetype"),
+       url("../ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.svg#icons") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "icons";
-    src: url("/assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.svg#icons") format("svg");
+    src: url("../ui-fonts/icons_2e08d375eb5ba171c4f0ce12bf425224.svg#icons") format("svg");
   }
 }
 

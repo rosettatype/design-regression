@@ -31,3 +31,5 @@ fontcustom compile
 The styles in `/assets/css` automatically get compiled from the `scss` [Sass](https://sass-lang.com/) files.
 
 `/layouts` and `/includes` contain the template files of the site. `_data` contains additional data to build the navigation and other metadata. `/_config.yml` holds the site configuration and `/_site` is the pre-built static version of the compiled site for local previewing (it should be excluded from the repo).
+
+NOTE: While the `_config.yml` `baseurl` is defined for github pages to work correctly the local preview will return a 404 frontpage; simply click the header logo link once to get to the "real" frontpage.

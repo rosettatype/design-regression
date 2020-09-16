@@ -79,7 +79,7 @@ templates:
 #- preview
 #- my-custom-template.yml
 
-preprocessor_path: /assets/ui-fonts/
+preprocessor_path: ../ui-fonts/
 
 
 # -----------------------------------------------------------------------------
