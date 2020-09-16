@@ -18,7 +18,7 @@
                 {% endif %}
 
                 <li id="article-{{ forloop.index }}" class="excerpt">
-                {% include excerpt.html %}
+                    {% include excerpt.html %}
                 </li>
 
                 {% if forloop.last %}
@@ -30,7 +30,5 @@
     {% endfor %}
 
     {{ content }}
-    <script src="/assets/js/scripts.js"></script>
-</body>
 
-</html>
+    {% include foot.html %}

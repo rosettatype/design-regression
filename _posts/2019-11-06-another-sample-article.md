@@ -3,7 +3,7 @@ layout: post
 title: "Another sample article"
 date: 2019-11-06 11:16:57 +0300
 categories: 
-    - "Research Post"
+    - "Research"
 authors:
     - David Březina
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "An article with sample styling"
 date: 2020-05-20 11:16:57 +0300
 categories: 
-    - "Research Post"
+    - "Research"
 authors:
     - David Březina
     - Johannes Neumeier

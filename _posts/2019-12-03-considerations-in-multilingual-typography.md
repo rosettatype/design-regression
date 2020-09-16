@@ -3,7 +3,7 @@ layout: post
 title: "Considerations in multilingual typography"
 date: 2019-12-03 11:16:57 +0300
 categories: 
-    - "Research Post"
+    - "Research"
 authors:
     - David Březina
 ---
