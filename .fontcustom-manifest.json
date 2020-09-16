@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "f5d4db87e0311e9a7b8bf6b0d2d0fdd2107a3dc63008c707689f5482db0c365c",
-    "current": "f5d4db87e0311e9a7b8bf6b0d2d0fdd2107a3dc63008c707689f5482db0c365c"
+    "previous": "0747325fe8c081a3e346349fca78716fe8ccea0ce8d8f13922a8c1c9215ed889",
+    "current": "0747325fe8c081a3e346349fca78716fe8ccea0ce8d8f13922a8c1c9215ed889"
   },
   "fonts": [
-    "assets/ui-fonts/icons_f5d4db87e0311e9a7b8bf6b0d2d0fdd2.ttf",
-    "assets/ui-fonts/icons_f5d4db87e0311e9a7b8bf6b0d2d0fdd2.svg",
-    "assets/ui-fonts/icons_f5d4db87e0311e9a7b8bf6b0d2d0fdd2.woff",
-    "assets/ui-fonts/icons_f5d4db87e0311e9a7b8bf6b0d2d0fdd2.eot",
-    "assets/ui-fonts/icons_f5d4db87e0311e9a7b8bf6b0d2d0fdd2.woff2"
+    "assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.ttf",
+    "assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.svg",
+    "assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.woff",
+    "assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.eot",
+    "assets/ui-fonts/icons_0747325fe8c081a3e346349fca78716f.woff2"
   ],
   "glyphs": {
     "arrow": {
@@ -30,6 +30,10 @@
     "info": {
       "codepoint": 61700,
       "source": "icons/info.svg"
+    },
+    "menu": {
+      "codepoint": 61703,
+      "source": "icons/menu.svg"
     },
     "remove": {
       "codepoint": 61701,

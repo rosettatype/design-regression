@@ -59,14 +59,12 @@ window.addEventListener("load", function () {
 
     var toggleMenu = document.querySelectorAll(".toggle-menu"),
         menu = document.getElementById("menu"),
-        header = document.getElementById("header"),
         body = document.getElementsByTagName("body")[0],
         html = document.getElementsByTagName("html")[0]
 
     // Showing and hiding the menu
     function onToggleMenu() {
         toggleClass(menu, "open")
-        toggleClass(header, "menu-open")
         toggleClass(body, "menu-open")
     }
 

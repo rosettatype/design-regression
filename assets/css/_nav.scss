@@ -22,36 +22,34 @@ nav {
         list-style: none;
         padding: 0;
     }
+}
 
-    .header {
-        @include maxwidth();
-        width: 100%;
-    
-        .toggle-menu {
-            .icon-close {
-                display: none;
-            }
-    
-            .icon-menu {
-                display: block;
-            }
+.header {
+    @include maxwidth();
+    width: 100%;
+
+    .toggle-menu {
+        .icon-close {
+            display: none;
         }
-    
-        &.menu-open {
-            position: fixed;
-            top: 0;
-            left: 0;
-            z-index: 100;
-    
-            .toggle-menu {
-                .icon-close {
-                    display: block;
-                }
-    
-                .icon-menu {
-                    display: none;
-                }
-            }
+
+        .icon-menu {
+            position: relative;
+            display: block;
+            left: 1px;
+            top: -1px;
+        }
+    }
+}
+
+body.menu-open {
+    .toggle-menu {
+        .icon-close {
+            display: block;
+        }
+
+        .icon-menu {
+            display: none;
         }
     }
 }
