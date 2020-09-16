@@ -22,14 +22,14 @@ Morbi leo risus, *porta* ac consectetur ac, vestibulum at eros. Nulla vitae elit
 <aside><small>With a small note next to it</small></aside>
 
 <figure>
-<img src="/media/sample.png">
+<img src="{{ 'media/sample.png' | relative_url }}">
 <figcaption>A caption here</figcaption>
 </figure>
 
 Or make it full width:
 
 <figure class="full">
-<img src="/media/sample.png">
+<img src="{{ 'media/sample.png' | relative_url }}">
 <figcaption>A caption here</figcaption>
 </figure>
 

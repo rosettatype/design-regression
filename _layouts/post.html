@@ -33,4 +33,21 @@ layout: default
         <div class="meta-date">{{ page.date|date_to_string }}</div>
         {% endif %}
     </aside>
+
+    <footer>
+        {% for a in page.authors %}
+        {% assign author = site.authors | where: "name", a | first %}
+        <div class="author">
+            <h3>{{ author.name }}</h3>
+            {% if author.profile %}
+            <img src="{{ author.profile | relative_url }}" alt="{{ author.name }}">
+            {% endif %}
+            <p>{{ author.content }}</p>
+            {% if author.website %}
+            <p class="author-website"><a href="{{ author.website }}">{{ author.website }}</a></p>
+            {% endif %}
+        </div>
+        {% endfor %}
+
+    </footer>
 </article>

@@ -1,0 +1,21 @@
+.author {
+    border: $border;
+    padding: 1rem;
+    overflow: auto;
+    margin: 1rem auto;
+
+    h3 {
+        display: inline-block;
+    }
+
+    img {
+        float: right;
+        max-width: 10%;
+        display: block;
+        height: auto;
+    }
+
+    .author-website {
+        margin-top: 1rem;
+    }
+}
