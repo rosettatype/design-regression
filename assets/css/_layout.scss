@@ -100,7 +100,16 @@ article .header,
         @media screen and (max-width: 480px) {
             display: none;
         }
+    }
 
+    .byline {
+        transition: opacity 0.2s ease-out;
+    }
+}
+
+body.scrolled {
+    .header-menu .byline {
+        opacity: 0;
     }
 }
 

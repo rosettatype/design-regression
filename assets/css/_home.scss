@@ -23,6 +23,8 @@ body.split {
     #featured {
         float: left;
         background: $blue-light;
+        position: fixed;
+        width: 50%;
 
         .main {
             margin-left: auto;
@@ -36,7 +38,12 @@ body.split {
     // right area
     main {
         float: right;
-        overflow-y: scroll;
+
+        .header {
+            top: 0;
+            position: sticky;
+            z-index: 49;
+        }
 
         .main {
             margin-right: auto;
