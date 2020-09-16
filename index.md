@@ -1,6 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+# We don't need any "content" on the front page since it is merely listing
+# all available articles for now
 layout: home
 ---
