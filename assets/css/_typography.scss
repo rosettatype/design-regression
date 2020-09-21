@@ -1,4 +1,4 @@
-@mixin underline($thickness, $color, $hovercolor:$color) {
+@mixin underline($thickness, $color, $hovercolor:$highlight) {
     &:after {
         content: " ";
         display: block;
@@ -9,7 +9,7 @@
         height: $thickness;
         background-color: $color;
         border-radius: $thickness/2;
-        transition: background-color 0.2s ease-out;
+        transition: background-color 0.1s ease-out;
     }
 
     &:hover,
@@ -22,6 +22,7 @@
 
 @mixin no-underline {
     border: none;
+
     &:after {
         display: none;
     }
@@ -112,7 +113,6 @@ body {
 
 h1#title {
     @include underline(4px, $black);
-    height: 1.225em;
     @include font-heading;
     display: inline-block;
     text-transform: uppercase;
@@ -120,15 +120,17 @@ h1#title {
     line-height: (26/24);
     letter-spacing: 0.03em;
     font-feature-settings: "ss14"1;
+    height: 1.225em;
 }
 
 article h1 {
-    @include font-heading;
-    letter-spacing: 0.01em;
-    font-size: 96px;
-    font-size: 15vmin;
-    line-height: 1.05em;
+    @include text-heading-large;
     margin: 1rem 0 3rem;
+
+    &.large {
+        font-size: 200px;
+        line-height: 0.9em;
+    }
 }
 
 .byline {
@@ -139,6 +141,12 @@ a {
     color: inherit;
     text-decoration: none;
     border-bottom: 1px solid $black;
+    transition: color 0.1s ease-out;
+
+    &:hover,
+    &:focus {
+        color: $highlight;
+    }
 }
 
 small a {
@@ -174,7 +182,7 @@ p {
 
     a {
         margin-left: auto;
-        top: -0.1em;
+        // top: -0.1em;
         text-decoration: none;
         border: none;
     }
@@ -209,7 +217,7 @@ p {
 
         &:hover,
         &:focus {
-            background: $blue;
+            background: $highlight;
 
             i.icon-close {
                 color: $white;
@@ -220,13 +228,12 @@ p {
             font-size: 18px;
         }
 
-        i:before {
-        }
+        i:before {}
 
         i.icon-info:before {
             margin-left: 2px;
         }
-        
+
         i.icon-close:before {
             margin-left: 2px;
             top: 1px;
@@ -263,7 +270,23 @@ footer {
 }
 
 .excerpt {
-    h2 a {
-        border: none;
+    h2 {
+        @include text-heading-large;
+
+        a {
+            border: none;
+        }
+    }
+}
+
+sup {
+    font-feature-settings: "sups"1;
+    vertical-align: baseline;
+    font-size: inherit;
+
+    .footnote {
+        @include no-underline;
+        padding: 0 0.1em;
+        margin-right: -0.2em;
     }
 }

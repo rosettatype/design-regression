@@ -6,7 +6,21 @@ article {
     margin-bottom: 5rem;
 
     .header {
-        margin-top: 50vh;
+        margin-top: 35vh;
+
+        h1 {
+            width: 100%;
+        }
+
+        .meta {
+            * {
+                margin-left: -1px;
+
+                &:first-child {
+                    margin-left: 0;
+                }
+            }
+        }
     }
 
     aside {
@@ -70,6 +84,27 @@ article {
     }
 
     footer {
+        margin-top: 2rem;
         width: 100% / 6 * 4;
+    }
+}
+
+.footnotes {
+    margin-top: 3rem;
+
+    &:before {
+        content: "Bibliography";
+        @include font-bold;
+    }
+
+    li {
+        font-size: 0.7rem;
+        line-height: 1.75em;
+        color: $theme-blue-black;
+        margin-top: 1rem;
+    }
+
+    em {
+        font-variation-settings: "slnt"-10;
     }
 }

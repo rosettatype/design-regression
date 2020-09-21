@@ -2,11 +2,11 @@
     display: flex;
 
     >* {
-        @include text-small();
+        @include text-meta();
+
         border: $border;
         display: inline-block;
         text-transform: uppercase;
         padding: 0.2rem 0.5rem 0;
-        font-size: 0.75rem;
     }
 }

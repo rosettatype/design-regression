@@ -31,8 +31,9 @@ Or make it full width:
 
 Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vestibulum id ligula porta felis euismod semper.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere consectetur est at lobortis. Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam porta sem malesuada magna mollis euismod.
+Lorem ipsum dolor sit amet, consectetur[^2] adipiscing elit. Sed posuere consectetur est at lobortis. Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam porta sem malesuada magna mollis euismod.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Aenean lacinia bibendum nulla sed consectetur.
 
-[^1]: A footnote
+[^1]: Baudin, Fernand. 1989. *How Typography Works: (And Why It Is Important).* London: Lund Humphries Publishers.
+[^2]: Grainger, Jonathan, Arnaud Rey, and Stéphane Dufau. 2008. “Letter Perception: From Pixels to Pandemonium.” *Trends in Cognitive Sciences 12* (10): 381–87.

@@ -14,7 +14,8 @@ layout: default
             </div>
         </div>
 
-        <h1>{{ page.title }}</h1>
+        {% assign title_length = page.title | size %}
+        <h1 {% if title_length < 25 %}class="large"{% endif %}>{{ page.title }}</h1>
     </header>
 
     <main>

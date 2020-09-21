@@ -29,7 +29,7 @@ body.split {
         .main {
             margin-left: auto;
 
-            .excerpt .meta > *{
+            .excerpt .meta>* {
                 border-color: $dark;
             }
         }
@@ -74,7 +74,11 @@ body.split {
     }
 
     .excerpt .meta {
-        margin-bottom: 1em;
+        margin-bottom: 1.5em;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
 
         &>* {
             margin-left: -1px;
@@ -84,9 +88,9 @@ body.split {
             }
         }
     }
+
     .meta-date {
         display: inline-block;
-        margin-top: 1rem;
     }
 }
 
@@ -95,4 +99,22 @@ body.split {
     top: 50%;
     transform: translateY(-50%);
     padding-right: 5vw;
+    margin-top: 2rem;
+
+    @media screen and (max-height: 45rem) {
+        .article-excerpt {
+            display: none;
+        }
+    }
+}
+
+.article-excerpt {
+    margin-bottom: 1.5rem;
+}
+
+.excerpt {
+
+    h2 {
+        margin-bottom: 1.5rem;
+    }
 }

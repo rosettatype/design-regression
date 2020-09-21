@@ -220,8 +220,8 @@
 //     font-family: "AdapterDisplay";
 //     font-weight: 800;
 //     font-style: normal;
-    // unicode-range: $Arabic-range;
-//     src: url("/assets/ui-fonts/fallback/AdapterArabicDisplayWeb-Eb.woff") format("woff");
+// unicode-range: $Arabic-range;
+//     src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterArabicDisplayWeb-Eb.woff") format("woff");
 // }
 
 // @font-face {
@@ -229,8 +229,8 @@
 //     font-family: "AdapterDisplay";
 //     font-weight: 800;
 //     font-style: normal;
-    // unicode-range: $Hebrew-range;
-//     src: url("/assets/ui-fonts/fallback/AdapterHebrewDisplayWeb-Eb.woff") format("woff");
+// unicode-range: $Hebrew-range;
+//     src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterHebrewDisplayWeb-Eb.woff") format("woff");
 // }
 
 // @font-face {
@@ -238,8 +238,8 @@
 //     font-family: "AdapterDisplay";
 //     font-weight: 800;
 //     font-style: normal;
-    // unicode-range: $PE-range;
-//     src: url("/assets/ui-fonts/fallback/AdapterPEDisplayWeb-Eb.woff") format("woff");
+// unicode-range: $PE-range;
+//     src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterPEDisplayWeb-Eb.woff") format("woff");
 // }
 
 /* Text Regular */
@@ -248,8 +248,8 @@
 //     font-family: "AdapterText";
 //     font-weight: 400;
 //     font-style: normal;
-    // unicode-range: $Arabic-range;
-//     src: url("/assets/ui-fonts/fallback/AdapterArabicTextWeb-Rg.woff") format("woff");
+// unicode-range: $Arabic-range;
+//     src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterArabicTextWeb-Rg.woff") format("woff");
 // }
 
 // @font-face {
@@ -257,8 +257,8 @@
 //     font-family: "AdapterText";
 //     font-weight: 400;
 //     font-style: normal;
-    // unicode-range: $Hebrew-range;
-//     src: url("/assets/ui-fonts/fallback/AdapterHebrewTextWeb-Rg.woff") format("woff");
+// unicode-range: $Hebrew-range;
+//     src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterHebrewTextWeb-Rg.woff") format("woff");
 // }
 
 @font-face {
@@ -267,7 +267,7 @@
     font-weight: 400;
     font-style: normal;
     // unicode-range: $PE-range;
-    src: url("/assets/ui-fonts/fallback/AdapterPETextWeb-Rg.woff") format("woff");
+    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterPETextWeb-Rg.woff") format("woff");
 }
 
 /* Text Bold */
@@ -277,7 +277,7 @@
     font-weight: 700;
     font-style: normal;
     // unicode-range: $Arabic-range;
-    src: url("/assets/ui-fonts/fallback/AdapterArabicTextWeb-Bd.woff") format("woff");
+    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterArabicTextWeb-Bd.woff") format("woff");
 }
 
 @font-face {
@@ -286,7 +286,7 @@
     font-weight: 700;
     font-style: normal;
     // unicode-range: $Hebrew-range;
-    src: url("/assets/ui-fonts/fallback/AdapterHebrewTextWeb-Bd.woff") format("woff");
+    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterHebrewTextWeb-Bd.woff") format("woff");
 }
 
 @font-face {
@@ -295,7 +295,7 @@
     font-weight: 700;
     font-style: normal;
     // unicode-range: $PE-range;
-    src: url("/assets/ui-fonts/fallback/AdapterPETextWeb-Bd.woff") format("woff");
+    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterPETextWeb-Bd.woff") format("woff");
 }
 
 /**
@@ -309,8 +309,8 @@
     //     font-family: "AdapterVF";
     //     font-weight: 100 900;
     //     font-style: normal;
-        // unicode-range: $Arabic-range;
-    //     src: url("/assets/ui-fonts/AdapterArabicVFWeb-All.woff2") format("woff2");
+    // unicode-range: $Arabic-range;
+    //     src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterArabicVFWeb-All.woff2") format("woff2");
     // }
 
     // @font-face {
@@ -318,8 +318,8 @@
     //     font-family: "AdapterVF";
     //     font-weight: 100 900;
     //     font-style: normal;
-        // unicode-range: $Hebrew-range;
-    //     src: url("/assets/ui-fonts/AdapterHebrewVFWeb-All.woff2") format("woff2");
+    // unicode-range: $Hebrew-range;
+    //     src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterHebrewVFWeb-All.woff2") format("woff2");
     // }
 
     @font-face {
@@ -328,7 +328,6 @@
         font-weight: 100 900;
         font-style: normal;
         // unicode-range: $PE-range;
-        // src: url("/assets/ui-fonts/AdapterPEVFWeb-All.woff2") format("woff2");
         src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterPEVFWeb-All.woff2") format("woff2");
     }
 }
@@ -375,6 +374,22 @@
     font-size: 0.8rem;
     letter-spacing: 0.06em;
     line-height: 2;
+}
+
+@mixin text-heading-large {
+    @include font-heading;
+    font-weight: 900;
+    letter-spacing: 0.02em;
+    font-size: 53px;
+    line-height: 1.15em;
+}
+
+@mixin text-meta {
+    @include text-small();
+    font-weight: 500;
+    line-height: 2.28em;
+    font-size: 0.70rem;
+    letter-spacing: 0.06em;
 }
 
 /**
