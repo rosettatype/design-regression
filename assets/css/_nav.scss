@@ -13,14 +13,45 @@ nav {
         display: block;
     }
 
-    ul {
+    #menu-wrapper {
+
         position: absolute;
         left: 50%;
         top: 50%;
-        transform: translate(-50%);
+        transform: translate(-50%, -50%);
         min-width: 33vw;
-        list-style: none;
-        padding: 0;
+
+        ul {
+            list-style: none;
+            padding: 0;
+            @include text-heading-large;
+            font-size: 96px;
+            line-height: 1;
+            letter-spacing: 0.01em;
+        }
+
+        li {
+            margin-bottom: 1.5rem;
+
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+
+        p {
+            width: 50vw;
+            margin-top: 3rem;
+        }
+
+        a {
+            @include underline(4px);
+
+            &.current {
+                @include underline(4px, $black);
+            }
+
+            display: inline-block;
+        }
     }
 }
 

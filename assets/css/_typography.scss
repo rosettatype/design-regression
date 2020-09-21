@@ -1,4 +1,6 @@
-@mixin underline($thickness, $color, $hovercolor:$highlight) {
+@mixin underline($thickness, $color:inherit, $hovercolor:$highlight) {
+    border: 0;
+
     &:after {
         content: " ";
         display: block;
@@ -162,7 +164,6 @@ p {
 }
 
 .header {
-
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
