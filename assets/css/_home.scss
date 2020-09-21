@@ -4,6 +4,15 @@
  * element that takes half the space
  */
 
+%border-half {
+    content: " ";
+    border-bottom: $border;
+    position: absolute;
+    left: -5vw;
+    width: 50vw;
+    bottom: 0;
+}
+
 body.split {
 
     #featured,
@@ -38,6 +47,8 @@ body.split {
     // right area
     main {
         float: right;
+        background: #FFF;
+        overflow: auto;
 
         .header {
             top: 0;
@@ -53,22 +64,17 @@ body.split {
             }
 
             .excerpt {
-                padding: 5rem 0;
+                padding: 3rem 0;
 
                 &:after {
-                    content: " ";
-                    border-bottom: $border;
-                    position: absolute;
-                    left: -5vw;
-                    width: 50vw;
-                    bottom: 0;
+                    @extend %border-half;
                 }
 
-                &:last-of-type {
-                    &:after {
-                        display: none;
-                    }
-                }
+                // &:last-of-type {
+                //     &:after {
+                //         display: none;
+                //     }
+                // }
             }
         }
     }
@@ -116,5 +122,36 @@ body.split {
 
     h2 {
         margin-bottom: 1.5rem;
+    }
+}
+
+// Special footer styling for split halfs homepage
+.split .main .footer {
+    border-top: 0;
+    overflow: visible;
+
+    .main {
+        padding: 0;
+        max-width: none;
+        display: block;
+    }
+
+    #newsletter {
+        padding-bottom: 3rem;
+        padding-top: 2rem;
+
+        &:before {
+            @extend %border-half;
+        }
+    }
+
+    aside {
+        border: 0;    
+        padding: 2rem 0 3rem;
+        width: 100%;
+
+        &:before {
+            @extend %border-half;
+        }
     }
 }
