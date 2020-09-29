@@ -39,7 +39,7 @@
         font-size: 0.8rem;
         background: $blue-interactive-foreground;
         color: $blue-interactive-background;
-        border-radius: 2px;
+        border-radius: $border-radius;
         padding: $gutter/6 $gutter/4;
         max-width: 450px;
         min-width: 33vw; 

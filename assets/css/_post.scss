@@ -5,6 +5,16 @@ article {
     align-items: flex-start;
     margin-bottom: 5rem;
 
+    h1 {
+        @include text-heading-large;
+        margin: 2rem 0 4.5rem;
+
+        &.large {
+            font-size: 200px;
+            line-height: 0.9em;
+        }
+    }
+
     .header {
         margin-top: 35vh;
 
@@ -15,10 +25,17 @@ article {
         .meta {
             * {
                 margin-left: -1px;
+            }
 
-                &:first-child {
-                    margin-left: 0;
-                }
+            .meta-tags {
+                margin-left: 0;
+                border-top-right-radius: 0;
+                border-bottom-right-radius: 0;
+            }
+            
+            .meta-authors {
+                border-top-left-radius: 0;
+                border-bottom-left-radius: 0;
             }
         }
     }
@@ -42,6 +59,15 @@ article {
             flex-basis: 100%;
             width: 100%;
             margin-bottom: -1px;
+
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: 0;
+        }
+
+        .meta-readingtime,
+        .meta-date {
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
         }
 
         .meta-date {
@@ -62,14 +88,26 @@ article {
             width: 50%;
         }
 
+        em {
+            @include font-italic;
+        }
+
+        small {
+            font-size: 0.7rem;
+            line-height: 1.7;
+        }
+
         figure {
             border: $border;
-            margin: 1em 0;
-            padding: 1em;
+            border-radius: $border-radius;
+            margin: 2rem 0;
+            padding: 1rem;
+        }
 
-            figcaption {
-                margin: 1em 0 0;
-            }
+        figcaption {
+            font-size: 0.8rem;
+            line-height: 1.75;
+            margin: 1rem 0 4rem;;
         }
 
         .full {
@@ -80,6 +118,10 @@ article {
             display: block;
             height: auto;
             width: 100%;
+        }
+
+        h2, h3, h4, h5, h6 {
+            margin: 4rem 0 0.75rem;
         }
     }
 

@@ -2,7 +2,7 @@
 
 .multiselect {
     background: $blue-interactive-accentest;
-    border-radius: 2px;
+    border-radius: $border-radius;
     padding: 0;
     min-height: 2rem; // Needs to grow if more tags select in multiselect
     font-size: 1rem;
@@ -94,7 +94,7 @@
     height: 32px;
     color: $blue-interactive-dark;
     border: 0.5px solid $blue-interactive-accent;
-    border-radius: 2px;
+    border-radius: $border-radius;
 
     &:hover {
         .multiselect__tag-icon:after {

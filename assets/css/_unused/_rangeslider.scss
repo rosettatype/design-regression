@@ -39,7 +39,7 @@ $knob-size: 24px;
 .range-slider-value {
     color: $blue-interactive-background;
     background: $blue-interactive-foreground;
-    border-radius: 2px;
+    border-radius: $border-radius;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);

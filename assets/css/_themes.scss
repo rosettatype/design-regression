@@ -63,6 +63,11 @@
     input[type="text"] {
         border-color: $foreground;
     }
+
+    // Article styling
+    article main figure {
+        border-color: $foreground;
+    }
 }
 
 
