@@ -108,3 +108,62 @@ article {
         font-variation-settings: "slnt"-10;
     }
 }
+
+@include tablet {
+    article {
+
+        .header {
+            margin-top: 2rem;
+        }
+
+        h1 {
+            margin: 1rem 0;
+
+            &.large {
+                font-size: 10vw;
+            }
+        }
+
+        aside {
+            padding-left: initial;
+        }
+
+        aside.meta {
+            order: 0;
+            width: auto;
+            margin-bottom: 1rem;
+        }
+
+        main {
+            order: 1;
+            width: 100%;
+
+            aside {
+                position: relative;
+                right: initial;
+                width: 100%;
+            }
+
+            .full {
+                width: 100%;
+            }
+        }
+
+        footer {
+            order: 2;
+            width: 100%;
+        }
+    }
+}
+
+@include mobile {
+    article {
+        h1 {
+            font-size: 7.5vw;
+
+            &.large {
+                font-size: 15vw;
+            }
+        }
+    }
+}
