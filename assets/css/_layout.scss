@@ -174,32 +174,37 @@ aside#note {
         }
     }
 
-    #newsletter {
-        display: flex;
-        justify-content: flex-start;
-        margin-right: auto;
-        flex-grow: 0.5;
-        padding-left: 0;
-
-        input {
-            background: transparent;
-            padding: 0.5em;
-            border: $border;
-            flex-grow: 2;
-        }
-        button {
-            flex-grow: 1;
-            color: white;
-            background: $dark;
-            padding: 0.5em;
-        }
-    }
-
     aside {
         border-left: $border;
         width: 33%;
     }
 }
+
+#newsletter {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: auto;
+    flex-grow: 0.5;
+    padding-left: 0;
+
+    input {
+        background: transparent;
+        padding: 0.5em 1em;
+        border: $border;
+        border-color: initial;
+        flex-grow: 2;
+        outline: none;
+    }
+
+    button {
+        cursor: pointer;
+        border: 0;
+        flex-grow: 1;
+        color: white;
+        padding: 0.5em;
+    }
+}
+
 
 ///////////////////////////////////////////////////////////////////////////////
 // Custom 404

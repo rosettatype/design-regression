@@ -1,40 +1,30 @@
 ---
 ---
-$gutter: 48px;
+// Colors
+$blue-interactive-foreground: #002241;
+$blue-interactive-highlight: rgba(0, 34, 65, 0.3);
+$blue-interactive-background: #F1FBFF;
+$blue-interactive-accent: #ADCBDC;
+$blue-interactive-interactive: #DF5149;
 
-$blue: #007BEC;
-$blue-dark: #0057A7;
-// $blue-light: rgba(0, 87, 167, 0.25);
-// $blue-lighter: rgba(0, 87, 167, 0.13);
-// $blue-extralight: rgba(0, 87, 167, 0.1);
-// $blue-lightest: rgba(0, 87, 167, 0.07);
-$blue-light: #ADCBDC;
+$red-foreground: #2F000E;
+$red-highlight: rgba(47, 8, 0, 0.3);
+$red-background: #FEF4F3;
+$red-accent: #DAABA5;
+$red-interactive: #366E60;
 
-$black: #002241; 
-$dark: #004362;
-$grey: #99A6B3;
-$grey-light: #BFC8CF;
-$grey-lighter: #D9DEE2;
-$light: #EDF0F2;
-$white: #FFFFFF;
+$sand-foreground: #302C0D;
+$sand-highlight: rgba(48, 40, 13, 0.3);
+$sand-background: #F9F7EF;
+$sand-accent: #D6CBA2;
+$sand-interactive: #5450DD;
 
-$alert: #FED9CC;
-$notification-text: #4A2012;
-
-$white-transparent: rgba(255, 255, 255, 0);
-$grey-transluscent: rgba(0, 34, 65, 0.4);
-$blue-transluscent: rgba(0, 67, 98, 0.1);
-$blue-light-transparent: rgba(0, 87, 167, 0);
-$blue-light-transluscent: rgba(0, 67, 127, 0.25);
-$light-transparent: rgba(237, 240, 242, 0);
-
-$highlight: #DF5149;
-
-$theme-blue-black: #000000;
-
-$border: 1px solid $grey-lighter;
+// Always with transparent, and then overwritten with theme body class in _themes.scss
+$border: 1px solid transparent;
 
 $transition: all 0.15s ease-out; 
+
+$gutter: 48px;
 
 // note changing this requires re-aligning the rounded caps (separate elements) in _spinner.scss
 $spinner-size: 64px;
@@ -42,24 +32,21 @@ $spinner-size: 64px;
 @import "icons";
 @import "fonts";
 
+// If needed these components have ready styling (to an extent)
 // @import "spinner";
-
 // @import "rangeslider";
 // @import "multiselect";
 // @import "tooltip";
 // @import "switch";
+// @import "notifications";
 
 @import "layout";
-
 @import "typography";
 @import "nav";
 
 @import "meta";
 @import "post";
-
 @import "home";
 @import "author";
 
-// @import "notifications";
-
-// @import "about";
+@import "themes";

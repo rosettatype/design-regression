@@ -4,7 +4,7 @@ nav {
     top: 0;
     width: 100%;
     height: 100%;
-    background: $blue-light;
+    background: $blue-interactive-accent;
     z-index: 99;
     display: none;
     max-width: none;
@@ -47,7 +47,7 @@ nav {
             @include underline(4px);
 
             &.current {
-                @include underline(4px, $black);
+                @include underline(4px, $blue-interactive-foreground);
             }
 
             display: inline-block;

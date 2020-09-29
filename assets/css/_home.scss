@@ -7,6 +7,7 @@
 %border-half {
     content: " ";
     border-bottom: $border;
+    border-color: $blue-interactive-highlight;
     position: absolute;
     left: -5vw;
     width: 50vw;
@@ -31,7 +32,7 @@ body.split {
     // left area
     #featured {
         float: left;
-        background: $blue-light;
+        background: $blue-interactive-accent;
         position: fixed;
         width: 50%;
 
@@ -39,7 +40,7 @@ body.split {
             margin-left: auto;
 
             .excerpt .meta>* {
-                border-color: $dark;
+                border-color: $blue-interactive-foreground;
             }
         }
     }
@@ -69,12 +70,6 @@ body.split {
                 &:after {
                     @extend %border-half;
                 }
-
-                // &:last-of-type {
-                //     &:after {
-                //         display: none;
-                //     }
-                // }
             }
         }
     }

@@ -1,6 +1,7 @@
 {% include head.html %}
 
-<body>
+<body class="theme-{% if page.theme %}{{ page.theme }}{% else %}blue{% endif %}">
+    
     {% include nav.html %}
     {% include header.html %}
     {{ content }}

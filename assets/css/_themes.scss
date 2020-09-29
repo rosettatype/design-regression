@@ -1,0 +1,79 @@
+@mixin theme($foreground: $blue-interactive-foreground,
+    $blue-interactive-accent: $blue-interactive-highlight,
+    $background: $blue-interactive-background,
+    $accent: $blue-interactive-accent,
+    $interactive: $blue-interactive-interactive) {
+
+    // The body tag
+    & {
+        background: $background;
+        color: $foreground;
+    }
+
+    // Links
+    a {
+
+        &:hover,
+        &:focus {
+            color: $interactive;
+        }
+    }
+
+    button {
+        background: $foreground;
+
+        &:hover,
+        &:focus {
+            background: $interactive;
+        }
+    }
+
+    // Page logotype
+    h1#title {
+        @include underline(4px, $foreground, $interactive);
+    }
+
+    // All meta tag boxes
+    .meta {
+        >* {
+            border-color: $foreground;
+        }
+    }
+
+    // Article footer author box
+    .author {
+        border-color: $foreground;
+        background-color: $background;
+
+        img {
+            mix-blend-mode: multiply;
+        }
+    }
+
+    // Footer
+    .footer {
+        border-color: $foreground;
+
+        aside {
+            border-color: $foreground;
+        }
+    }
+
+    // Footer newsletter signup
+    input[type="text"] {
+        border-color: $foreground;
+    }
+}
+
+
+body {
+    @include theme();
+
+    &.theme-red {
+        @include theme($red-foreground, $red-highlight, $red-background, $red-accent, $red-interactive);
+    }
+
+    &.theme-sand {
+        @include theme($sand-foreground, $sand-highlight, $sand-background, $sand-accent, $sand-interactive);
+    }
+}

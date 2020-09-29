@@ -6,6 +6,8 @@ categories:
     - "Editorial"
 authors:
     - Jane Doe
+theme:
+    red
 ---
 Whenever there is a series of products, be it furniture, icons, books, or letters, designers aim to achieve some level of coherence among the individual items. They seem to think of coherence as not only an aesthetic preference but also as a practical measure aiding usability.
 

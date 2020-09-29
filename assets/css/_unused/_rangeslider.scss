@@ -18,27 +18,27 @@ $knob-size: 24px;
 }
 
 .range-slider-rail {
-    background: $blue-extralight;
+    background: $blue-interactive-extralight;
 }
 
 .range-slider-fill {
-    background: $blue-light;
+    background: $blue-interactive-accent;
 }
 
 .range-slider-knob {
-    background: $blue-dark;
+    background: $blue-interactive-dark;
     box-shadow: none;
     border: none;
 
     &:hover {
-        background: $blue;
+        background: $blue-interactive;
     }
 }
 
 // Own styling for custom slot with value display on hover/dragging
 .range-slider-value {
-    color: $white;
-    background: $black;
+    color: $blue-interactive-background;
+    background: $blue-interactive-foreground;
     border-radius: 2px;
     position: absolute;
     left: 50%;
@@ -75,19 +75,19 @@ $knob-size: 24px;
     opacity: 1;
 
     .range-slider-fill {
-        background: $grey-light;
+        background: $blue-interactive-highlight;
     }
 
     .range-slider-rail {
-        background: $grey-lighter;
+        background: $blue-interactive-highlight;
     }
 
     .range-slider-knob {
-        border: 1px solid $grey-light;
-        background: $grey-light;
+        border: 1px solid $blue-interactive-highlight;
+        background: $blue-interactive-highlight;
 
         .range-slider-value {
-            background: $grey-light;
+            background: $blue-interactive-highlight;
         }
     }
 }
@@ -98,24 +98,24 @@ $knob-size: 24px;
     &:hover {
 
         .range-slider-rail {
-            background: $blue-extralight;
+            background: $blue-interactive-extralight;
         }
 
         .range-slider-fill {
-            background: $blue-light;
+            background: $blue-interactive-accent;
         }
 
         .range-slider-knob {
-            background: $blue-dark;
+            background: $blue-interactive-dark;
             box-shadow: none;
             border: none;
 
             &:hover {
-                background: $blue;
+                background: $blue-interactive;
             }
 
             .range-slider-value {
-                background: $black;
+                background: $blue-interactive-foreground;
             }
         }
     }
