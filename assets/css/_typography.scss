@@ -94,7 +94,7 @@
 }
 
 @mixin text-code {
-    @include font-monospace(18px, 1.75);
+    @include font-monospace;
 }
 
 @mixin underline($thickness, $color:inherit, $hovercolor:$blue-interactive-accent) {

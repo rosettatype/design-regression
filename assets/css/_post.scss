@@ -12,7 +12,7 @@ article {
             @include heading-l;
             width: 100%;
             margin: 2rem 0 4.5rem;
-    
+
             &.large {
                 @include heading-xl;
             }
@@ -28,7 +28,7 @@ article {
                 border-top-right-radius: 0;
                 border-bottom-right-radius: 0;
             }
-            
+
             .meta-authors {
                 border-top-left-radius: 0;
                 border-bottom-left-radius: 0;
@@ -90,7 +90,12 @@ article {
             }
         }
 
-        h1, h2, h3, h4, h5, h6 {
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
             @include heading;
             margin: 3rem 0 1rem;
         }
@@ -123,12 +128,98 @@ article {
 
         .full {
             width: 150%;
+            padding: 1.5rem;
+            margin-left: -1.5rem;
+            box-sizing: content-box;
         }
 
         a[href^=http] {
             text-decoration: underline;
         }
 
+        li {
+            padding: 0.25rem 0;
+        }
+
+        ol ol {
+            padding-left: 1rem;
+        }
+
+        p code {}
+
+        .highlight {
+            @include text-code;
+            background: transparent;
+        }
+
+        blockquote {
+            @include font-text(inherit, inherit, inherit, 700);
+            padding-left: 3rem;
+
+            em {
+                font-weight: inherit;
+            }
+
+            em:last-child {
+                @include font-italic;
+                display: block;
+            }
+        }
+
+        blockquote.pullquote {
+            @include heading-l;
+            margin-right: -25%;
+            width: 50%;
+            padding: 2rem;
+            margin-top: -2rem;
+            margin-bottom: -2rem;
+            border: none;
+            float: right;
+        }
+
+        table {
+            border-collapse: collapse;
+            text-align: left;
+            font-feature-settings: "tnum"1, "zero"1;
+
+            th {
+                @include text-label;
+                white-space: pre;
+            }
+
+            td {
+                @include text-s;
+                line-height: 1.15;
+            }
+
+            th,
+            td {
+                padding: 0.25rem 0.5rem;
+                margin: 0;
+
+                &.right {
+                    text-align: right;
+                }
+
+                &.top {
+                    vertical-align: top;
+                }
+
+                &.middle {
+                    vertical-align: middle;
+                }
+
+                &.bottom {
+                    vertical-align: bottom;
+                }
+            }
+
+            tr:last-of-type {
+                td {
+                    border-bottom: 0;
+                }
+            }
+        }
     }
 
     footer {
@@ -157,6 +248,7 @@ article {
     }
 }
 
+
 @include mobile {
     article {
 
@@ -165,10 +257,10 @@ article {
         }
 
         h1 {
-            margin: 1rem 0;
+            font-size: 7.5vw;
 
             &.large {
-                font-size: 10vw;
+                font-size: 15vw;
             }
         }
 
@@ -194,24 +286,20 @@ article {
 
             .full {
                 width: 100%;
+                margin-left: 0;
+                box-sizing: border-box;
+            }
+
+            blockquote.pullquote {
+                margin: 0;
+                display: block;
+                width: 100%;
             }
         }
 
         footer {
             order: 2;
             width: 100%;
-        }
-    }
-}
-
-@include mobile {
-    article {
-        h1 {
-            font-size: 7.5vw;
-
-            &.large {
-                font-size: 15vw;
-            }
         }
     }
 }

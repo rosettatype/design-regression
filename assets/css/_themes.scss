@@ -68,6 +68,19 @@
     article main figure {
         border-color: $foreground;
     }
+
+    article main table th {
+        border-bottom: 1px solid $foreground;
+    }
+
+    article main table td {
+        border-bottom: 1px solid $accent;
+    }
+
+    // Blockquotes
+    article main blockquote {
+        border-left: 1px solid $foreground;
+    }
 }
 
 

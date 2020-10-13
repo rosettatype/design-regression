@@ -45,6 +45,20 @@ Morbi leo risus, *porta* ac consectetur ac, vestibulum at eros. Nulla vitae elit
 
 Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
+## Quotes
+
+Blockquotes with longer content can be marked up like this:
+
+> “Cras mattis consectetur _purus_ sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.”
+> _John Doe_
+
+Note that _emphasis_ inside the quote will render as such, and if emphasising the last line, this will be interpreted and rendered as “author”. Add quotes and punctuation as needed in the text.
+
+<blockquote class="pullquote">Add pullquotes like this.</blockquote>
+
+Morbi leo risus, *porta* ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+
+Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
 
 ## Images
 
@@ -66,9 +80,82 @@ If an illustration should have extra space you can use the 'full' class on the '
 
 Lorem ipsum dolor sit amet, consectetur[^2] adipiscing elit. Sed posuere consectetur est at lobortis. Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam porta sem malesuada magna mollis euismod.
 
-## Subheading
+## Lists
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Aenean lacinia bibendum nulla sed consectetur.
+Use Markdown for styling basic numbered or bullet lists:
+
+- **something** without order
+- **add** as many bullets as needed
+
+1. **something** in order
+2. **add** as many points as needed
+3. _note_ that the list style is predetermined, use this specific numbering style for numbered lists, always
+    1. Indent with tab to start nested lists, if really needed
+
+## Code
+
+For code samples use single `backticks` to render in monospaced font and with code highlighting.
+
+    def sample():
+        print("To render an entire block of code, indent all lines...")
+        print("...by one tab")
+
+To apply syntax highlighting you need to use the more verbose 'highlight' syntax:
+
+{% highlight python %}
+def sample():
+    print("A code block with python highlighting")
+{% endhighlight %}
+
+## Tables
+
+Tables should be authored in HTML. Using 'full' will render it 100 percent width, wrapping it in 'figure' will make it render inside a frame.
+
+<figure class="full">
+    <table>
+        <thead>
+            <tr>
+                <th>Use 'th'</th>
+                <th colspan="3">For column or row</th>
+                <th>Headings</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Foobar</td>
+                <td class="right">12.23</td>
+                <td class="right">0.01</td>
+                <td class="right">7.19</td>
+                <td>Note you can use 'left' and 'right' classes to align content, e.g. numbers</td>
+            </tr>
+            <tr>
+                <td>Barfoo</td>
+                <td class="right">99.12</td>
+                <td class="right">0.02</td>
+                <td class="right">12.57</td>
+                <td>The 'left' alignment is default, use 'right' where needed.</td>
+            </tr>
+            <tr>
+                <td class="bottom">Fooduu</td>
+                <td class="right bottom">57.12</td>
+                <td class="right bottom">0.21</td>
+                <td class="right bottom">9.43</td>
+                <td class="bottom">Use 'top', 'bottom' or 'middle' (default) to vertically align. This matters only when content inside the cell breaks to several lines.</td>
+            </tr>
+        </tbody>
+    </table>
+</figure>
+
+<figcaption>
+<strong>Note:</strong> Use 'figcaptions' to elaborate on tables as needed.
+</figcaption>
+
+
+## Footer
+
+Just for clarity, add these bibliography entries always at the end of the page. Jekyll will compile them into the list that _automatically_ gets placed at the end of the page, no matter where these definitions are. You don’t need to include the 'Bibliography' heading.
+
+Below the bibliography, each article author will be displayed with some basic info about them.
 
 [^1]: Baudin, Fernand. 1989. **How Typography Works: (And Why It Is Important).** London: Lund Humphries Publishers.
 [^2]: Grainger, Jonathan, Arnaud Rey, and Stéphane Dufau. 2008. “Letter Perception: From Pixels to Pandemonium.” **Trends in Cognitive Sciences 12** (10): 381–87.

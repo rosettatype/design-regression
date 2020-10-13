@@ -90,10 +90,12 @@
     }
 }
 
-@mixin font-monospace {
+@mixin font-monospace($fontsize: 18px, $lineheight: 1.75) {
     font-family: "Adapter Mono PE", monospace; // TBD
     font-weight: 400;
     font-style: normal;
+    font-size: $fontsize;
+    line-height: $lineheight;
 }
 
 /**
