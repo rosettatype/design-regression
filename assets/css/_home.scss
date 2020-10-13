@@ -53,12 +53,14 @@ body.split {
 
         .header {
             top: 0;
-            position: sticky;
+            right: 5vw;
+            position: fixed;
             z-index: 49;
         }
 
         .main {
             margin-right: auto;
+            padding-top: 10vh;
 
             .article-excerpt {
                 display: none;

@@ -73,13 +73,15 @@ window.addEventListener("load", function () {
     }
 
     // Hiding the menu button tagline on scroll
-    var byline = document.querySelector(".byline")
-    window.addEventListener("scroll", function () {
-        if (html.scrollTop > 30) {
-            addClass(body, "scrolled")
-        } else {
-            removeClass(body, "scrolled")
-        }
-    })
+    var frontpageRight = document.querySelector(".split main")
+    if (frontpageRight) {
+        frontpageRight.addEventListener("scroll", function () {
+            if (frontpageRight.scrollTop > 30) {
+                addClass(body, "scrolled")
+            } else {
+                removeClass(body, "scrolled")
+            }
+        })
+    }
 
 })
