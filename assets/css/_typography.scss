@@ -133,9 +133,6 @@ html {
     @include text();
 }
 
-body {
-}
-
 h1#title {
     @include font-heading(24px, 1.1, 0.03em, 800);
     @include mobile {
@@ -225,8 +222,6 @@ p {
         i {
             font-size: 18px;
         }
-
-        i:before {}
 
         i.icon-info:before {
             margin-left: 2px;
