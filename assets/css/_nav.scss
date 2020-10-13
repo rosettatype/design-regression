@@ -22,12 +22,13 @@ nav {
         min-width: 33vw;
 
         ul {
-            list-style: none;
-            padding: 0;
-            @include text-heading-large;
+            @include heading-xl;
             font-size: 96px;
             line-height: 1;
             letter-spacing: 0.01em;
+            
+            list-style: none;
+            padding: 0;
         }
 
         li {

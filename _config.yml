@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # FIXME TMP
 baseurl: "/reading-design" # the subpath of your site, e.g. /blog
-url: "https://kontur.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.rosettatype.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minima

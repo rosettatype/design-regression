@@ -116,7 +116,6 @@ body.split {
 }
 
 .excerpt {
-
     h2 {
         margin-bottom: 1.5rem;
     }
@@ -161,12 +160,14 @@ body.split {
             width: 100%;
             height: auto;
             max-width: none;
-            padding: $gutter;
+            padding: $gutter / 2;
             float: none;
             position: relative;
 
             .main {
                 padding: initial;
+                margin-left: 0;
+                max-width: none;
             }
         }
 
@@ -193,11 +194,11 @@ body.split {
         }
 
         #featured .header {
-            left: $gutter;
+            left: $gutter / 2;
         }
 
         main .header {
-            right: $gutter;
+            right: $gutter / 2;
         }
 
         main .main .excerpt:after,

@@ -5,21 +5,17 @@ article {
     align-items: flex-start;
     margin-bottom: 5rem;
 
-    h1 {
-        @include text-heading-large;
-        margin: 2rem 0 4.5rem;
-
-        &.large {
-            font-size: 200px;
-            line-height: 0.9em;
-        }
-    }
-
     .header {
-        margin-top: 35vh;
+        margin-top: 20vh;
 
         h1 {
+            @include heading-l;
             width: 100%;
+            margin: 2rem 0 4.5rem;
+    
+            &.large {
+                @include heading-xl;
+            }
         }
 
         .meta {
@@ -41,6 +37,8 @@ article {
     }
 
     aside {
+        @include text-sidenote;
+
         box-sizing: border-box;
         padding-left: 1em;
         width: 100% / 6 * 2;
@@ -86,6 +84,15 @@ article {
             position: absolute;
             right: -50%;
             width: 50%;
+
+            small {
+                @include text-sidenote;
+            }
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            @include heading;
+            margin: 3rem 0 1rem;
         }
 
         em {
@@ -93,8 +100,7 @@ article {
         }
 
         small {
-            font-size: 0.7rem;
-            line-height: 1.7;
+            @include text-s;
         }
 
         figure {
@@ -104,25 +110,25 @@ article {
             padding: 1rem;
         }
 
-        figcaption {
-            font-size: 0.8rem;
-            line-height: 1.75;
-            margin: 1rem 0 4rem;;
-        }
-
-        .full {
-            width: 150%;
-        }
-
         img {
             display: block;
             height: auto;
             width: 100%;
         }
 
-        h2, h3, h4, h5, h6 {
-            margin: 4rem 0 0.75rem;
+        figcaption {
+            @include text-s;
+            margin: 1rem 0 4rem;
         }
+
+        .full {
+            width: 150%;
+        }
+
+        a[href^=http] {
+            text-decoration: underline;
+        }
+
     }
 
     footer {
@@ -136,7 +142,7 @@ article {
 
     &:before {
         content: "Bibliography";
-        @include font-bold;
+        @include heading;
     }
 
     li {
@@ -151,7 +157,7 @@ article {
     }
 }
 
-@include tablet {
+@include mobile {
     article {
 
         .header {

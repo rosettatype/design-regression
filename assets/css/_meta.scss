@@ -2,7 +2,7 @@
     display: flex;
 
     >* {
-        @include text-meta();
+        @include text-meta-small();
 
         border-radius: $border-radius;
         border: $border;

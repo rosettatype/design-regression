@@ -1,3 +1,102 @@
+
+// @mixin text-small {
+//     font-size: 0.8rem;
+//     letter-spacing: 0.06em;
+//     line-height: 2;
+// }
+
+// @mixin text-heading-large {
+//     @include font-heading;
+//     font-weight: 900;
+//     letter-spacing: 0.02em;
+//     font-size: 53px;
+//     line-height: 1.15em;
+// }
+
+// @mixin text-meta {
+//     @include text-small();
+//     font-weight: 500;
+//     line-height: 2.28em;
+//     font-size: 0.70rem;
+//     letter-spacing: 0.06em;
+// }
+
+@mixin heading-mobile {
+    @include mobile {
+        @include font-heading();
+        font-size: 32px;
+        letter-spacing: 0.01em;
+        line-height: 1.15;
+    }
+}
+
+@mixin heading-xl {
+    @include font-heading(94px, 1.05, 0.01em);
+    @include heading-mobile();
+}
+
+@mixin heading-l {
+    @include font-heading(53px);
+    @include heading-mobile();
+}
+
+@mixin heading-m {
+    @include font-heading(42px);
+    @include heading-mobile();
+}
+
+@mixin heading {
+    @include font-heading(32px, 1.15, 0.01em, 700);
+}
+
+@mixin text {
+    @include font-text(20px);
+    @include mobile {
+        font-size: 18px;
+        line-height: 1.5;
+    }
+}
+
+@mixin text-s {
+    @include font-text(16px, 1.75);
+    @include mobile {
+        font-size: 14px;
+        line-height: 1.9;
+    }
+}
+
+@mixin text-caption {
+    @include text-s;
+}
+
+@mixin text-meta-large {
+    @include font-text(16px, 2, 0.08em, 500);
+    text-transform: uppercase;
+    @include mobile {
+        font-size: 13px;
+        letter-spacing: 0.06em;
+        line-height: 3.2;
+    }
+}
+
+@mixin text-meta-small {
+    @include text-meta-large;
+    font-size: 14px;
+}
+
+@mixin text-label {
+    @include font-text(14px, 2.3, 0.1em, 700);
+    text-transform: uppercase;
+}
+
+@mixin text-sidenote {
+    @include font-text(14px, 1.7);
+}
+
+@mixin text-code {
+    @include font-monospace(18px, 1.75);
+}
+
 @mixin underline($thickness, $color:inherit, $hovercolor:$blue-interactive-accent) {
     border: 0;
 
@@ -30,43 +129,20 @@
     }
 }
 
-button {
-    @include font-bold;
-    font-size: 14px;
-    line-height: 32px;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    cursor: pointer;
-    border: 0;
-    font-family: inherit;
-    transition: $transition;
-    line-height: 24px;
-}
-
-button {
-    @include font-bold;
-}
-
 html {
-    font-size: 20px;
-
-    @include mobile {
-        font-size: 18px;
-    }
+    @include text();
 }
 
 body {
-    @include font-text;
-    line-height: 1.6;
 }
 
 h1#title {
-    @include font-heading;
+    @include font-heading(24px, 1.1, 0.03em, 800);
+    @include mobile {
+        font-size: 20px;
+    }
     display: inline-block;
     text-transform: uppercase;
-    font-size: 1.2em;
-    line-height: (26/24);
-    letter-spacing: 0.03em;
     font-feature-settings: "ss14"1;
     height: 1.225em;
 }
@@ -81,12 +157,20 @@ a {
     transition: color 0.1s ease-out;
 }
 
-small a {
-    @include font-bold;
-}
+// small a {
+//     @include font-bold;
+// }
 
-em {
-    @include font-bold;
+// em {
+//     @include font-bold;
+// }
+
+button {
+    @include text-label;
+    cursor: pointer;
+    border: 0;
+    font-family: inherit;
+    transition: $transition;
 }
 
 p {
@@ -103,7 +187,6 @@ p {
     p {
         max-width: 25rem;
         padding: 3rem 0 1rem;
-        line-height: 1.6;
 
         @include mobile {
             max-width: 100%;
@@ -117,20 +200,15 @@ p {
         border: none;
     }
 
+    // the byline next to the menu button
     span {
-        @include font-bold;
-        @include text-small;
-        text-transform: uppercase;
+        @include text-label;
+        letter-spacing: 0.08em;
         position: relative;
-        letter-spacing: 0.04em;
 
         @include mobile {
             display: none;
         }
-    }
-
-    small {
-        @include text-small;
     }
 
     button.info {
@@ -174,7 +252,7 @@ footer aside a {
 }
 
 footer {
-    font-size: 16px;
+    @include text-s;
 }
 
 #footer-content {
@@ -189,20 +267,25 @@ footer {
     }
 }
 
-#footer-text {
-    line-height: 2;
-}
-
 .meta {
-    @include text-small;
+    @include text-meta-small;
 }
 
+// A list preview item / article
 .excerpt {
     h2 {
-        @include text-heading-large;
+        @include heading-m;
 
         a {
             border: none;
+        }
+    }
+
+    // The excerpt text
+    .article-excerpt {
+        // Jekyll's built in post.excerpt force-wraps the text in an em
+        em {
+            font-style: inherit;
         }
     }
 }
