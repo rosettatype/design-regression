@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Formatting sample article for reference"
+title: "Sand theme example"
 date: 2020-10-10 11:16:57 +0300
 categories: 
     - "Research"
@@ -10,6 +10,7 @@ authors:
 editor:
     - Joe Doe
 readingtime: 15 min read
+theme: sand
 ---
 Basic article text looks like this. The text can be written in Markdown or by explcitily writing HTML. We prefer Markdown where possible, and use HTML for special elements.
 

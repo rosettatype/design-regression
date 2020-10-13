@@ -2,13 +2,13 @@
 // Layout mixings
 ///////////////////////////////////////////////////////////////////////////////
 @mixin mobile () {
-    @media screen and (max-width: 768px) {
+    @media screen and (max-width: $breakpoint-mobile) {
         @content;
     }
 }
 
 @mixin tablet () {
-    @media screen and (max-width: 1024px) {
+    @media screen and (max-width: $breakpoint-tablet) {
         @content;
     }
 }

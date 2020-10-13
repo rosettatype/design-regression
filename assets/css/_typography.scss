@@ -75,7 +75,7 @@
     @include mobile {
         font-size: 13px;
         letter-spacing: 0.06em;
-        line-height: 3.2;
+        line-height: 1.75;
     }
 }
 
@@ -156,14 +156,6 @@ a {
     text-decoration: none;
     transition: color 0.1s ease-out;
 }
-
-// small a {
-//     @include font-bold;
-// }
-
-// em {
-//     @include font-bold;
-// }
 
 button {
     @include text-label;
@@ -300,4 +292,9 @@ sup {
         padding: 0 0.1em;
         margin-right: -0.2em;
     }
+}
+
+input[type=text],
+input[type=email] {
+    @include text-s;
 }

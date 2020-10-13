@@ -50,7 +50,6 @@ article {
         &>* {
             flex-grow: 1;
             flex-basis: 50%;
-
         }
 
         .meta-editor {
@@ -70,6 +69,23 @@ article {
 
         .meta-date {
             margin-left: -1px;
+        }
+
+        @media screen and (min-width: $breakpoint-mobile) and (max-width: $breakpoint-tablet) {
+            .meta-readingtime,
+            .meta-date {
+                width: 100%;
+                flex-basis: 100%;
+            }
+
+            .meta-readingtime {
+                border-radius: 0;
+                margin-bottom: -1px;
+            }
+
+            .meta-date {
+                margin-left: 0;
+            }
         }
     }
 
@@ -133,10 +149,6 @@ article {
             box-sizing: content-box;
         }
 
-        a[href^=http] {
-            text-decoration: underline;
-        }
-
         li {
             padding: 0.25rem 0;
         }
@@ -145,11 +157,12 @@ article {
             padding-left: 1rem;
         }
 
-        p code {}
+        // p code {}
 
         .highlight {
             @include text-code;
             background: transparent;
+            overflow-x: scroll;
         }
 
         blockquote {
@@ -194,7 +207,7 @@ article {
 
             th,
             td {
-                padding: 0.25rem 0.5rem;
+                padding: 0.5rem 0.5rem 0.25rem;
                 margin: 0;
 
                 &.right {
@@ -216,7 +229,7 @@ article {
 
             tr:last-of-type {
                 td {
-                    border-bottom: 0;
+                    border-bottom: 0 !important;
                 }
             }
         }

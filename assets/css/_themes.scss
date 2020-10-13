@@ -1,5 +1,5 @@
 @mixin theme($foreground: $blue-interactive-foreground,
-    $blue-interactive-accent: $blue-interactive-highlight,
+    $highlight: $blue-interactive-highlight,
     $background: $blue-interactive-background,
     $accent: $blue-interactive-accent,
     $interactive: $blue-interactive-interactive) {
@@ -8,6 +8,19 @@
     & {
         background: $background;
         color: $foreground;
+    }
+
+    ::selection {
+        background: $interactive;
+        color: $background;
+    }
+
+    .color {
+        color: $interactive;
+    }
+
+    .background {
+        background: $interactive;
     }
 
     // Links
@@ -57,10 +70,21 @@
         aside {
             border-color: $foreground;
         }
+
+        a {
+            @include underline(1px, $foreground, $interactive);
+        }
+    }
+
+    // links
+    article main a[href^=http],
+    .author-website a {
+        @include underline(1px, $foreground, $interactive);
     }
 
     // Footer newsletter signup
-    input[type="text"] {
+    input[type=text],
+    input[type=email] {
         border-color: $foreground;
     }
 
