@@ -8,13 +8,39 @@ article {
     .header {
         margin-top: 20vh;
 
+        @include tablet {
+            margin-top: 10vh;
+        }
+
         h1 {
             @include heading-l;
             width: 100%;
             margin: 2rem 0 4.5rem;
 
-            &.large {
-                @include heading-xl;
+            @for $i from 1 through 10 {
+                &.heading-size-#{$i} {
+                    font-size: #{3+(15-$i)*10}px;
+                }
+
+                @media screen and (max-height: 40rem) {
+                    &.heading-size-#{$i} {
+                        font-size: #{3+(15-$i)*10-15}px;
+                    }
+                }
+
+                @media screen and (max-height: 30rem) {
+                    &.heading-size-#{$i} {
+                        font-size: 42px;
+                    }
+                }
+            }
+            
+            @include tablet {
+                font-size: 48px !important;
+            }
+
+            @include mobile {
+                font-size: 32px !important;
             }
         }
 
@@ -266,7 +292,7 @@ article {
     article {
 
         .header {
-            margin-top: 2rem;
+            margin-top: 5vh;
         }
 
         h1 {
