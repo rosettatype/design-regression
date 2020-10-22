@@ -1,26 +1,4 @@
 
-// @mixin text-small {
-//     font-size: 0.8rem;
-//     letter-spacing: 0.06em;
-//     line-height: 2;
-// }
-
-// @mixin text-heading-large {
-//     @include font-heading;
-//     font-weight: 900;
-//     letter-spacing: 0.02em;
-//     font-size: 53px;
-//     line-height: 1.15em;
-// }
-
-// @mixin text-meta {
-//     @include text-small();
-//     font-weight: 500;
-//     line-height: 2.28em;
-//     font-size: 0.70rem;
-//     letter-spacing: 0.06em;
-// }
-
 @mixin heading-mobile {
     @include mobile {
         @include font-heading();
@@ -71,6 +49,7 @@
 
 @mixin text-meta-large {
     @include font-text(16px, 2, 0.08em, 500);
+    line-height: 1.5rem;
     text-transform: uppercase;
     @include mobile {
         font-size: 13px;
@@ -146,6 +125,7 @@ h1#title {
 
 .byline {
     @include no-underline;
+    margin-right: 1rem;
 }
 
 a {
@@ -202,8 +182,8 @@ p {
 
     button.info {
         @include no-underline;
-        width: 2rem;
-        height: 2rem;
+        width: 40px;
+        height: 40px;
         color: $blue-interactive-background;
         text-align: center;
         border-radius: 100%;

@@ -58,7 +58,16 @@ hr {
 body {
     &.menu-open {
         overflow: hidden;
+
+        #byline-default {
+            display: none;
+        }
+
+        #byline-close {
+            display: inline-block;
+        }
     }
+
 }
 
 
@@ -104,6 +113,10 @@ article .header,
 
     .byline {
         transition: opacity 0.2s ease-out;
+    }
+
+    #byline-close {
+        display: none;
     }
 }
 

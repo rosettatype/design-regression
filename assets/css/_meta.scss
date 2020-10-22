@@ -1,6 +1,12 @@
 .meta {
     display: flex;
 
+    &.meta-large {
+        >* {
+            @include text-meta-large();
+        }
+    }
+
     >* {
         @include text-meta-small();
 

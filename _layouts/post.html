@@ -4,7 +4,7 @@ layout: default
 
 <article>
     <header class="header">
-        <div class="meta">
+        <div class="meta meta-large">
             <div class="meta-tags">
                 {{ page.categories|join: ", "}}
             </div>
@@ -23,7 +23,7 @@ layout: default
     </main>
 
 
-    <aside class="meta">
+    <aside class="meta meta-small">
         {% if page.editor %}
         <div class="meta-editor">Edited by {{ page.editor }}</div>
         {% endif %}
