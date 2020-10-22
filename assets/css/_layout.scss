@@ -198,32 +198,6 @@ aside#note {
                 width: auto;
                 margin-bottom: 5rem;
             }
-
-            #newsletter {
-                border-bottom: $border;
-                margin-right: -$gutter/2;
-                margin-left: -$gutter/2;
-                display: flex;
-                flex-wrap: wrap;
-                padding: 3.5rem 1rem;
-
-                input {
-                    border-radius: 2px;
-                    display: block;
-                }
-
-                button {
-                    border-radius: 2px;
-                    flex-grow: 0;
-                    padding-left: 2em;
-                    padding-right: 2em;
-                }
-
-                input,
-                button {
-                    margin: 0.75em $gutter/2;
-                }
-            }
         }
     }
 
@@ -256,12 +230,38 @@ aside#note {
             height: 48px;
             border-top-right-radius: 2px;
             border-bottom-right-radius: 2px;
-
+            min-width: 7em;
             cursor: pointer;
             border: 0;
-            flex-grow: 1;
             color: white;
             padding: 0.5em;
+        }
+    }
+
+    @include mobile {
+
+        border-bottom: $border;
+        margin-right: -$gutter/2;
+        margin-left: -$gutter/2;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 3.5rem 1rem;
+
+        input {
+            border-radius: 2px;
+            display: block;
+        }
+
+        button {
+            border-radius: 2px;
+            flex-grow: 0;
+            padding-left: 2em;
+            padding-right: 2em;
+        }
+
+        input,
+        button {
+            margin: 0.75em $gutter/2;
         }
     }
 }

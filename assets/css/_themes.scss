@@ -84,6 +84,14 @@
         }
     }
 
+    &.split .footer .main {
+        @include mobile {
+            #newsletter {
+                border-color: $highlight;
+            }
+        }
+    }
+
     // links
     article main a[href^=http],
     .author-website a {

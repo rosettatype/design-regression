@@ -201,22 +201,50 @@ body.split {
             left: $gutter / 2;
         }
 
-        main .header {
-            right: $gutter / 2;
+        // Right side now below
+        main {
+            padding: $gutter/2 0;
+
+            .header {
+                right: $gutter / 2;
+            }
+
+            .main {
+                .excerpt {
+                    padding: 3rem $gutter/2;
+
+                    &:after {
+                        left: 0;
+                        width: 100%;
+                    }
+                }
+
+                .footer {
+                    overflow: hidden;
+
+                    aside {
+                        padding: 3rem $gutter/2;
+                        margin-bottom: 5rem;
+
+                        &:before {
+                            display: none;
+                        }
+                    }
+                }
+            }
         }
 
-        main .main .excerpt:after,
-        .main .footer #newsletter:before {
-            left: 0;
-            width: 100%;
-        }
+        #newsletter {
 
-        .main .footer aside:before {
-            display: none;
-        }
+            input,
+            button {
+                margin-left: 30px;
+                margin-right: 30px;
+            }
 
-        .main .footer aside {
-            padding-bottom: 0;
+            &:before {
+                display: none !important;
+            }
         }
     }
 }
