@@ -183,7 +183,7 @@ aside#note {
         justify-content: space-between;
 
         >* {
-            padding: 1rem;
+            padding: 3.5rem 1rem 7rem;
         }
     }
 
@@ -200,21 +200,29 @@ aside#note {
     flex-grow: 0.5;
     padding-left: 0;
 
+
     input {
         background: transparent;
-        padding: 0.5em 1em;
+        padding: 0.5em 1em 0.25em;
         border: $border;
         border-color: initial;
         flex-grow: 2;
         outline: none;
-    }
+        border-top-left-radius: 2px;
+        border-bottom-left-radius: 2px;
+        height: 48px;
 
-    button {
-        cursor: pointer;
-        border: 0;
-        flex-grow: 1;
-        color: white;
-        padding: 0.5em;
+        &+button {
+            height: 48px;
+            border-top-right-radius: 2px;
+            border-bottom-right-radius: 2px;
+
+            cursor: pointer;
+            border: 0;
+            flex-grow: 1;
+            color: white;
+            padding: 0.5em;
+        }
     }
 }
 
