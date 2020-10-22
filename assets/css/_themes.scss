@@ -74,6 +74,14 @@
         a {
             @include underline(1px, $foreground, $interactive);
         }
+
+        .main {
+            @include mobile {
+                #newsletter {
+                    border-color: $foreground;
+                }
+            }
+        }
     }
 
     // links
