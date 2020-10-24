@@ -1,6 +1,6 @@
-# Reading Design
+# Design Regression
 
-TBD
+An online journalette about letters, design, and reading
 
 ## Adding content
 
