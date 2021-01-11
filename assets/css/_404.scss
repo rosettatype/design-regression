@@ -1,0 +1,32 @@
+.not-found-container {
+    margin: 10px auto;
+    max-width: 800px;
+    text-align: center;
+
+    @media screen and (min-height: 850px) {
+        min-height: 65vh;
+    }
+
+    h1 {
+        margin: 100px 0 50px;
+        line-height: 0.9;
+
+        letter-spacing: 0.01em;
+        font-size: 10vmax;
+        transform: skew(-10deg, -6deg);
+        font-variation-settings: "wght"900;
+        color: white;
+        text-shadow: 5px 5px $blue-interactive-foreground;
+    }
+
+    p {
+        position: relative;
+        text-align: left;
+        margin-left: 50%;
+        margin-bottom: 75px;
+    }
+}
+
+.toggle-menu.info {
+    display: none;
+}
