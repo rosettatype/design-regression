@@ -42,7 +42,7 @@
     }
 
     // Page logotype
-    h1#title {
+    h1#title a {
         @include underline(4px, $foreground, $interactive);
     }
 

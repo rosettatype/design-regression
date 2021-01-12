@@ -77,7 +77,7 @@ body {
 .header {
     @include maxwidth();
     display: flex;
-    padding-top: $gutter/3*2 !important;
+    padding-top: 30px !important;
 }
 
 article .header,
