@@ -214,6 +214,10 @@ aside#note {
     flex-grow: 0.5;
     padding-left: 0;
 
+    form {
+        display: flex;
+        justify-content: flex-start;
+    }
 
     input {
         background: transparent;
@@ -234,7 +238,6 @@ aside#note {
             cursor: pointer;
             border: 0;
             color: white;
-            padding: 0.5em;
         }
     }
 
