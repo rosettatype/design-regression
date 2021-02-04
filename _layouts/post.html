@@ -15,25 +15,7 @@ layout: default
         </div>
 
         {% assign title_length = page.title | size %}
-        <h1 id="test" {% if title_length < 25 %}class="large"{% endif %}>{{ page.title }} {{ page.title }} {{ page.title }}</h1>
-        <script>
-            var test = document.getElementById("test"),
-                text = test.innerText,
-                i = 0
-
-            function loop () {
-                test.innerText = text.substr(0, 5 + i)
-                test.className = "heading-size-" + Math.ceil(test.innerText.length / 7.5)
-
-                i++;
-                if (test.innerText.length >= text.length) {
-                    i = 0
-                }
-                console.log(test.innerText.length)
-                setTimeout(loop, 100)
-            }
-            setTimeout(loop, 100)
-        </script>
+        <h1 {% if title_length < 25 %}class="large"{% endif %}>{{ page.title }}</h1>
     </header>
 
     <main>
