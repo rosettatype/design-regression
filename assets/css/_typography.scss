@@ -26,6 +26,11 @@
     @include font-heading(32px, 1.15, 0.01em, 700);
 }
 
+@mixin heading-s {
+    @include font-heading(22px, 1.15, 0.01em, 600);
+    font-variation-settings: "opsz" 12;
+}
+
 @mixin text {
     @include font-text(20px);
 
@@ -134,6 +139,8 @@ h1#title {
 .byline {
     @include no-underline;
     margin-right: 1rem;
+    top: -0.35em;
+    position: relative;
 }
 
 a {

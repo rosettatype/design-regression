@@ -34,7 +34,7 @@ article {
                     }
                 }
             }
-            
+
             @include tablet {
                 font-size: 48px !important;
             }
@@ -63,18 +63,23 @@ article {
     }
 
     .sidenotemark {
+        @include font-text(12px, $weight: 700);
         position: relative;
-        top: -0.65em;
+        top: -0.75em;
         display: inline-block;
         font-size: 0.5em;
-        font-family: bold;
-        font-feature-settings: "tnum";
+        font-feature-settings: "tnum"1;
         color: white;
         background: $blue-interactive-foreground;
         opacity: 50%;
-        border-radius: 2em;
-        padding: 0.2em 0.6em 0;
+        border-radius: 100%;
+        padding: 0.05em 0 0.05em;
         margin: 0 0.2em;
+
+        line-height: 1.7;
+        height: 1.7em;
+        width: 1.7em;
+        text-align: center;
     }
 
     aside {
@@ -83,6 +88,10 @@ article {
         box-sizing: border-box;
         padding-left: 1em;
         width: 100% / 6 * 2;
+
+        p+p {
+            margin-top: 0.75em;
+        }
     }
 
     aside.meta {
@@ -113,6 +122,7 @@ article {
         }
 
         @media screen and (min-width: $breakpoint-mobile) and (max-width: $breakpoint-tablet) {
+
             .meta-readingtime,
             .meta-date {
                 width: 100%;
@@ -148,12 +158,16 @@ article {
         }
 
         h1,
-        h2,
+        h2 {
+            @include heading;
+            margin: 3rem 0 1rem;
+        }
+
         h3,
         h4,
         h5,
         h6 {
-            @include heading;
+            @include heading-s;
             margin: 3rem 0 1rem;
         }
 

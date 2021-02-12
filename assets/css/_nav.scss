@@ -63,13 +63,15 @@ nav {
     .toggle-menu {
         .icon-close {
             display: none;
+            position: relative;
+            top: -10px;
         }
 
         .icon-menu {
             position: relative;
             display: block;
             left: 1px;
-            top: -1px;
+            top: -10px;
         }
     }
 }

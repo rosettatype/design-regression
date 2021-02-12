@@ -1,6 +1,6 @@
 {% include head.html %}
 
-<body class="theme-{% if page.theme %}{{ page.theme }}{% else %}blue{% endif %}">
+<body class="theme-{% if page.theme %}{{ page.theme }}{% else %}blue{% endif %} page-{{ page.name | slugify }}">
     
     {% include nav.html %}
     {% include header.html %}
