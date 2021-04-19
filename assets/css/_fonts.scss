@@ -133,6 +133,23 @@
 }
 
 /**
+ * Italic is used only on a few words in the About text, so let's not worry too
+ * much about the fallback for non VF
+ */
+ @mixin font-mono-italic {
+    font-family: "AdapterMono", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+
+    @supports (font-variation-settings: initial) {
+        font-style: normal;
+        font-family: "AdapterMonoVF", sans-serif;
+        font-variation-settings: "opsz"4, "slnt"-13;
+        font-feature-settings: "ss05" 1;
+    }
+}
+
+/**
  * Custom icon font mixin
  */
 @mixin icon($icon) {
