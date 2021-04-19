@@ -63,10 +63,10 @@ article {
     }
 
     .sidenotemark {
-        @include font-mono(22px, $weight: 500);
+        @include font-mono(20px, $weight: 450);
         position: relative;
-        top: -0.1em;
-        font-feature-settings: "ss11";
+        top: -0.2em;
+        font-feature-settings: "ss10" 1;
         display: inline-block;
         padding: 0.05em 0 0.05em;
         margin: 0 0.1em;
