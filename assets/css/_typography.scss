@@ -76,11 +76,11 @@
 }
 
 @mixin text-sidenote {
-    @include font-text(14px, 1.7);
+    @include font-mono(12px, 1.7);
 }
 
 @mixin text-code {
-    @include font-monospace;
+    @include font-mono;
 }
 
 @mixin underline($thickness, $color:inherit, $hovercolor:$blue-interactive-accent) {

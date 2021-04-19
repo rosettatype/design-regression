@@ -41,6 +41,35 @@
     }
 }
 
+/* Mono Regular */
+@font-face {
+    font-display: block;
+    font-family: "AdapterMono";
+    font-weight: 400;
+    font-style: normal;
+    src: url("/assets/ui-fonts/AdapterMonoPE-Regular.woff2") format("woff2");
+}
+
+/* Mono Bold */
+@font-face {
+    font-display: block;
+    font-family: "AdapterMono";
+    font-weight: 700;
+    font-style: normal;
+    src: url("/assets/ui-fonts/AdapterMonoPE-Bold.woff2") format("woff2");
+}
+
+/* Mono Variable font all in one, if supported */
+@supports (font-variation-settings: initial) {
+    @font-face {
+        font-display: block;
+        font-family: "AdapterMonoVF";
+        font-weight: 100 900;
+        font-style: normal;
+        src: url("/assets/ui-fonts/AdapterMonoPEVF-All.woff2") format("woff2");
+    }
+}
+
 /**
  * Define mixing for the various font styles and use only these to set the font
  * This will ensure that the correct family is triggered based on browser support 
@@ -90,12 +119,17 @@
     }
 }
 
-@mixin font-monospace($fontsize: 18px, $lineheight: 1.75) {
-    font-family: "Adapter Mono PE", monospace; // TBD
-    font-weight: 400;
+@mixin font-mono($fontsize: 18px, $lineheight: 1.75, $letterspacing: 0.02em, $weight: 400) {
+    font-family: "AdapterMono", monospace; // TBD
     font-style: normal;
+    font-weight: $weight;
     font-size: $fontsize;
+    letter-spacing: $letterspacing;
     line-height: $lineheight;
+
+    @supports (font-variation-settings: initial) {
+        font-family: "AdapterMonoVF", sans-serif;
+    }
 }
 
 /**
