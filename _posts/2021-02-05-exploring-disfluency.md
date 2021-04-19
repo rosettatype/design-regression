@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring disfluency: Are designers too sensitive to harder-to-read typefaces?"
-date: 2021-02-04 11:16:57
+date: 2021-02-05 11:16:57
 categories:
     - Report
 authors:
@@ -50,9 +50,9 @@ Previous studies of disfluency have measured difficulty in two ways:
 
 ## What we did
 
-To address our two research questions, we obtained participants’; judgments of legibility and of memory, and measured the speed and accuracy of identifying and remembering words.
+To address our two research questions, we obtained participants’ judgments of legibility and of memory, and measured the speed and accuracy of identifying and remembering words.
 
-We accept that our study does not reflect ‘normal reading’; but is a first step towards exploring potential differences between designers and non-designers in the context of disfluency theory.
+We accept that our study does not reflect ‘normal reading’ but is a first step towards exploring potential differences between designers and non-designers in the context of disfluency theory.
 
 <aside><strong>3:</strong> Arial was chosen as it is widely used and bundled with Windows OS; Sans Forgetica was chosen as the font <a href="https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory">specifically designed to boost memory</a>, as described in the newspaper article by Martin (2018).</aside>
 
@@ -195,17 +195,17 @@ A less legible font, such as Sans Forgetica, may slow down deciphering a message
 
 ## References
 
-Alter, A.L., Oppenheimer, D.M., Epley, N., &amp; Eyre, R.N. (2007). Overcoming intuition: Metacognitive difficulty activates analytic reasoning. _Journal of Experimental Psychology: General, 136_, 569–576.
+Alter, A.L., Oppenheimer, D.M., Epley, N., &amp; Eyre, R.N. (2007). Overcoming intuition: Metacognitive difficulty activates analytic reasoning. _Journal of Experimental Psychology: General, 136_, 569–576. [DOI](https://doi.org/10.1037/0096-3445.136.4.569)
 
-Bartram, D. (1982). The perception of semantic quality in type: Differences between designers and non-designers. _Information Design Journal, 3_(1), 38–50.
+Bartram, D. (1982). The perception of semantic quality in type: Differences between designers and non-designers. _Information Design Journal, 3_(1), 38–50. [DOI](https://doi.org/10.1075/idj.3.1.04bar)
 
-Burns, E.M., &amp; Ward, W.D. (1978). Categorical perception—phenomenon or epiphenomen: Evidence from experiments in the perception of melodic intervals. _Journal of the Acoustical Society of America, 63_(2), 456–468.
+Burns, E.M., &amp; Ward, W.D. (1978). Categorical perception—phenomenon or epiphenomen: Evidence from experiments in the perception of melodic intervals. _Journal of the Acoustical Society of America, 63_(2), 456–468. [DOI](https://doi.org/10.1121/1.381737)
 
-Diemand-Yauman, C., Oppenheimer, D.M., &amp; Vaughan, E.B. (2011). Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes. _Cognition, 118_(1), 111–115.
+Diemand-Yauman, C., Oppenheimer, D.M., &amp; Vaughan, E.B. (2011). Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes. _Cognition, 118_(1), 111–115. [DOI](https://doi.org/10.1016/j.cognition.2010.09.012)
 
-Dyson, M.C. (2011). Do designers show categorical perception of typefaces? _Visible Language, 45_(3), 193–220.
+Dyson, M.C. (2011). Do designers show categorical perception of typefaces? _Visible Language, 45_(3), 193–220. [DOI](https://visiblelanguage.herokuapp.com/issue/153)
 
-Dyson, M.C., &amp; Stott, C.A. (2012). Characterizing typographic expertise: Do we process typefaces like faces? _Visual Cognition, 20_(9), 1082–1094.
+Dyson, M.C., &amp; Stott, C.A. (2012). Characterizing typographic expertise: Do we process typefaces like faces? _Visual Cognition, 20_(9), 1082–1094. [DOI](https://doi.org/10.1080/13506285.2012.722568)
 
 Hebblethwaite, C. BBC News (22 October 2010). Making things hard to read &#39;can boost learning&#39;. [https://www.bbc.co.uk/news/world-11573666](https://www.bbc.co.uk/news/world-11573666) Accessed 29 April 2020.
 
@@ -213,6 +213,6 @@ James, W. (1950). _The principles of psychology_. New York: Dover. First publish
 
 Martin, L. The Guardian (4 October 2018). Font of all knowledge? Researchers develop typeface they say can boost memory. [https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory](https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory) Accessed 29 April 2020.
 
-Rummer, R., Schweppe, J., &amp; Schwede, A. (2016). Fortune is fickle: Null-effects of disfluency on learning outcomes. _Metacognition and Learning, 11_(1), 57–70.
+Rummer, R., Schweppe, J., &amp; Schwede, A. (2016). Fortune is fickle: Null-effects of disfluency on learning outcomes. _Metacognition and Learning, 11_(1), 57–70. [DOI](https://doi.org/10.1007/s11409-015-9151-5)
 
-Wiley, R.W., Wilson, C., &amp; Rapp, B. (2016). The effects of alphabet and expertise on letter perception. _Journal of Experimental Psychology: Human Perception and Performance, 42_(8), 1186–1203.
+Wiley, R.W., Wilson, C., &amp; Rapp, B. (2016). The effects of alphabet and expertise on letter perception. _Journal of Experimental Psychology: Human Perception and Performance, 42_(8), 1186–1203. [DOI](https://doi.org/10.1037/xhp0000213 )
