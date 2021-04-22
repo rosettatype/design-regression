@@ -205,8 +205,16 @@ article {
             box-sizing: content-box;
         }
 
-        img.outlined {
+        .outlined {
             border: $border;
+        }
+
+        .browser {
+            border: $border;
+            background: url(/assets/ui-icons/browser_controls.svg) left top no-repeat,
+                                         url(/assets/ui-icons/browser_line.svg) left top repeat-x;
+            padding: 25px 0 0 0;
+            border-radius: 4px 4px 0 0;
         }
 
         li {

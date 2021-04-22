@@ -54,7 +54,8 @@
     }
 
     // Outlined images
-    .outlined {
+    .outlined,
+    .browser {
         border-color: $foreground;
         background-color: $background;
     }
