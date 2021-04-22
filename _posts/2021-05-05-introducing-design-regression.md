@@ -1,8 +1,18 @@
 ---
-layout: about
-title: About
-permalink: /about/
+layout: post
+title: Introducing Design Regression
+date: 2021-02-05 11:10:57
+categories:
+    - Article
+authors:
+    - David Březina
+editor:
+    - Mary Dyson
+readingtime: 3 min read
+theme: red
 ---
+
+`This is just a placeholder based on the about page.`
 
 Design Regression publishes texts that are about design for reading and reading-related research. It aims for the hard-to-get blend of approachability with seriousness and relevance to practice without needing to write at length. We understand reading as a way of decoding the world around us, thus, you might find articles on reading process, typography, typeface design, lettering, multilingualism, information design, social context of a designer, or visual literacy. However, we leave discussing strictly historical perspectives to others. In order to accommodate different approaches, we publish articles at different levels of formality, from research reports and serious essays to “just an idea”. We sincerely hope that each article will provide designers and researchers with new knowledge that will influence their future practice.
 
