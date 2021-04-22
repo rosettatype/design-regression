@@ -85,7 +85,7 @@ article {
         p em {
             @include font-mono-italic;
         }
-        p .sidenotemark {
+        .sidenotemark {
             @include font-mono(20px, $weight: 700);
             position: relative;
             top: 0.1em;

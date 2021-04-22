@@ -151,8 +151,8 @@ We had 97 participants in this study. We grouped the various categories of desig
 ### Disfluency
 
 <aside>
-<span class="sidenotemark">9</span> F(1, 93)=364.62, p&lt;0.001<br>
-<span class="sidenotemark">10</span> F(1, 93)=7.69, p=0.007
+<p><span class="sidenotemark">9</span> F(1, 93)=364.62, p&lt;0.001</p>
+<p><span class="sidenotemark">10</span> F(1, 93)=7.69, p=0.007</p>
 </aside>
 
 In terms of judgments, all participants judged Sans Forgetica as less legible than Arial.<span class="sidenotemark">9</span> We felt it was important to include this judgment as not all previous studies have checked that their participants make the same judgments of legibility as the researchers. Also, all participants thought they would be better at remembering items in Arial than in Sans Forgetica.<span class="sidenotemark">10</span>
