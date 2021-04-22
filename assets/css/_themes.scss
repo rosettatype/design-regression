@@ -53,6 +53,12 @@
         }
     }
 
+    // Outlined images
+    .outlined {
+        border-color: $foreground;
+        background-color: $background;
+    }
+
     // Article footer author box
     .author {
         border-color: $foreground;

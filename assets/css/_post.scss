@@ -205,6 +205,10 @@ article {
             box-sizing: content-box;
         }
 
+        img.outlined {
+            border: $border;
+        }
+
         li {
             padding: 0.25rem 0;
         }
