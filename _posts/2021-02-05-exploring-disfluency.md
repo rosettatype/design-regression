@@ -9,6 +9,7 @@ authors:
     - David Březina
 editor:
 readingtime: 14 min read
+theme: red
 ---
 
 This is a report of our study which we conducted online in the early part of 2019 and talked about at the [ICTVC](https://ictvc.org/2019/en/) conference in Patras, Greece in June 2019. We presented some of the results at the conference and here we provide a fuller account. We have structured this report to enable readers with different interests and desire for detail to determine what they want to know. Please get in touch if you have any feedback.
@@ -87,7 +88,7 @@ This was a lexical decision task (see Figure 1) which consisted of a sequence of
 - probably non-word
 - sure word
 
-![Example screen of the lexical decision task using Arial (Task 1)](/assets/2021-02-05-exploring-disfluency/image1_task-1.png)
+![Example screen of the lexical decision task using Arial (Task 1)](/assets/2021-02-05-exploring-disfluency/study-screenshot_task-1.png){: .browser}
 
 **Figure 1:** example screen of the lexical decision task using Arial (Task 1)
 
@@ -105,7 +106,7 @@ In between the first and second task they are asked to make two judgments (see F
 - difficult to read
 - very difficult to read
 
-![Two judgments following the lexical decision task](/assets/2021-02-05-exploring-disfluency/image2_intervening-questionnaire.png)
+![Two judgments following the lexical decision task](/assets/2021-02-05-exploring-disfluency/study-screenshot_intervening-questionnaire.png){: .browser}
 
 **Figure 2:** two judgments following the lexical decision task
 
@@ -124,7 +125,7 @@ This was a recognition task which involved a sequence of 16 screens where the pa
 
 We timed responses and recorded accuracy for both tasks and the two tasks were repeated; a different font was used for the second pair of tasks.<span class="sidenotemark">7</span>
 
-![Example screen of the recognition task using Arial (Task 2)](/assets/2021-02-05-exploring-disfluency/image3_task-2.png)
+![Example screen of the recognition task using Arial (Task 2)](/assets/2021-02-05-exploring-disfluency/study-screenshot_task-2.png){: .browser}
 
 **Figure 3:** example screen of the recognition task using Arial (Task 2)
 
@@ -173,7 +174,7 @@ In the two tasks, all participants responded more slowly to items in Sans Forget
 
 There was a greater difference between judgments of memory for Arial and Sans Forgetica in designers than non-designers (see Figure 4),<span class="sidenotemark">13</span> supporting our hypothesis that designers are more sensitive to differences in fonts (see Figure 4). We also found an unexpected general difference between the two groups. In both lexical decision and recognition, designers responded more quickly than non-designers.<span class="sidenotemark">14</span>
 
-![Judgments of Memory for the two fonts with greater difference in judgments by designers.](/assets/2021-02-05-exploring-disfluency/image4_judgement-of-memory.png)
+![Judgments of Memory for the two fonts with greater difference in judgments by designers.](/assets/2021-02-05-exploring-disfluency/plot_judgement-of-memory.png)
 
 **Figure 4:** Judgments of Memory for the two fonts with greater difference in judgments by designers.
 
@@ -187,7 +188,7 @@ There was a greater difference between judgments of memory for Arial and Sans Fo
 
 Although the study was not specifically aimed at comparing words and non-words, some interesting differences emerged. Responses to words were faster than non-words for both tasks,<span class="sidenotemark">15</span> which is known as a _lexicality effect_. However, there was also a difference between the two fonts in the lexical decision task: non-words slow participants down even more in Sans Forgetica than in Arial (see Figure 5).<span class="sidenotemark">16</span> A result that seems initially to be counter-intuitive is that non-words were remembered better than words in both fonts.<span class="sidenotemark">17</span>
 
-![Responses to non-words are slower than words and particularly in Sans Forgetica](/assets/2021-02-05-exploring-disfluency/image5_lexical-decision.png)
+![Responses to non-words are slower than words and particularly in Sans Forgetica](/assets/2021-02-05-exploring-disfluency/plot_lexical-decision.png)
 
 **Figure 5:** responses to non-words are slower than words and particularly in Sans Forgetica
 
