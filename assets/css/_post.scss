@@ -190,7 +190,7 @@ article {
         img {
             display: block;
             height: auto;
-            width: 100%;
+            max-width: 100%;  // not sure this is a good idea
         }
 
         figcaption {
