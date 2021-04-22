@@ -11,6 +11,7 @@ editor:
     - Joe Doe
 readingtime: 15 min read
 theme: red
+published: false
 ---
 Basic article text looks like this. The text can be written in Markdown or by explcitily writing HTML. We prefer Markdown where possible, and use HTML for special elements.
 
