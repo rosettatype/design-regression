@@ -54,7 +54,7 @@
 }
 
 @mixin text-meta-large {
-    @include font-text(16px, 2, 0.08em, 500);
+    @include font-mono(14px, 2, 500);
     line-height: 1.5rem;
     text-transform: uppercase;
 
