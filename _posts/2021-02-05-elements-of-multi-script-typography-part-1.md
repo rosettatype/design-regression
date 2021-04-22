@@ -8,14 +8,15 @@ authors:
     - David Březina
 editor:
     - Mary Dyson
-readingtime: 5 min read
+readingtime: 8 min read
+theme: sand
 ---
 
 ## Introduction
 
 <aside>
-<p><strong>1:</strong> The series is based on a revised form of an essay written during my studies at the University of Reading in 2007. Hopefully, this version is clearer. I would like to express my gratitude to Fiona Ross, Filip Blažek, Jo de Baerdemaeker, and Dan Rhatigan who helped me either with the original or the current version of the text.</p>
-<p><strong>2:</strong> To keep the scope feasible, the focus is on horizontally-written scripts. Scripts with a vertical alignment and more complicated character sets (e.g. Chinese, Korean, or Japanese) are omitted for the time being. In this context, vertical stacking of syllables and similar phenomena are perceived as only a small exception from the overall horizontal reading direction.</p>
+<p><span class="sidenotemark">1</span> The series is based on a revised form of an essay written during my studies at the University of Reading in 2007. Hopefully, this version is clearer. I would like to express my gratitude to Fiona Ross, Filip Blažek, Jo de Baerdemaeker, and Dan Rhatigan who helped me either with the original or the current version of the text.</p>
+<p><span class="sidenotemark">2</span> To keep the scope feasible, the focus is on horizontally-written scripts. Scripts with a vertical alignment and more complicated character sets (e.g. Chinese, Korean, or Japanese) are omitted for the time being. In this context, vertical stacking of syllables and similar phenomena are perceived as only a small exception from the overall horizontal reading direction.</p>
 </aside>
 
 With increasingly globalised communication and markets, all kinds of multilingual documents and interfaces are becoming more common. Languages that previously had minimal contact are now set next to each other which brings new challenges on how to represent them well together.
@@ -31,7 +32,7 @@ Although not all-encompassing, hopefully the series achieves a discussion that a
 ## Known unknowns
 
 <aside>
-<p><strong>3:</strong> As one should not assume that a person who can speak a language is also literate in the language, it is not a given that a designer literate in a language is competent in designing for it. On the contrary, there are cases where designers who could not use a language, achieved a high-degree of competence. [reference]</p>
+<p><span class="sidenotemark">3</span> As one should not assume that a person who can speak a language is also literate in the language, it is not a given that a designer literate in a language is competent in designing for it. On the contrary, there are cases where designers who could not use a language, achieved a high-degree of competence. [reference]</p>
 </aside>
 
 When working with multiple languages, some of them will be unfamiliar to the designer. A sensitive approach is critical as an unattended lack of typographic expertise with a language can lead to anything from a disheartening reading experience, rejection, frustration, to backlash, or publishers’ embarrassment in front of the readers. [illustrate with one or two bad examples] Similarly to poorly translated texts, poorly typeset texts can raise negative connotations and cause confusion.
@@ -47,7 +48,7 @@ Languages and scripts exist in the context of the culture and historical develop
 ## From languages to scripts
 
 <aside>
-<p><strong>4:</strong> Languages use different <em>writing systems</em> to map linguistic units (letters, syllables, words) to their graphic representations in a particular script, e.g. alphabet, syllabic alphabet. Thus, a script can be seen as an instance of the more general writing system (Coulmas, 1989 & 1996). For example, English uses the Latin script as an alphabetic system, the Hindi language uses the Devanagari script as a syllabic system, and the Chinese language uses the Chinese script as an ideographic system. Note that some linguists and designers use the terms writing system and script interchangeably (Daniels & Bright, 1996).</p>
+<p><span class="sidenotemark">4</span> Languages use different <em>writing systems</em> to map linguistic units (letters, syllables, words) to their graphic representations in a particular script, e.g. alphabet, syllabic alphabet. Thus, a script can be seen as an instance of the more general writing system (Coulmas, 1989 & 1996). For example, English uses the Latin script as an alphabetic system, the Hindi language uses the Devanagari script as a syllabic system, and the Chinese language uses the Chinese script as an ideographic system. Note that some linguists and designers use the terms writing system and script interchangeably (Daniels & Bright, 1996).</p>
 </aside>
 
 The term *script* as it is used here refers to a graphic system designed to represent a language (Coulmas, 1989 & 1996). It is a collection of graphic signs that correspond to linguistic units such as letters, syllables, or words, and the rules regarding the way these should be combined.<span class="sidenotemark">4</span>

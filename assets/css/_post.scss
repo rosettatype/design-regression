@@ -69,7 +69,7 @@ article {
         font-feature-settings: "ss10" 1;
         display: inline-block;
         padding: 0.05em 0 0.05em;
-        margin: 0 0.1em;
+        margin: 0 0.15em;
     }
 
     aside {
@@ -84,6 +84,14 @@ article {
         }
         p em {
             @include font-mono-italic;
+        }
+        p .sidenotemark {
+            @include font-mono(20px, $weight: 700);
+            position: relative;
+            top: 0.1em;
+            font-feature-settings: "ss11" 1;
+            padding: 0;
+            margin: 0;
         }
     }
 

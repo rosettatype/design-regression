@@ -119,12 +119,12 @@
     }
 }
 
-@mixin font-mono($fontsize: 18px, $lineheight: 1.75, $letterspacing: 0.02em, $weight: 400) {
+@mixin font-mono($fontsize: 18px, $lineheight: 1, $weight: 400) {
     font-family: "AdapterMono", monospace; // TBD
     font-style: normal;
     font-weight: $weight;
     font-size: $fontsize;
-    letter-spacing: $letterspacing;
+    letter-spacing: 0;
     line-height: $lineheight;
 
     @supports (font-variation-settings: initial) {
