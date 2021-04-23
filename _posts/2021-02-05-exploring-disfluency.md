@@ -16,19 +16,19 @@ This is a report of our study which we conducted online in the early part of 201
 
 ## Why did we do this research?
 
-There are two main reasons why we were compelled to conduct the study. The first reason was the media attention on harder-to-read typefaces. This began in 2010 when a BBC news item reported on an academic paper about to be published by Diemand-Yauman _et al._, (2011): [Making things hard to read can ‘boost learning’](https://www.bbc.co.uk/news/world-11573666) (Hebblethwaite , 2010). Another article, this time in the Guardian newspaper in 2018, reported on the development of a new font: [Font of all knowledge? Researchers develop typeface they say can boost memory](https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory) (Martin, 2018). These two articles hint at a problem for design practice as the principles of human-centred typography generally suggest that easier-to-read documents are better for readers.
+There are two main reasons why we were compelled to conduct the study. The first reason was the media attention on harder-to-read typefaces. This began in 2010 when a BBC news item reported on an academic paper about to be published by Diemand-Yauman et al., (2011): [Making things hard to read can ‘boost learning’](https://www.bbc.co.uk/news/world-11573666) (Hebblethwaite , 2010). Another article, this time in the Guardian newspaper in 2018, reported on the development of a new font: [Font of all knowledge? Researchers develop typeface they say can boost memory](https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory) (Martin, 2018). These two articles hint at a problem for design practice as the principles of human-centred typography generally suggest that easier-to-read documents are better for readers.
 
 The second reason was our shared interest in what happens to people’s perceptions after they receive design training. Designers, type designers, and typographers in particular, deal with fine details in letter shapes in their practice. This might influence their responses to harder-to-read typefaces.
 
 ### Existing academic research on disfluency
 
-The initial research (Diemand-Yauman _et al._, 2011) which suggests that hard-to-read fonts can improve memory or learning uses _disfluency theory_ as an explanation. The theory states that when we perceive that something is harder to read, we put in more effort and the greater effort helps us learn the material by processing it more deeply.
+The initial research (Diemand-Yauman et al., 2011) which suggests that hard-to-read fonts can improve memory or learning uses _disfluency theory_ as an explanation. The theory states that when we perceive that something is harder to read, we put in more effort and the greater effort helps us learn the material by processing it more deeply.
 
-Disfluency theory draws on principles of psychology first written about by James (1890/1950) which introduced two processing systems: one is quick, effortless and intuitive; a second is slow, effortful, analytic and deliberate which can lead to better learning. According to this theory, even if the content is simple, we may be tricked into using the second processing system by using a hard-to-read font (Alter _et al._, 2007; Rummer _et al._, 2016).
+Disfluency theory draws on principles of psychology first written about by James (1890/1950) which introduced two processing systems: one is quick, effortless and intuitive; a second is slow, effortful, analytic and deliberate which can lead to better learning. According to this theory, even if the content is simple, we may be tricked into using the second processing system by using a hard-to-read font (Alter et al., 2007; Rummer et al., 2016).
 
 ### Existing academic research on differences due to training
 
-Comparisons of designers and non-designers have shown that the two groups differ in their judgments of the semantic qualities of typefaces (Bartram, 1982). Designers appear to develop qualitative differences in perceptual abilities due to training (Dyson, 2011; Dyson and Stott, 2012), as do musicians (Burns and Ward, 1978). For example, typographers appear to attend to configural properties of characters such as the relative position of thick and thin strokes, and do not just abstract properties required for letter identification (Dyson and Stott, 2012). The level of expertise with reading an alphabet has also been shown to affect the processing of visual features of characters (Wiley _et al._, 2016).
+Comparisons of designers and non-designers have shown that the two groups differ in their judgments of the semantic qualities of typefaces (Bartram, 1982). Designers appear to develop qualitative differences in perceptual abilities due to training (Dyson, 2011; Dyson & Stott, 2012), as do musicians (Burns & Ward, 1978). For example, typographers appear to attend to configural properties of characters such as the relative position of thick and thin strokes, and do not just abstract properties required for letter identification (Dyson & Stott, 2012). The level of expertise with reading an alphabet has also been shown to affect the processing of visual features of characters (Wiley et al., 2016).
 
 ## Our research questions
 
@@ -214,7 +214,7 @@ Alter, A. L., Oppenheimer, D. M., Epley, N., & Eyre, R. N. (2007). Overcoming in
 
 Bartram, D. (1982). The perception of semantic quality in type: Differences between designers and non-designers. *Information Design Journal*, *3(1)*, 38–50. [https://doi.org/10.1075/idj.3.1.04bar](https://doi.org/10.1075/idj.3.1.04bar)
 
-Burns, E.M., & Ward, W.D. (1978). Categorical perception—phenomenon or epiphenomen: Evidence from experiments in the perception of melodic intervals. *Journal of the Acoustical Society of America*, *63(2)*, 456–468. [https://doi.org/10.1121/1.381737](https://doi.org/10.1121/1.381737)
+Burns, E.M., &  Ward, W.D. (1978). Categorical perception—phenomenon or epiphenomenon: Evidence from experiments in the perception of melodic intervals. *Journal of the Acoustical Society of America*, *63(2)*, 456–468. [https://doi.org/10.1121/1.381737](https://doi.org/10.1121/1.381737)
 
 Diemand-Yauman, C., Oppenheimer, D.M., & Vaughan, E.B. (2011). Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes. *Cognition*, *118(1)*, 111–115. [https://doi.org/10.1016/j.cognition.2010.09.012](https://doi.org/10.1016/j.cognition.2010.09.012)
 
@@ -224,7 +224,7 @@ Dyson, M.C., & Stott, C.A. (2012). Characterizing typographic expertise: Do we p
 
 Hebblethwaite, C. BBC News (22 October 2010). Making things hard to read ‘can boost learning’. [https://www.bbc.co.uk/news/world-11573666](https://www.bbc.co.uk/news/world-11573666) Accessed 29 April 2020.
 
-James, W. (1950). *The principles of psychology.* First published 1890.
+James, W. (1950). *The principles of psychology.* Dover. First published 1890.
 
 Martin, L. The Guardian (4 October 2018). Font of all knowledge? Researchers develop typeface they say can boost memory. [https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory](https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory)  Accessed 29 April 2020.
 
