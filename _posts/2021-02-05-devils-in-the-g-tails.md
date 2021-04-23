@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The devil’s in the g-tails
+title: The devil’s in the g‑tails
 date: 2021-02-05 11:16:57
 categories:
     - Review
 authors:
     - Mary Dyson
 editor:
-readingtime: 5 min read
+readingtime: 4 min read
 theme: red
 ---
 
