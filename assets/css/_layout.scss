@@ -27,7 +27,7 @@
     margin: 0 auto;
     width: 100%;
 
-    @include mobile {
+    @include tablet {
         padding: 0 ($gutter/2) 0;
     }
 }

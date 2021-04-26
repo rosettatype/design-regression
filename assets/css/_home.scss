@@ -156,8 +156,11 @@ body.split {
     }
 }
 
-@mixin homepage-stacked {
 
+/*
+ * TABLET 768 - 1024
+ */
+@include tablet {
     body.split {
 
         #featured,
@@ -201,7 +204,7 @@ body.split {
         main .header {
             padding: 0 !important;
             position: fixed;
-            top: $gutter;
+            top: 30px;
             width: auto;
             z-index: 99;
         }
@@ -269,13 +272,10 @@ body.split {
 }
 
 
-@include tablet {
-    @include homepage-stacked();
-}
-
+/*
+ * MOBILE < 768
+ */
 @include mobile {
-    @include homepage-stacked();
-
     body.split #featured .excerpt .meta:first-child {
         margin-top: 0;
     }

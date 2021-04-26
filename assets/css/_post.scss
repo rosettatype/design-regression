@@ -8,10 +8,6 @@ article {
     .header {
         margin-top: 20vh;
 
-        @include tablet {
-            margin-top: 10vh;
-        }
-
         h1 {
             @include heading-l;
             width: 100%;
@@ -345,11 +341,15 @@ article {
 }
 
 
-@include mobile {
+/*
+ * TABLET 768 - 1024
+ */
+@include tablet {
     article {
-
+        padding: 0 $gutter/2;
+        
         .header {
-            margin-top: 5vh;
+            margin-top: 10vh;
         }
 
         h1 {
@@ -396,6 +396,18 @@ article {
         footer {
             order: 2;
             width: 100%;
+        }
+    }
+}
+
+
+/*
+ * MOBILE < 768
+ */
+@include mobile {
+    article {
+        .header {
+            margin-top: 5vh;
         }
     }
 }
