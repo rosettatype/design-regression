@@ -1,5 +1,6 @@
 .author {
     border: $border;
+    border-radius: 2px;
     padding: 1rem;
     overflow: auto;
     margin: 1rem auto;
@@ -13,7 +14,13 @@
         max-width: 20%;
         display: block;
         height: auto;
-        padding-left: 1rem;
+        margin-left: 1rem;
+        border-radius: 2px;
+    }
+
+    p {
+        padding-right: 20%;
+        margin-right: 1rem;
     }
 
     .author-website {

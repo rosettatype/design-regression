@@ -64,9 +64,10 @@ article {
 
     .sidenotemark {
         @include font-mono(20px, $weight: 450);
+        line-height: inherit !important;
         position: relative;
         top: -0.2em;
-        font-feature-settings: "ss10" 1;
+        font-feature-settings: "ss10"1;
         display: inline-block;
         padding: 0.05em 0 0.05em;
         margin: 0 0.15em;
@@ -76,22 +77,28 @@ article {
         @include text-sidenote;
 
         box-sizing: border-box;
-        padding-left: 1em;
+        padding-left: 48px;
         width: 100% / 6 * 2;
 
         p+p {
             margin-top: 0.75em;
         }
+
         p em {
             @include font-mono-italic;
         }
+
         .sidenotemark {
             @include font-mono(20px, $weight: 700);
             position: relative;
             top: 0.1em;
-            font-feature-settings: "ss11" 1;
+            font-feature-settings: "ss11"1;
             padding: 0;
             margin: 0;
+
+            // The line height of the superior should not "bump" the first
+            // line's line height!
+            line-height: 1 !important;
         }
     }
 
@@ -162,6 +169,10 @@ article {
         h2 {
             @include heading;
             margin: 3rem 0 1rem;
+
+            &:first-child {
+                margin-top: 0;
+            }
         }
 
         h3,
@@ -170,6 +181,10 @@ article {
         h6 {
             @include heading-s;
             margin: 3rem 0 1rem;
+
+            &:first-child {
+                margin-top: 0;
+            }
         }
 
         em {
@@ -190,7 +205,7 @@ article {
         img {
             display: block;
             height: auto;
-            max-width: 100%;  // not sure this is a good idea
+            max-width: 100%; // not sure this is a good idea
         }
 
         figcaption {
@@ -212,9 +227,9 @@ article {
         .browser {
             border: $border;
             background: url(/assets/ui-icons/browser_controls.svg) left top no-repeat,
-                                         url(/assets/ui-icons/browser_line.svg) left top repeat-x;
+                url(/assets/ui-icons/browser_line.svg) left top repeat-x;
             padding: 25px 0 0 0;
-            border-radius: 4px 4px 0 0;
+            border-radius: 2px;
         }
 
         li {

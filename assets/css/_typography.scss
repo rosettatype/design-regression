@@ -55,19 +55,19 @@
 
 @mixin text-meta-large {
     @include font-mono(14px, 2, 500);
-    line-height: 1.5rem;
+    line-height: 1.25em;
     text-transform: uppercase;
 
     @include mobile {
         font-size: 13px;
         letter-spacing: 0.06em;
-        line-height: 1.75;
+        line-height: 1.5em;
     }
 }
 
 @mixin text-meta-small {
     @include text-meta-large;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 @mixin text-label {

@@ -24,7 +24,7 @@ body.split {
         // left and right "main" area
         .main {
             max-width: 640px;
-            padding: 0 5vw;
+            padding: 0 $gutter;
             height: 100%;
         }
     }
@@ -57,7 +57,7 @@ body.split {
 
         .header {
             top: 0;
-            right: 5vw;
+            right: $gutter;
             position: fixed;
             z-index: 49;
         }
@@ -105,7 +105,7 @@ body.split {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    padding-right: 5vw;
+    padding-right: $gutter;
     margin-top: 2rem;
 
     @media screen and (max-height: 45rem) {
@@ -156,7 +156,8 @@ body.split {
     }
 }
 
-@include mobile {
+@mixin homepage-stacked {
+
     body.split {
 
         #featured,
@@ -173,6 +174,14 @@ body.split {
                 margin-left: 0;
                 max-width: none;
             }
+        }
+
+        #featured {
+            padding-bottom: $gutter;
+        }
+
+        main {
+            padding-top: 0 !important;
         }
 
         #featured-article {
@@ -197,8 +206,14 @@ body.split {
             z-index: 99;
         }
 
-        #featured .header {
-            left: $gutter / 2;
+        #featured {
+            .header {
+                left: $gutter / 2;
+            }
+
+            .excerpt .meta:first-child {
+                margin-top: 10vh;
+            }
         }
 
         // Right side now below
@@ -234,6 +249,10 @@ body.split {
             }
         }
 
+        .articles li {
+            margin: 0;
+        }
+
         #newsletter {
 
             input,
@@ -246,5 +265,18 @@ body.split {
                 display: none !important;
             }
         }
+    }
+}
+
+
+@include tablet {
+    @include homepage-stacked();
+}
+
+@include mobile {
+    @include homepage-stacked();
+
+    body.split #featured .excerpt .meta:first-child {
+        margin-top: 0;
     }
 }

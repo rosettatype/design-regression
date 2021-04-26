@@ -102,7 +102,15 @@
     // links
     article main a[href^=http],
     .author-website a {
-        @include underline(1px, $foreground, $interactive);
+        // @include underline(1px, $foreground, $interactive);
+        text-underline-offset: 0.25em;
+        text-decoration: underline;
+        color: $foreground;
+
+        &:hover,
+        &:focus {
+            color: $interactive;
+        }
     }
 
     // Footer newsletter signup
