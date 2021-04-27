@@ -176,6 +176,15 @@ There was a greater difference between judgments of memory for Arial and Sans Fo
 
 ![Judgments of Memory for the two fonts with greater difference in judgments by designers.](/assets/2021-02-05-exploring-disfluency/plot_judgement-of-memory.png)
 
+<!-- example of a box chart 
+<div class="boxchart"
+    data-name="Judgement of Memory"
+    data-groups="designers;non-designers"
+    data-options="Arial;Sans Forgetica"
+    data-values="0,1,1,2.6,2.9,4,7.5,10,12.5;0.5,1,1.5,2.4,4.2,5.6.7,12,15.43,17;0,1,1,2.6,2.9,4,7.5,10,12.5;0.5,1,1.5,2.4,4.2,5.6.7,12,15.43,17"
+    ></div>
+-->
+
 **Figure 4:** Judgments of Memory for the two fonts with greater difference in judgments by designers.
 
 ### Words vs non-words
