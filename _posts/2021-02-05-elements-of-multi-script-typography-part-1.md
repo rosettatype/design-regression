@@ -14,12 +14,12 @@ theme: sand
 
 ## Introduction
 
+With increasingly globalised communication and markets, all kinds of multilingual documents and interfaces are becoming more common. Languages that previously had minimal contact are now set next to each other which brings new challenges on how to represent them well together.
+
 <aside>
 <p><span class="sidenotemark">1</span> The series is based on a revised form of an essay written during my studies at the University of Reading in 2007. Hopefully, this version is clearer. I would like to express my gratitude to Fiona Ross, Filip Blažek, Jo de Baerdemaeker, and Dan Rhatigan who helped me either with the original or the current version of the text.</p>
 <p><span class="sidenotemark">2</span> To keep the scope feasible, the focus is on horizontally-written scripts. Scripts with a vertical alignment and more complicated character sets (e.g. Chinese, Korean, or Japanese) are omitted for the time being. In this context, vertical stacking of syllables and similar phenomena are perceived as only a small exception from the overall horizontal reading direction.</p>
 </aside>
-
-With increasingly globalised communication and markets, all kinds of multilingual documents and interfaces are becoming more common. Languages that previously had minimal contact are now set next to each other which brings new challenges on how to represent them well together.
 
 This mini-series<span class="sidenotemark">1</span> focuses on the typographic design of documents that make use of two or more different world’s scripts. It discusses fundamental differences between the scripts with respect to layout and application of common design parameters such as proportion, weight, or alignment.
 

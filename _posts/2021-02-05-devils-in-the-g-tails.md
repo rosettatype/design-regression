@@ -13,7 +13,7 @@ theme: red
 
 ## Publication
 
-Wong, K., Wadee, F., Ellenblum, G., & McCloskey, M. (2018). The devil’s in the g-tails: Deficient letter-shape knowledge and awareness despite massive visual experience. *Journal of Experimental Psychology-Human Perception and Performance*, *44(9)*, 1324–1335. 
+Wong, K., Wadee, F., Ellenblum, G., & McCloskey, M. (2018). The devil’s in the g-tails: Deficient letter-shape knowledge and awareness despite massive visual experience. *Journal of Experimental Psychology-Human Perception and Performance*, *44(9)*, 1324–1335. [https://doi.org/10.1037/xhp0000532](https://doi.org/10.1037/xhp0000532)
 
 ## Review
 
@@ -25,11 +25,11 @@ The first experiment used a qualitative approach and asked 38 undergraduate stud
 
 Their second experiment attempted to focus readers’ attention on the looptail ‘g’ by asking 16 different participants to read a passage and read aloud any word with a ‘g’ in it.  They were then asked to write the letter ‘g’ they had seen. One reproduced a looptail ‘g’; 8 drew an opentail ‘g’ (single-storey); and the others drew incorrect shapes which looked something like the looptail ‘g’.
 
-I was not surprised by this inability to reproduce a familiar letter shape as I believe we cannot necessarily reproduce (in this case draw) what we can perceive. I was therefore incredibly pleased to find that they had done the study that would test this. The third experiment showed 4 versions of the looptail ‘g’ to a further group of participants, one being the correct version and the other 3 distractors; the same procedure was carried out with the double-story ‘a’. They were asked to choose the correct letter shape. All those who were shown the letter ‘a’ chose the correct version whereas only 7 out of 25 chose the correct ‘g’ which is chance level, equivalent to guessing. The majority (14) chose the version in the figure 1, perhaps because of the greater similarity to the single-story ‘g’.
+I was not surprised by this inability to reproduce a familiar letter shape as I believe we cannot necessarily reproduce (in this case draw) what we can perceive. I was therefore incredibly pleased to find that they had done the study that would test this. The third experiment showed 4 versions of the looptail ‘g’ to a further group of participants, one being the correct version and the other 3 distractors; the same procedure was carried out with the double-storey ‘a’. They were asked to choose the correct letter shape. All those who were shown the letter ‘a’ chose the correct version whereas only 7 out of 25 chose the correct ‘g’ which is chance level, equivalent to guessing. The majority (14) chose the version in figure 1, perhaps because of the greater similarity to the single-storey ‘g’.
 
 ![One of the versions of the letter ‘g’ used in the experiments](/assets/2021-02-05-devils-in-the-g-tails/letter-g.png)
 
-**Figure 1:** one of the versions of the letter ‘g’ used in the experiments
+**Figure 1:** one of the versions of the letter ‘g’ used in the experiments.
 
 I had expected readers would be able to discriminate among alternatives and choose the correct version. But those of us who are not type designers might find that the longer you stare at this incorrect form, the more plausible it becomes. The reason for perfect performance with the letter ‘a’ may be the implausibility of the alternative shapes and possibly greater or more perceptually salient deviations from the correct shape. Consequently, no comparison should be made between knowledge of the letter ‘a’ and the letter ‘g’. It would be worth repeating the letter ‘g’ part of this third experiment with more participants and different distractors.
 
@@ -37,4 +37,4 @@ The researchers’ discussion of the results is very thorough. There is an inter
 
 ## References
 
-Walker, S., & Reynolds, L. (2003). Serifs, sans serifs and infant characters in children's reading books. *Information Design Journal*, *11(3)*, 106-122.
+Walker, S., & Reynolds, L. (2003). Serifs, sans serifs and infant characters in children's reading books. *Information Design Journal*, *11(3)*, 106–122. [https://doi.org/10.1075/idj.11.2.04wal](https://doi.org/10.1075/idj.11.2.04wal)

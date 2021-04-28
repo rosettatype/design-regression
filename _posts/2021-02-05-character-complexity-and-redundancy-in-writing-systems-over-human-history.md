@@ -13,7 +13,7 @@ theme: red
 
 ## Publication
 
-Changizi, M. A., & Shimojo, S. (2005). Character complexity and redundancy in writing systems over human history. *Proceedings. Biological sciences / The Royal Society*, *272*, 267-275.
+Changizi, M. A., & Shimojo, S. (2005). Character complexity and redundancy in writing systems over human history. *Proceedings. Biological sciences / The Royal Society*, *272*, 267-275. [https://doi.org/10.1098/rspb.2004.2942](https://doi.org/10.1098/rspb.2004.2942)
 
 ## Review
 
@@ -44,6 +44,6 @@ Universal grammar in languages provides grounds for the belief that people from 
 
 ## References
 
-Changizi, M. A., Zhang, Q., Ye, H., & Shimojo, S. (2006). The structures of letters and symbols throughout human history are selected to match those found in objects in natural scenes. The *American naturalist*, *167*, E117-39.
+Changizi, M. A., Zhang, Q., Ye, H., & Shimojo, S. (2006). The structures of letters and symbols throughout human history are selected to match those found in objects in natural scenes. The *American Naturalist*, *167*, E117-39. [https://doi.org/10.1086/502806](https://doi.org/10.1086/502806)
 
-Daniels, P. T., & Bright, W. (1996). *The World’s Writing Systems.* New York: Oxford University Press.
+Daniels, P. T., & Bright, W. (1996). *The World’s Writing Systems.* Oxford University Press.
