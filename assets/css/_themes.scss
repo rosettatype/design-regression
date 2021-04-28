@@ -104,7 +104,7 @@
     }
 
     // links
-    article main a[href^=http],
+    article a[href^=http],
     .author-website a {
         // @include underline(1px, $foreground, $interactive);
         text-underline-offset: 0.25em;
