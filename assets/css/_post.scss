@@ -62,7 +62,7 @@ article {
     }
 
     // .sidenotemark {
-    a[href^="#"] {
+    a[href^="#sn:"] {
         white-space: pre;
 
         &:hover,
@@ -106,7 +106,7 @@ article {
         }
 
         // .sidenotemark {
-        &[id]:before {
+        &[id^="sn:"]:before {
             @include font-mono(20px, $weight: 700);
 
             counter-increment: sidenotes;

@@ -97,10 +97,11 @@ window.addEventListener("load", function () {
     /**
      * Placeing sidenotes next to their markers
      */
-    var sidenotes = document.querySelectorAll("article aside[id]"),
-        markers = document.querySelectorAll("article a[href^='#']"),
+    var sidenotes = document.querySelectorAll("aside[id^='sn:']"),
+        markers = document.querySelectorAll("a[href^='#sn:']"),
         lastDocumentHeight = 0;
 
+        console.log(sidenotes, markers)
     if (sidenotes) {
         window.addEventListener("resize", onResize)
 
@@ -109,10 +110,10 @@ window.addEventListener("load", function () {
         var textFont = new FontFaceObserver("AdapterVF"),
             monoFont = new FontFaceObserver("AdapterMonoVF")
         Promise.all([textFont.load(), monoFont.load()]).then(function () {
-            console.log("fonts loaded")
+            console.debug("fonts loaded")
             onResize()
         }, function () {
-            console.log("fonts timed out")
+            console.debug("fonts timed out")
             onResize()
         })
 
