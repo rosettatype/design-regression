@@ -123,6 +123,10 @@
         border-color: $foreground;
     }
 
+    article main aside.flash {
+        color: $highlight;
+    }
+
     // Article styling
     article main figure {
         border-color: $foreground;

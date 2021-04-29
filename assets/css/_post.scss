@@ -5,6 +5,8 @@ article {
     align-items: flex-start;
     margin-bottom: 5rem;
 
+    counter-reset: sidenotes markers;
+
     .header {
         margin-top: 20vh;
 
@@ -59,15 +61,31 @@ article {
         }
     }
 
-    .sidenotemark {
-        @include font-mono(20px, $weight: 450);
-        line-height: inherit !important;
-        position: relative;
-        top: -0.2em;
-        font-feature-settings: "ss10"1;
-        display: inline-block;
-        padding: 0.05em 0 0.05em;
-        margin: 0 0.15em;
+    // .sidenotemark {
+    a[href^="#"] {
+        white-space: pre;
+
+        &:hover,
+        &:focus {
+            color: initial !important;
+            text-decoration: none;
+            cursor: help;
+        }
+
+        &:after {
+            @include font-mono(20px, $weight: 450);
+            
+            counter-increment: markers;
+            content: counter(markers);
+
+            line-height: inherit !important;
+            position: relative;
+            top: -0.2em;
+            font-feature-settings: "ss10"1;
+            display: inline-block;
+            padding: 0.05em 0 0.05em;
+            margin: 0 0.15em;
+        }
     }
 
     aside {
@@ -77,6 +95,8 @@ article {
         padding-left: 48px;
         width: 100% / 6 * 2;
 
+        transition: color 0.5s ease-out;
+
         p+p {
             margin-top: 0.75em;
         }
@@ -85,18 +105,29 @@ article {
             @include font-mono-italic;
         }
 
-        .sidenotemark {
+        // .sidenotemark {
+        &[id]:before {
             @include font-mono(20px, $weight: 700);
+
+            counter-increment: sidenotes;
+            content: counter(sidenotes);
+
             position: relative;
             top: 0.1em;
             font-feature-settings: "ss11"1;
             padding: 0;
-            margin: 0;
+            margin: 0 0.25em 0 0;
+            display: inline-block;
 
             // The line height of the superior should not "bump" the first
             // line's line height!
             line-height: 1 !important;
         }
+
+        // Applied in _themes.scss
+        // &.flash {
+        //     color: red;
+        // }
     }
 
     aside.meta {
@@ -325,25 +356,14 @@ article {
         margin-top: 2rem;
         width: 100% / 6 * 4;
     }
+
 }
 
-.footnotes {
-    margin-top: 3rem;
+#footnotes {
+    display: none;
 
-    &:before {
-        content: "Bibliography";
-        @include heading;
-    }
-
-    li {
-        font-size: 0.7rem;
-        line-height: 1.75em;
-        color: $blue-interactive-foreground;
-        margin-top: 1rem;
-    }
-
-    em {
-        font-variation-settings: "slnt"-10;
+    @include tablet {
+        display: block;
     }
 }
 

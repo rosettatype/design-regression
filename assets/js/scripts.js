@@ -74,9 +74,10 @@ window.addEventListener("load", function () {
 
     // Hiding the menu button tagline on scroll
     var frontpageRight = document.querySelector(".split main")
-    
+
     window.addEventListener("scroll", function () {
-        if (window.pageYOffset | document.body.scrollTop > 30) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop
+        if (scroll > 30) {
             addClass(body, "scrolled")
         } else {
             removeClass(body, "scrolled")
@@ -93,4 +94,90 @@ window.addEventListener("load", function () {
         })
     }
 
+    /**
+     * Placeing sidenotes next to their markers
+     */
+    var sidenotes = document.querySelectorAll("article aside[id]"),
+        markers = document.querySelectorAll("article a[href^='#']"),
+        lastDocumentHeight = 0;
+
+    if (sidenotes) {
+        window.addEventListener("resize", onResize)
+
+        // Try wait for the webfonts to load before doing any initial
+        // positioning
+        var textFont = new FontFaceObserver("AdapterVF"),
+            monoFont = new FontFaceObserver("AdapterMonoVF")
+        Promise.all([textFont.load(), monoFont.load()]).then(function () {
+            console.log("fonts loaded")
+            onResize()
+        }, function () {
+            console.log("fonts timed out")
+            onResize()
+        })
+
+        markers.forEach(function (marker) {
+            marker.addEventListener("click", function (e) {
+
+                // On desktop just flash the sidebote, on mobile use default
+                // behaviour and scroll to
+                if (window.innerWidth > 1024) {
+                    e.preventDefault()
+
+                    var anchor = marker.href.substr(marker.href.indexOf("#") + 1),
+                        note = document.querySelector("aside[id='" + anchor + "']")
+
+                    note.className += " flash"
+                    setTimeout(function () {
+                        note.className = note.className.replace(/\sflash/, "")
+                    }, 500)
+                }
+            })
+        })
+    }
+
+    function onResize() {
+        var previousNoteEnd = 0
+
+        sidenotes.forEach(function (note) {
+            note.style.transform = "";
+            note.style.opacity = "0";
+        })
+
+        if (window.innerWidth > 1024) {
+            sidenotes.forEach(function (note) {
+                try {
+                    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop,
+                        marker = document.querySelector("a[href='#" + note.id + "']"),
+                        marker_top = scroll + marker.getBoundingClientRect().top,
+                        note_top = scroll + note.getBoundingClientRect().top,
+                        note_height = note.getBoundingClientRect().height,
+                        top = (Math.max(previousNoteEnd, marker_top) - note_top)
+
+                    console.debug(marker.href.substr(marker.href.indexOf("#")), 
+                        document.body.scrollTop, marker_top, note_top, "translate", top)
+
+                    note.style.transform = "translateY(" + top + "px)"
+                    note.style.opacity = "1";
+
+                    previousNoteEnd = note_top + top + note_height
+                } catch (e) {
+                    console.error(e)
+                }
+            })
+        } else {
+            sidenotes.forEach(function (note) {
+                note.style.opacity = "1";
+            })
+        }
+
+        // Crude, but: while the document keeps changing lenth we assume new
+        // assets are being loaded and rendered, so keep on updating the
+        // positions
+        var h = document.querySelector("body").getBoundingClientRect().height
+        if (h !== lastDocumentHeight) {
+            lastDocumentHeight = h
+            setTimeout(onResize, 500)
+        }
+    }
 })
