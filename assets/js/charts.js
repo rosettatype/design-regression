@@ -12,7 +12,6 @@ var layout = {
         },
     },
     yaxis: {
-        title: name,
         zeroline: false,
         fixedrange: true, // disable zooming
         gridcolor: "#30280D22",
