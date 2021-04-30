@@ -95,10 +95,10 @@ function BoxChart(node, name, groups, options, values) {
 /**
  * Plotting Bar Charts
  */
-function BarChart(node, name, groups, options, values, errors, offset) {
-    console.debug("BarChart", node, name, groups, options, values, errors, offset)
+function BarChart(node, title, label, groups, options, values, errors, offset) {
+    console.debug("BarChart", node, title, label, groups, options, values, errors, offset)
 
-    if (!node || !name) {
+    if (!node || !title) {
         console.warn("Some of the BarChart options were invalid.")
     }
 
@@ -137,7 +137,12 @@ function BarChart(node, name, groups, options, values, errors, offset) {
 
     var barchart_layout = JSON.parse(JSON.stringify(layout))
     barchart_layout.barmode = 'group' // groups the values along x
-    barchart_layout.title = name
+    if (title) {
+        barchart_layout.title = title
+    }
+    if (label) {
+        barchart_layout.yaxis.title = label
+    }
 
     Plotly.newPlot(node, data, barchart_layout, config);
 }
@@ -173,7 +178,8 @@ window.addEventListener("load", function () {
             try {
                 BarChart(
                     node,
-                    node.dataset.name,
+                    node.dataset.title,
+                    node.dataset.label,
                     node.dataset.groups.split(";"),
                     node.dataset.options.split(";"),
                     node.dataset.values.split(";").map(function (arrayString) {

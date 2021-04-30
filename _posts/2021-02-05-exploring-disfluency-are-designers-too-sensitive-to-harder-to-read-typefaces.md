@@ -136,7 +136,7 @@ There was a greater difference between judgments of memory for Arial and Sans Fo
 option 1 group 1, option 1 group 2; option 2 group 1, option 2 group 2; etc. -->
 
 <div class="barchart"
-    data-name="Judgement of Memory"
+    data-label="Judgement of Memory"
     data-groups="Designers;Non-designers"
     data-options="Arial;Sans Forgetica"
     data-values="58.54716981132076,52.528301886792455;54.5,53.45454545454545"
@@ -152,7 +152,8 @@ Although the study was not specifically aimed at comparing words and non-words, 
 ![Responses to non-words are slower than words and particularly in Sans Forgetica](/assets/2021-02-05-exploring-disfluency/plot_lexical-decision.png)
 
 <div class="barchart"
-    data-name="Response time"
+    data-title="Lexical decision"
+    data-label="Response time"
     data-groups="Arial;Sans Forgetica"
     data-options="Words;Non-words"
     data-values="7.441500668524645,7.987358319535009;7.541246786974731,8.139023589948932"
