@@ -10,6 +10,7 @@ authors:
 editor:
 readingtime: 14 min read
 theme: red
+# intro: A shorter intro text example
 ---
 
 This is a report of our study which we conducted online in the early part of 2019 and talked about at the [ICTVC](https://ictvc.org/2019/en/) conference in Patras, Greece in June 2019. We presented some of the results at the conference and here we provide a fuller account. We have structured this report to enable readers with different interests and desire for detail to determine what they want to know. Please get in touch if you have any feedback.

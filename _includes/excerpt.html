@@ -10,5 +10,5 @@
 
 
 <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-<div class="article-excerpt">{{ post.excerpt }}</div>
+<div class="article-excerpt">{% if post.intro %}{{ post.intro }}{% else %}{{ post.excerpt }}{% endif %}</div>
 <span class="meta meta-date">{{ post.date|date_to_string }}</span>
