@@ -157,6 +157,7 @@ Although the study was not specifically aimed at comparing words and non-words, 
     data-options="Words;Non-words"
     data-values="7.441500668524645,7.987358319535009;7.541246786974731,8.139023589948932"
     data-errors="0.013281496095239573,0.01732404708300345;0.014587453559345329,0.01756950356888615"
+    data-offset="7"
     ></div>
 
 **Figure 5:** responses to non-words are slower than words and particularly in Sans Forgetica

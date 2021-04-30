@@ -47,7 +47,7 @@ var config = {
  * @param {*} values - 
  */
 function BoxChart(node, name, groups, options, values) {
-    console.log("BoxChart", node, name, groups, options, values)
+    console.debug("BoxChart", node, name, groups, options, values)
 
     if (!node || !name || groups.length != options.length != values.length / 2) {
         console.warn("Some of the BoxChart options were invalid. Groups and \
@@ -96,12 +96,11 @@ function BoxChart(node, name, groups, options, values) {
 /**
  * Plotting Bar Charts
  */
-function BarChart(node, name, groups, options, values, errors) {
+function BarChart(node, name, groups, options, values, errors, offset) {
+    console.debug("BarChart", node, name, groups, options, values, errors, offset)
 
-    if (!node || !name || groups.length != options.length != values.length / 2) {
-        console.warn("Some of the BoxChart options were invalid. Groups and \
-        options need to be of same length, and there need to be groups*options \
-        arrays of values")
+    if (!node || !name) {
+        console.warn("Some of the BarChart options were invalid.")
     }
 
     var container = document.createElement("div")
@@ -110,9 +109,15 @@ function BarChart(node, name, groups, options, values, errors) {
     node.appendChild(container)
 
     for (var i = 0; i < options.length; i++) {
+        var vals = values[i]
+        if (!isNaN(offset)) {
+            vals = vals.map(function (val) {
+                return val -= offset
+            })
+        }
 
         var trace = {
-            y: values[i],
+            y: vals,
             x: groups,
             name: options[i],
             marker: {
@@ -124,7 +129,8 @@ function BarChart(node, name, groups, options, values, errors) {
                 visible: true,
                 color: "#000000"
             },
-            type: 'bar'
+            type: 'bar',
+            base: offset
         }
 
         data[i] = trace
@@ -177,6 +183,7 @@ window.addEventListener("load", function () {
                     node.dataset.errors.split(";").map(function (arrayString) {
                         return arrayString.split(",")
                     }),
+                    node.dataset.offset,
                 )
             } catch (e) {
                 console.error("Failed to create BarChart: " + e)
