@@ -10,6 +10,7 @@ authors:
 editor:
 readingtime: 14 min read
 theme: red
+intro: This is a report of our study which we conducted online in the early part of 2019 and talked about at the ICTVC conference in Patras, Greece in June 2019.
 ---
 
 This is a report of our study which we conducted online in the early part of 2019 and talked about at the [ICTVC](https://ictvc.org/2019/en/) conference in Patras, Greece in June 2019. We presented some of the results at the conference and here we provide a fuller account. We have structured this report to enable readers with different interests and desire for detail to determine what they want to know. Please get in touch if you have any feedback.
@@ -130,11 +131,6 @@ In the two tasks, all participants responded more slowly to items in Sans Forget
 
 There was a greater difference between judgments of memory for Arial and Sans Forgetica in designers than non-designers ([see Figure 4](#sn:stats-5)), supporting our hypothesis that designers are more sensitive to differences in fonts (see Figure 4). We also found an unexpected general difference between the two groups. In both lexical decision and recognition, designers responded more quickly than [non-designers](#sn:stats-6).
 
-![Judgments of Memory for the two fonts with greater difference in judgments by designers.](/assets/2021-02-05-exploring-disfluency/plot_judgement-of-memory.png)
-
-<!-- values and options are entered as: 
-option 1 group 1, option 1 group 2; option 2 group 1, option 2 group 2; etc. -->
-
 <div class="barchart"
     data-name="Judgement of Memory"
     data-groups="Designers;Non-designers"
@@ -149,14 +145,12 @@ option 1 group 1, option 1 group 2; option 2 group 1, option 2 group 2; etc. -->
 
 Although the study was not specifically aimed at comparing words and non-words, some interesting differences emerged. Responses to words were faster than non-words for [both tasks](#sn:stats-7),which is known as a _lexicality effect_. However, there was also a difference between the two fonts in the lexical decision task: non-words slow participants down even more in Sans Forgetica than in Arial ([see Figure 5](#sn:stats-8)). A result that seems initially to be counter-intuitive is that non-words were remembered better than words in [both fonts](#sn:stats-9).
 
-![Responses to non-words are slower than words and particularly in Sans Forgetica](/assets/2021-02-05-exploring-disfluency/plot_lexical-decision.png)
-
 <div class="barchart"
     data-name="Response time"
     data-groups="Arial;Sans Forgetica"
     data-options="Words;Non-words"
-    data-values="7.441500668524645,7.987358319535009;7.541246786974731,8.139023589948932"
-    data-errors="0.013281496095239573,0.01732404708300345;0.014587453559345329,0.01756950356888615"
+    data-values="7.429775501485782,7.948163912520996;7.529851240089477,8.088647473751825"
+    data-errors="0.012271084633388775,0.015217161040351921;0.01352962380380366,0.01661112300193002"
     ></div>
 
 **Figure 5:** responses to non-words are slower than words and particularly in Sans Forgetica
