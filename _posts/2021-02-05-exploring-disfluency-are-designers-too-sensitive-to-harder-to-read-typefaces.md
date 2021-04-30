@@ -132,21 +132,17 @@ There was a greater difference between judgments of memory for Arial and Sans Fo
 
 ![Judgments of Memory for the two fonts with greater difference in judgments by designers.](/assets/2021-02-05-exploring-disfluency/plot_judgement-of-memory.png)
 
-<!-- example of a box chart 
-<div class="boxchart"
+<!-- values and options are entered as: 
+option 1 group 1, option 1 group 2; option 2 group 1, option 2 group 2; etc. -->
+<!-->
+<div class="barchart"
     data-name="Judgement of Memory"
-    data-groups="designers;non-designers"
     data-options="Arial;Sans Forgetica"
-    data-values="0,1,1,2.6,2.9,4,7.5,10,12.5;0.5,1,1.5,2.4,4.2,5.6.7,12,15.43,17;0,1,1,2.6,2.9,4,7.5,10,12.5;0.5,1,1.5,2.4,4.2,5.6.7,12,15.43,17"
+    data-groups="Designers;Non-designers"
+    data-values="10,30;20,40"
+    data-errors="1,3;2,4"
     ></div>
 -->
-
-<div class="boxchart"
-    data-name="Judgement of Memory"
-    data-groups="Designers;Non-designers"
-    data-options="Arial;Sans Forgetica"
-    data-values="60,22,50,70,79,15,59,50,71,40,70,47,26,64,68,70,76,80,80,30,50,34,50,46,69,31,41,50,90,62,59,50,50,27,28,76,59,60,75,69,76,65,90,73,90,90,71,81,70,37,22,50,85;100,20,50,65,76,15,50,50,54,34,78,33,10,18,70,65,28,81,82,34,50,35,25,60,59,25,41,42,75,50,70,50,69,27,27,79,11,66,74,50,79,65,75,34,80,70,60,89,70,22,17,50,75;1,50,55,77,78,62,50,60,31,80,50,71,81,50,26,89,50,71,41,48,35,4,50,74,50,67,87,50,50,92,50,83,75,23,39,50,14,41,69,50,50,73,33,68;7,50,38,82,71,64,50,64,39,73,50,76,85,50,23,79,50,77,40,50,36,28,50,79,29,62,71,50,50,89,50,78,75,19,37,68,14,35,44,50,50,74,30,66"
-    ></div>
 
 **Figure 4:** Judgments of Memory for the two fonts with greater difference in judgments by designers.
 
