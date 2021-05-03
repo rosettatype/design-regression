@@ -145,46 +145,12 @@ There was a greater difference between judgments of memory for Arial and Sans Fo
 
 Although the study was not specifically aimed at comparing words and non-words, some interesting differences emerged. Responses to words were faster than non-words for [both tasks](#sn:stats-7),which is known as a _lexicality effect_. However, there was also a difference between the two fonts in the lexical decision task: non-words slow participants down even more in Sans Forgetica than in Arial ([see Figure 5](#sn:stats-8)). A result that seems initially to be counter-intuitive is that non-words were remembered better than words in [both fonts](#sn:stats-9).
 
-<!-- normalized, 3 decimals -->
 <div class="barchart"
     data-name="Response time"
     data-groups="Words;Non-words"
     data-options="Arial;Sans Forgetica"
     data-values="7.43,7.948;7.53,8.089"
     data-errors="0.026,0.035;0.027,0.043"
-    data-offset="7"
-    ></div>
-
-<!-- normalized, 5 decimals -->
-
-<div class="barchart"
-    data-name="Response time"
-    data-groups="Words;Non-words"
-    data-options="Arial;Sans Forgetica"
-    data-values="7.42978,7.94816;7.52985,8.08865"
-    data-errors="0.02557,0.03488;0.02689,0.04319"
-    data-offset="7"
-    ></div>
-
-<!-- non-normalized -->
-
-<div class="barchart"
-    data-name="Response time"
-    data-groups="Words;Non-words"
-    data-options="Arial;Sans Forgetica"
-    data-values="1829.79505,3211.59856;2074.24387,3870.25518"
-    data-errors="57.35442,136.12163;72.68397,337.83977"
-    data-offset="7"
-    ></div>
-
-<!-- de-normalized -->
-
-<div class="barchart"
-    data-name="Response time"
-    data-groups="Words;Non-words"
-    data-options="Arial;Sans Forgetica"
-    data-values="1744.10301,3008.2981;1934.19742,3684.02056"
-    data-errors="52.72061,114.95049;59.60597,308.9272"
     data-offset="7"
     ></div>
 
