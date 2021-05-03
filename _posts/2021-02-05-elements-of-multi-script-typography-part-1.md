@@ -46,7 +46,7 @@ Languages and scripts exist in the context of the culture and historical develop
 
 ## From languages to scripts
 
-The term *script* as it is used here refers to a graphic system designed to represent a language (Coulmas, 1989; 1996). It is a collection of graphic signs that correspond to linguistic units such as letters, syllables, or words, and the rules regarding the way these should be [combined](#sn:languages).
+The term *script* as it is used here refers to a graphic system designed to represent a language (Coulmas, 1989, 1996). It is a collection of graphic signs that correspond to linguistic units such as letters, syllables, or words, and the rules regarding the way these should be [combined](#sn:languages).
 
 A single script can be used to write multiple languages, for example the Latin script is used to write English, Spanish, or Slovenian. It is not uncommon that a script is used exclusively for one language, e.g. the Greek script is used for the Greek language. Also, a single language can use multiple ways of writing, each with a different script, e.g. Central Kurdish can be written in either the Latin or Arabic script.
 
@@ -79,7 +79,7 @@ As one should not assume that a person who can speak a language is also literate
 </aside>
 
 <aside id="sn:languages">
-Languages use different writing systems to map linguistic units (letters, syllables, words) to their graphic representations in a particular script, e.g. alphabet, syllabic alphabet. Thus, a script can be seen as an instance of the more general writing system (Coulmas, 1989; 1996). For example, English uses the Latin script as an alphabetic system, the Hindi language uses the Devanagari script as a syllabic system, and the Chinese language uses the Chinese script as an ideographic system. Note that some linguists and designers use the terms writing system and script interchangeably (Daniels & Bright, 1996).
+Languages use different writing systems to map linguistic units (letters, syllables, words) to their graphic representations in a particular script, e.g. alphabet, syllabic alphabet. Thus, a script can be seen as an instance of the more general writing system (Coulmas, 1989, 1996). For example, English uses the Latin script as an alphabetic system, the Hindi language uses the Devanagari script as a syllabic system, and the Chinese language uses the Chinese script as an ideographic system. Note that some linguists and designers use the terms writing system and script interchangeably (Daniels & Bright, 1996).
 </aside>
 
 <aside id="sn:scenarios">
