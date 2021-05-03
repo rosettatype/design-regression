@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Elements of multi-script typography, part 1
+title: "Elements of multi-script typography: introduction"
 date: 2021-02-05 11:16:57
 categories:
-    - Series
+    - Essay
 authors:
     - David Březina
 editor:
@@ -88,7 +88,7 @@ Stiff (1997) gives an eloquent analysis of the multifaceted role of footnotes.
 
 ## References
 
-Balakrishna, S. (2018). Nirnayasagar Press: A Forgotten National Treasure. *The Dharma Dispatch.* [https://www.dharmadispatch.in/history/nirnayasagar-press-a-forgotten-national-treasure](https://www.dharmadispatch.in/history/nirnayasagar-press-a-forgotten-national-treasure)
+Balakrishna, S. (2018). Nirnayasagar press: a forgotten national treasure. *The Dharma Dispatch.* [https://www.dharmadispatch.in/history/nirnayasagar-press-a-forgotten-national-treasure](https://www.dharmadispatch.in/history/nirnayasagar-press-a-forgotten-national-treasure)
 
 Çanlıoğlu, K. (2013, June 28). *Designing BBC World Service* [Conference presentation]. Ampersand 2013, Brighton, United Kingdom.
 
@@ -96,7 +96,7 @@ Coulmas, F. (1989). *The writing systems of the world.* Blackwell.
 
 Coulmas, F. (1996). *The Blackwell encyclopedia of writing systems.* Blackwell Publishers.
 
-Daniels, P. T., & Bright, W. (1996). *The World’s Writing Systems.* Oxford University Press.
+Daniels, P. T., & Bright, W. (1996). *The world’s writing systems.* Oxford University Press.
 
 Morris, I. D. [@iandavidmorris] (2021, April 5). *In Arrival—a film about language—what the HELL is this?*! [Image attached][Tweet]. Twitter. [https://twitter.com/iandavidmorris/status/1379137203570409475](https://twitter.com/iandavidmorris/status/1379137203570409475)
 
@@ -104,4 +104,4 @@ Norman, D. A. (2013). *The design of everyday things.* Basic books.
 
 Priolkar, A. K. (1958). *The printing press in India : its beginnings and early development : being a quartercentenary commemoration study of the advent of printing in Indian (in 1556).* Marathi Samshodhana Mandala.
 
-Stiff, P. (1997). ‘A footnote kicks him’ : How books make readers work. *Journal of Scholarly Publishing*, 28, 65-73.
+Stiff, P. (1997). ‘A footnote kicks him’: How books make readers work. *Journal of Scholarly Publishing*, 28, 65-73.
