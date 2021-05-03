@@ -10,7 +10,7 @@ authors:
 editor:
 readingtime: 14 min read
 theme: red
-intro: This is a report of our study which we conducted online in the early part of 2019 and talked about at the ICTVC conference in Patras, Greece in June 2019.
+intro: We conducted an online study to see if designers respond in a different way to non-designers to a less legible typeface (Sans Forgetica), exploring judgments and memory.
 ---
 
 This is a report of our study which we conducted online in the early part of 2019 and talked about at the [ICTVC](https://ictvc.org/2019/en/) conference in Patras, Greece in June 2019. We presented some of the results at the conference and here we provide a fuller account. We have structured this report to enable readers with different interests and desire for detail to determine what they want to know. Please get in touch if you have any feedback.
@@ -25,7 +25,7 @@ The second reason was our shared interest in what happens to people’s percepti
 
 The initial research (Diemand-Yauman et al., 2011) which suggests that hard-to-read fonts can improve memory or learning uses _disfluency theory_ as an explanation. The theory states that when we perceive that something is harder to read, we put in more effort and the greater effort helps us learn the material by processing it more deeply.
 
-Disfluency theory draws on principles of psychology first written about by James (1890/1950) which introduced two processing systems: one is quick, effortless and intuitive; a second is slow, effortful, analytic and deliberate which can lead to better learning. According to this theory, even if the content is simple, we may be tricked into using the second processing system by using a hard-to-read font (Alter et al., 2007; Rummer et al., 2016).
+Disfluency theory draws on principles of psychology first written about by James (1890/1950) which introduced two processing systems: one is quick, effortless, and intuitive; a second is slow, effortful, analytic, and deliberate which can lead to better learning. According to this theory, even if the content is simple, we may be tricked into using the second processing system by using a hard-to-read font (Alter et al., 2007; Rummer et al., 2016).
 
 ### Existing academic research on differences due to training
 
@@ -113,7 +113,7 @@ We generated a large pool of items, words and non-words, using [MCWord: An Ortho
 - word frequencies between 50 and 3000 which result in words that have a similar level of difficulty and are not too obscure
 - non-words as constrained tri-gram strings, making the non-words word-like.
 
-From this pool we took out proper names and very similar words, e.g. both singular and plural would not be used. In the lexical decision task, each participant received a unique set of 10 words and 10 non-words which were randomly picked from the pool. For the recognition task, we matched each item (word or non-word) with a foil (a similar item which had not been seen) starting with the [same letter](#sn:same-letter). We measured recognition by using 4 words and 4 non-words from the lexical decision task, i.e. items participants would have seen, and 8 foils for other seen items, i.e. items that were similar, but not seen.
+From this pool we took out proper names and very similar words, e.g. both singular and plural would not be used. In the lexical decision task, each participant received a unique set of 10 words and 10 non-words which were randomly picked from the pool. For the recognition task, we matched each item (word or non-word) with a foil (a similar item which had not been seen) starting with the [same letter](#sn:same-letter). We measured recognition by using four words and four non-words from the lexical decision task, i.e. items participants would have seen, and eight foils for other seen items, i.e. items that were similar, but not seen.
 
 ## Our participants
 
@@ -154,7 +154,7 @@ Although the study was not specifically aimed at comparing words and non-words, 
     data-offset="7"
     ></div>
 
-**Figure 5:** responses to non-words are slower than words and particularly in Sans Forgetica
+**Figure 5:** responses to non-words are slower than words and particularly in Sans Forgetica. Response times in milliseconds have been transformed using the natural logarithm to be suitable for statistical analysis. 
 
 ## What do these results tell us?
 
@@ -189,7 +189,7 @@ To check whether fluency may have any effect and to sort participants into categ
 </aside>
 
 <aside id="sn:jom">
-This is commonly referred to as a Judgment of Learning in the literature, but we use the term Judgement of Memory to distinguish it from our second judgment, the Judgment of Legibility; it also reflects the wording of the instructions.
+This is commonly referred to as a Judgment of Learning in the literature, but we use the term Judgment of Memory to distinguish it from our second judgment, the Judgment of Legibility; it also reflects the wording of the instructions.
 </aside>
 
 <aside id="sn:tasks">
