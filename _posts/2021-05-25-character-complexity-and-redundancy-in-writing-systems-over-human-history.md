@@ -6,11 +6,9 @@ categories:
     - Review
 authors:
     - David Březina
-editor:
 readingtime: 5 min read
 theme: red
 intro: A review of the 2005 paper by Mark A. Changizi and Shinsuke Shimojo exploring attributes shared across world’s scripts
-published: false
 ---
 
 ## Publication
@@ -38,9 +36,9 @@ Unfortunately, the description of the methodology in the paper is not sufficient
 
 Admittedly, critical appreciation of scripts’ design becomes a gargantuan task when dealing with over one hundred of the world’s scripts, but with all these omissions can we still consider the data representative of the world’s scripts?
 
-There are 22 numeric scripts studied next to the 93 non-numeric scripts. The reported average number of strokes in a character is 1.95 (SEM = 0.14) for the numeric scripts. This shows that characters in numeric scripts tend to be topologically simpler. By itself, this is an interesting result.
+There are 22 numeric scripts studied next to the 93 non-numeric scripts. The reported average number of strokes in a character is 1.95 (SEM=0.14) for the numeric scripts. This shows that characters in numeric scripts tend to be topologically simpler. By itself, this is an interesting result.
 
-Considering the ease of reading to be the principle selective pressure on scripts, the conclusion puts forward several explanations for the surprising cross-script constants (numeric or not).These range from limits of short term memory and principles of character recognition to a visual-ecological explanation that characters’ topology match those found in objects in natural scenes which is explored further in a more recent paper (Changizi et al., 2006).
+Considering the ease of reading to be the principle selective pressure on scripts, the conclusion puts forward several explanations for the surprising cross-script constants (numeric or not).These range from limits of short term memory and principles of character recognition to a visual-ecological explanation that characters’ topology match those found in objects in natural scenes which is explored further in a more recent paper (Changizi et al., 2006).
 
 Universal grammar in languages provides grounds for the belief that people from distant parts of the planet are indeed quite similar, that they can ultimately understand each other, and learn each other’s languages. Despite the drawbacks regarding its methodology, the paper shows an exciting way to use statistical analysis to gain general insights regarding the way humans read and write.
 
