@@ -9,7 +9,7 @@ authors:
     - Andrea Churchill Wong
     - Mary Dyson
     - Matthew Lickiss
-readingtime: 3 min read
+readingtime: 2 min read
 theme: red
 ---
 
