@@ -73,7 +73,7 @@ This was a lexical decision task (see Figure 1) which consisted of a sequence of
 
 ![Example screen of the lexical decision task using Arial (Task 1)](/assets/2021-02-05-exploring-disfluency/study-screenshot_task-1.png){: .browser}
 
-**Figure 1:** example screen of the lexical decision task using Arial (Task 1)
+<figcaption><strong>Figure 1:</strong> example screen of the lexical decision task using Arial (Task 1)</figcaption>
 
 ### Intervening questionnaire
 
@@ -87,7 +87,7 @@ In between the first and second task they are asked to make two judgments (see F
 
 ![Two judgments following the lexical decision task](/assets/2021-02-05-exploring-disfluency/study-screenshot_intervening-questionnaire.png){: .browser}
 
-**Figure 2:** two judgments following the lexical decision task
+<figcaption><strong>Figure 2:</strong> two judgments following the lexical decision task</figcaption>
 
 ### Task 2
 
@@ -102,7 +102,7 @@ We timed responses and recorded accuracy for both tasks and the two tasks were r
 
 ![Example screen of the recognition task using Arial (Task 2)](/assets/2021-02-05-exploring-disfluency/study-screenshot_task-2.png){: .browser}
 
-**Figure 3:** example screen of the recognition task using Arial (Task 2)
+<figcaption><strong>Figure 3:</strong> example screen of the recognition task using Arial (Task 2)</figcaption>
 
 ## Details of the words and non-words
 
@@ -138,7 +138,7 @@ There was a greater difference between judgments of memory for Arial and Sans Fo
     data-errors="2.75,3.28;3.171,3.084"
     ></div>
 
-**Figure 4:** Judgments of Memory for the two fonts with greater difference in judgments by designers.
+<figcaption><strong>Figure 4:</strong> Judgments of Memory for the two fonts with greater difference in judgments by designers.</figcaption>
 
 ### Words vs non-words
 
@@ -153,7 +153,7 @@ Although the study was not specifically aimed at comparing words and non-words, 
     data-offset="7"
     ></div>
 
-**Figure 5:** responses to non-words are slower than words and particularly in Sans Forgetica. Response times in milliseconds have been transformed using the natural logarithm to be suitable for statistical analysis. 
+<figcaption><strong>Figure 5:</strong> responses to non-words are slower than words and particularly in Sans Forgetica. Response times in milliseconds have been transformed using the natural logarithm to be suitable for statistical analysis.</figcaption>
 
 ## What do these results tell us?
 

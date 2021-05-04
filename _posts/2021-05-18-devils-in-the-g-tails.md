@@ -29,7 +29,7 @@ I was not surprised by this inability to reproduce a familiar letter shape as I 
 
 ![One of the versions of the letter ‘g’ used in the experiments](/assets/2021-02-05-devils-in-the-g-tails/letter-g.png)
 
-**Figure 1:** one of the versions of the letter ‘g’ used in the experiments.
+<figcaption><strong>Figure 1:</strong> one of the versions of the letter ‘g’ used in the experiments.</figcaption>
 
 I had expected readers would be able to discriminate among alternatives and choose the correct version. But those of us who are not type designers might find that the longer you stare at this incorrect form, the more plausible it becomes. The reason for perfect performance with the letter ‘a’ may be the implausibility of the alternative shapes and possibly greater or more perceptually salient deviations from the correct shape. Consequently, no comparison should be made between knowledge of the letter ‘a’ and the letter ‘g’. It would be worth repeating the letter ‘g’ part of this third experiment with more participants and different distractors.
 
