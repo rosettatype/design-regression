@@ -167,7 +167,11 @@ Designers’ approach to the tasks may have been slightly different from non-des
 
 A less legible font, such as Sans Forgetica, may slow down deciphering a message. This may not be a problem when designing for genres where ease of reading is not a primary concern, e.g. graphic posters. However, in circumstances where the text is difficult to understand, e.g. non-native or complicated language, Sans Forgetica would be problematic and the use of a more conventionally legible font is recommended.
 
-## Footnotes
+## Data
+
+We have made the data and study website available on [GitHub](https://github.com/MrBrezina/disfluency-study) and licenced them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
+
+## Notes
 
 <aside id="sn:repetitions">
 There is a tension between increasing the number of repetitions of a task to increase reliability and participants losing interest and responding randomly or giving up before the end.

@@ -1,6 +1,12 @@
 # Design Regression
 
-An online journalette about letters, design, and reading
+Design Regression is a mini journal (a journalette) publishing texts that are about design for reading and reading-related research. It aims for the hard-to-get blend of approachability with seriousness and relevance to practice.
+
+## Licence
+
+The articles are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International licence (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Rosetta reserves all rights regarding the website design and fonts used.
 
 ## Adding content
 
