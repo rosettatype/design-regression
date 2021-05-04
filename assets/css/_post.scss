@@ -130,6 +130,10 @@ article {
         // }
     }
 
+    a[href^="#ref:"] {
+        text-decoration: underline;
+    }
+
     aside.meta {
         flex-wrap: wrap;
 
