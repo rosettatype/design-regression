@@ -167,36 +167,29 @@ Designers’ approach to the tasks may have been slightly different from non-des
 
 A less legible font, such as Sans Forgetica, may slow down deciphering a message. This may not be a problem when designing for genres where ease of reading is not a primary concern, e.g. graphic posters. However, in circumstances where the text is difficult to understand, e.g. non-native or complicated language, Sans Forgetica would be problematic and the use of a more conventionally legible font is recommended.
 
-## Footnotes
+## Notes
 
-<aside id="sn:repetitions">
-There is a tension between increasing the number of repetitions of a task to increase reliability and participants losing interest and responding randomly or giving up before the end.
+<aside id="sn:repetitions">There is a tension between increasing the number of repetitions of a task to increase reliability and participants losing interest and responding randomly or giving up before the end.
 </aside>
 
-<aside id="sn:distractions">
-Any distractions could affect response times and accuracy of answers. We were able to deal with abnormally long times to respond and acknowledge that there will be some inaccurate responses due to inattention.
+<aside id="sn:distractions">Any distractions could affect response times and accuracy of answers. We were able to deal with abnormally long times to respond and acknowledge that there will be some inaccurate responses due to inattention.
 </aside>
 
-<aside id="sn:fonts">
-Arial was chosen as it is widely used and bundled with Windows OS; Sans Forgetica was chosen as the font <a href="https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory">specifically designed to boost memory</a>, as described in the newspaper article by Martin (2018).
+<aside id="sn:fonts">Arial was chosen as it is widely used and bundled with Windows OS; Sans Forgetica was chosen as the font <a href="https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory">specifically designed to boost memory</a>, as described in the newspaper article by Martin (2018).
 </aside>
 
-<aside id="sn:background">
-To check whether fluency may have any effect and to sort participants into categories of designers and non-designers.</aside>
+<aside id="sn:background">To check whether fluency may have any effect and to sort participants into categories of designers and non-designers.</aside>
 
 <aside id="sn:alternatives">This 4-point scale enables us to calculate a measure (AUC) which reflects the participant’s sensitivity. This determines how well they can differentiate between words and non-words, and is free of response bias, such as responding word most of the time.
 </aside>
 
-<aside id="sn:jom">
-This is commonly referred to as a Judgment of Learning in the literature, but we use the term Judgment of Memory to distinguish it from our second judgment, the Judgment of Legibility; it also reflects the wording of the instructions.
+<aside id="sn:jom">This is commonly referred to as a Judgment of Learning in the literature, but we use the term Judgment of Memory to distinguish it from our second judgment, the Judgment of Legibility; it also reflects the wording of the instructions.
 </aside>
 
-<aside id="sn:tasks">
-We decided that participants would do the tasks with both fonts, which might lead to a more sensitive measure of differences between the two fonts. Half the participants started with one font and half with the other font to control for order effects.
+<aside id="sn:tasks">We decided that participants would do the tasks with both fonts, which might lead to a more sensitive measure of differences between the two fonts. Half the participants started with one font and half with the other font to control for order effects.
 </aside>
 
-<aside id="sn:same-letter">
-By piloting the study, we determined that the foils needed to be quite similar to the items that had been seen as otherwise the recognition task would be too easy.
+<aside id="sn:same-letter">By piloting the study, we determined that the foils needed to be quite similar to the items that had been seen as otherwise the recognition task would be too easy.
 </aside>
 
 <aside id="sn:stats-1">F(1, 93)=364.62, p&lt;0.001</aside>

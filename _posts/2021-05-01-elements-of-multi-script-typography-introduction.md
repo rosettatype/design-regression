@@ -63,26 +63,21 @@ Multi-script typography extends the list of influences and objectives even furth
 
 On the other hand “it depends” without any pointers is hardly a useful answer for a practising designer. The upcoming instalments of this series will attempt to point out “what” it usually depends on and help to build a sensitivity to common pitfalls.
 
-## Footnotes
+## Notes
 
-<aside id="sn:mini-series">
-The series is based on a revised form of an essay written during my studies at the University of Reading in 2007. Hopefully, this version is clearer. I would like to express my gratitude to Fiona Ross, Filip Blažek, Jo de Baerdemaeker, Dan Rhatigan, and Mary Dyson who helped me either with the original or the current version of the text.
+<aside id="sn:mini-series">The series is based on a revised form of an essay written during my studies at the University of Reading in 2007. Hopefully, this version is clearer. I would like to express my gratitude to Fiona Ross, Filip Blažek, Jo de Baerdemaeker, Dan Rhatigan, and Mary Dyson who helped me either with the original or the current version of the text.
 </aside>
 
-<aside id="sn:scripts">
-To keep the scope feasible, the focus is on horizontally-written scripts. Scripts with a vertical alignment and more complicated character sets (e.g. Chinese, Korean, or Japanese) are omitted for the time being. In this context, vertical stacking of syllables and similar phenomena are perceived as only a small exception from the overall horizontal reading direction.
+<aside id="sn:scripts">To keep the scope feasible, the focus is on horizontally-written scripts. Scripts with a vertical alignment and more complicated character sets (e.g. Chinese, Korean, or Japanese) are omitted for the time being. In this context, vertical stacking of syllables and similar phenomena are perceived as only a small exception from the overall horizontal reading direction.
 </aside>
 
-<aside id="sn:design-skills">
-As one should not assume that a person who can speak a language is also literate in the language, it is not a given that a designer literate in a language is competent in designing for it. On the contrary, there are cases where designers who could not use a language, achieved a high degree of competence. A famous example is the work of Ranoji Raoji Aru, an illiterate punchcutter, who created popular Devanagari typefaces for the Nirnaya-Sagar Press, “types [that] are used in the whole of India” (Balakrishna, 2018; Priolkar, 1958, p. 103). The wide acceptance of the work of many contemporary designers in similar circumstances speaks for itself.
+<aside id="sn:design-skills">As one should not assume that a person who can speak a language is also literate in the language, it is not a given that a designer literate in a language is competent in designing for it. On the contrary, there are cases where designers who could not use a language, achieved a high degree of competence. A famous example is the work of Ranoji Raoji Aru, an illiterate punchcutter, who created popular Devanagari typefaces for the Nirnaya-Sagar Press, “types [that] are used in the whole of India” (Balakrishna, 2018; Priolkar, 1958, p. 103). The wide acceptance of the work of many contemporary designers in similar circumstances speaks for itself.
 </aside>
 
-<aside id="sn:languages">
-Languages use different writing systems to map linguistic units (letters, syllables, words) to their graphic representations in a particular script, e.g. alphabet, syllabic alphabet. Thus, a script can be seen as an instance of the more general writing system (Coulmas, 1989, 1996). For example, English uses the Latin script as an alphabetic system, the Hindi language uses the Devanagari script as a syllabic system, and the Chinese language uses the Chinese script as an ideographic system. Note that some linguists and designers use the terms writing system and script interchangeably (Daniels & Bright, 1996).
+<aside id="sn:languages">Languages use different writing systems to map linguistic units (letters, syllables, words) to their graphic representations in a particular script, e.g. alphabet, syllabic alphabet. Thus, a script can be seen as an instance of the more general writing system (Coulmas, 1989, 1996). For example, English uses the Latin script as an alphabetic system, the Hindi language uses the Devanagari script as a syllabic system, and the Chinese language uses the Chinese script as an ideographic system. Note that some linguists and designers use the terms writing system and script interchangeably (Daniels & Bright, 1996).
 </aside>
 
-<aside id="sn:scenarios">
-Stiff (1997) gives an eloquent analysis of the multifaceted role of footnotes.
+<aside id="sn:scenarios">Stiff (1997) gives an eloquent analysis of the multifaceted role of footnotes.
 </aside>
 
 ## References
