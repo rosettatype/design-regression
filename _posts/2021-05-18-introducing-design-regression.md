@@ -5,10 +5,10 @@ date: 2021-05-18 14:00:00
 categories:
     - Article
 authors:
-    - David Březina
-    - Andrea Churchill Wong
-    - Mary Dyson
-    - Matthew Lickiss
+    - David Březina
+    - Andrea Churchill Wong
+    - Mary Dyson
+    - Matthew Lickiss
 readingtime: 2 min read
 theme: red
 intro: Design Regression is a journalette publishing texts that are about design for reading and reading-related research. It aims for the hard-to-get blend of approachability with seriousness and relevance to practice.
