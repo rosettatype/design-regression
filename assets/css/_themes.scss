@@ -89,7 +89,7 @@
 
         .main {
             @include mobile {
-                #newsletter {
+                #footer-newsletter {
                     border-color: $foreground;
                 }
             }
@@ -98,7 +98,7 @@
 
     &.split .footer .main {
         @include mobile {
-            #newsletter {
+            #footer-newsletter {
                 border-color: $highlight;
             }
         }
