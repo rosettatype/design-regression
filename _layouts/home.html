@@ -1,6 +1,6 @@
 {% include head.html %}
-
-<body class="split theme-blue">
+{% assign theme = site.posts.first.theme %}
+<body class="split theme-{% if theme %}{{ theme }}{% else %}blue{% endif %}">
     {% include nav.html %}
     {% for post in site.posts %}
     {% if forloop.first %}

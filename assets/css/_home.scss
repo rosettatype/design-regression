@@ -32,16 +32,16 @@ body.split {
     // left area
     #featured {
         float: left;
-        background: $blue-interactive-accent;
+        // background: $blue-interactive-accent;
         position: fixed;
         width: 50%;
 
         .main {
             margin-left: auto;
 
-            .excerpt .meta>* {
-                border-color: $blue-interactive-foreground;
-            }
+            // .excerpt .meta>* {
+            //     border-color: $blue-interactive-foreground;
+            // }
         }
 
         h2 {
