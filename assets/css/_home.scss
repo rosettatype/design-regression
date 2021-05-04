@@ -9,7 +9,7 @@
     border-bottom: $border;
     border-color: $blue-interactive-highlight;
     position: absolute;
-    left: -5vw;
+    left: -$gutter;
     width: 50vw;
     bottom: 0;
 }
