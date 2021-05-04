@@ -107,7 +107,7 @@ We timed responses and recorded accuracy for both tasks and the two tasks were r
 
 ## Details of the words and non-words
 
-We generated a large pool of items, words and non-words, using [MCWord: An Orthographic Wordform Database](http://www.neuro.mcw.edu/mcword/).The parameters we selected were:
+We generated a large pool of items, words and non-words, using [MCWord: An Orthographic Wordform Database](http://www.neuro.mcw.edu/mcword/). The parameters we selected were:
 
 - 5–11 letter items
 - word frequencies between 50 and 3000 which result in words that have a similar level of difficulty and are not too obscure
@@ -123,7 +123,7 @@ We had 97 participants in this study. We grouped the various categories of desig
 
 ### Disfluency
 
-In terms of judgments, all participants judged Sans Forgetica as less legible than [Arial](#sn:stats-1).<span class="sidenotemark">9</span> We felt it was important to include this judgment as not all previous studies have checked that their participants make the same judgments of legibility as the researchers. Also, all participants thought they would be better at remembering items in Arial than in [Sans Forgetica](#sn:stats-2).
+In terms of judgments, all participants judged Sans Forgetica as less legible than [Arial](#sn:stats-1). We felt it was important to include this judgment as not all previous studies have checked that their participants make the same judgments of legibility as the researchers. Also, all participants thought they would be better at remembering items in Arial than in [Sans Forgetica](#sn:stats-2).
 
 In the two tasks, all participants responded more slowly to items in Sans Forgetica than items in [Arial](#sn:stats-3). However, across all participants, there were no differences in accuracy of responses to Arial and Sans Forgetica in [either task](#sn:stats-4).
 
