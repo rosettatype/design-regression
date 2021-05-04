@@ -73,7 +73,7 @@ article {
         }
 
         &:after {
-            @include font-mono(20px, $weight: 450);
+            @include font-mono(16px, $weight: 450);
             
             counter-increment: markers;
             content: counter(markers);
@@ -81,7 +81,7 @@ article {
             line-height: inherit !important;
             position: relative;
             top: -0.2em;
-            font-feature-settings: "ss10"1;
+            font-feature-settings: "ss12"1;
             display: inline-block;
             padding: 0.05em 0 0.05em;
             margin: 0 0.15em;
@@ -107,14 +107,14 @@ article {
 
         // The (1) in the <aside id="sn:..." that holds the sidenote text
         &[id^="sn:"]:before {
-            @include font-mono(20px, $weight: 700);
+            @include font-mono(16px, $weight: 700);
 
             counter-increment: sidenotes;
             content: counter(sidenotes);
 
             position: relative;
             top: 0.1em;
-            font-feature-settings: "ss11"1;
+            font-feature-settings: "ss13"1;
             padding: 0;
             margin: 0 0.25em 0 0;
             display: inline-block;
