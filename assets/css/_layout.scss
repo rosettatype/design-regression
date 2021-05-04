@@ -204,6 +204,10 @@ aside#note {
     aside {
         border-left: $border;
         width: 33%;
+
+        p+p {
+            margin-top: 2rem;
+        }
     }
 }
 
