@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring disfluency: Are designers too sensitive to harder-to-read typefaces?"
-date: 2021-02-05 11:16:57
+date: 2021-05-18 16:00:00
 categories:
     - Research
 authors:

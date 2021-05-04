@@ -65,3 +65,6 @@ permalink: /:categories/:title
 collections:
   authors:
     output: false
+
+# Show articles with future date
+future: true

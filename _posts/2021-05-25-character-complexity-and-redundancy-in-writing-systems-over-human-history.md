@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Character complexity and redundancy in writing systems over human history
-date: 2021-02-05 11:16:57
+date: 2021-05-25 10:00:00
 categories:
     - Review
 authors:
@@ -9,6 +9,8 @@ authors:
 editor:
 readingtime: 5 min read
 theme: red
+intro: A review of the 2005 paper by Mark A. Changizi and Shinsuke Shimojo exploring attributes shared across world’s scripts
+published: false
 ---
 
 ## Publication
