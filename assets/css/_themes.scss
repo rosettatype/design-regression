@@ -59,7 +59,7 @@
         border-color: $foreground;
         background-color: $background;
     }
-    
+
     .boxchart,
     .barchart {
         border-color: $foreground;
@@ -89,7 +89,7 @@
 
         .main {
             @include mobile {
-                #newsletter {
+                #footer-newsletter {
                     border-color: $foreground;
                 }
             }
@@ -98,7 +98,7 @@
 
     &.split .footer .main {
         @include mobile {
-            #newsletter {
+            #footer-newsletter {
                 border-color: $highlight;
             }
         }
@@ -144,6 +144,37 @@
     // Blockquotes
     article main blockquote {
         border-left: 1px solid $foreground;
+    }
+
+    // Frontpage styling
+    &.split {
+        #featured {
+            background: $highlight;
+
+            .main {
+                .excerpt .meta>* {
+                    border-color: $highlight;
+                }
+            }
+        }
+
+        main .main .excerpt:after {
+            border-color: $highlight;
+        }
+
+        .main .footer #newsletter:before,
+        .main .footer aside:before {
+            border-color: $highlight;
+        }
+    }
+
+    // Nav menu
+    nav {
+        background: $accent;
+
+        #menu-wrapper a:hover:after {
+            background-color: $interactive;
+        }
     }
 }
 

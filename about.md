@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: About
 permalink: /about/
 ---
@@ -14,7 +14,7 @@ Design Regression was founded by a group of people connected with the University
 
 If you would like to contribute, contact us at <designregression@pm.me> with an abstract of 500 words. You can even send a draft of an article that has been waiting in your drawer. We aim at high standards of writing and plan to offer a small honorarium in exchange for limited exclusivity.
 
-David Březina  
-Andrea Churchill Wong  
-Mary Dyson  
-Matthew Lickiss  
+_David Březina_<br>
+_Andrea Churchill Wong_<br>
+_Mary Dyson_<br>
+_Matthew Lickiss_<br>

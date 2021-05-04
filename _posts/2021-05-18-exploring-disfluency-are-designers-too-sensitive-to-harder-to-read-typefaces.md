@@ -16,19 +16,19 @@ This is a report of our study which we conducted online in the early part of 201
 
 ## Why did we do this research?
 
-There are two main reasons why we were compelled to conduct the study. The first reason was the media attention on harder-to-read typefaces. This began in 2010 when a BBC news item reported on an academic paper about to be published by Diemand-Yauman et al., (2011): [Making things hard to read can ‘boost learning’](https://www.bbc.co.uk/news/world-11573666) (Hebblethwaite , 2010). Another article, this time in the Guardian newspaper in 2018, reported on the development of a new font: [Font of all knowledge? Researchers develop typeface they say can boost memory](https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory) (Martin, 2018). These two articles hint at a problem for design practice as the principles of human-centred typography generally suggest that easier-to-read documents are better for readers.
+There are two main reasons why we were compelled to conduct the study. The first reason was the media attention on harder-to-read typefaces. This began in 2010 when a BBC news item reported on an academic paper about to be published by Diemand-Yauman et al., ([2011](#ref:diemand-yauman-2011)): [Making things hard to read can ‘boost learning’](https://www.bbc.co.uk/news/world-11573666) ([Hebblethwaite , 2010](#ref:hebblethwaite-2010)). Another article, this time in the Guardian newspaper in 2018, reported on the development of a new font: [Font of all knowledge? Researchers develop typeface they say can boost memory](https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory) ([Martin, 2018](#ref:martin-2018)). These two articles hint at a problem for design practice as the principles of human-centred typography generally suggest that easier-to-read documents are better for readers.
 
 The second reason was our shared interest in what happens to people’s perceptions after they receive design training. Designers, type designers, and typographers in particular, deal with fine details in letter shapes in their practice. This might influence their responses to harder-to-read typefaces.
 
 ### Existing academic research on disfluency
 
-The initial research (Diemand-Yauman et al., 2011) which suggests that hard-to-read fonts can improve memory or learning uses _disfluency theory_ as an explanation. The theory states that when we perceive that something is harder to read, we put in more effort and the greater effort helps us learn the material by processing it more deeply.
+The initial research ([Diemand-Yauman et al., 2011](#ref:diemand-yauman-2011)) which suggests that hard-to-read fonts can improve memory or learning uses _disfluency theory_ as an explanation. The theory states that when we perceive that something is harder to read, we put in more effort and the greater effort helps us learn the material by processing it more deeply.
 
-Disfluency theory draws on principles of psychology first written about by James (1890/1950) which introduced two processing systems: one is quick, effortless, and intuitive; a second is slow, effortful, analytic, and deliberate which can lead to better learning. According to this theory, even if the content is simple, we may be tricked into using the second processing system by using a hard-to-read font (Alter et al., 2007; Rummer et al., 2016).
+Disfluency theory draws on principles of psychology first written about by James ([1890/1950](#ref:james-1950)) which introduced two processing systems: one is quick, effortless, and intuitive; a second is slow, effortful, analytic, and deliberate which can lead to better learning. According to this theory, even if the content is simple, we may be tricked into using the second processing system by using a hard-to-read font ([Alter et al., 2007](#ref:alter-2007); [Rummer et al., 2016](#ref:rummer-2016)).
 
 ### Existing academic research on differences due to training
 
-Comparisons of designers and non-designers have shown that the two groups differ in their judgments of the semantic qualities of typefaces (Bartram, 1982). Designers appear to develop qualitative differences in perceptual abilities due to training (Dyson, 2011; Dyson & Stott, 2012), as do musicians (Burns & Ward, 1978). For example, typographers appear to attend to configural properties of characters such as the relative position of thick and thin strokes, and do not just abstract properties required for letter identification (Dyson & Stott, 2012). The level of expertise with reading an alphabet has also been shown to affect the processing of visual features of characters (Wiley et al., 2016).
+Comparisons of designers and non-designers have shown that the two groups differ in their judgments of the semantic qualities of typefaces ([Bartram, 1982](#ref:bartram-1982)). Designers appear to develop qualitative differences in perceptual abilities due to training ([Dyson, 2011](#ref:dyson-2011); [Dyson & Stott, 2012](#ref:dyson-2012)), as do musicians ([Burns & Ward, 1978](#ref:burns-1978)). For example, typographers appear to attend to configural properties of characters such as the relative position of thick and thin strokes, and do not just abstract properties required for letter identification ([Dyson & Stott, 2012](#ref:dyson-2012)). The level of expertise with reading an alphabet has also been shown to affect the processing of visual features of characters ([Wiley et al., 2016](#ref:wiley-2016)).
 
 ## Our research questions
 
@@ -173,34 +173,27 @@ We have made the data and study website available on [GitHub](https://github.com
 
 ## Notes
 
-<aside id="sn:repetitions">
-There is a tension between increasing the number of repetitions of a task to increase reliability and participants losing interest and responding randomly or giving up before the end.
+<aside id="sn:repetitions">There is a tension between increasing the number of repetitions of a task to increase reliability and participants losing interest and responding randomly or giving up before the end.
 </aside>
 
-<aside id="sn:distractions">
-Any distractions could affect response times and accuracy of answers. We were able to deal with abnormally long times to respond and acknowledge that there will be some inaccurate responses due to inattention.
+<aside id="sn:distractions">Any distractions could affect response times and accuracy of answers. We were able to deal with abnormally long times to respond and acknowledge that there will be some inaccurate responses due to inattention.
 </aside>
 
-<aside id="sn:fonts">
-Arial was chosen as it is widely used and bundled with Windows OS; Sans Forgetica was chosen as the font <a href="https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory">specifically designed to boost memory</a>, as described in the newspaper article by Martin (2018).
+<aside id="sn:fonts">Arial was chosen as it is widely used and bundled with Windows OS; Sans Forgetica was chosen as the font <a href="https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory">specifically designed to boost memory</a>, as described in the newspaper article by Martin (<a href="#ref:martin-2018">2018</a>).
 </aside>
 
-<aside id="sn:background">
-To check whether fluency may have any effect and to sort participants into categories of designers and non-designers.</aside>
+<aside id="sn:background">To check whether fluency may have any effect and to sort participants into categories of designers and non-designers.</aside>
 
 <aside id="sn:alternatives">This 4-point scale enables us to calculate a measure (AUC) which reflects the participant’s sensitivity. This determines how well they can differentiate between words and non-words, and is free of response bias, such as responding word most of the time.
 </aside>
 
-<aside id="sn:jom">
-This is commonly referred to as a Judgment of Learning in the literature, but we use the term Judgment of Memory to distinguish it from our second judgment, the Judgment of Legibility; it also reflects the wording of the instructions.
+<aside id="sn:jom">This is commonly referred to as a Judgment of Learning in the literature, but we use the term Judgment of Memory to distinguish it from our second judgment, the Judgment of Legibility; it also reflects the wording of the instructions.
 </aside>
 
-<aside id="sn:tasks">
-We decided that participants would do the tasks with both fonts, which might lead to a more sensitive measure of differences between the two fonts. Half the participants started with one font and half with the other font to control for order effects.
+<aside id="sn:tasks">We decided that participants would do the tasks with both fonts, which might lead to a more sensitive measure of differences between the two fonts. Half the participants started with one font and half with the other font to control for order effects.
 </aside>
 
-<aside id="sn:same-letter">
-By piloting the study, we determined that the foils needed to be quite similar to the items that had been seen as otherwise the recognition task would be too easy.
+<aside id="sn:same-letter">By piloting the study, we determined that the foils needed to be quite similar to the items that had been seen as otherwise the recognition task would be too easy.
 </aside>
 
 <aside id="sn:stats-1">F(1, 93)=364.62, p&lt;0.001</aside>
@@ -226,24 +219,34 @@ By piloting the study, we determined that the foils needed to be quite similar t
 ## References
 
 Alter, A. L., Oppenheimer, D. M., Epley, N., & Eyre, R. N. (2007). Overcoming intuition: Metacognitive difficulty activates analytic reasoning. *Journal of Experimental Psychology: General*, *136*, 569–576. [https://doi.org/10.1037/0096-3445.136.4.569](https://doi.org/10.1037/0096-3445.136.4.569)
+{: id="ref:alter-2007"}
 
 Bartram, D. (1982). The perception of semantic quality in type: Differences between designers and non-designers. *Information Design Journal*, *3(1)*, 38–50. [https://doi.org/10.1075/idj.3.1.04bar](https://doi.org/10.1075/idj.3.1.04bar)
+{: id="ref:bartram-1982"}
 
 Burns, E.M., &  Ward, W.D. (1978). Categorical perception—phenomenon or epiphenomenon: Evidence from experiments in the perception of melodic intervals. *Journal of the Acoustical Society of America*, *63(2)*, 456–468. [https://doi.org/10.1121/1.381737](https://doi.org/10.1121/1.381737)
+{: id="ref:burns-1978"}
 
 Diemand-Yauman, C., Oppenheimer, D.M., & Vaughan, E.B. (2011). Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes. *Cognition*, *118(1)*, 111–115. [https://doi.org/10.1016/j.cognition.2010.09.012](https://doi.org/10.1016/j.cognition.2010.09.012)
+{: id="ref:diemand-yauman-2011"}
 
 Dyson, M.C. (2011). Do designers show categorical perception of typefaces? *Visible Language*, *45(3)*, 193–220. [https://visiblelanguage.herokuapp.com/issue/153](https://visiblelanguage.herokuapp.com/issue/153)
+{: id="ref:dyson-2011"}
 
 Dyson, M.C., & Stott, C.A. (2012). Characterizing typographic expertise: Do we process typefaces like faces? *Visual Cognition*, *20(9)*, 1082–1094. [https://doi.org/10.1080/13506285.2012.722568](https://doi.org/10.1080/13506285.2012.722568)
+{: id="ref:dyson-2012"}
 
 Hebblethwaite, C. BBC News (22 October 2010). Making things hard to read ‘can boost learning’. [https://www.bbc.co.uk/news/world-11573666](https://www.bbc.co.uk/news/world-11573666) Accessed 29 April 2020.
+{: id="ref:hebblethwaite-2010"}
 
 James, W. (1950). *The principles of psychology.* Dover. First published 1890.
+{: id="ref:james-1950"}
 
 Martin, L. The Guardian (4 October 2018). Font of all knowledge? Researchers develop typeface they say can boost memory. [https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory](https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory)  Accessed 29 April 2020.
+{: id="ref:martin-2018"}
 
 Rummer, R., Schweppe, J., & Schwede, A. (2016). Fortune is fickle: Null-effects of disfluency on learning outcomes. *Metacognition and Learning*, *11(1)*, 57–70. [https://doi.org/10.1007/s11409-015-9151-5](https://doi.org/10.1007/s11409-015-9151-5)
+{: id="ref:rummer-2016"}
 
 Wiley, R.W., Wilson, C., & Rapp, B. (2016). The effects of alphabet and expertise on letter perception. *Journal of Experimental Psychology: Human Perception and Performance*, *42(8)*, 1186–1203. [https://doi.org/10.1037/xhp0000213](https://doi.org/10.1037/xhp0000213 )
-
+{: id="ref:wiley-2016"}

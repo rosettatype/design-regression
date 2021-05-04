@@ -77,6 +77,10 @@
 
 @mixin text-sidenote {
     @include font-mono(12px, 1.7);
+
+    @include mobile {
+        @include font-text(14px, 1.7);
+    }
 }
 
 @mixin text-code {

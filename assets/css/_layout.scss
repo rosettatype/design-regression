@@ -117,6 +117,8 @@ article .header,
 
     #byline-close {
         display: none;
+        line-height: 1;
+        top: -7px;
     }
 }
 
@@ -204,15 +206,19 @@ aside#note {
     aside {
         border-left: $border;
         width: 33%;
+
+        p+p {
+            margin-top: 2rem;
+        }
     }
 }
 
-#newsletter {
+// Shared styling for footer & menu newsletter signup
+.newsletter {
     display: flex;
     justify-content: flex-start;
     margin-right: auto;
     flex-grow: 0.5;
-    padding-left: 0;
 
     form {
         display: flex;
@@ -242,13 +248,12 @@ aside#note {
     }
 
     @include mobile {
-
         border-bottom: $border;
-        margin-right: -$gutter/2;
-        margin-left: -$gutter/2;
-        display: flex;
-        flex-wrap: wrap;
-        padding: 3.5rem 1rem;
+
+        form {
+            display: flex;
+            flex-wrap: wrap;
+        }
 
         input {
             border-radius: 2px;
@@ -264,9 +269,28 @@ aside#note {
 
         input,
         button {
+            display: block;
+        }
+    }
+}
+
+#footer-newsletter {
+    padding-left: 0;
+
+    @include mobile {
+        margin-right: -$gutter/2;
+        margin-left: -$gutter/2;
+        padding: 3.5rem 1rem !important;
+
+        input,
+        button {
             margin: 0.75em $gutter/2;
         }
     }
+}
+
+#menu-newsletter {
+    margin-top: 2.5rem;
 }
 
 

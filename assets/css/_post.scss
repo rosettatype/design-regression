@@ -105,7 +105,7 @@ article {
             @include font-mono-italic;
         }
 
-        // .sidenotemark {
+        // The (1) in the <aside id="sn:..." that holds the sidenote text
         &[id^="sn:"]:before {
             @include font-mono(20px, $weight: 700);
 
@@ -128,6 +128,10 @@ article {
         // &.flash {
         //     color: red;
         // }
+    }
+
+    a[href^="#ref:"] {
+        text-decoration: underline;
     }
 
     aside.meta {
@@ -360,6 +364,7 @@ article {
 
 }
 
+#notes,
 #footnotes {
     display: none;
 
