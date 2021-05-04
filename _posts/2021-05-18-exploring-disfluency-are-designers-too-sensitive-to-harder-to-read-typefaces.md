@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Exploring disfluency: Are designers too sensitive to harder-to-read typefaces?"
-date: 2021-02-05 11:16:57
+date: 2021-05-18 16:00:00
 categories:
     - Research
 authors:
     - Mary Dyson
     - David Březina
-editor:
 readingtime: 14 min read
 theme: red
 intro: We conducted an online study to see if designers respond in a different way to non-designers to a less legible typeface (Sans Forgetica), exploring judgments and memory.
@@ -17,19 +16,19 @@ This is a report of our study which we conducted online in the early part of 201
 
 ## Why did we do this research?
 
-There are two main reasons why we were compelled to conduct the study. The first reason was the media attention on harder-to-read typefaces. This began in 2010 when a BBC news item reported on an academic paper about to be published by Diemand-Yauman et al., (2011): [Making things hard to read can ‘boost learning’](https://www.bbc.co.uk/news/world-11573666) (Hebblethwaite , 2010). Another article, this time in the Guardian newspaper in 2018, reported on the development of a new font: [Font of all knowledge? Researchers develop typeface they say can boost memory](https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory) (Martin, 2018). These two articles hint at a problem for design practice as the principles of human-centred typography generally suggest that easier-to-read documents are better for readers.
+There are two main reasons why we were compelled to conduct the study. The first reason was the media attention on harder-to-read typefaces. This began in 2010 when a BBC news item reported on an academic paper about to be published by Diemand-Yauman et al., (2011): [Making things hard to read can ‘boost learning’](https://www.bbc.co.uk/news/world-11573666) (Hebblethwaite , 2010). Another article, this time in the Guardian newspaper in 2018, reported on the development of a new font: [Font of all knowledge? Researchers develop typeface they say can boost memory](https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory) (Martin, 2018). These two articles hint at a problem for design practice as the principles of human-centred typography generally suggest that easier-to-read documents are better for readers.
 
 The second reason was our shared interest in what happens to people’s perceptions after they receive design training. Designers, type designers, and typographers in particular, deal with fine details in letter shapes in their practice. This might influence their responses to harder-to-read typefaces.
 
 ### Existing academic research on disfluency
 
-The initial research (Diemand-Yauman et al., 2011) which suggests that hard-to-read fonts can improve memory or learning uses _disfluency theory_ as an explanation. The theory states that when we perceive that something is harder to read, we put in more effort and the greater effort helps us learn the material by processing it more deeply.
+The initial research (Diemand-Yauman et al., 2011) which suggests that hard-to-read fonts can improve memory or learning uses _disfluency theory_ as an explanation. The theory states that when we perceive that something is harder to read, we put in more effort and the greater effort helps us learn the material by processing it more deeply.
 
-Disfluency theory draws on principles of psychology first written about by James (1890/1950) which introduced two processing systems: one is quick, effortless, and intuitive; a second is slow, effortful, analytic, and deliberate which can lead to better learning. According to this theory, even if the content is simple, we may be tricked into using the second processing system by using a hard-to-read font (Alter et al., 2007; Rummer et al., 2016).
+Disfluency theory draws on principles of psychology first written about by James (1890/1950) which introduced two processing systems: one is quick, effortless, and intuitive; a second is slow, effortful, analytic, and deliberate which can lead to better learning. According to this theory, even if the content is simple, we may be tricked into using the second processing system by using a hard-to-read font (Alter et al., 2007; Rummer et al., 2016).
 
 ### Existing academic research on differences due to training
 
-Comparisons of designers and non-designers have shown that the two groups differ in their judgments of the semantic qualities of typefaces (Bartram, 1982). Designers appear to develop qualitative differences in perceptual abilities due to training (Dyson, 2011; Dyson & Stott, 2012), as do musicians (Burns & Ward, 1978). For example, typographers appear to attend to configural properties of characters such as the relative position of thick and thin strokes, and do not just abstract properties required for letter identification (Dyson & Stott, 2012). The level of expertise with reading an alphabet has also been shown to affect the processing of visual features of characters (Wiley et al., 2016).
+Comparisons of designers and non-designers have shown that the two groups differ in their judgments of the semantic qualities of typefaces (Bartram, 1982). Designers appear to develop qualitative differences in perceptual abilities due to training (Dyson, 2011; Dyson & Stott, 2012), as do musicians (Burns & Ward, 1978). For example, typographers appear to attend to configural properties of characters such as the relative position of thick and thin strokes, and do not just abstract properties required for letter identification (Dyson & Stott, 2012). The level of expertise with reading an alphabet has also been shown to affect the processing of visual features of characters (Wiley et al., 2016).
 
 ## Our research questions
 
@@ -38,7 +37,7 @@ Comparisons of designers and non-designers have shown that the two groups differ
 
 ## Constraints on our study
 
-For practical reasons, we chose to do our study online which introduced various constraints. We needed to use tasks where the responses were simple and involved selecting from alternatives, rather than inputting words etc. We aimed at tasks which would take a maximum time of around [10 minutes](#sn:repetitions). We hope that this means participants kept their attention on the [task at hand](#sn:distractions).
+For practical reasons, we chose to do our study online which introduced various constraints. We needed to use tasks where the responses were simple and involved selecting from alternatives, rather than inputting words etc. We aimed at tasks which would take a maximum time of around [10 minutes.](#sn:repetitions) We hope that this means participants kept their attention on the [task at hand.](#sn:distractions)
 
 Previous studies of disfluency have measured difficulty in two ways:
 
@@ -47,15 +46,15 @@ Previous studies of disfluency have measured difficulty in two ways:
 
 ## What we did
 
-To address our two research questions, we obtained participants’ judgments of legibility and of memory, and measured the speed and accuracy of identifying and remembering words.
+To address our two research questions, we obtained participants’ judgments of legibility and of memory, and measured the speed and accuracy of identifying and remembering words.
 
 We accept that our study does not reflect ‘normal reading’ but is a first step towards exploring potential differences between designers and non-designers in the context of disfluency theory.
 
-We used two fonts: [Arial and Sans Forgetica](#sn:fonts). Participants were invited through posts on Twitter and we also used Twitter ads to increase the number of people who would see the call.
+We used two fonts: [Arial and Sans Forgetica.](#sn:fonts) Participants were invited through posts on Twitter and we also used Twitter ads to increase the number of people who would see the call.
 
 ### Introduction
 
-Before they started, we asked participants whether they are a fluent English speaker and their professional [background](#sn:background). For the latter we provided the categories:
+Before they started, we asked participants whether they are a fluent English speaker and their professional [background.](#sn:background) For the latter we provided the categories:
 
 - not a designer
 - graphic designer
@@ -74,11 +73,11 @@ This was a lexical decision task (see Figure 1) which consisted of a sequence of
 
 ![Example screen of the lexical decision task using Arial (Task 1)](/assets/2021-02-05-exploring-disfluency/study-screenshot_task-1.png){: .browser}
 
-**Figure 1:** example screen of the lexical decision task using Arial (Task 1)
+<figcaption><strong>Figure 1:</strong> example screen of the lexical decision task using Arial (Task 1)</figcaption>
 
 ### Intervening questionnaire
 
-In between the first and second task they are asked to make two judgments (see Figure 2). The first is how well they remembered the items on a scale from 0 (I do not remember any) to 100 (I can remember everything). We refer to this as a Judgment of Memory [(JoM)](#sn:jom). The second is a Judgment of Legibility (JoL) of the font used in the lexical decision task, using the scale:
+In between the first and second task they are asked to make two judgments (see Figure 2). The first is how well they remembered the items on a scale from 0 (I do not remember any) to 100 (I can remember everything). We refer to this as a Judgment of Memory [(JoM).](#sn:jom) The second is a Judgment of Legibility (JoL) of the font used in the lexical decision task, using the scale:
 
 - very easy to read
 - easy to read
@@ -88,7 +87,7 @@ In between the first and second task they are asked to make two judgments (see F
 
 ![Two judgments following the lexical decision task](/assets/2021-02-05-exploring-disfluency/study-screenshot_intervening-questionnaire.png){: .browser}
 
-**Figure 2:** two judgments following the lexical decision task
+<figcaption><strong>Figure 2:</strong> two judgments following the lexical decision task</figcaption>
 
 ### Task 2
 
@@ -99,11 +98,11 @@ This was a recognition task which involved a sequence of 16 screens where the pa
 - probably not seen
 - sure not seen
 
-We timed responses and recorded accuracy for both tasks and the two tasks were repeated; a different font was used for the second pair of [tasks](#sn:tasks).
+We timed responses and recorded accuracy for both tasks and the two tasks were repeated; a different font was used for the second pair of [tasks.](#sn:tasks)
 
 ![Example screen of the recognition task using Arial (Task 2)](/assets/2021-02-05-exploring-disfluency/study-screenshot_task-2.png){: .browser}
 
-**Figure 3:** example screen of the recognition task using Arial (Task 2)
+<figcaption><strong>Figure 3:</strong> example screen of the recognition task using Arial (Task 2)</figcaption>
 
 ## Details of the words and non-words
 
@@ -113,7 +112,7 @@ We generated a large pool of items, words and non-words, using [MCWord: An Ortho
 - word frequencies between 50 and 3000 which result in words that have a similar level of difficulty and are not too obscure
 - non-words as constrained tri-gram strings, making the non-words word-like.
 
-From this pool we took out proper names and very similar words, e.g. both singular and plural would not be used. In the lexical decision task, each participant received a unique set of 10 words and 10 non-words which were randomly picked from the pool. For the recognition task, we matched each item (word or non-word) with a foil (a similar item which had not been seen) starting with the [same letter](#sn:same-letter). We measured recognition by using four words and four non-words from the lexical decision task, i.e. items participants would have seen, and eight foils for other seen items, i.e. items that were similar, but not seen.
+From this pool we took out proper names and very similar words, e.g. both singular and plural would not be used. In the lexical decision task, each participant received a unique set of 10 words and 10 non-words which were randomly picked from the pool. For the recognition task, we matched each item (word or non-word) with a foil (a similar item which had not been seen) starting with the [same letter.](#sn:same-letter) We measured recognition by using four words and four non-words from the lexical decision task, i.e. items participants would have seen, and eight foils for other seen items, i.e. items that were similar, but not seen.
 
 ## Our participants
 
@@ -123,13 +122,13 @@ We had 97 participants in this study. We grouped the various categories of desig
 
 ### Disfluency
 
-In terms of judgments, all participants judged Sans Forgetica as less legible than [Arial](#sn:stats-1). We felt it was important to include this judgment as not all previous studies have checked that their participants make the same judgments of legibility as the researchers. Also, all participants thought they would be better at remembering items in Arial than in [Sans Forgetica](#sn:stats-2).
+In terms of judgments, all participants judged Sans Forgetica as less legible than [Arial.](#sn:stats-1) We felt it was important to include this judgment as not all previous studies have checked that their participants make the same judgments of legibility as the researchers. Also, all participants thought they would be better at remembering items in Arial than in [Sans Forgetica.](#sn:stats-2)
 
-In the two tasks, all participants responded more slowly to items in Sans Forgetica than items in [Arial](#sn:stats-3). However, across all participants, there were no differences in accuracy of responses to Arial and Sans Forgetica in [either task](#sn:stats-4).
+In the two tasks, all participants responded more slowly to items in Sans Forgetica than items in [Arial.](#sn:stats-3) However, across all participants, there were no differences in accuracy of responses to Arial and Sans Forgetica in [either task.](#sn:stats-4)
 
 ### Designers and non-designers
 
-There was a greater difference between judgments of memory for Arial and Sans Forgetica in designers than non-designers ([see Figure 4](#sn:stats-5)), supporting our hypothesis that designers are more sensitive to differences in fonts (see Figure 4). We also found an unexpected general difference between the two groups. In both lexical decision and recognition, designers responded more quickly than [non-designers](#sn:stats-6).
+There was a greater difference between judgments of memory for Arial and Sans Forgetica in designers than [non-designers](#sn:stats-5) (see Figure 4), supporting our hypothesis that designers are more sensitive to differences in fonts (see Figure 4). We also found an unexpected general difference between the two groups. In both lexical decision and recognition, designers responded more quickly than [non-designers.](#sn:stats-6)
 
 <div class="barchart"
     data-name="Judgement of Memory"
@@ -139,11 +138,11 @@ There was a greater difference between judgments of memory for Arial and Sans Fo
     data-errors="2.75,3.28;3.171,3.084"
     ></div>
 
-**Figure 4:** Judgments of Memory for the two fonts with greater difference in judgments by designers.
+<figcaption><strong>Figure 4:</strong> Judgments of Memory for the two fonts with greater difference in judgments by designers.</figcaption>
 
 ### Words vs non-words
 
-Although the study was not specifically aimed at comparing words and non-words, some interesting differences emerged. Responses to words were faster than non-words for [both tasks](#sn:stats-7),which is known as a _lexicality effect_. However, there was also a difference between the two fonts in the lexical decision task: non-words slow participants down even more in Sans Forgetica than in Arial ([see Figure 5](#sn:stats-8)). A result that seems initially to be counter-intuitive is that non-words were remembered better than words in [both fonts](#sn:stats-9).
+Although the study was not specifically aimed at comparing words and non-words, some interesting differences emerged. Responses to words were faster than non-words for [both tasks](#sn:stats-7), which is known as a _lexicality effect_. However, there was also a difference between the two fonts in the lexical decision task: non-words slow participants down even more in Sans Forgetica than in [Arial](#sn:stats-8) (see Figure 5). A result that seems initially to be counter-intuitive is that non-words were remembered better than words in [both fonts.](#sn:stats-9)
 
 <div class="barchart"
     data-name="Response time"
@@ -154,7 +153,7 @@ Although the study was not specifically aimed at comparing words and non-words, 
     data-offset="7"
     ></div>
 
-**Figure 5:** responses to non-words are slower than words and particularly in Sans Forgetica. Response times in milliseconds have been transformed using the natural logarithm to be suitable for statistical analysis. 
+<figcaption><strong>Figure 5:</strong> responses to non-words are slower than words and particularly in Sans Forgetica. Response times in milliseconds have been transformed using the natural logarithm to be suitable for statistical analysis.</figcaption>
 
 ## What do these results tell us?
 
@@ -162,7 +161,7 @@ Sans Forgetica is considered harder to read and slows down reading. Non-words in
 
 Despite the differences in legibility between typefaces, which are recognised by all participants, accuracy of responses was not affected. Sans Forgetica items were not easier to remember in the recognition task which provides no support for disfluency theory, i.e. that greater effort helps us learn the material by processing it more deeply. However, non-words were better remembered. One explanation for this is that non-words stand out more in the lexical decision task because they are not confused with the many words we already know. This focus of our attention helps in subsequent recognition.
 
-Designers’ approach to the tasks may have been slightly different from non-designers’ given their faster responses throughout the study. The method used to recruit participants, initially through invitation directed at designers, may have contributed to their greater commitment.
+Designers’ approach to the tasks may have been slightly different from non-designers’ given their faster responses throughout the study. The method used to recruit participants, initially through invitation directed at designers, may have contributed to their greater commitment.
 
 ## Some implications for practice
 
@@ -171,33 +170,33 @@ A less legible font, such as Sans Forgetica, may slow down deciphering a message
 ## Footnotes
 
 <aside id="sn:repetitions">
-There is a tension between increasing the number of repetitions of a task to increase reliability and participants losing interest and responding randomly or giving up before the end.
+There is a tension between increasing the number of repetitions of a task to increase reliability and participants losing interest and responding randomly or giving up before the end.
 </aside>
 
 <aside id="sn:distractions">
-Any distractions could affect response times and accuracy of answers. We were able to deal with abnormally long times to respond and acknowledge that there will be some inaccurate responses due to inattention.
+Any distractions could affect response times and accuracy of answers. We were able to deal with abnormally long times to respond and acknowledge that there will be some inaccurate responses due to inattention.
 </aside>
 
 <aside id="sn:fonts">
-Arial was chosen as it is widely used and bundled with Windows OS; Sans Forgetica was chosen as the font <a href="https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory">specifically designed to boost memory</a>, as described in the newspaper article by Martin (2018).
+Arial was chosen as it is widely used and bundled with Windows OS; Sans Forgetica was chosen as the font <a href="https://www.theguardian.com/artanddesign/2018/oct/04/font-of-all-knowledge-researchers-develop-typeface-they-say-can-boost-memory">specifically designed to boost memory</a>, as described in the newspaper article by Martin (2018).
 </aside>
 
 <aside id="sn:background">
-To check whether fluency may have any effect and to sort participants into categories of designers and non-designers.</aside>
+To check whether fluency may have any effect and to sort participants into categories of designers and non-designers.</aside>
 
-<aside id="sn:alternatives">This 4-point scale enables us to calculate a measure (AUC) which reflects the participant’s sensitivity. This determines how well they can differentiate between words and non-words, and is free of response bias, such as responding word most of the time.
+<aside id="sn:alternatives">This 4-point scale enables us to calculate a measure (AUC) which reflects the participant’s sensitivity. This determines how well they can differentiate between words and non-words, and is free of response bias, such as responding word most of the time.
 </aside>
 
 <aside id="sn:jom">
-This is commonly referred to as a Judgment of Learning in the literature, but we use the term Judgment of Memory to distinguish it from our second judgment, the Judgment of Legibility; it also reflects the wording of the instructions.
+This is commonly referred to as a Judgment of Learning in the literature, but we use the term Judgment of Memory to distinguish it from our second judgment, the Judgment of Legibility; it also reflects the wording of the instructions.
 </aside>
 
 <aside id="sn:tasks">
-We decided that participants would do the tasks with both fonts, which might lead to a more sensitive measure of differences between the two fonts. Half the participants started with one font and half with the other font to control for order effects.
+We decided that participants would do the tasks with both fonts, which might lead to a more sensitive measure of differences between the two fonts. Half the participants started with one font and half with the other font to control for order effects.
 </aside>
 
 <aside id="sn:same-letter">
-By piloting the study, we determined that the foils needed to be quite similar to the items that had been seen as otherwise the recognition task would be too easy.
+By piloting the study, we determined that the foils needed to be quite similar to the items that had been seen as otherwise the recognition task would be too easy.
 </aside>
 
 <aside id="sn:stats-1">F(1, 93)=364.62, p&lt;0.001</aside>
@@ -218,7 +217,7 @@ By piloting the study, we determined that the foils needed to be quite similar t
 
 <aside id="sn:stats-9">F(1, 93)=7.97, p=0.006</aside>
 
-<aside id="sn:words">This is often described by linguists as a ‘mental lexicon’, but not all researchers agree on its existence, or how our knowledge of words is organised.</aside>
+<aside id="sn:words">This is often described by linguists as a ‘mental lexicon’, but not all researchers agree on its existence, or how our knowledge of words is organised.</aside>
 
 ## References
 

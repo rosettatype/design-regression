@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Character complexity and redundancy in writing systems over human history
-date: 2021-02-05 11:16:57
+date: 2021-05-25 10:00:00
 categories:
     - Review
 authors:
     - David Březina
-editor:
 readingtime: 5 min read
 theme: red
+intro: A review of the 2005 paper by Mark A. Changizi and Shinsuke Shimojo exploring attributes shared across world’s scripts
 ---
 
 ## Publication
@@ -30,15 +30,15 @@ Unfortunately, the description of the methodology in the paper is not sufficient
 - Chinese and Japanese scripts that make use of topologically complex characters are missing from the study. The authors state that “character and word levels are not cleanly separable” (p. 268). Why this is a problem with respect to character topology is not explained. Although, it is understandable that the authors would not want to tackle character sets as vast as the Chinese.
 - The decomposition is illustrated on skeletal forms of the uppercase from the Latin script. How was it conducted for other scripts and how were the skeletal forms obtained? The simplification process and choices among valid alternates are not discussed. For example: the more complex skeletal forms of “I” and “J” are used without any explanation; there is no explanation of the decomposition of joining scripts such as Arabic, Syriac, or many others where multiple characters join with a single stroke.
 
-![Illustration of the method for determining the number of strokes in a character. Figure taken from the reviewed paper.](/assets/2021-02-05-character-complexity-and-redundancy-in-writing-systems-over-human-history/character-decomposition.svg){: .outlined}
+![Illustration of the method for determining the number of strokes in a character. Figure taken from the reviewed paper.](/assets/2021-02-05-character-complexity-and-redundancy-in-writing-systems-over-human-history/character-decomposition.svg){: .outlined}
 
-**Figure 1:** illustration of the method for determining the number of strokes in a character. Figure taken from the reviewed paper.
+<figcaption><strong>Figure 1:</strong> illustration of the method for determining the number of strokes in a character. Figure taken from the reviewed paper.</figcaption>
 
 Admittedly, critical appreciation of scripts’ design becomes a gargantuan task when dealing with over one hundred of the world’s scripts, but with all these omissions can we still consider the data representative of the world’s scripts?
 
-There are 22 numeric scripts studied next to the 93 non-numeric scripts. The reported average number of strokes in a character is 1.95 (SEM = 0.14) for the numeric scripts. This shows that characters in numeric scripts tend to be topologically simpler. By itself, this is an interesting result.
+There are 22 numeric scripts studied next to the 93 non-numeric scripts. The reported average number of strokes in a character is 1.95 (SEM=0.14) for the numeric scripts. This shows that characters in numeric scripts tend to be topologically simpler. By itself, this is an interesting result.
 
-Considering the ease of reading to be the principle selective pressure on scripts, the conclusion puts forward several explanations for the surprising cross-script constants (numeric or not).These range from limits of short term memory and principles of character recognition to a visual-ecological explanation that characters’ topology match those found in objects in natural scenes which is explored further in a more recent paper (Changizi et al., 2006).
+Considering the ease of reading to be the principle selective pressure on scripts, the conclusion puts forward several explanations for the surprising cross-script constants (numeric or not).These range from limits of short term memory and principles of character recognition to a visual-ecological explanation that characters’ topology match those found in objects in natural scenes which is explored further in a more recent paper (Changizi et al., 2006).
 
 Universal grammar in languages provides grounds for the belief that people from distant parts of the planet are indeed quite similar, that they can ultimately understand each other, and learn each other’s languages. Despite the drawbacks regarding its methodology, the paper shows an exciting way to use statistical analysis to gain general insights regarding the way humans read and write.
 
