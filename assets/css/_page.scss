@@ -1,0 +1,12 @@
+
+.layout-page article {
+    margin-top: $gutter*2;
+
+    > * {
+        margin-bottom: 1em;
+    }
+
+    > p {
+        width: 100%;
+    }
+}

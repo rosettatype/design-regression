@@ -1,9 +1,10 @@
 {% include head.html %}
 
-<body class="theme-{% if page.theme %}{{ page.theme }}{% else %}blue{% endif %} page-{{ page.name | slugify }}">
+<body class="theme-{% if page.theme %}{{ page.theme }}{% else %}blue{% endif %} page-{{ page.name | slugify }} layout-{{ page.layout }}">
     
     {% include nav.html %}
     {% include header.html %}
+
     {{ content }}
 
     {% include footer.html %}
