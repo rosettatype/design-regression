@@ -167,6 +167,15 @@
             border-color: $highlight;
         }
     }
+
+    // Nav menu
+    nav {
+        background: $accent;
+
+        #menu-wrapper a:hover:after {
+            background-color: $interactive;
+        }
+    }
 }
 
 
