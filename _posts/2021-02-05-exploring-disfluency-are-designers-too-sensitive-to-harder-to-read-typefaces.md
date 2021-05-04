@@ -103,7 +103,7 @@ We timed responses and recorded accuracy for both tasks and the two tasks were r
 
 ![Example screen of the recognition task using Arial (Task 2)](/assets/2021-02-05-exploring-disfluency/study-screenshot_task-2.png){: .browser}
 
-**Figure 3:** example screen of the recognition task using Arial (Task 2)
+**Figure 3:** example screen of the recognition task using Arial (Task 2)
 
 ## Details of the words and non-words
 
