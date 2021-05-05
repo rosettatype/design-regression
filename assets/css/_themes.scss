@@ -44,6 +44,15 @@
     // Page logotype
     h1#title a {
         @include underline(4px, $foreground, $interactive);
+
+        @media screen and (max-width: 400px) {
+            &:after {
+                display: none;
+            }
+            text-decoration: underline;
+            text-underline-offset: 0.15em;
+            text-decoration-thickness: 4px;
+        }
     }
 
     // All meta tag boxes
@@ -106,6 +115,7 @@
 
     // links
     article a[href^=http],
+    article a[href^=mailto],
     .author-website a {
         // @include underline(1px, $foreground, $interactive);
         text-underline-offset: 0.25em;

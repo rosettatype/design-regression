@@ -121,6 +121,11 @@ article .header,
         line-height: 1;
         top: -7px;
     }
+
+    @include mobile {
+        position: absolute;
+        right: $gutter/2;
+    }
 }
 
 body.scrolled {

@@ -2,6 +2,12 @@
 .layout-page article {
     margin-top: $gutter*2;
 
+    > h1 {
+        @include heading-xl;
+        display: block;
+        width: 100%;
+    }
+
     > * {
         margin-bottom: 1em;
     }
