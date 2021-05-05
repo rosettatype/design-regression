@@ -56,11 +56,11 @@
 @mixin text-meta-large {
     @include font-mono(14px, 2, 500);
     line-height: 1.25em;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
 
     @include mobile {
         font-size: 13px;
-        letter-spacing: 0.06em;
         line-height: 1.5em;
     }
 }
@@ -68,6 +68,7 @@
 @mixin text-meta-small {
     @include text-meta-large;
     font-size: 12px;
+    letter-spacing: 0.04em;
 }
 
 @mixin text-label {
@@ -77,9 +78,11 @@
 
 @mixin text-sidenote {
     @include font-mono(12px, 1.7);
+    letter-spacing: 0.04em;
 
     @include mobile {
         @include font-text(14px, 1.7);
+        letter-spacing: initial;
     }
 }
 
@@ -140,11 +143,20 @@ h1#title {
     }
 }
 
+.header-menu .byline,
 .byline {
+    // @include text-meta-large;
+    @include font-mono($fontsize: 16px, $lineheight: 1, $weight: 600);
     @include no-underline;
     margin-right: 1rem;
-    top: -0.35em;
+    top: -0.4em;
     position: relative;
+
+    span {
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        font-size: inherit !important;
+    }
 }
 
 a {

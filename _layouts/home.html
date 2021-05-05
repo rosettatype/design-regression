@@ -2,33 +2,34 @@
 {% assign theme = site.posts.first.theme %}
 <body class="split theme-{% if theme %}{{ theme }}{% else %}blue{% endif %}">
     {% include nav.html %}
+    {% include header.html %}
     {% for post in site.posts %}
-    {% if forloop.first %}
-    <div id="featured">
-        <div class="main">
-            <header class="header">{% include header-logo.html %}</header>
-            <div class="excerpt" id="featured-article">{% include excerpt.html %}</div>
+        {% if forloop.first %}
+        <div id="featured">
+            <div class="main">
+                <!-- <header class="header">{% include header-logo.html %}</header> -->
+                <div class="excerpt" id="featured-article">{% include excerpt.html %}</div>
+            </div>
         </div>
-    </div>
-    {% else %}
-    {% if forloop.index == 2 %}
-    <main>
-        <div class="main">
-            <header class="header">{% include header-menu.html %}</header>
-            <ul class="articles">
-                {% endif %}
+        {% else %}
+            {% if forloop.index == 2 %}
+            <main>
+                <div class="main">
+                    <!-- <header class="header">{% include header-menu.html %}</header> -->
+                    <ul class="articles">
+                        {% endif %}
 
-                <li id="article-{{ forloop.index }}" class="excerpt">
-                    {% include excerpt.html %}
-                </li>
+                        <li id="article-{{ forloop.index }}" class="excerpt">
+                            {% include excerpt.html %}
+                        </li>
 
-                {% if forloop.last %}
-            </ul>
-            {% include footer.html %}
-        </div>
-    </main>
-    {% endif %}
-    {% endif %}
+                        {% if forloop.last %}
+                    </ul>
+                    {% include footer.html %}
+                </div>
+            </main>
+            {% endif %}
+        {% endif %}
     {% endfor %}
 
     {{ content }}
