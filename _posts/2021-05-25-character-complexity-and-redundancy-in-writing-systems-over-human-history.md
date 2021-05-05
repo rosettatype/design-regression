@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Character complexity and redundancy in writing systems over human history
-date: 2021-05-25 10:00:00
+date: 2021-05-18 08:00:00
 categories:
     - Review
 authors:
