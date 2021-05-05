@@ -24,23 +24,20 @@
     
     <title>{{ title }}</title>
     
-    <!-- For Google -->
     <meta name="description" content="{{ description }}" />
     <meta name="keywords" content="{{ site.keywords }}" />
-
     <meta name="author" content="{{ author }}" />
 
-    <!-- For Facebook -->
     <meta property="og:title" content="{{ title }}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ page.url }}" />
     <meta property="og:description" content="{{ description }}" />
 
-    <!-- For Twitter -->
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="{{ title }}" />
     <meta name="twitter:description" content="{{ description }}" />
 
+    <link rel="shortcut icon" href="{{ 'assets/favicon.ico' | relative_URL }}">
     <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}">
     
     <script async defer data-domain="designregression.com" src="https://plausible.io/js/plausible.js"></script>

@@ -15,6 +15,13 @@
         color: $background;
     }
 
+    input[type=text],
+    input[type=email] {
+        &::placeholder {
+            color: $highlight;
+        }
+    }
+
     .color {
         color: $interactive;
     }
@@ -161,11 +168,11 @@
         #featured {
             background: $highlight;
 
-            .main {
-                .excerpt .meta>* {
-                    border-color: $highlight;
-                }
-            }
+            // .main {
+            //     .excerpt .meta>* {
+            //         border-color: $highlight;
+            //     }
+            // }
         }
 
         main .main .excerpt:after {

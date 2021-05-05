@@ -392,6 +392,12 @@ article {
     // References
     p[id^="ref:"] {
         @include text-s;
+        
+        // Try ... super long links in the references on mobile, when some user
+        // agents won't auto-break them to new lines
+        text-overflow: ellipsis;
+        width: 100%;
+        overflow-x: hidden;
     }
 
     footer {
