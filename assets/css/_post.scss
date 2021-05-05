@@ -238,6 +238,7 @@ article {
             display: block;
             height: auto;
             max-width: 100%; // not sure this is a good idea
+            border-radius: 2px; // ALL images rounded edges!
         }
 
         figcaption {
