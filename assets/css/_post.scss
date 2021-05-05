@@ -241,6 +241,37 @@ article {
             border-radius: 2px; // ALL images rounded edges!
         }
 
+        // A narrow paragraph or image container
+        .narrow {
+            max-width: 50%;
+
+            img {
+                width: 100%;
+            }
+
+            &+figcaption {
+                max-width: 50%;
+            }
+
+            @include tablet {
+                margin-left: auto;
+                margin-right: auto;
+
+                &+figcaption {
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+
+            @include mobile {
+                max-width: 400px;
+
+                &+figcaption {
+                    max-width: 400px;
+                }    
+            }
+        }
+
         figcaption {
             @include text-s;
             margin: 1rem 0 4rem;

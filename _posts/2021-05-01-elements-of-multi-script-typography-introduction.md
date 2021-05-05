@@ -34,6 +34,7 @@ When working with multiple languages, some of them will be unfamiliar to the des
 <figcaption><strong>Figure 1:</strong> as of April 2021, the web design application <a href="https://figma.com">Figma</a> does not support correct mark positioning in the Devanagari script used for the Hindi language (top). The bottom screenshot shows my mockup of a correct placement of the nukta mark which may not correspond to the original design of the Adobe Devanagari typeface used here. Nonetheless, the top example would read as “hidi” while the bottom one would read as “Hindi”. What a difference one mark can make.</figcaption>
 
 ![A screenshot of a Twitter conversation](/assets/2021-02-05-elements-of-multi-script-typography-part-1/twitter-screenshot.png)
+{: .narrow}
 
 <figcaption><strong>Figure 2:</strong> a disenchanted Twitter user (<a href="#ref:morris-2021">Morris, 2021</a>) commenting on the poor handling of the Arabic typesetting in a major motion picture from a US production. The captions in the movie show Arabic texts with disconnected letters which is wrong.</figcaption>
 
