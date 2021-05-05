@@ -87,6 +87,7 @@ article .header,
 
 .header-logo {
     margin-right: auto;
+    padding-right: 75px; // forces line break to not overlap with button
 }
 
 .header-menu {
@@ -190,6 +191,7 @@ aside#note {
 
         @include mobile {
             display: block;
+            padding: 0;
 
             >* {
                 padding: 3rem 1rem;
@@ -223,6 +225,8 @@ aside#note {
     form {
         display: flex;
         justify-content: flex-start;
+        width: 100%;
+        max-width: 23rem;
     }
 
     input {
@@ -244,6 +248,7 @@ aside#note {
             cursor: pointer;
             border: 0;
             color: white;
+            flex-grow: 0;
         }
     }
 
@@ -253,18 +258,21 @@ aside#note {
         form {
             display: flex;
             flex-wrap: wrap;
+            width: 100%;
+            max-width: none;
         }
 
         input {
-            border-radius: 2px;
             display: block;
+            margin-left: 0;
+            min-width: 0;
         }
 
         button {
-            border-radius: 2px;
             flex-grow: 0;
             padding-left: 2em;
             padding-right: 2em;
+            margin-right: 0;
         }
 
         input,
@@ -275,17 +283,11 @@ aside#note {
 }
 
 #footer-newsletter {
-    padding-left: 0;
+    // padding-left: 0;
 
-    @include mobile {
-        margin-right: -$gutter/2;
-        margin-left: -$gutter/2;
-        padding: 3.5rem 1rem !important;
-
-        input,
-        button {
-            margin: 0.75em $gutter/2;
-        }
+    @include tablet {
+        margin: 0;
+        padding: 3rem ($gutter/2);
     }
 }
 
