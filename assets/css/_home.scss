@@ -15,6 +15,7 @@
 }
 
 body.split {
+    display: flex;
 
     #featured,
     main {
@@ -25,23 +26,19 @@ body.split {
         .main {
             max-width: 640px;
             padding: 0 $gutter;
-            height: 100%;
         }
     }
 
     // left area
     #featured {
-        float: left;
-        // background: $blue-interactive-accent;
         position: fixed;
+        left: 0;
+        top: 0;
         width: 50%;
+        height: 100%;
 
         .main {
             margin-left: auto;
-
-            // .excerpt .meta>* {
-            //     border-color: $blue-interactive-foreground;
-            // }
         }
 
         h2 {
@@ -51,9 +48,10 @@ body.split {
 
     // right area
     main {
-        float: right;
         background: #FFF;
         overflow: auto;
+        margin-left: 50%;
+        padding-top: 10vh;
 
         .header {
             top: 0;
@@ -64,7 +62,6 @@ body.split {
 
         .main {
             margin-right: auto;
-            padding-top: 10vh;
 
             .article-excerpt {
                 display: none;
@@ -102,11 +99,9 @@ body.split {
 }
 
 #featured-article {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
     padding-right: $gutter;
-    margin-top: 2rem;
+    padding-top: 10vh;
+    margin-top: 1rem;
 
     @media screen and (max-height: 45rem) {
         .article-excerpt {
@@ -162,6 +157,7 @@ body.split {
  */
 @include tablet {
     body.split {
+        flex-wrap: wrap;
 
         #featured,
         main {
@@ -171,6 +167,9 @@ body.split {
             padding: $gutter / 2;
             float: none;
             position: relative;
+            left: initial;
+            top: initial;
+            margin: 0;
 
             .main {
                 padding: initial;
