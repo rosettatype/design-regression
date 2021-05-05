@@ -46,6 +46,8 @@ Previous studies of disfluency have measured difficulty in two ways:
 
 ## What we did
 
+We have made the study website and data available on [GitHub](https://github.com/MrBrezina/disfluency-study) and licenced them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
+
 To address our two research questions, we obtained participants’ judgments of legibility and of memory, and measured the speed and accuracy of identifying and remembering words.
 
 We accept that our study does not reflect ‘normal reading’ but is a first step towards exploring potential differences between designers and non-designers in the context of disfluency theory.
@@ -166,10 +168,6 @@ Designers’ approach to the tasks may have been slightly different from non-des
 ## Some implications for practice
 
 A less legible font, such as Sans Forgetica, may slow down deciphering a message. This may not be a problem when designing for genres where ease of reading is not a primary concern, e.g. graphic posters. However, in circumstances where the text is difficult to understand, e.g. non-native or complicated language, Sans Forgetica would be problematic and the use of a more conventionally legible font is recommended.
-
-## Data
-
-We have made the data and study website available on [GitHub](https://github.com/MrBrezina/disfluency-study) and licenced them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Notes
 

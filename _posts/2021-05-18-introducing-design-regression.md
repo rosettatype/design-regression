@@ -11,7 +11,7 @@ authors:
     - Matthew Lickiss
 readingtime: 2 min read
 theme: red
-intro: Design Regression is a journalette publishing texts that are about design for reading and reading-related research. It aims for the hard-to-get blend of approachability with seriousness and relevance to practice.
+intro: Design Regression is a journalette publishing texts that are about design for reading and reading-related research.
 ---
 
 Design Regression is a mini journal (a journalette) publishing texts that are about design for reading and reading-related research. It aims for the hard-to-get blend of approachability with seriousness and relevance to practice without needing to write at length. We understand reading as a way of decoding the world around us, thus, you might find articles on reading process, typography, typeface design, lettering, multilingualism, information design, social context of a designer, or visual literacy. However, we leave discussing strictly historical perspectives to others. In order to accommodate different approaches, we publish articles at different levels of formality, from research reports and serious essays to “just an idea”. We sincerely hope that each article will provide designers and researchers with new knowledge that will influence their future practice.
