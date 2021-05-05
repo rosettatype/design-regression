@@ -201,6 +201,10 @@ aside#note {
                 border-left: 0;
                 width: auto;
                 margin-bottom: 5rem;
+
+                p > span {
+                    display: inline;
+                }
             }
         }
     }
@@ -211,6 +215,10 @@ aside#note {
 
         p+p {
             margin-top: 2rem;
+        }
+
+        p > span {
+            display: block;
         }
     }
 }
