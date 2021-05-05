@@ -175,6 +175,10 @@
         #menu-wrapper a:hover:after {
             background-color: $interactive;
         }
+
+        #menu-newsletter button {
+            color: $accent;
+        }
     }
 }
 
