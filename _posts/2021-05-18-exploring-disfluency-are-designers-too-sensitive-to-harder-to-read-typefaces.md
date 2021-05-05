@@ -8,7 +8,7 @@ authors:
     - Mary Dyson
     - David Březina
 readingtime: 14 min read
-theme: red
+theme: sand
 intro: We conducted an online study to see if designers respond in a different way to non-designers to a less legible typeface (Sans Forgetica), exploring judgments and memory.
 ---
 
