@@ -124,8 +124,6 @@
     article a[href^=http],
     article a[href^=mailto],
     .author-website a {
-        // @include underline(1px, $foreground, $interactive);
-        text-underline-offset: 0.25em;
         text-decoration: underline;
         color: $foreground;
 

@@ -55,8 +55,8 @@ nav {
     }
 }
 
-@include mobile {
-    nav {       
+@mixin mobile-nav {
+    nav {
         overflow-y: scroll;
 
         #menu-wrapper {
@@ -65,13 +65,45 @@ nav {
             left: initial;
             top: initial;
             transform: initial;
-            padding-top: 7rem;
+            padding-top: 2.5rem;
 
             p {
                 width: 100%;
             }
         }
+
+        #menu-newsletter input {
+            margin-bottom: 0.5rem;
+        }
     }
+}
+
+@include mobile {
+    @include mobile-nav;
+}
+
+@media screen and (max-height: 650px) {
+    nav #menu-wrapper {
+        ul {
+            @include heading-l;
+
+            li {
+                margin-bottom: 0.5rem;
+            }
+        }
+
+        p {
+            margin-top: 1rem;
+        }
+
+        #menu-newsletter {
+            margin-top: 1rem;
+        }
+    }
+}
+
+@media screen and (max-height: 500px) {
+    @include mobile-nav;
 }
 
 .header {
