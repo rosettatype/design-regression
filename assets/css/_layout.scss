@@ -219,7 +219,7 @@ aside#note {
         width: 33%;
 
         p+p {
-            margin-top: 2rem;
+            margin-top: 1rem;
         }
 
         p > span {
@@ -265,6 +265,10 @@ aside#note {
         }
     }
 
+    @include tablet {
+        border-bottom: $border;
+    }
+    
     @include mobile {
         border-bottom: $border;
 
@@ -297,10 +301,19 @@ aside#note {
 
 #footer-newsletter {
     // padding-left: 0;
+    flex-direction: column;
+
+    > * {
+        width: 100%;
+    }
+
+    .site-description {
+        margin-bottom: 1rem;
+    }
 
     @include tablet {
         margin: 0;
-        padding: 3rem ($gutter/2);
+        padding: 3.5rem ($gutter/2);
     }
 }
 

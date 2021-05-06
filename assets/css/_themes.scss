@@ -113,7 +113,7 @@
     }
 
     &.split .footer .main {
-        @include mobile {
+        @include tablet {
             #footer-newsletter {
                 border-color: $highlight;
             }

@@ -255,6 +255,10 @@ body.split {
                             display: none;
                         }
                     }
+
+                    .site-description {
+                        margin-top: -0.5rem;
+                    }
                 }
             }
         }
@@ -264,7 +268,7 @@ body.split {
         }
 
         .main .footer #footer-newsletter {
-            padding: 3rem ($gutter/2) 0;
+            padding: 3rem ($gutter/2);
 
             &:before {
                 display: none;
