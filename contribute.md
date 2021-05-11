@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Information for contributors
+title: Guidelines for contributors
 permalink: /contribute/
 ---
 
@@ -86,7 +86,7 @@ Rayner, K., & Pollatsek, A. (1989). *The psychology of reading*. (1st ed.). Lawr
 Nielsen, J. (2000). *Designing web usability: The practice of simplicity*. New Riders Publishing. 
 [https://doi.org/10.1002/1520-6564(200124)11:1%3C73::AID-HFM6%3E3.0.CO;2-7 ](https://doi.org/10.1002/1520-6564(200124)11:1%3C73::AID-HFM6%3E3.0.CO;2-7 )
 
-## Chapter in an edited book
+#### Chapter in an edited book
 
 Within the text, cite the author of the chapter, not the editor of the book. In reference: Author, A. A., & Author, B. B. (Copyright Year). Title of the book chapter. In A. A. Editor & B. B. Editor (Eds.), *Title of the book* (2nd ed., pp. #–#). Publisher. DOI or URL 
 
