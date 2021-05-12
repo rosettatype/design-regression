@@ -302,6 +302,7 @@ aside#note {
 #footer-newsletter {
     // padding-left: 0;
     flex-direction: column;
+    padding: 3.5rem ($gutter/2) 3.5rem 0;
 
     > * {
         width: 100%;
@@ -313,6 +314,9 @@ aside#note {
 
     @include tablet {
         margin: 0;
+    }
+
+    @include mobile {
         padding: 3.5rem ($gutter/2);
     }
 }
