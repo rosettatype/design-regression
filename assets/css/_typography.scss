@@ -308,3 +308,230 @@ input[type=text],
 input[type=email] {
     @include text-s;
 }
+
+
+// Article or Page main content area typography and element styling
+article main {
+
+    h1,
+    h2 {
+        @include heading;
+        margin: 3rem 0 1rem;
+
+        &:first-child {
+            margin-top: 0;
+        }
+    }
+
+    h3,
+    h4,
+    h5,
+    h6 {
+        @include heading-s;
+        margin: 3rem 0 1rem;
+
+        &:first-child {
+            margin-top: 0;
+        }
+    }
+
+    em {
+        @include font-italic;
+    }
+
+    small {
+        @include text-s;
+    }
+
+    figure {
+        border: $border;
+        border-radius: $border-radius;
+        margin: 2rem 0;
+        padding: 1rem;
+    }
+
+    img {
+        display: block;
+        height: auto;
+        max-width: 100%; // not sure this is a good idea
+        border-radius: 2px; // ALL images rounded edges!
+    }
+
+    // A narrow paragraph or image container
+    .narrow {
+        max-width: 50%;
+
+        img {
+            width: 100%;
+        }
+
+        &+figcaption {
+            max-width: 50%;
+        }
+
+        @include tablet {
+            margin-left: auto;
+            margin-right: auto;
+
+            &+figcaption {
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+
+        @include mobile {
+            max-width: 400px;
+
+            &+figcaption {
+                max-width: 400px;
+            }    
+        }
+    }
+
+        // Even narrower paragraph or image container
+        .narrower {
+            max-width: 25%;
+
+            img {
+                width: 100%;
+            }
+
+            &+figcaption {
+                max-width: 40%;
+            }
+
+            @include tablet {
+                margin-left: auto;
+                margin-right: auto;
+
+                &+figcaption {
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+            }
+
+        @include mobile {
+            max-width: 400px;
+
+            &+figcaption {
+                max-width: 400px;
+            }    
+        }
+    }
+
+    figcaption {
+        @include text-s;
+        margin: 1rem 0 4rem;
+    }
+
+    .full {
+        width: 150%;
+        padding: 1.5rem;
+        margin-left: -1.5rem;
+        box-sizing: content-box;
+    }
+
+    .outlined {
+        border: $border;
+    }
+
+    .browser {
+        border: $border;
+        background: url(/assets/ui-icons/browser_controls.svg) left top no-repeat,
+            url(/assets/ui-icons/browser_line.svg) left top repeat-x;
+        padding: 25px 0 0 0;
+        border-radius: 2px;
+    }
+
+    .boxchart,
+    .barchart {
+        border: $border;
+        border-radius: 2px;
+        height: 66.66vh;
+    }
+
+    li {
+        padding: 0.25rem 0;
+    }
+
+    ol ol {
+        padding-left: 1rem;
+    }
+
+    // p code {}
+
+    .highlight {
+        @include text-code;
+        background: transparent;
+        overflow-x: scroll;
+    }
+
+    blockquote {
+        @include font-text(inherit, inherit, inherit, 700);
+        padding-left: 3rem;
+
+        em {
+            font-weight: inherit;
+        }
+
+        em:last-child {
+            @include font-italic;
+            display: block;
+        }
+    }
+
+    blockquote.pullquote {
+        @include heading-l;
+        margin-right: -25%;
+        width: 50%;
+        padding: 2rem;
+        margin-top: -2rem;
+        margin-bottom: -2rem;
+        border: none;
+        float: right;
+    }
+
+    table {
+        border-collapse: collapse;
+        text-align: left;
+        font-feature-settings: "tnum"1, "zero"1;
+
+        th {
+            @include text-label;
+            white-space: pre;
+        }
+
+        td {
+            @include text-s;
+            line-height: 1.15;
+        }
+
+        th,
+        td {
+            padding: 0.5rem 0.5rem 0.25rem;
+            margin: 0;
+
+            &.right {
+                text-align: right;
+            }
+
+            &.top {
+                vertical-align: top;
+            }
+
+            &.middle {
+                vertical-align: middle;
+            }
+
+            &.bottom {
+                vertical-align: bottom;
+            }
+        }
+
+        tr:last-of-type {
+            td {
+                border-bottom: 0 !important;
+            }
+        }
+    }
+}
