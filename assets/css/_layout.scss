@@ -191,7 +191,7 @@ aside#note {
         justify-content: space-between;
 
         >* {
-            padding: 3.5rem 1rem 7rem;
+            padding: 3.5rem 0 7rem $gutter;
         }
 
         @include mobile {
@@ -199,7 +199,7 @@ aside#note {
             padding: 0;
 
             >* {
-                padding: 3rem 1rem;
+                padding: 3rem $gutter/2;
             }
 
             aside {
@@ -302,7 +302,7 @@ aside#note {
 #footer-newsletter {
     // padding-left: 0;
     flex-direction: column;
-    padding: 3.5rem ($gutter/2) 3.5rem 0;
+    padding: 3.5rem $gutter 3.5rem 0;
 
     > * {
         width: 100%;
