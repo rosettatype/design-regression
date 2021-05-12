@@ -467,17 +467,19 @@ article main {
     }
 
     blockquote {
-        @include font-text(inherit, inherit, inherit, 700);
-        padding-left: 3rem;
+        @include text-s; // font-text(inherit, inherit, inherit, inherit);
+        padding: 0.5rem;
+        margin: 0.25rem 0;
+        max-width: 40rem;
 
         em {
             font-weight: inherit;
         }
 
-        em:last-child {
-            @include font-italic;
-            display: block;
-        }
+        // em:last-child {
+        //     @include font-italic;
+        //     display: block;
+        // }
     }
 
     blockquote.pullquote {

@@ -75,22 +75,21 @@ Reader’s preferences for writing styles have been explored (Smith & Jones, 200
 
 Author, A. A., & Author, B. B. (Year). Title of the article. *Name of the Periodical*, volume(issue), page–range. DOI or URL where available 
 
-Beier, S., & Larson, K. (2013). How does typeface familiarity affect reading performance and reader preference? *Information Design Journal*, 20(1), 16–31. [https://doi.org/10.1075/idj.20.1.02bei](https://doi.org/10.1075/idj.20.1.02bei)
+> Beier, S., & Larson, K. (2013). How does typeface familiarity affect reading performance and reader preference? *Information Design Journal*, 20(1), 16–31. [https://doi.org/10.1075/idj.20.1.02bei](https://doi.org/10.1075/idj.20.1.02bei)
 
 #### Book 
 
 Author, A. A., & Author, B. B. (Copyright Year). *Title of the book* (edition.). Publisher. DOI or URL if available.
 
-Rayner, K., & Pollatsek, A. (1989). *The psychology of reading*. (1st ed.). Lawrence Erlbaum.
+> Rayner, K., & Pollatsek, A. (1989). *The psychology of reading*. (1st ed.). Lawrence Erlbaum.
 
-Nielsen, J. (2000). *Designing web usability: The practice of simplicity*. New Riders Publishing. 
-[https://doi.org/10.1002/1520-6564(200124)11:1%3C73::AID-HFM6%3E3.0.CO;2-7 ](https://doi.org/10.1002/1520-6564(200124)11:1%3C73::AID-HFM6%3E3.0.CO;2-7 )
+> Nielsen, J. (2000). *Designing web usability: The practice of simplicity*. New Riders Publishing. [https://doi.org/10.1002/1520-6564(200124)11:1%3C73::AID-HFM6%3E3.0.CO;2-7 ](https://doi.org/10.1002/1520-6564(200124)11:1%3C73::AID-HFM6%3E3.0.CO;2-7 )
 
 #### Chapter in an edited book
 
 Within the text, cite the author of the chapter, not the editor of the book. In reference: Author, A. A., & Author, B. B. (Copyright Year). Title of the book chapter. In A. A. Editor & B. B. Editor (Eds.), *Title of the book* (2nd ed., pp. #–#). Publisher. DOI or URL 
 
-Morrison, R. E. (1983). Retinal image size and the perceptual span in reading. In K. Rayner (Ed.), *Eye movements in reading: Perceptual and language processes* (pp. 31–40). Academic Press. [https://doi.org/10.1016/B978-0-12-583680-7.X5001-2](https://doi.org/10.1016/B978-0-12-583680-7.X5001-2)
+> Morrison, R. E. (1983). Retinal image size and the perceptual span in reading. In K. Rayner (Ed.), *Eye movements in reading: Perceptual and language processes* (pp. 31–40). Academic Press. [https://doi.org/10.1016/B978-0-12-583680-7.X5001-2](https://doi.org/10.1016/B978-0-12-583680-7.X5001-2)
 
 
 You will find further reference examples on the [APA website](https://apastyle.apa.org/style-grammar-guidelines/references/examples).
