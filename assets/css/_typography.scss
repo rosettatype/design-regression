@@ -468,7 +468,7 @@ article main {
 
     blockquote {
         @include text-s; // font-text(inherit, inherit, inherit, inherit);
-        padding: 0.5rem;
+        padding: 0.5rem 0 0.5rem 1rem;
         margin: 0.25rem 0;
         max-width: 40rem;
 
