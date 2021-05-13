@@ -1,6 +1,6 @@
 - name: Articles
   link: /
-- name: Contribute
-  link: /contribute/
 - name: About
   link: /about/
+- name: Contribute
+  link: /contribute/

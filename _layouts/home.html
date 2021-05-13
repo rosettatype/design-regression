@@ -4,30 +4,32 @@
     {% include nav.html %}
     {% include header.html %}
     {% for post in site.posts %}
-        {% if forloop.first %}
-        <div id="featured">
-            <div class="main">
-                <!-- <header class="header">{% include header-logo.html %}</header> -->
-                <div class="excerpt" id="featured-article">{% include excerpt.html %}</div>
-            </div>
-        </div>
-        {% else %}
-            {% if forloop.index == 2 %}
-            <main>
+        {% if post.hidden != true %}
+            {% if forloop.first %}
+            <div id="featured">
                 <div class="main">
-                    <!-- <header class="header">{% include header-menu.html %}</header> -->
-                    <ul class="articles">
-                        {% endif %}
-
-                        <li id="article-{{ forloop.index }}" class="excerpt">
-                            {% include excerpt.html %}
-                        </li>
-
-                        {% if forloop.last %}
-                    </ul>
-                    {% include footer.html %}
+                    <!-- <header class="header">{% include header-logo.html %}</header> -->
+                    <div class="excerpt" id="featured-article">{% include excerpt.html %}</div>
                 </div>
-            </main>
+            </div>
+            {% else %}
+                {% if forloop.index == 2 %}
+                <main>
+                    <div class="main">
+                        <!-- <header class="header">{% include header-menu.html %}</header> -->
+                        <ul class="articles">
+                            {% endif %}
+
+                            <li id="article-{{ forloop.index }}" class="excerpt">
+                                {% include excerpt.html %}
+                            </li>
+
+                            {% if forloop.last %}
+                        </ul>
+                        {% include footer.html %}
+                    </div>
+                </main>
+                {% endif %}
             {% endif %}
         {% endif %}
     {% endfor %}
