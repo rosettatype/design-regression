@@ -1,16 +1,30 @@
 ---
-layout: page
+layout: post
 title: Guidelines for contributors
 permalink: /contribute/
+date: 2021-05-18 09:00:00
+categories:
+    - Article
+authors:
+    - Mary Dyson
+    - David Březina
+readingtime: 4 min read
+intro: We welcome texts that are about design for reading and reading-related research.
+hidden: true
 ---
+
+If you are pondering the idea of writing something for Design Regression, please get in touch. We welcome texts that are about design for reading and reading-related research. This entails articles on the reading process, typography, typeface design, lettering, multilingualism, information design, the social context of a designer, or visual literacy. While we leave discussing strictly historical perspectives to others, we may consider texts on recent history. In order to accommodate different approaches, we accept articles at different levels of formality, from research reports and serious essays to “just an idea”.
+
+We try to summarize our expectations and reviewing process in the following paragraphs. You do not need to worry about the correct formatting for your abstract, but would appreciate you following our guidance in your draft article. Please consider that the published article will be licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International licence ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)).
 
 ## Reviewing of submissions
 
-We are looking for writing using clear and simple language, to reach a wide readership. If you send us an abstract, we will indicate our interest if we think it may be suitable and request a full draft. The section ‘Introducing Design Regression’ outlines our aims and scope. 
+We are looking for writing using clear and simple language, to reach a wide readership. If you send us an abstract (500 words) to <designregression@pm.me>, we will indicate our interest if we think it may be suitable and request a full draft. You should hear back from us within two weeks.
 
 Suitable draft articles will be reviewed by a single reviewer, normally a member of the Design Regression team. If we do not feel competent to assess an article, we will invite feedback from an external reviewer. We will use an open peer review process such that authors and reviewers are aware of each other’s identity.
 
-Although we will not be using a strict set of criteria for reviewing, the following may be useful as general guidance. 
+Although we will not be using a strict set of criteria for reviewing, the following may be useful as general guidance.
+
 We will consider the quality of the content including, where relevant:
 
 - strength of argument
@@ -26,7 +40,7 @@ We will also consider the quality of the writing, looking for:
 - clarity
 - avoiding unnecessary jargon
 
-We will proof read and edit the final copy.
+We will proof read and edit the final copy. The target word count for the article is a maximum of around 2000 words.
 
 ## Formatting of submissions
 
