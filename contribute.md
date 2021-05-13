@@ -8,6 +8,8 @@ categories:
 authors:
     - Mary Dyson
     - David Březina
+    - Andrea Churchill Wong
+    - Matthew Lickiss
 readingtime: 4 min read
 intro: We welcome texts that are about design for reading and reading-related research.
 hidden: true
