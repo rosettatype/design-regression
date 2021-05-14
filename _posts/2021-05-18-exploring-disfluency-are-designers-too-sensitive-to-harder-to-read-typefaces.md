@@ -214,6 +214,8 @@ A less legible font, such as Sans Forgetica, may slow down deciphering a message
 
 <aside id="sn:words">This is often described by linguists as a ‘mental lexicon’, but not all researchers agree on its existence, or how our knowledge of words is organised.</aside>
 
+{% include cta-newsletter.html %}
+
 ## References
 
 Alter, A. L., Oppenheimer, D. M., Epley, N., & Eyre, R. N. (2007). Overcoming intuition: Metacognitive difficulty activates analytic reasoning. *Journal of Experimental Psychology: General*, *136*, 569–576. [https://doi.org/10.1037/0096-3445.136.4.569](https://doi.org/10.1037/0096-3445.136.4.569)

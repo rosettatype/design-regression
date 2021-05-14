@@ -36,6 +36,8 @@ I had expected readers would be able to discriminate among alternatives and choo
 
 The researchers’ discussion of the results is very thorough. There is an interesting discussion of the role of writing in learning letter shapes, but I find the exploration of the apparent lack of accurate letter-shape knowledge the most compelling. I favour the explanation that our knowledge of letter shapes does not need to be a complete representation when we recognise letters as part of the reading process. We need only learn visual features that distinguish one letter from another. This makes sense when we consider the variety of shapes across different fonts. It is possible that the difference between the same letter in different fonts is as great as the difference between the two forms of the letter ‘g’. A similar point is made by Walker and Reynolds ([2003](#ref:walker-2003)) and their study with children between 5 and 7 years old provides an interesting comparison. Unlike undergraduate students, most children in their study were aware of the different forms of both ‘a’ and ‘g’. The things we forget when we grow up!
 
+{% include cta-newsletter.html %}
+
 ## References
 
 Walker, S., & Reynolds, L. (2003). Serifs, sans serifs and infant characters in children's reading books. *Information Design Journal*, *11(3)*, 106–122. [https://doi.org/10.1075/idj.11.2.04wal](https://doi.org/10.1075/idj.11.2.04wal)

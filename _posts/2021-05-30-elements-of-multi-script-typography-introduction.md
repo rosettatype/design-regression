@@ -81,6 +81,8 @@ On the other hand “it depends” without any pointers is hardly a useful answe
 <aside id="sn:scenarios">Stiff (<a href="#ref:stiff-1997">1997</a>) gives an eloquent analysis of the multifaceted role of footnotes.
 </aside>
 
+{% include cta-newsletter.html %}
+
 ## References
 
 Balakrishna, S. (2018). Nirnayasagar press: a forgotten national treasure. *The Dharma Dispatch.* [https://www.dharmadispatch.in/history/nirnayasagar-press-a-forgotten-national-treasure](https://www.dharmadispatch.in/history/nirnayasagar-press-a-forgotten-national-treasure)

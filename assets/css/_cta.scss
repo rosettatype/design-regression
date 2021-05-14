@@ -1,0 +1,20 @@
+/**
+ * Darker color box in a article main for newsletter/feedback CTA
+ */
+
+.cta {
+    // background set in theme
+    padding: $gutter;
+    margin: 3rem 0;
+
+    h2,p {
+        margin-bottom: 0.75rem;
+    }
+}
+
+.cta-newsletter {
+    display: block;
+}
+
+.cta-feedback {
+}

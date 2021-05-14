@@ -43,6 +43,8 @@ Considering the ease of reading to be the principle selective pressure on script
 
 Universal grammar in languages provides grounds for the belief that people from distant parts of the planet are indeed quite similar, that they can ultimately understand each other, and learn each other’s languages. Despite the drawbacks regarding its methodology, the paper shows an exciting way to use statistical analysis to gain general insights regarding the way humans read and write.
 
+{% include cta-newsletter.html %}
+
 ## References
 
 Changizi, M. A., Zhang, Q., Ye, H., & Shimojo, S. (2006). The structures of letters and symbols throughout human history are selected to match those found in objects in natural scenes. The *American Naturalist*, *167*, E117-39. [https://doi.org/10.1086/502806](https://doi.org/10.1086/502806)
