@@ -206,7 +206,7 @@ aside#note {
                 width: auto;
                 margin-bottom: 5rem;
 
-                p > span {
+                p>span {
                     display: inline;
                 }
             }
@@ -221,7 +221,7 @@ aside#note {
             margin-top: 1rem;
         }
 
-        p > span {
+        p>span {
             display: block;
         }
     }
@@ -267,7 +267,7 @@ aside#note {
     @include tablet {
         border-bottom: $border;
     }
-    
+
     @include mobile {
         border-bottom: $border;
 
@@ -296,6 +296,23 @@ aside#note {
             display: block;
         }
     }
+
+    @media screen and (max-width: 460px) {
+        form {
+            flex-wrap: wrap;
+
+            input {
+                display: block;
+                width: 100%;
+                margin-bottom: 0.5rem;
+                border-radius: $border-radius;
+            }
+
+            button {
+                border-radius: $border-radius;
+            }
+        }
+    }
 }
 
 #footer-newsletter {
@@ -303,7 +320,7 @@ aside#note {
     flex-direction: column;
     padding: 3.5rem $gutter 3.5rem 0;
 
-    > * {
+    >* {
         width: 100%;
     }
 
