@@ -100,7 +100,6 @@
         width: 100% / 6 * 2;
 
         transition: color 0.5s ease-out;
-        opacity: 0;
 
         p+p {
             margin-top: 0.75em;
@@ -127,6 +126,8 @@
             // The line height of the superior should not "bump" the first
             // line's line height!
             line-height: 1 !important;
+
+            opacity: 0;
         }
 
         // Applied in _themes.scss
@@ -230,7 +231,10 @@
     }
 }
 
-@include tablet {
+/*
+ * TABLET 768 - 1024
+ */
+@mixin post-tablet {
     .layout-post aside[id^="sn:"] {
         @include text-s;
 
@@ -238,13 +242,7 @@
             top: 0 !important;
         }
     }
-}
 
-
-/*
- * TABLET 768 - 1024
- */
-@include tablet {
     .layout-post {
         article {
             padding: 0 $gutter/2;
@@ -306,10 +304,21 @@
             }
         }
 
-        > header.header {
+        >header.header {
             position: absolute;
             z-index: 9;
         }
+    }
+}
+
+@include tablet {
+    @include post-tablet;
+}
+
+@media print {
+    @include post-tablet();
+    .layout-post aside[id^="sn:"] {
+        transform: none !important;
     }
 }
 

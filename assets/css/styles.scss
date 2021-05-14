@@ -27,7 +27,7 @@ $sand-interactive: #5450DD;
 $border: 1px solid transparent;
 $border-radius: 2px;
 
-$transition: all 0.15s ease-out; 
+$transition: all 0.15s ease-out;
 
 $gutter: 48px;
 
@@ -63,3 +63,81 @@ $spinner-size: 64px;
 
 
 @import "404";
+
+@media print {
+
+    body > header.header {
+        position: relative !important;
+        padding: $gutter/2 !important;
+    }
+
+    .header .byline {
+        display: none;
+    }
+
+    .header-menu {
+        display: none !important;
+    }
+
+    body.split {
+        display: block;
+        
+        main .header {
+            top: initial;
+            right: initial;
+            position: relative;
+        }
+
+        header.header {
+            left: initial !important;
+            transform: none !important;
+            padding: $gutter/2 !important;
+
+        }
+
+        #featured,
+        main {
+            position: relative;
+            width: 100%;
+            height: auto;
+            padding: $gutter 0;
+            margin: 0 auto;
+
+            .main {
+                padding: 0 $gutter;
+                margin: 0;
+                max-width: none;
+            }
+        }
+    }
+
+    body.split main .main .excerpt:after,
+    .split .main .footer #footer-newsletter:before {
+        width: 100vw;
+    }
+
+    .layout-post {
+        article {
+            width: 100%;
+
+            .header {
+                margin-top: 1rem;
+            }
+        }
+    }
+
+    .read-more,
+    .cta {
+        display: none;
+    }
+
+    #footer-newsletter {
+        display: none;
+    }
+
+    .footer aside {
+        width: 100%;
+        border-left: none;
+        padding: $gutter 0 !important;
+    }
+}
