@@ -157,6 +157,10 @@ h1#title {
         font-weight: inherit !important;
         font-size: inherit !important;
     }
+
+    @include mobile {
+        margin-right: 0.25rem;
+    }
 }
 
 a {

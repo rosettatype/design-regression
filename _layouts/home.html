@@ -2,21 +2,20 @@
 {% assign theme = site.posts.first.theme %}
 <body class="split theme-{% if theme %}{{ theme }}{% else %}blue{% endif %}">
     {% include nav.html %}
-    {% include header.html %}
     {% for post in site.posts %}
         {% if post.hidden != true %}
             {% if forloop.first %}
             <div id="featured">
+                <header class="header">{% include header-logo.html %}</header>
                 <div class="main">
-                    <!-- <header class="header">{% include header-logo.html %}</header> -->
                     <div class="excerpt" id="featured-article">{% include excerpt.html %}</div>
                 </div>
             </div>
             {% else %}
                 {% if forloop.index == 2 %}
                 <main>
+                    <header class="header">{% include header-menu.html %}</header>
                     <div class="main">
-                        <!-- <header class="header">{% include header-menu.html %}</header> -->
                         <ul class="articles">
                             {% endif %}
 
