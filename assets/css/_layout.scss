@@ -253,13 +253,11 @@ aside#note {
         height: 48px;
 
         &+button {
-            height: 48px;
+            @extend .button;
             border-top-right-radius: 2px;
             border-bottom-right-radius: 2px;
-            min-width: 7em;
-            cursor: pointer;
-            border: 0;
-            color: white;
+            border-top-left-radius: 0 !important;
+            border-bottom-left-radius: 0 !important;
             flex-grow: 0;
         }
     }
@@ -309,7 +307,7 @@ aside#note {
             }
 
             button {
-                border-radius: $border-radius;
+                border-radius: $border-radius !important;
             }
         }
     }

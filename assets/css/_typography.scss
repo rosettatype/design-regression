@@ -170,6 +170,19 @@ a {
     text-underline-offset: 0.25em;
 }
 
+.button {
+    @include text-label;
+    padding: 0.75em 1.5em 0.25em;
+    height: 48px;
+    min-width: 7em;
+    cursor: pointer;
+    border: 0;
+    display: inline-block;
+    text-decoration: none !important;
+    border-radius: 2px;
+    transition: $transition;
+}
+
 button {
     @include text-label;
     cursor: pointer;

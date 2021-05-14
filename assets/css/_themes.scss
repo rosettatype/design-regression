@@ -205,6 +205,11 @@
     .read-more {
         border-color: $foreground;
     }
+
+    .button {
+        background: $foreground;
+        color: white !important;
+    }
 }
 
 
