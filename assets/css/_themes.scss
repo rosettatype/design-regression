@@ -143,6 +143,13 @@
         color: $highlight;
     }
 
+    .newsletter input {
+        &:focus,
+        &:hover {
+            border-color: $interactive;
+        }
+    }
+
     // Article styling
     article main figure {
         border-color: $foreground;
@@ -209,6 +216,15 @@
     .button {
         background: $foreground;
         color: white !important;
+
+        &:hover,
+        &:focus {
+            background: $interactive;
+        }
+    }
+
+    .label-link {
+        @include underline(2px, $foreground, $interactive);
     }
 }
 

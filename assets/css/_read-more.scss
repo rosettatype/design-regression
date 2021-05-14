@@ -15,6 +15,10 @@
         margin-bottom: 0.5rem;
     }
 
+    .label-link {
+        margin-bottom: 4.5rem;
+    }
+
     ul {
         list-style: none;
         padding: 0;
@@ -22,7 +26,7 @@
 
         li {
             width: 50%;
-            padding-bottom: $gutter;
+            padding-bottom: $gutter/2;
 
             &:nth-child(odd) {
                 padding-right: $gutter/2;
@@ -49,7 +53,6 @@
                 display: none;
             }
         }
-
 
         @include tablet {
             flex-wrap: wrap;

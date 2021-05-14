@@ -170,6 +170,12 @@ a {
     text-underline-offset: 0.25em;
 }
 
+.label-link {
+    @include text-label;
+    display: inline-block;
+    line-height: 1.8;
+}
+
 .button {
     @include text-label;
     padding: 0.75em 1.5em 0.25em;
