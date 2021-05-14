@@ -82,7 +82,7 @@ nav {
     @include mobile-nav;
 }
 
-@media screen and (max-height: 650px) {
+@media screen and (max-height: 800px) {
     nav #menu-wrapper {
         ul {
             @include heading-l;
@@ -102,7 +102,7 @@ nav {
     }
 }
 
-@media screen and (max-height: 500px) {
+@media screen and (max-height: 600px) {
     @include mobile-nav;
 }
 
