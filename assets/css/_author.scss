@@ -45,5 +45,9 @@
         img {
             min-width: 25vw;
         }
+
+        &+.author {
+            margin-top: -$gutter/2;
+        }
     }
 }
