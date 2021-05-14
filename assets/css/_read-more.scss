@@ -7,11 +7,12 @@
         @include maxwidth();
         padding-left: $gutter;
         padding-right: $gutter;
-        padding-top: 3rem !important;
+        padding-top: 4rem !important;
     }
 
     h1 {
-        margin-bottom: 1rem;
+        @include heading;
+        margin-bottom: 0.5rem;
     }
 
     ul {
