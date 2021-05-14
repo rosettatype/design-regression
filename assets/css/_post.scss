@@ -205,7 +205,7 @@
     // References
     p[id^="ref:"] {
         @include text-s;
-        
+
         // Try ... super long links in the references on mobile, when some user
         // agents won't auto-break them to new lines
         text-overflow: ellipsis;
@@ -230,7 +230,7 @@
 }
 
 @include tablet {
-    .layout-page aside[id^="sn:"] {
+    .layout-post aside[id^="sn:"] {
         @include text-s;
 
         &:before {
@@ -244,62 +244,70 @@
  * TABLET 768 - 1024
  */
 @include tablet {
-    .layout-page article {
-        padding: 0 $gutter/2;
+    .layout-post {
+        article {
+            padding: 0 $gutter/2;
 
-        .header {
-            margin-top: 10vh;
-        }
-
-        h1 {
-            font-size: 7.5vw;
-
-            &.large {
-                font-size: 15vw;
+            .header {
+                margin-top: $gutter*2;
+                padding-top: 0 !important;
             }
-        }
 
-        aside {
-            padding-left: initial;
-        }
+            h1 {
+                font-size: 7.5vw;
 
-        aside.meta {
-            order: 0;
-            width: auto;
-            margin-bottom: 1rem;
-        }
-
-        main {
-            order: 1;
-            width: 100%;
+                &.large {
+                    font-size: 15vw;
+                }
+            }
 
             aside {
-                position: relative;
-                right: initial;
-                width: 100%;
+                padding-left: initial;
             }
 
-            .full {
-                width: 100%;
-                margin-left: 0;
-                box-sizing: border-box;
+            aside.meta {
+                order: 0;
+                width: auto;
+                margin-bottom: 1rem;
             }
 
-            blockquote.pullquote {
-                margin: 0;
-                display: block;
+            main {
+                order: 1;
                 width: 100%;
+
+                aside {
+                    position: relative;
+                    right: initial;
+                    width: 100%;
+                }
+
+                .full {
+                    width: 100%;
+                    margin-left: 0;
+                    box-sizing: border-box;
+                }
+
+                blockquote.pullquote {
+                    margin: 0;
+                    display: block;
+                    width: 100%;
+                }
+
+
+                ul {
+                    padding-left: 1rem;
+                }
             }
 
-
-            ul {
-                padding-left: 1rem;
+            footer {
+                order: 2;
+                width: 100%;
             }
         }
 
-        footer {
-            order: 2;
-            width: 100%;
+        > header.header {
+            position: absolute;
+            z-index: 9;
         }
     }
 }
@@ -309,9 +317,14 @@
  * MOBILE < 768
  */
 @include mobile {
-    .layout-page article {
-        .header {
-            margin-top: 5vh;
+    .layout-post {
+        article {
+            margin-bottom: 0;
+
+        }
+
+        footer.footer {
+            border-top: 0;
         }
     }
 }

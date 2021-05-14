@@ -333,7 +333,7 @@ aside#note {
     }
 
     @include mobile {
-        padding: 3.5rem ($gutter/2);
+        padding: 3rem ($gutter/2) 3.5rem;
     }
 }
 
