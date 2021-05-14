@@ -1,0 +1,26 @@
+<div class="read-more">
+    <div>
+        <h1>More reading for you</h1>
+        <ul>
+            {% for cat in page.categories %}
+                {% for post in site.categories[cat] %}
+                    {% if post == page %}
+                        {% continue %}
+                    {% endif %}
+                    <li class="excerpt">
+                        {% include excerpt.html %}
+                    </li>
+                {% endfor %}
+            {% endfor %}
+            
+            {% for post in site.posts %}
+                {% if post == page %}
+                    {% continue %}
+                {% endif %}
+                <li class="excerpt">
+                    {% include excerpt.html %}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
