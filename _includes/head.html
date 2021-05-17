@@ -10,6 +10,11 @@
     {% assign description = page.excerpt|strip_html %}
 {% endif %}
 
+{% assign sharing = site.sharing_image %}
+{% if page.sharing_image %}
+    {% assign sharing = page.sharing_image %}
+{% endif %}
+
 {% assign author = "Design Regression contributors" %}
 {% if page.authors %}
     {% assign author = page.authors|join: ", " %}
@@ -32,12 +37,14 @@
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ page.url }}" />
     <meta property="og:description" content="{{ description }}" />
+    <meta property="og:image" content="{{ sharing }}" />
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="{{ title }}" />
     <meta name="twitter:description" content="{{ description }}" />
+    <meta name="twitter:image" content="{{ sharing | absolute_url }}" />
 
-    <link rel="shortcut icon" href="{{ 'assets/favicon.ico' | relative_URL }}">
+    <link rel="shortcut icon" href="{{ 'assets/favicon.ico' | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}">
     
     <script async defer data-domain="designregression.com" src="https://plausible.io/js/plausible.js"></script>
