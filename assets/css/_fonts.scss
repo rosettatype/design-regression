@@ -89,7 +89,8 @@
     }
 }
 
-@mixin font-heading($fontsize: 32px, $lineheight: 1.15, $letterspacing: 0.02em, $weight: 900) {
+@mixin font-heading($fontsize: 32px, $lineheight: 1.15, $letterspacing: 0.02em,
+    $weight: 900, $opsz: 18, $slnt: 0) {
     font-family: "AdapterDisplay", sans-serif;
     font-style: normal;
     font-weight: $weight;
@@ -99,7 +100,7 @@
 
     @supports (font-variation-settings: initial) {
         font-family: "AdapterVF", sans-serif;
-        font-variation-settings: "opsz"18;
+        font-variation-settings: "opsz"$opsz, "slnt"$slnt;
     }
 }
 
@@ -111,6 +112,7 @@
     font-family: "AdapterText", sans-serif;
     font-weight: 400;
     font-style: italic;
+    font-feature-settings: "ss02" 1, "ss04" 1;
 
     @supports (font-variation-settings: initial) {
         font-style: normal;

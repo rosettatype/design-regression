@@ -27,8 +27,12 @@
 }
 
 @mixin heading-s {
-    @include font-heading(22px, 1.15, 0.01em, 600);
-    font-variation-settings: "opsz" 12;
+    @include font-heading(22px, 1.15, 0.01em, 600, 12);
+}
+
+@mixin heading-xs {
+    @include font-heading(20px, 1.15, 0.01em, 600, 12, -10);
+    font-feature-settings: "ss02" 1, "ss04" 1;
 }
 
 @mixin text {
@@ -346,12 +350,20 @@ article main {
         }
     }
 
-    h3,
+    h3 {
+        @include heading-s;
+        margin: 3rem 0 1rem;
+
+        &:first-child {
+            margin-top: 0;
+        }
+    }
+
     h4,
     h5,
     h6 {
-        @include heading-s;
-        margin: 3rem 0 1rem;
+        @include heading-xs;
+        margin: 1rem 0 1rem;
 
         &:first-child {
             margin-top: 0;
