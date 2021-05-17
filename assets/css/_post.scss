@@ -109,6 +109,10 @@
             @include font-mono-italic;
         }
 
+        &[id^="sn:"] {
+            opacity: 0;
+        }
+
         // The (1) in the <aside id="sn:..." that holds the sidenote text
         &[id^="sn:"]:before {
             @include font-mono(16px, $weight: 700);
@@ -126,8 +130,6 @@
             // The line height of the superior should not "bump" the first
             // line's line height!
             line-height: 1 !important;
-
-            opacity: 0;
         }
 
         // Applied in _themes.scss
