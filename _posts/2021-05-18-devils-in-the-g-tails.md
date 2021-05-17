@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The devil’s in the g‑tails
-date: 2021-05-25 10:00:00
+date: 2021-05-18 09:40:00
 categories:
     - Review
 authors:
@@ -9,7 +9,6 @@ authors:
 readingtime: 4 min read
 theme: red
 intro: A review of the 2018 paper by Kimberly Wong, Frempongma Wadee, Gali Ellenblum, and Michael McCloskey with interesting points about memory for letter shapes
-published: false
 ---
 
 ## Publication
