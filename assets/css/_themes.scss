@@ -121,8 +121,7 @@
     }
 
     // links
-    article a[href^=http],
-    article a[href^=mailto],
+    article a,
     .author-website a {
         text-decoration: underline;
         color: $foreground;
@@ -206,6 +205,10 @@
     // CTA boxes
     .cta {
         background: $accent;
+    }
+
+    .cta + .cta {
+        border-top-color: $background;
     }
 
     // Read more

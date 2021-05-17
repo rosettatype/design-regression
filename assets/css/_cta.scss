@@ -4,12 +4,20 @@
 
 .cta {
     // background set in theme
-    padding: $gutter;
+    padding: $gutter $gutter ($gutter*1.2);
     margin: 3rem 0;
     border-radius: 2px;
 
     h2,p {
         margin-bottom: 0.75rem;
+    }
+
+    & + .cta {
+        margin-top: -1em;
+        border-top: 1px solid black; // overwrite color in theme
+        top: -2px;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
     }
 }
 
