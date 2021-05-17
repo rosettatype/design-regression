@@ -3,6 +3,3 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-
-# TMP
-assets/ui-fonts/fallback
