@@ -208,6 +208,10 @@
         background: $accent;
     }
 
+    .cta + .cta {
+        border-top-color: $background;
+    }
+
     // Read more
     .read-more {
         border-color: $foreground;

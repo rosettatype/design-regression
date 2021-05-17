@@ -169,8 +169,6 @@ Designers’ approach to the tasks may have been slightly different from non-des
 
 A less legible font, such as Sans Forgetica, may slow down deciphering a message. This may not be a problem when designing for genres where ease of reading is not a primary concern, e.g. graphic posters. However, in circumstances where the text is difficult to understand, e.g. non-native or complicated language, Sans Forgetica would be problematic and the use of a more conventionally legible font is recommended.
 
-{% include cta-feedback.html %}
-
 ## Notes
 
 <aside id="sn:repetitions">There is a tension between increasing the number of repetitions of a task to increase reliability and participants losing interest and responding randomly or giving up before the end.
@@ -215,6 +213,8 @@ A less legible font, such as Sans Forgetica, may slow down deciphering a message
 <aside id="sn:stats-9">F(1, 93)=7.97, p=0.006</aside>
 
 <aside id="sn:words">This is often described by linguists as a ‘mental lexicon’, but not all researchers agree on its existence, or how our knowledge of words is organised.</aside>
+
+{% include cta-feedback.html %}
 
 {% include cta-newsletter.html %}
 

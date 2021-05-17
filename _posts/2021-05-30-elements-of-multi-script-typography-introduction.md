@@ -64,8 +64,6 @@ Multi-script typography extends the list of influences and objectives even furth
 
 On the other hand “it depends” without any pointers is hardly a useful answer for a practising designer. The upcoming instalments of this series will attempt to point out “what” it usually depends on and help to build a sensitivity to common pitfalls.
 
-{% include cta-feedback.html %}
-
 ## Notes
 
 <aside id="sn:mini-series">The series is based on a revised form of an essay written during my studies at the University of Reading in 2007. Hopefully, this version is clearer. I would like to express my gratitude to Fiona Ross, Filip Blažek, Jo de Baerdemaeker, Dan Rhatigan, and Mary Dyson who helped me either with the original or the current version of the text.
@@ -82,6 +80,8 @@ On the other hand “it depends” without any pointers is hardly a useful answe
 
 <aside id="sn:scenarios">Stiff (<a href="#ref:stiff-1997">1997</a>) gives an eloquent analysis of the multifaceted role of footnotes.
 </aside>
+
+{% include cta-feedback.html %}
 
 {% include cta-newsletter.html %}
 
