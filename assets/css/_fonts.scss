@@ -41,23 +41,23 @@
     }
 }
 
-/* Mono Regular */
-@font-face {
-    font-display: block;
-    font-family: "AdapterMono";
-    font-weight: 400;
-    font-style: normal;
-    src: url("/assets/ui-fonts/AdapterMonoPE-Regular.woff2") format("woff2");
-}
+// /* Mono Regular */
+// @font-face {
+//     font-display: block;
+//     font-family: "AdapterMono";
+//     font-weight: 400;
+//     font-style: normal;
+//     src: url("/assets/ui-fonts/AdapterMonoPE-Regular.woff2") format("woff2");
+// }
 
-/* Mono Bold */
-@font-face {
-    font-display: block;
-    font-family: "AdapterMono";
-    font-weight: 700;
-    font-style: normal;
-    src: url("/assets/ui-fonts/AdapterMonoPE-Bold.woff2") format("woff2");
-}
+// /* Mono Bold */
+// @font-face {
+//     font-display: block;
+//     font-family: "AdapterMono";
+//     font-weight: 700;
+//     font-style: normal;
+//     src: url("/assets/ui-fonts/AdapterMonoPE-Bold.woff2") format("woff2");
+// }
 
 /* Mono Variable font all in one, if supported */
 @supports (font-variation-settings: initial) {
@@ -66,7 +66,7 @@
         font-family: "AdapterMonoVF";
         font-weight: 100 900;
         font-style: normal;
-        src: url("/assets/ui-fonts/AdapterMonoPEVF-All.woff2") format("woff2");
+        src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterMonoPEVF-All.woff2") format("woff2");
     }
 }
 
@@ -120,16 +120,12 @@
 }
 
 @mixin font-mono($fontsize: 18px, $lineheight: 1, $weight: 400) {
-    font-family: "AdapterMono", monospace; // TBD
+    font-family: "AdapterMonoVF", monospace;
     font-style: normal;
     font-weight: $weight;
     font-size: $fontsize;
     letter-spacing: 0;
     line-height: $lineheight;
-
-    @supports (font-variation-settings: initial) {
-        font-family: "AdapterMonoVF", sans-serif;
-    }
 }
 
 /**
@@ -137,15 +133,13 @@
  * much about the fallback for non VF
  */
  @mixin font-mono-italic {
-    font-family: "AdapterMono", sans-serif;
-    font-weight: 400;
     font-style: italic;
+    font-family: "AdapterMonoVF", monospace;
+    font-feature-settings: "ss05" 1;
 
     @supports (font-variation-settings: initial) {
         font-style: normal;
-        font-family: "AdapterMonoVF", sans-serif;
         font-variation-settings: "opsz"4, "slnt"-13;
-        font-feature-settings: "ss05" 1;
     }
 }
 
