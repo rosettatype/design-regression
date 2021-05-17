@@ -51,6 +51,10 @@ body.split {
         h2 {
             @include heading-l;
         }
+
+        .header {
+            max-width: 640px;
+        }
     }
 
     // right area
