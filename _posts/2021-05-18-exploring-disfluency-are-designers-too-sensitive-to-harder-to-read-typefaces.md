@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring disfluency: Are designers too sensitive to harder-to-read typefaces?"
-date: 2021-05-18 16:00:00
+date: 2021-05-18 10:30:00
 categories:
     - Research
 authors:
@@ -168,6 +168,8 @@ Designers’ approach to the tasks may have been slightly different from non-des
 ## Some implications for practice
 
 A less legible font, such as Sans Forgetica, may slow down deciphering a message. This may not be a problem when designing for genres where ease of reading is not a primary concern, e.g. graphic posters. However, in circumstances where the text is difficult to understand, e.g. non-native or complicated language, Sans Forgetica would be problematic and the use of a more conventionally legible font is recommended.
+
+{% include cta-feedback.html %}
 
 ## Notes
 

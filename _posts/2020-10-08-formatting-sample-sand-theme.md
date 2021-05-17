@@ -155,6 +155,13 @@ Tables should be authored in HTML. Using 'full' will render it 100 percent width
 </figcaption>
 
 
+## Includes
+
+Call for feedback
+
+{% include cta-feedback.html %}
+
+
 ## Footer
 
 Just for clarity, add these bibliography entries always at the end of the page. Jekyll will compile them into the list that _automatically_ gets placed at the end of the page, no matter where these definitions are. You don’t need to include the 'Bibliography' heading.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elements of multi-script typography: introduction"
-date: 2021-05-18 13:30:00
+date: 2021-05-18 9:30:00
 categories:
     - Essay
 authors:
@@ -63,6 +63,8 @@ Moreover, there are many ways in which a document could be used. This is obvious
 Multi-script typography extends the list of influences and objectives even further. A bi-script document has to consider at least two cultural objectives, each usage scenario appears twice as well. Thus it is even more important to keep the diverse spectrum of influences and objectives in mind and resist the temptation to apply simple fit-it-all rules that promise, for example, the right proportion between two scripts applicable in any situation or the most efficient bi-scriptual layout.
 
 On the other hand “it depends” without any pointers is hardly a useful answer for a practising designer. The upcoming instalments of this series will attempt to point out “what” it usually depends on and help to build a sensitivity to common pitfalls.
+
+{% include cta-feedback.html %}
 
 ## Notes
 
