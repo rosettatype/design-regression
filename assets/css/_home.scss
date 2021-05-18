@@ -110,8 +110,12 @@ body.split {
 
 #featured-article {
     padding-right: 0;
-    padding-top: 3rem;
+    padding-top: 0;
     margin-top: 1rem;
+
+    @include tablet {
+        margin-top: 3rem;
+    }
 
     @media screen and (max-height: 45rem) {
         .article-excerpt {
