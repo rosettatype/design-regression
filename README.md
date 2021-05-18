@@ -1,6 +1,6 @@
 # Design Regression
 
-Design Regression is a mini journal (a journalette) publishing texts that are about design for reading and reading-related research. It aims for the hard-to-get blend of approachability with seriousness and relevance to practice.
+Design Regression is a journalette (mini journal) publishing texts that are about design for reading and reading-related research. It aims for the hard-to-get blend of approachability with seriousness and relevance to practice.
 
 ## Licence
 
