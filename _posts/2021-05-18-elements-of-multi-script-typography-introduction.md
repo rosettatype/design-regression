@@ -11,7 +11,7 @@ editor:
 readingtime: 9 min read
 theme: sand
 intro: The first part of a mini-series focused on the typographic design of documents that make use of two or more different world’s scripts.
-sharing_image: /assets/2021-05-18-elements-of-multi-script-typography-part-1/sharing_image.png
+sharing_image: assets/2021-05-18-elements-of-multi-script-typography-part-1/sharing_image.png
 ---
 
 With increasingly globalised communication and markets, all kinds of multilingual documents and interfaces are becoming more common. Languages that previously had minimal contact are now set next to each other which brings new challenges on how to represent them well together.
