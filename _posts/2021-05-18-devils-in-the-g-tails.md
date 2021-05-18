@@ -27,7 +27,7 @@ Their second experiment attempted to focus readers’ attention on the looptail 
 
 I was not surprised by this inability to reproduce a familiar letter shape as I believe we cannot necessarily reproduce (in this case draw) what we can perceive. I was therefore incredibly pleased to find that they had done the study that would test this. The third experiment showed four versions of the looptail ‘g’ to a further group of participants, one being the correct version and the other three distractors; the same procedure was carried out with the double-storey ‘a’. They were asked to choose the correct letter shape. All those who were shown the letter ‘a’ chose the correct version whereas only seven out of 25 chose the correct ‘g’ which is chance level, equivalent to guessing. The majority (14) chose the version in figure 1, perhaps because of the greater similarity to the single-storey ‘g’. 
 
-![One of the versions of the letter ‘g’ used in the experiments](/assets/2021-02-05-devils-in-the-g-tails/letter-g.png)
+![One of the versions of the letter ‘g’ used in the experiments](/assets/2021-05-18-devils-in-the-g-tails/letter-g.png)
 {: .narrower}
 
 <figcaption><strong>Figure 1:</strong> one of the versions of the letter ‘g’ used in the experiments.</figcaption>

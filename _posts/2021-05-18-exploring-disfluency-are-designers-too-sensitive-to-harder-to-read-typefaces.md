@@ -74,7 +74,7 @@ This was a lexical decision task (see Figure 1) which consisted of a sequence of
 - probably non-word
 - sure word
 
-![Example screen of the lexical decision task using Arial (Task 1)](/assets/2021-02-05-exploring-disfluency/study-screenshot_task-1.png){: .browser}
+![Example screen of the lexical decision task using Arial (Task 1)](/assets/2021-05-18-exploring-disfluency/study-screenshot_task-1.png){: .browser}
 
 <figcaption><strong>Figure 1:</strong> example screen of the lexical decision task using Arial (Task 1)</figcaption>
 
@@ -88,7 +88,7 @@ In between the first and second task they are asked to make two judgments (see F
 - difficult to read
 - very difficult to read
 
-![Two judgments following the lexical decision task](/assets/2021-02-05-exploring-disfluency/study-screenshot_intervening-questionnaire.png){: .browser}
+![Two judgments following the lexical decision task](/assets/2021-05-18-exploring-disfluency/study-screenshot_intervening-questionnaire.png){: .browser}
 
 <figcaption><strong>Figure 2:</strong> two judgments following the lexical decision task</figcaption>
 
@@ -103,7 +103,7 @@ This was a recognition task which involved a sequence of 16 screens where the pa
 
 We timed responses and recorded accuracy for both tasks and the two tasks were repeated; a different font was used for the second pair of [tasks.](#sn:tasks)
 
-![Example screen of the recognition task using Arial (Task 2)](/assets/2021-02-05-exploring-disfluency/study-screenshot_task-2.png){: .browser}
+![Example screen of the recognition task using Arial (Task 2)](/assets/2021-05-18-exploring-disfluency/study-screenshot_task-2.png){: .browser}
 
 <figcaption><strong>Figure 3:</strong> example screen of the recognition task using Arial (Task 2)</figcaption>
 

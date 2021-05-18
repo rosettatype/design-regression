@@ -30,7 +30,7 @@ Unfortunately, the description of the methodology in the paper is not sufficient
 - Chinese and Japanese scripts that make use of topologically complex characters are missing from the study. The authors state that “character and word levels are not cleanly separable” (p. 268). Why this is a problem with respect to character topology is not explained. Although, it is understandable that the authors would not want to tackle character sets as vast as the Chinese.
 - The decomposition is illustrated on skeletal forms of the uppercase from the Latin script. How was it conducted for other scripts and how were the skeletal forms obtained? The simplification process and choices among valid alternates are not discussed. For example: the more complex skeletal forms of “I” and “J” are used without any explanation; there is no explanation of the decomposition of joining scripts such as Arabic, Syriac, or many others where multiple characters join with a single stroke.
 
-![Illustration of the method for determining the number of strokes in a character. Figure taken from the reviewed paper.](/assets/2021-02-05-character-complexity-and-redundancy-in-writing-systems-over-human-history/character-decomposition.svg)
+![Illustration of the method for determining the number of strokes in a character. Figure taken from the reviewed paper.](/assets/2021-05-18-character-complexity-and-redundancy-in-writing-systems-over-human-history/character-decomposition.svg)
 {: .outlined .narrow}
 
 <figcaption><strong>Figure 1:</strong> illustration of the method for determining the number of strokes in a character. Figure taken from the reviewed paper.</figcaption>
