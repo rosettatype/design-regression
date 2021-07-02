@@ -89,9 +89,9 @@ Reader’s preferences for writing styles have been explored (Smith & Jones, 200
 
 #### Journal article
 
-Author, A. A., & Author, B. B. (Year). Title of the article. *Name of the Periodical*, volume(issue), page–range. DOI or URL where available 
+Author, A. A., & Author, B. B. (Year). Title of the article. *Name of the Periodical, volume*(issue), page–range. DOI or URL where available 
 
-> Beier, S., & Larson, K. (2013). How does typeface familiarity affect reading performance and reader preference? *Information Design Journal*, 20(1), 16–31. [https://doi.org/10.1075/idj.20.1.02bei](https://doi.org/10.1075/idj.20.1.02bei)
+> Beier, S., & Larson, K. (2013). How does typeface familiarity affect reading performance and reader preference? *Information Design Journal, 20*(1), 16–31. [https://doi.org/10.1075/idj.20.1.02bei](https://doi.org/10.1075/idj.20.1.02bei)
 
 #### Book 
 
