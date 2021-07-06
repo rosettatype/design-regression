@@ -13,7 +13,7 @@ intro: Recent eye movement research is reviewed which questions whether long lin
 
 ## Introduction
 
-I was motivated to write this article having discovered the studies undertaken by Adam Parker as part of his [PhD](http://eprints.bournemouth.ac.uk/32170/) at Bournemouth University, UK, supervised by Tim [Slattery](https://staffprofiles.bournemouth.ac.uk/display/tslattery) and Julie [Kirkby](https://staffprofiles.bournemouth.ac.uk/display/jkirkby). The thesis and published studies inspired me to re-visit the trail of research on line length and provided me with some of the missing stepping stones through the bibliography. My personal interest stems from the idea that the new research might explain some of my own results from over 20 years ago, which challenged received wisdom. Because of this, I was never entirely confident about the reliability of my results.
+I was motivated to write this article having discovered the studies undertaken by Adam Parker as part of his [PhD](http://eprints.bournemouth.ac.uk/32170/) at Bournemouth University, UK, supervised by Tim [Slattery](https://staffprofiles.bournemouth.ac.uk/display/tslattery) and Julie [Kirkby](https://staffprofiles.bournemouth.ac.uk/display/jkirkby). The thesis and published studies inspired me to revisit the trail of research on line length and provided me with some of the missing stepping stones through the bibliography. My personal interest stems from the idea that the new research might explain some of my own results from over 20 years ago, which challenged received wisdom. Because of this, I was never entirely confident about the reliability of my results.
 
 ## Background
 
@@ -30,7 +30,7 @@ The problem with return sweeps is that they can be inaccurate: undershooting (fa
 
 ### The assumptions
 
-We have assumed that the inaccuracy of return sweeps and the need for corrective saccades are undesirable errors and so long line lengths should not be used. This is expressed in a more nuanced way within the field of psycholinguistics. ‘A tacit assumption in the field of eye-movement reading research has been that undersweep-fixations are simply the result of oculomotor error, reflecting little to no influence of ongoing linguistic processing.’(Slattery & Parker, 2019, p1948). Undersweep-fixations are very short, about half the duration of other fixations, i.e. about 130 ms rather than 250 ms (Slattery & Parker, 2019, p1949). Slattery’s lab has explored return sweep eye movements in greater depth and updated our knowledge of the reading process. Their research challenges the view that inaccurate return sweeps are necessarily problematic.
+We have assumed that the inaccuracy of return sweeps and the need for corrective saccades are undesirable errors and so long line lengths should not be used. This is expressed in a more nuanced way within the field of psycholinguistics. ‘A tacit assumption in the field of eye-movement reading research has been that undersweep-fixations are simply the result of oculomotor error, reflecting little to no influence of ongoing linguistic processing.’ (Slattery & Parker, 2019, p1948). Undersweep-fixations are very short, about half the duration of other fixations, i.e. about 130 ms rather than 250 ms (Slattery & Parker, 2019, p1949). Slattery’s lab has explored return sweep eye movements in greater depth and updated our knowledge of the reading process. Their research challenges the view that inaccurate return sweeps are necessarily problematic.
 
 ### The evidence
 
@@ -63,7 +63,7 @@ As it is not possible to adequately disentangle the effect of line length from t
 
 ### Further doubt
 
-There is one study which questions the difficulty with long lines in text using material printed in a line length far beyond Tinker’s ‘safety zones’ (Tinker, 1963, p106). The researchers found that ‘an extreme line-length does not place an undue strain on the reader’(Hartley et al., 1978, p183). This study involved school children of around 11–13 years old, rather than university students who made up the majority of Tinker and Paterson’s participants. The long line length of 42 ems, about 178 mm or 110–115 characters per line (cpl), was not [recommended.](#sn:estimate-details)
+There is one study which questions the difficulty with long lines in text using material printed in a line length far beyond Tinker’s ‘safety zones’ (Tinker, 1963, p106). The researchers found that ‘an extreme line-length does not place an undue strain on the reader’ (Hartley et al., 1978, p183). This study involved school children of around 11–13 years old, rather than university students who made up the majority of Tinker and Paterson’s participants. The long line length of 42 ems, about 178 mm or 110–115 characters per line (cpl), was not [recommended.](#sn:estimate-details)
  However, the results of Hartley et al. do suggest that even if the landing location of the return sweep needs to be corrected, this may not be as undesirable as previously assumed.
 
 But, if we look only at research into print legibility, we have inadequate data to either support or refute Tinker and Paterson’s evidence that reading speed is slowed down with long lines.
@@ -72,7 +72,7 @@ But, if we look only at research into print legibility, we have inadequate data 
 
 When research moved into investigating line length on screen, rather than in print, the results from some studies (including my own) started to reveal a trend towards faster reading of longer line lengths (Dyson & Kipping, 1988; Duchnicky & Kolers, 1983; Kolers et al., 1981; Shaikh & Chaparro, 2005). However, the results were not entirely consistent. This is probably unsurprising as researchers used different reading tasks, checks on comprehension, and line lengths. The longest line length across studies ranged from 70 cpl to 132 cpl.
 
-Some of the work came from usability studies which were published online for [rapid dissemination](#sn:software-usability-research-lab) or presented at conferences. The accounts are therefore not always sufficiently detailed, and they may not have been subjected to rigorous [peer review.](#sn:limited-scrutiny) Faster reading of long lines was not found by all researchers: two studies by Bernard et al.(2002, 2003) found no differences across three line [lengths.](#sn:null-results) Also, I did not replicate my results when I changed some aspects of my original study; long lines were not read consistently faster than shorter lines. However, in no case were long lines read more slowly than shorter lines, which seemed to contradict Tinker and Paterson’s findings and common views as noted above. Therefore, it did appear that the optimal line length for screen, at least in terms of speed of reading, may be different from print.
+Some of the work came from usability studies which were published online for [rapid dissemination](#sn:software-usability-research-lab) or presented at conferences. The accounts are therefore not always sufficiently detailed, and they may not have been subjected to rigorous [peer review.](#sn:limited-scrutiny) Faster reading of long lines was not found by all researchers: two studies by Bernard et al. (2002, 2003) found no differences across three line [lengths.](#sn:null-results) Also, I did not replicate my results when I changed some aspects of my original study; long lines were not read consistently faster than shorter lines. However, in no case were long lines read more slowly than shorter lines, which seemed to contradict Tinker and Paterson’s findings and common views as noted above. Therefore, it did appear that the optimal line length for screen, at least in terms of speed of reading, may be different from print.
 
 ### Removing inconsistency
 
@@ -112,7 +112,7 @@ But it would be exciting if designers were to challenge received wisdom, explore
 
 <aside id="sn:estimate-details">My estimate of the number of characters per line is based on the sample material within the journal article.</aside>
 
-<aside id="sn:software-usability-research-lab">A lot of studies came from the Software Usability Research Lab at Wichita State University and were published online in _Usability News._</aside>
+<aside id="sn:software-usability-research-lab">A lot of studies came from the Software Usability Research Lab at Wichita State University and were published online in <em>Usability News</em>.</aside>
 
 <aside id="sn:limited-scrutiny">I am conscious that these reports do not always permit the same level of scrutiny as applied to Tinker and Paterson’s research, which is unfortunate.</aside>
 
@@ -167,7 +167,8 @@ Kruk, R.S., & Muter, P. (1984). Reading of continuous text on video screens. _Hu
 
 Legge, G.E. (2007). _Psychophysics of reading in normal and low vision_. Lawrence Erlbaum Associates. [https://psycnet.apa.org/record/2006-20917-000](https://psycnet.apa.org/record/2006-20917-000)
 
-McConkie, G. W., Kerr, P. W., Reddix, M. D., & Zola, D. (1988). Eye-Movement Control During Reading.1. the Location of Initial Eye Fixations on Words. _Vision Research_, _28_(10), 1107–1118. [https://doi.org/10.1016/0042-6989(88)90137-x](https://doi.org/10.1016/0042-6989(88)90137-x)
+McConkie, G. W., Kerr, P. W., Reddix, M. D., & Zola, D. (1988). 
+Eye-movement control during reading. 1. The location of initial eye fixations on words. _Vision Research_, _28_(10), 1107–1118. [https://doi.org/10.1016/0042-6989(88)90137-x](https://doi.org/10.1016/0042-6989(88)90137-x)
 
 Morrison, R.E., & Inhoff, A.-W. (1981). Visual factors and eye movements in reading. _Visible Language, 15_(2), 129–146. [https://visiblelanguage.herokuapp.com/issue/58](https://visiblelanguage.herokuapp.com/issue/58)
 
