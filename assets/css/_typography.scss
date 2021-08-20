@@ -339,6 +339,8 @@ input[type=email] {
 
 // Article or Page main content area typography and element styling
 article main {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 
     h1,
     h2 {
