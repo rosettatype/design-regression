@@ -27,7 +27,7 @@ The problem with return sweeps is that they can be inaccurate: undershooting (fa
 
 ![Diagram describing types of saccades and fixations](/assets/2021-09-08-line-length-revisited/nomenclature_saccade.svg)
 
-<figcaption><strong>Figure 1:</strong> The saccades (marked with arrows) we make as we read along a line from left to right are shorter than the saccade at the end of the line. The return sweep, the saccade from right to left (marked with a long dashed arrow), may be inaccurate and followed by acorrective saccade (marked with a red arrow). The undersweep fixations are also marked with a red circle.
+<figcaption><strong>Figure 1:</strong> The saccades (marked with arrows) we make as we read along a line from left to right are shorter than the saccade at the end of the line. The return sweep, the saccade from right to left (marked with a long dashed arrow), may be inaccurate and followed by acorrective saccade (marked with a red arrow). The undersweep fixations are marked with a red circle.
 </figcaption>
 
 ### The assumptions
