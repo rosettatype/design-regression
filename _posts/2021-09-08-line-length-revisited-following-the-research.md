@@ -27,7 +27,7 @@ The problem with return sweeps is that they can be inaccurate: undershooting (fa
 
 ![Diagram describing types of saccades and fixations](/assets/2021-09-08-line-length-revisited/nomenclature_saccade.svg)
 
-<figcaption><strong>Figure 1:</strong> The saccades (marked with arrows) we make as we read along a line from left to right are shorter than the saccade at the end of the line. The return sweep, the saccade from right to left (marked with a long dashed arrow), may be inaccurate and followed by acorrective saccade (marked with a red arrow). The saccade fixations are marked with a black dot. The undersweep fixations are also marked with a red circle.
+<figcaption><strong>Figure 1:</strong> The saccades (marked with arrows) we make as we read along a line from left to right are shorter than the saccade at the end of the line. The return sweep, the saccade from right to left (marked with a long dashed arrow), may be inaccurate and followed by acorrective saccade (marked with a red arrow). The undersweep fixations are also marked with a red circle.
 </figcaption>
 
 ### The assumptions
@@ -51,7 +51,7 @@ Why aren’t undersweep-fixations and the addition of corrective saccades slowin
 We benefit by briefly processing words during the undersweep-fixation, e.g. a preview of line-initial words in parafoveal vision (see Figure 2). Also, we give some attention to the word at the undersweep-fixation and this facilitates later lexical processing (Parker et al., 2020). The precise nature of the information extracted during under-sweep fixations is not yet established. However, we may be identifying letters and retaining their representations for subsequent processing, i.e. when recognizing words in left-to-right reading (Slattery & Parker, 2019).
 
 ![](/assets/2021-09-08-line-length-revisited/nomenclature_fixation.svg)
-<figcaption><strong>Figure 2:</strong> TODO
+<figcaption><strong>Figure 2:</strong> Words at the beginning of the line may be previewed in the parafoveal region.
 </figcaption>
 
 ## Reconciling new knowledge with previous research
