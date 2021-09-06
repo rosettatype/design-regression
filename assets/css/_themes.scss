@@ -132,14 +132,6 @@
         }
     }
 
-    article aside[id^="sn:"] a {
-        text-decoration: none;
-
-        &[href^="#ref:"] {
-            text-decoration: underline;
-        }
-    }
-
     // Footer newsletter signup
     input[type=text],
     input[type=email] {
