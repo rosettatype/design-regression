@@ -68,11 +68,11 @@
     // .sidenotemark {
     a[href^="#sn:"] {
         white-space: pre;
+        text-decoration: none;
 
         &:hover,
         &:focus {
             color: initial !important;
-            text-decoration: none;
             cursor: help;
         }
 
