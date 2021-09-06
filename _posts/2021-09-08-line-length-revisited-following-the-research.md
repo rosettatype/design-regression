@@ -23,26 +23,26 @@ The consensus among typographers is that we should avoid long line lengths when 
 
 ### The explanation
 
-The problem with return sweeps is that they can be inaccurate: undershooting (failing to reach the beginning of the next line) or locating the [wrong line](#sn:wrong-line). The recent research from Slattery’s lab (referred to in the introduction) describes undershooting as an ‘under-sweep’. When the return sweep does not reach the beginning of the new line (undershoots), it is followed by a small leftward saccade to move back towards the beginning of the line. This is described as a corrective saccade. Undersweep-fixations are the brief pauses after the inaccurate return sweeps, before the corrective saccades (Parker et al., 2017). (See Figure 1.)
+The problem with return sweeps is that they can be inaccurate: undershooting (failing to reach the beginning of the next line) or locating the [wrong line](#sn:wrong-line). The recent research from Slattery’s lab (referred to in the introduction) describes undershooting as an under-sweep. When the return sweep does not reach the beginning of the new line (undershoots), it is followed by a small leftward saccade to move back towards the beginning of the line. This is described as a corrective saccade. Undersweep-fixations are the brief pauses after the inaccurate return sweeps, before the corrective saccades (Parker et al., 2017). (See Figure 1.)
 
 ![Diagram describing types of saccades and fixations](/assets/2021-09-08-line-length-revisited/nomenclature_saccade.svg)
 
-<figcaption><strong>Figure 1:</strong> The saccades (marked with arrows) we make as we read along a line from left to right are shorter than the saccade at the end of the line. The return sweep, the saccade from right to left (marked with a long dashed arrow), may be inaccurate and followed by acorrective saccade (marked with a red arrow). The undersweep fixations are marked with a red circle.
+<figcaption><strong>Figure 1:</strong> The saccades (marked with arrows) we make as we read along a line from left to right are shorter than the saccade at the end of the line. The return sweep, the saccade from right to left (marked with a long dashed arrow), may be inaccurate and followed by a corrective saccade (marked with a red arrow). The undersweep fixations are marked with a red circle.
 </figcaption>
 
 ### The assumptions
 
-We have assumed that the inaccuracy of return sweeps and the need for corrective saccades are undesirable errors and so long line lengths should not be used. This is expressed in a more nuanced way within the field of psycholinguistics. ‘A tacit assumption in the field of eye-movement reading research has been that undersweep-fixations are simply the result of oculomotor error, reflecting little to no influence of ongoing linguistic processing.’ (Slattery & Parker, 2019, p1948). Undersweep-fixations are very short, about half the duration of other fixations, i.e. about 130 ms rather than 250 ms (Slattery & Parker, 2019, p1949). Slattery’s lab has explored return sweep eye movements in greater depth and updated our knowledge of the reading process. Their research challenges the view that inaccurate return sweeps are necessarily problematic.
+We have assumed that the inaccuracy of return sweeps and the need for corrective saccades are undesirable errors and so long line lengths should not be used. This is expressed in a more nuanced way within the field of psycholinguistics. “A tacit assumption in the field of eye-movement reading research has been that undersweep-fixations are simply the result of oculomotor error, reflecting little to no influence of ongoing linguistic processing.” (Slattery & Parker, 2019, p1948). Undersweep-fixations are very short, about half the duration of other fixations, i.e. about 130 ms rather than 250 ms (Slattery & Parker, 2019, p1949). Slattery’s lab has explored return sweep eye movements in greater depth and updated our knowledge of the reading process. Their research challenges the view that inaccurate return sweeps are necessarily problematic.
 
 ### The evidence
 
-Paterson and Tinker (1940) found that longer lines result in more regressions than shorter lines and these are ‘chiefly at the beginning of each line’ (p576), i.e. after a return sweep. This was probably one of the earliest studies to report this finding. Later studies confirmed these results and clarified the nature of the regressions, describing them as corrective saccades (Beymer et al., 2005; Heller, 1982; Hofmeister et al., 1999; Parker & Slattery, 2020). Because return sweeps are longer than saccades within a line (see Figure 1), they were thought to be more susceptible to saccadic range error (McConkie et al., 1988). Longer lines increase the likelihood of undershooting the beginning of the line and requiring correction, a small saccade [to the left](#sn:long-line-undershoot).
+Paterson and Tinker (1940) found that longer lines result in more regressions than shorter lines and these are “chiefly at the beginning of each line” (p576), i.e. after a return sweep. This was probably one of the earliest studies to report this finding. Later studies confirmed these results and clarified the nature of the regressions, describing them as corrective saccades (Beymer et al., 2005; Heller, 1982; Hofmeister et al., 1999; Parker & Slattery, 2020). Because return sweeps are longer than saccades within a line (see Figure 1), they were thought to be more susceptible to saccadic range error (McConkie et al., 1988). Longer lines increase the likelihood of undershooting the beginning of the line and requiring correction, a small saccade [to the left](#sn:long-line-undershoot).
 
 ## Challenging the assumptions
 
 ### New evidence
 
-Surprisingly, reducing the oculomotor error associated with return sweeps does not increase reading [speed.](#sn:reading-speed) A study by Slattery and Vasilev (2019) set the first word on a line in bold and found that return sweeps landed closer to the left margin than normal setting and the probability of making a corrective saccade was also [reduced.](#sn:report-details) Despite the more accurate return sweeps, reading was not faster. This finding questions the explanation given for longer reading times for texts with longer lines, namely that ‘the smooth functioning of oculomotor habits’ is upset (Paterson & Tinker, 1940, p577). This explanation may be too simplistic.
+Surprisingly, reducing the oculomotor error associated with return sweeps does not increase reading [speed.](#sn:reading-speed) A study by Slattery and Vasilev (2019) set the first word on a line in bold and found that return sweeps landed closer to the left margin than normal setting and the probability of making a corrective saccade was also [reduced.](#sn:report-details) Despite the more accurate return sweeps, reading was not faster. This finding questions the explanation given for longer reading times for texts with longer lines, namely that “the smooth functioning of oculomotor habits” is upset (Paterson & Tinker, 1940, p577). This explanation may be too simplistic.
 
 ### Another explanation
 
@@ -66,7 +66,7 @@ As it is not possible to adequately disentangle the effect of line length from t
 
 ### Further doubt
 
-There is one study which questions the difficulty with long lines in text using material printed in a line length far beyond Tinker’s ‘safety zones’ (Tinker, 1963, p106). The researchers found that ‘an extreme line-length does not place an undue strain on the reader’ (Hartley et al., 1978, p183). This study involved school children of around 11–13 years old, rather than university students who made up the majority of Tinker and Paterson’s participants. The long line length of 42 ems, about 178 mm or 110–115 characters per line (cpl), was not [recommended.](#sn:estimate-details)
+There is one study which questions the difficulty with long lines in text using material printed in a line length far beyond Tinker’s safety zones’(Tinker, 1963, p106). The researchers found that “an extreme line-length does not place an undue strain on the reader” (Hartley et al., 1978, p183). This study involved school children of around 11–13 years old, rather than university students who made up the majority of Tinker and Paterson’s participants. The long line length of 42 ems, about 178 mm or 110–115 characters per line (cpl), was not [recommended.](#sn:estimate-details)
  However, the results of Hartley et al. do suggest that even if the landing location of the return sweep needs to be corrected, this may not be as undesirable as previously assumed.
 
 But, if we look only at research into print legibility, we have inadequate data to either support or refute Tinker and Paterson’s evidence that reading speed is slowed down with long lines.
@@ -111,7 +111,7 @@ But it would be exciting if designers were to challenge received wisdom, explore
 
 <aside id="sn:other-typographical-variables">The same methodological issue arises with their studies of other typographical variables.</aside>
 
-<aside id="sn:burt-not-helpful">A study published by Burt et al. (1955) is not helpful as ‘Broadly speaking, the data that Burt and his colleagues reported, although sensible, seem to have been engendered by wishful thinking rather than by actual data collection’ Hartley (2013, p33).</aside>
+<aside id="sn:burt-not-helpful">A study published by Burt et al. (1955) is not helpful as “Broadly speaking, the data that Burt and his colleagues reported, although sensible, seem to have been engendered by wishful thinking rather than by actual data collection” (Hartley, 2013, p33).</aside>
 
 <aside id="sn:estimate-details">My estimate of the number of characters per line is based on the sample material within the journal article.</aside>
 
