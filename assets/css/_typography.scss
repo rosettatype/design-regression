@@ -128,6 +128,7 @@
 
 html {
     @include text();
+    font-optical-sizing: none; // we set this manually via font-variation-settings
 }
 
 h1#title {
