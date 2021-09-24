@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Breaking Arabic: The Creative Inventiveness of Uyghur Script Reforms"
-date: 2021-09-18 19:38:00
+date: 2021-10-12 10:00:00
 categories:
     - Article
 authors:
     - Yannis Haralambous
-readingtime: 20 min read
-intro: Uyghurs have reformed Arabic script in a very inventive way. We describe the journey of Uyghur Arabic writing system from *abjad* to phonography.
-sharing_image: /assets/2021-09-18-breaking-arabic/sharing_image.png
+readingtime: 15 min read
+intro: Uyghurs have reformed Arabic script in a very inventive way. We describe the journey of Uyghur Arabic writing system from abjad to phonography.
+sharing_image: /assets/2021-10-12-breaking-arabic/sharing_image.png
 ---
 
 ## *Abjad* or not *Abjad*?
@@ -48,7 +48,7 @@ The most frequent Uyghur vowel phoneme is /i/, it appears in 42.64% of Uyghur wo
 
 Uyghur reformers were definitely not tedious. They cut the Gordian knot by *changing the rules* of Arabic script: they used a *non-letter*, namely a tooth without neither dots nor diacritics. Using an undotted tooth ‪ـىـ‬ is both radical and ingenuous—indeed, the most unobtrusive grapheme you can get is the one you wouldn't notice in the first place. A non-Uyghur reader of the Arabic script may not even detect its presence. As a test, [try to locate the four occurrences](#sn:solution) of letter ‪ـىـ‬ in the following (approximative) Uyghur transcription of “Design Regression,” typeset in Amiri-Regular font:
 
-![](/assets/2021-09-18-breaking-arabic/design-regression.png)
+![](/assets/2021-10-12-breaking-arabic/design-regression.svg)
 
 The second most frequent Uyghur vowel phoneme is /a/, which is non-problematic since it is perfectly compatible with Arabic letter ‪ا‬. So let us turn to the third most frequent Uyghur vowel phoneme, namely /ε/. The Ottomans used letter ‪ە‬ for it. The problem is that in the Arabic writing system, ‪ە‬ stands for /h/. Uyghur reformers had a second rule-breaking idea: considering that the Arabic ‪ه‬ letter has four quite distinct contextual forms, namely ‪هـ‬ (initial), ‪ـهـ‬ (medial), ‪ـه‬ (final) and ‪ه‬ (isolated), why not use its initial contextual form as a grapheme representing /h/ and its final and isolated forms as a distinct grapheme representing /ε/?
 
@@ -78,18 +78,18 @@ Of course this decision was taken at a time where typesetting was mechanical and
 
 ## Font Design of Hyphenated Arabic Script
 
-A natural question to ask is: do the features of Uyghur language affect font design? 
+A natural question to ask is: do the features of Uyghur language affect font design?
 
-Here are excerpts from three Uyghur printed documents, covering the period 1979–2021 (documents from the Web site [https://elkitab.org](https://elkitab.org)): 
+Here are excerpts from three Uyghur printed documents, covering the period 1979–2021 (documents from the Web site [https://elkitab.org](https://elkitab.org)):
 
-![](/assets/2021-09-18-breaking-arabic/sample1.png)
+![](/assets/2021-10-12-breaking-arabic/hyphenation-sample-1.png)
 <figcaption><strong>Figure 1:</strong> From ‪شىنجاڭنىڭ قىسقىچە تارىخى‬, 1979. Hyphenation with hyphens (located at the base line) for biform letters as in ②, and without hyphen for quadriform letters, as in ① and ③.</figcaption>
 
-![](/assets/2021-09-18-breaking-arabic/sample2.png)
+![](/assets/2021-10-12-breaking-arabic/hyphenation-sample-2.png)
 <figcaption><strong>Figure 2:</strong> From ‪لالە۔قۇربان‬, 1997. Standard hyphenation of a quadriform letter, with base line hyphen ①.</figcaption>
 
-![](/assets/2021-09-18-breaking-arabic/2021-08-21_19-00-24.png)
-<figcaption><strong>Figure 1:</strong> From ‪لۇتۇن‬, 2021, typeset in InDesign. No hyphenation.</figcaption>
+![](/assets/2021-10-12-breaking-arabic/hyphenation-sample-3.png)
+<figcaption><strong>Figure 3:</strong> From ‪لۇتۇن‬, 2021, typeset in InDesign. No hyphenation.</figcaption>
 
 Observing these documents, one immediately notices that Uyghur typesetters avoid Arabic aesthetic ligatures and favor a [flat design](#sn:flat-design). Maybe the purpose of this communicative strategy is to emphasize the phonographic nature of the writing system, where graphemes are directly matched to phonemes and we have a tendency to perceive the order of phonemes as inherently linear since our speech organs can only emit a single phoneme at a time.
 
@@ -104,11 +104,11 @@ Splitting after a two-form letter involves no special design. After all, being [
 | biform letter | ‪مەهى‬ | ‪۔‬‪مە‬ | ‪هى‬ |
 | quadriform letter | ‪مىهى‬ | ‪مىـ۔‬ | ‪ـهى‬ |
 
-The difficulty is to hyphenate quadriform letters, which are connected to the following letter by a calligraphic stroke and hyphenation occurs between forms that are normally meant to be connected. 
+The difficulty is to hyphenate quadriform letters, which are connected to the following letter by a calligraphic stroke and hyphenation occurs between forms that are normally meant to be connected.
 
 Indeed, for centuries, Arabic type designers have connected shapes in such a way that the connecting curve seems as natural and elegant as possible. The reader is not supposed to notice the junction point between the letters. The illusion of an unbroken natural calligraphic stroke between the two letters is crucial to obtain the fluidity of a high-quality Arabic font. By splitting the connecting stroke between two letters, the entrails of the font are laid bare—compare the fluidity of a Uyghur word (typeset in Decotype Naskh) and the awkwardness of its individual segments:
 
-![](/assets/2021-09-18-breaking-arabic/qilip.png)
+![](/assets/2021-10-12-breaking-arabic/qilip.svg)
 
 One way to solve the problems inherent to Uyghur typography would be to design additional contextual forms for letters involved in hyphenation. And to develop systems that would use these forms automatically whenever hyphenation of quadriform letters would occur.
 
@@ -122,7 +122,7 @@ Uyghurs reformed their writing system to use the Arabic script phonographically 
 
 Here is the solution to the test of identification of letter ‪ـىـ‬:
 
-![](/assets/2021-09-18-breaking-arabic/design-regression-solution.png)
+![](/assets/2021-10-12-breaking-arabic/design-regression-solution.svg)
 
 ## Notes
 
