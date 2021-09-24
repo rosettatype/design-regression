@@ -11,7 +11,7 @@ intro: Uyghurs have reformed Arabic script in a very inventive way. We describe 
 sharing_image: /assets/2021-10-12-breaking-arabic/sharing_image.png
 ---
 
-## *Abjad* or not *Abjad*?
+## Abjad or not abjad?
 
 The Arabic writing system is notoriously [an *abjad*](#sn:abjad). Nevertheless, let us not confuse “writing system” and “script”! In the frame of the multimodular theory of writing systems (Meletis, 2020, p. 21), a *writing system* consists of a language-independent module (graphetics) and two language-dependent modules (graphemics and orthography). *Scripts* are part of the graphetic module and therefore are neither *abjad* nor not *abjad* per se—it is their use in the frame of a particular language that can be qualified as such. In theory, for languages other than Arabic language, the Arabic script could be used in manifold ways.
 
@@ -21,7 +21,7 @@ This paper deals with a renowned exception to this: a language that uses the Ara
 
 That language is Uyghur.
 
-## A Glance of History
+## A glance of history
 
 Uyghur is a Turkic language and, as such, it historically faced the same problems as Ottoman, Kirghiz, Kazakh, and other Turkic languages: the *abjad* approach used for Arabic loan words in their original spelling was extended to native words, even though these languages are morphologically quite different from Arabic.
 
@@ -31,7 +31,7 @@ The Xinjiang region (Northwest China), where live most of the Uyghurs, has not b
 
 Here is how they did it.
 
-## How to Move From *Abjad* to Phonography
+## How to move from abjad to phonography
 
 First of all the Uyghurs needed to solve the problem of Arabic loan words that would need to be read in *abjad* mode. They solved it by respelling the words (in a way similar to the way the Hungarians spell the name of the French capital as “Párizs”). For example, the Arabic word ‪سلطان‬ (sultan)—that uses a non-Uyghur emphatic letter ‪ط‬ and does not mark the short /u/—becomes ‪سۇلتان‬ in Uyghur: ‪ط‬ has become ‪ت‬ (the medial form of which is ‪ـتـ‬) and the phoneme /u/ is represented by grapheme ‪ۇ‬.
 
@@ -64,7 +64,7 @@ And, last but ot least, For the semi-vowel /w/, they chose a triple-pointed vowe
 
 And this is how the Arabic script joined the world of phonography.
 
-## Hyphenation of Arabic Script
+## Hyphenation of arabic script
 
 What is common to Semitic languages is the fact that the morphology of a graphemic word is identified by the reader through a specific mental process. This process consists of detecting a *root* combined with a *scheme*, a potential prefix and a potential suffix. The root is a set of three or four consonants carrying semantic information. The scheme is a pattern of vowels or consonants carrying morphosyntactic information (such as: is it a noun? a verb? what number? what tense? what person?, etc.). Root and scheme are intertwined. A frequently used example of this phenomenon is the root *k t b* ‪ك ت ب‬ that provides words such as /kātib/ ‪كاتب‬ “author” (scheme /ā-i-∅/), /kitābun/ ‪كتاب‬ “a book” (scheme /i-ā-un/), /kutub/ ‪كتب‬ “books” (scheme /u-u-∅/), /katabtu/ ‪كتبت‬ “I wrote” (scheme /a-a-tu/), etc.
 
@@ -76,7 +76,7 @@ Once again Uyghur broke the rule. Reformers probably considered hyphenation as a
 
 Of course this decision was taken at a time where typesetting was mechanical and such an operation was still possible. In digital typography, hyphenation of Arabic script is quite a challenge since it requires to redefine the basic contextual behavior or letters, which is handled at a very low level by the operating system. Systems such as XƎTEX can do it (in a rather tricky way, cf. Haralambous, 2021) but not (yet) legacy word processing software, at least not automatically. And hyphenation, by its nature, should better be automatic.
 
-## Font Design of Hyphenated Arabic Script
+## Font design of hyphenated arabic script
 
 A natural question to ask is: do the features of Uyghur language affect font design?
 
@@ -118,7 +118,7 @@ Once the Unicode standard has adequately encoded the various uses of the Arabic 
 
 Uyghurs reformed their writing system to use the Arabic script phonographically rather than as an *abjad*. Their decision to break with tradition was remarkable, but even more remarkable was the way they actually achieved it. Instead of switching to a different script, as did the Turks, they chose to stay as close as possible to their cultural heritage of Arabic script, but redesigned its use to adhere to strict phonography. Their methods were highly innovative. Today,  the decision to hyphenate, a contradiction to the fluid connections between letters, calls for new letter forms and constitutes the main challenge for the programmers and designers. We hope that in the years to come, font designers will accept this challenge and produce Arabic font masterpieces rendering equally well Uyghur and all other Arabic-script languages.
 
-## Solution to the Exercise
+## Solution to the exercise
 
 Here is the solution to the test of identification of letter ‪ـىـ‬:
 
@@ -126,11 +126,11 @@ Here is the solution to the test of identification of letter ‪ـىـ‬:
 
 ## Notes
 
-<aside id="sn:abjad">An *abjad* is a writing system in which primary graphemes represent only consonants or long vowels. Typical examples are the writing systems of Arabic, Hebrew and Syriac languages.</aside>
+<aside id="sn:abjad">An <em>abjad</em> is a writing system in which primary graphemes represent only consonants or long vowels. Typical examples are the writing systems of Arabic, Hebrew and Syriac languages.</aside>
 
-<aside id="sn:phonographic">A script is used in *phonographic mode* when graphemes represent all types of phonemes, whether consonant, long vowels, or short vowels.</aside>
+<aside id="sn:phonographic">A script is used in a phonographic mode when graphemes represent all types of phonemes, whether consonant, long vowels, or short vowels.</aside>
 
-<aside id="sn:IT-favors-romanized">According to (Zhou, 2003, p. 137–138), Uyghur may return once again to the Latin script, since “information technology clearly favors romanized writing systems,” an outrageously Eurocentric point of view…</aside>
+<aside id="sn:IT-favors-romanized">According to (Zhou, 2003, p. 137–138), Uyghur may return once again to the Latin script, since “information technology clearly favors romanized writing systems,” an outrageously Eurocentric point of view.</aside>
 
 <aside id="sn:tooth">The “tooth” form (cf. Smitshuijzen, 2001, p. 181) for the name) is used in six Arabic-language letters, namely ‪ـبـ‬ ‪ـتـ‬ ‪ـثـ‬ ‪ـنـ‬ ‪ـيـ‬ and ‪ـئـ‬, always accompanied by dots or other forms.</aside>
 
@@ -140,11 +140,11 @@ Here is the solution to the test of identification of letter ‪ـىـ‬:
 
 <aside id="sn:graphemic-word">See (Meletis, 2020, §2.5) for the definition of “graphemic word”.</aside>
 
-<aside id="sn:agglutinative-language">An *agglutinative* language is a language where graphemic words may contain entire phrases and therefore can be quite long.</aside>
+<aside id="sn:agglutinative-language">An <em>agglutinative</em> language is a language where graphemic words may contain entire phrases and therefore can be quite long.</aside>
 
 <aside id="sn:flat-design">At least in the Naskh style (see Osborn, 2017, p. 55 and Haralambous, 1994), aesthetic Arabic ligatures often correspond to a vertical stacking of shapes—in the absence of aesthetic ligatures, the base line is visually omnipresent and the general impression is the one of a “flat” design. Compare the ligatured ‪لححـ‬ with the non-ligatured ‪لـحـحـ‬.</aside>
 
-<aside id="sn:biform-letters">In Arabic script, *biform* letters are not connected to the following letter, *quadriform* letters are connected to the following letter.</aside>
+<aside id="sn:biform-letters">In Arabic script, <em>biform</em> letters are not connected to the following letter, <em>quadriform</em> letters are connected to the following letter.</aside>
 
 {% include cta-feedback.html %}
 
