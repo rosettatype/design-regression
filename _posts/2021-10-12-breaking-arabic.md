@@ -33,7 +33,7 @@ Here is how they did it.
 
 ## How to move from abjad to phonography
 
-First of all the Uyghurs needed to solve the problem of Arabic loan words that would need to be read in abjad mode. They solved it by respelling the words (in a way similar to the way the Hungarians spell the name of the French capital as “Párizs”). For example, the Arabic word ‪سلطان‬ (sultan)—that uses a non-Uyghur emphatic letter ‪ط‬ and does not mark the short /u/—becomes ‪سۇلتان‬ in Uyghur: ‪ط‬ has become ‪ت‬ (of which the medial form is ‪ـتـ‬) and the phoneme /u/ is represented by grapheme ‪ۇ‬.
+First of all the Uyghurs needed to solve the problem of Arabic loan words that would need to be read in abjad mode. They solved it by respelling the words (in a way similar to the way the Hungarians spell the name of the French capital as “Párizs”). For example, the Arabic word ‪سلطان‬ (sultan)—that uses a non-Uyghur emphatic letter ‪ط‬ and does not mark the short /u/—becomes ‪سۇلتان‬ in Uyghur—‪ط‬ has become ‪ت‬ (of which the medial form is ‪ـتـ‬ ) and the phoneme /u/ is represented by grapheme ‪ۇ‬.
 
 Next, they cleaned up their consonants. They kept Arabic consonants belonging to their phonology, without changing their grapheme-phoneme correspondence. All other consonants (‪ث‬, ‪ح‬, ‪ذ‬, ‪ص‬, ‪ض‬, ‪ط‬, ‪ظ‬, ‪ع‬, ‪ة‬ and the stand-alone ‪ء) had to go‬. 
 And as the Arabic writing system was not sufficient to represent all Uyghur consonantic phonemes, they added graphemes ‪پ‬, ‪چ‬, ‪ژ‬ and ‪گ‬ and ‪ڭ‬, which were already used in Ottoman (Buğday, 2009).
@@ -56,7 +56,7 @@ For an average (non-Uyghur) Arabic-script reader ‪هه‬ is just a sequence o
 
 Last problem: how to deal with vowel phonemes /o/, /u/, /ø/, /y/ and semi-vowel /w/. These phonemes were, incidentally, all represented by a single grapheme  in Ottoman, namely ‪و‬. This time, Uyghurs reformers used a more conventional approach: diacritization.
 
-This leads us to the one and only case where Uyghurs broke the original grapheme-phoneme correspondence of the Arabic language. They decided that ‪و‬ (a long /u/ or a semi-vocalic /w/ in Arabic) would be used for /o/, a phoneme that does not exist in Arabic language. But if ‪و‬ is /o/, how do you represent the original /u/? Once again Uyghurs found a smart solution by saying: “if you really want an /u/, then write it twice,” namely as ‪ۇ‬, that is a ‪و‬ letter combined with a diacritic looking like ‪و‬. This diacritic is actually the Arabic-language short vowel *damma* /u/.
+This leads us to the one and only case where Uyghurs broke the original grapheme-phoneme correspondence of the Arabic language. They decided that ‪و‬ (a long /u/ or a semi-vocalic /w/ in Arabic) would be used for /o/, a phoneme that does not exist in Arabic language. But if ‪و‬ is /o/, how do you represent the original /u/? Once again Uyghurs found a smart solution by saying: “if you really want an /u/, then write it twice”, namely as ‪ۇ‬, that is a ‪و‬ letter combined with a diacritic looking like ‪و‬. This diacritic is actually the Arabic-language short vowel *damma* /u/.
 
 As for the relatively rare phonemes /ø/ and /y/, Uyghurs used diacritics absent from the Arabic writing system: ‪ۆ‬ and ‪ۈ‬. 
 
@@ -74,7 +74,7 @@ The choice of not hyphenating Arabic language has been inherited by all other la
 
 Once again Uyghur broke the rule. Reformers probably considered hyphenation as a feature inherent to all phonographic writing systems and decided to take the plunge and be the first (and only, for the moment) Arabic-script language in the world adopting it.
 
-Of course this decision was taken at a time when typesetting was mechanical and such an operation was still possible. In digital typography, hyphenation of Arabic script is quite a challenge since it requires redefining the basic contextual behaviour or letters, which is handled at a very low level by the operating system. Systems such as XƎTEX can do it in a rather tricky way (cf. Haralambous, 2021) but not (yet) legacy word processing software, at least not automatically. And hyphenation, by its nature, should ideally be automatic.
+Of course this decision was taken at a time when typesetting was mechanical and such an operation was still possible. In digital typography, hyphenation of Arabic script is quite a challenge since it requires redefining the basic contextual behaviour or letters, which is handled at a very low level by the operating system. Systems such as XeTeX can do it in a rather tricky way (cf. Haralambous, 2021) but not (yet) legacy word processing software, at least not automatically. And hyphenation, by its nature, should ideally be automatic.
 
 ## Font design of hyphenated arabic script
 
@@ -128,7 +128,7 @@ Here is the solution to the test of identification of letter ‪ـىـ‬:
 
 <aside id="sn:phonographic">A script is used in a phonographic mode when graphemes represent all types of phonemes, whether consonant, long vowels, or short vowels.</aside>
 
-<aside id="sn:IT-favors-romanized">According to Zhou (2003, p. 137–138), Uyghur may return once again to the Latin script, since “information technology clearly favors romanized writing systems,” an extremely Eurocentric point of view.</aside>
+<aside id="sn:IT-favors-romanized">According to Zhou (2003, p. 137–138), Uyghur may return once again to the Latin script, since “information technology clearly favors romanized writing systems”, an extremely Eurocentric point of view.</aside>
 
 <aside id="sn:tooth">The tooth form (for the name; cf. Smitshuijzen, 2001, p. 181) is used in six Arabic-language letters, namely ‪ـبـ‬ ‪ـتـ‬ ‪ـثـ‬ ‪ـنـ‬ ‪ـيـ‬ and ‪ـئـ‬, always accompanied by dots or other forms.</aside>
 
@@ -155,7 +155,7 @@ Buğday, K. (2009). _The Routledge introduction to literary Ottoman_. Routledge.
 Haralambous, Y. (1994). The traditional Arabic typecase extended to the Unicode set of glyphs. _Electronic Publishing—Origination, Dissemination, and Design_, _8_(2/3), 125–138.
 [http://cajun.cs.nott.ac.uk/compsci/epo/papers/volume8/issue2/2point10.png](http://cajun.cs.nott.ac.uk/compsci/epo/papers/volume8/issue2/2point10.png) accessed 18 September 2021.
 
-Haralambous, Y. (2021). Implementing Uyghur hyphenation in XƎTEX. (To appear in _TUGboat_.)
+Haralambous, Y. (2021). Implementing Uyghur hyphenation in XeTeX. (To appear in _TUGboat_.)
 
 Lewis, G. (1999). _The Turkish language reform. A catastrophic success_. Oxford University Press. [https://global.oup.com/academic/product/the-turkish-language-reform-9780199256693?lang=en](https://global.oup.com/academic/product/the-turkish-language-reform-9780199256693?lang=en) accessed 18 September 2021.
 
