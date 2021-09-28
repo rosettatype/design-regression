@@ -83,19 +83,19 @@ A natural question to ask is: do the features of the Uyghur language affect font
 Here are excerpts from three Uyghur printed documents, covering the period 1979–2021 (documents from the Web site [https://elkitab.org](https://elkitab.org)):
 
 ![](/assets/2021-10-12-breaking-arabic/hyphenation-sample-1.png)
-<figcaption><strong>Figure 1:</strong> From ‪شىنجاڭنىڭ قىسقىچە تارىخى‬, 1979. Hyphenation with hyphens (located at the base line) for biform letters as in ②, and without hyphens for quadriform letters, as in ① and ③.</figcaption>
+<figcaption><strong>Figure 1:</strong> From ‪شىنجاڭنىڭ قىسقىچە تارىخى‬, 1979. Hyphenation with hyphens (located at the base line) for biform letters as in (2), and without hyphens for quadriform letters, as in (1) and (3).</figcaption>
 
 ![](/assets/2021-10-12-breaking-arabic/hyphenation-sample-2.png)
-<figcaption><strong>Figure 2:</strong> From ‪لالە۔قۇربان‬, 1997. Standard hyphenation of a quadriform letter, with base line hyphen ①.</figcaption>
+<figcaption><strong>Figure 2:</strong> From ‪لالە۔قۇربان‬, 1997. Standard hyphenation of a quadriform letter, with base line hyphen (1).</figcaption>
 
 ![](/assets/2021-10-12-breaking-arabic/hyphenation-sample-3.png)
 <figcaption><strong>Figure 3:</strong> From ‪لۇتۇن‬, 2021, typeset in InDesign. No hyphenation.</figcaption>
 
-Observing these documents, one immediately notices that Uyghur typesetters avoid Arabic aesthetic ligatures and favour a [*flat design*](#sn:flat-design). Maybe the purpose of this communicative strategy is to emphasize the phonographic nature of the writing system, where graphemes are directly matched to phonemes and we have a tendency to perceive the order of phonemes as inherently linear since our speech organs can only emit a single phoneme at a time.
+Observing these documents, one immediately notices that Uyghur typesetters avoid Arabic aesthetic ligatures and favour a [*flat design*.](#sn:flat-design) Maybe the purpose of this communicative strategy is to emphasize the phonographic nature of the writing system, where graphemes are directly matched to phonemes and we have a tendency to perceive the order of phonemes as inherently linear since our speech organs can only emit a single phoneme at a time.
 
 The preference of non-ligatured text is easy to achieve; it suffices to deactivate aesthetic ligatures in the font. What is more challenging for designers is to cope with hyphenation.
 
-Splitting after a biform letter involves no special design. After all, being [biform](#sn:biform-letters), the letter is already necessarily in final or isolated form. Thus, the hyphen is simply appended to a final or isolated form, something perfectly natural in all the Arabic-script languages.
+Splitting after a biform letter involves no special design. After all, being [biform,](#sn:biform-letters) the letter is already necessarily in final or isolated form. Thus, the hyphen is simply appended to a final or isolated form, something perfectly natural in all the Arabic-script languages.
 
 | Hyphenating at | Non-hyphenated | Upper line | Lower line |
 |---|---|---|---|
