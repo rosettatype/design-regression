@@ -7,7 +7,7 @@ categories:
 authors:
     - Yannis Haralambous
 readingtime: 15 min read
-intro: Uyghurs have reformed Arabic script in a very inventive way. We describe the journey of Uyghur Arabic writing system from abjad to phonography.
+intro: Uyghurs have reformed the Arabic script in a very inventive way. We describe the journey of the Uyghur Arabic writing system from abjad to phonography.
 sharing_image: /assets/2021-10-12-breaking-arabic/sharing_image.png
 ---
 
