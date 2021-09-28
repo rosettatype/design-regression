@@ -13,7 +13,7 @@ sharing_image: /assets/2021-10-12-breaking-arabic/sharing_image.png
 
 ## Abjad or not abjad?
 
-The Arabic writing system is notoriously [an *abjad*](#sn:abjad). Nevertheless, let us not confuse *writing system* and *script*! Within the frame of the multimodular theory of writing systems (Meletis, 2020, p. 21), a writing system consists of a language-independent module (graphetics) and two language-dependent modules (graphemics and orthography). As scripts are part of the graphetic module, they are neither abjad nor *not* abjad per se—it is their use in the frame of a particular language that can be qualified as such. In theory, for languages other than Arabic language, the Arabic script could be used in manifold ways.
+The Arabic writing system is notoriously [an *abjad*.](#sn:abjad) Nevertheless, let us not confuse *writing system* and *script*! Within the frame of the multimodular theory of writing systems (Meletis, 2020, p. 21), a writing system consists of a language-independent module (graphetics) and two language-dependent modules (graphemics and orthography). As scripts are part of the graphetic module, they are neither abjad nor *not* abjad per se—it is their use in the frame of a particular language that can be qualified as such. In theory, for languages other than Arabic language, the Arabic script could be used in manifold ways.
 
 However, the rule is that most languages that use Arabic script use it as an abjad. The reasons are historical: the Arabic script has been spread as the vehicle of Islam and, consequently, Arabic-script languages contain a substantial amount of Arabic words, in their original Arabic spelling. If Arabic loan words are written and read in abjad mode, then it is not surprising that words in native languages are written and read in the same way.
 
@@ -33,10 +33,10 @@ Here is how they did it.
 
 ## How to move from abjad to phonography
 
-First of all the Uyghurs needed to solve the problem of Arabic loan words that would need to be read in abjad mode. They solved it by respelling the words (in a way similar to the way the Hungarians spell the name of the French capital as “Párizs”). For example, the Arabic word ‪سلطان‬ (sultan)—that uses a non-Uyghur emphatic letter ‪ط‬ and does not mark the short /u/—becomes ‪سۇلتان‬ in Uyghur; ‪ط‬ has become ‪ت‬ (of which the medial form is ‪ـتـ‬ ) and the phoneme /u/ is represented by grapheme ‪ۇ‬.
+First of all the Uyghurs needed to solve the problem of Arabic loan words that would need to be read in abjad mode. They solved it by respelling the words (in a way similar to the way the Hungarians spell the name of the French capital as “Párizs”). For example, the Arabic word <em class="gr-ar">‪سلطان</em>‬ (sultan)—that uses a non-Uyghur emphatic letter <em class="gr-ar">‪ط</em>‬ and does not mark the short /u/—becomes <em class="gr-ar">‪سۇلتان</em>‬ in Uyghur; <em class="gr-ar">‪ط</em>‬ has become <em class="gr-ar">‪ت</em>‬ (of which the medial form is <em class="gr-ar">‪ـتـ</em>‬ ) and the phoneme /u/ is represented by grapheme ‪ۇ‬.
 
-Next, they cleaned up their consonants. They kept Arabic consonants belonging to their phonology, without changing their grapheme-phoneme correspondence. All other consonants (‪ث‬, ‪ح‬, ‪ذ‬, ‪ص‬, ‪ض‬, ‪ط‬, ‪ظ‬, ‪ع‬, ‪ة‬ and the stand-alone ‪ء) had to go‬. 
-And as the Arabic writing system was not sufficient to represent all Uyghur consonantic phonemes, they added graphemes ‪پ‬, ‪چ‬, ‪ژ‬ and ‪گ‬ and ‪ڭ‬, which were already used in Ottoman (Buğday, 2009).
+Next, they cleaned up their consonants. They kept Arabic consonants belonging to their phonology, without changing their grapheme-phoneme correspondence. All other consonants (<em class="gr-ar">‪ث‬, ‪ح‬, ‪ذ‬, ‪ص‬, ‪ض‬, ‪ط‬, ‪ظ‬, ‪ع‬, ‪ة‬</em> and the stand-alone <em class="gr-ar">‪ء</em>) had to go‬. 
+And as the Arabic writing system was not sufficient to represent all Uyghur consonantic phonemes, they added graphemes <em class="gr-ar">‪پ‬, ‪چ‬, ‪ژ‬</em> and <em class="gr-ar">‪گ‬</em> and <em class="gr-ar">‪ڭ‬</em>, which were already used in Ottoman (Buğday, 2009).
 
 Now comes the difficult part: how to deal with vowels. Disregarding vocalic length, Arabic language has only three vowels, while the Uyghur phonology requires eight vowels. The principle of strict phonography requires all vowels to be denoted by distinct graphemes—Uyghurs were keen on applying this principle and, after 47 years of reforms, they achieved it.
 
@@ -44,29 +44,29 @@ The main constraint was to do it in a way that is natural to the Arabic script, 
 
 Let us therefore consider vowels in decreasing order of frequency, to discover the inventiveness of Uyghur reformers.
 
-The most frequent Uyghur vowel phoneme is /i/; it appears in 42.64% of Uyghur words. Arabic uses ‪ي‬ for the long vowel /i/. The medial form of this Arabic letter is ‪ـيـ‬, which is [the standard “tooth”](#sn:tooth) with two dots underneath. The simple solution would be to use ‪ـيـ‬ for phoneme /i/, but that would be a tedious solution since Uyghur texts would be flooded by ‪ـيـ‬ letters, and strongly-opinionated Arabs might have said: “See, this is why we prefer abjad: it allows us to avoid repeating the obvious and to show only pertinent information”.
+The most frequent Uyghur vowel phoneme is /i/; it appears in 42.64% of Uyghur words. Arabic uses <em class="gr-ar">‪ي‬</em> for the long vowel /i/. The medial form of this Arabic letter is <em class="gr-ar">‪ـيـ‬</em>, which is [the standard “tooth”](#sn:tooth) with two dots underneath. The simple solution would be to use <em class="gr-ar">‪ـيـ</em>‬ for phoneme /i/, but that would be a tedious solution since Uyghur texts would be flooded by <em class="gr-ar">‪ـيـ</em>‬ letters, and strongly-opinionated Arabs might have said: “See, this is why we prefer abjad: it allows us to avoid repeating the obvious and to show only pertinent information”.
 
-Uyghur reformers were definitely not tedious. They cut the Gordian knot by changing the rules of the Arabic script: they used a *non-letter*, namely a tooth without dots or diacritics. Using an undotted tooth ‪ـىـ‬ is both radical and ingenuous—indeed, the most unobtrusive grapheme you can get is the one you wouldn't notice in the first place. A non-Uyghur reader of the Arabic script may not even detect its presence. As a test, [try to locate the four occurrences](#sn:solution) of letter ‪ـىـ‬ in the following (approximate) Uyghur transcription of “Design Regression”, typeset in the typeface Amiri:
+Uyghur reformers were definitely not tedious. They cut the Gordian knot by changing the rules of the Arabic script: they used a *non-letter*, namely a tooth without dots or diacritics. Using an undotted tooth <em class="gr-ar">‪ـىـ</em>‬ is both radical and ingenuous—indeed, the most unobtrusive grapheme you can get is the one you wouldn't notice in the first place. A non-Uyghur reader of the Arabic script may not even detect its presence. As a test, [try to locate the four occurrences](#sn:solution) of letter <em class="gr-ar">‪ـىـ</em>‬ in the following (approximate) Uyghur transcription of “Design Regression”, typeset in the typeface Amiri:
 
 ![](/assets/2021-10-12-breaking-arabic/design-regression.svg)
 
-The second most frequent Uyghur vowel phoneme is /a/, which is non-problematic since it is perfectly compatible with Arabic letter ‪ا‬. So let us turn to the third most frequent Uyghur vowel phoneme, namely /ε/. For this, the Ottomans used letter ‪ە‬. The problem is that in the Arabic writing system, ‪ە‬ stands for /h/. Uyghur reformers had a second rule-breaking idea: since the Arabic ‪ه‬ letter has four quite distinct contextual forms, namely ‪هـ‬ (initial), ‪ـهـ‬ (medial), ‪ـه‬ (final) and ‪ه‬ (isolated), why not use its initial contextual form as a grapheme representing /h/ and its final and isolated forms as a distinct grapheme representing /ε/?
+The second most frequent Uyghur vowel phoneme is /a/, which is non-problematic since it is perfectly compatible with Arabic letter <em class="gr-ar">‪ا</em>‬. So let us turn to the third most frequent Uyghur vowel phoneme, namely /ε/. For this, the Ottomans used letter <em class="gr-ar">‪ە</em>‬. The problem is that in the Arabic writing system, <em class="gr-ar">‪ە</em>‬ stands for /h/. Uyghur reformers had a second rule-breaking idea: since the Arabic <em class="gr-ar">‪ه</em>‬ letter has four quite distinct contextual forms, namely <em class="gr-ar">‪هـ‬</em> (initial), <em class="gr-ar">‪ـهـ‬</em> (medial), <em class="gr-ar">‪ـه‬</em> (final) and <em class="gr-ar">‪ه</em>‬ (isolated), why not use its initial contextual form as a grapheme representing /h/ and its final and isolated forms as a distinct grapheme representing /ε/?
 
-For an average (non-Uyghur) Arabic-script reader ‪هه‬ is just a sequence of two identical /h/ graphemes—in Uyghur it is an /h/ followed by an /ε/. In grapholinguistic jargon one would say that the contextual allograph  ‪هـ‬ changed status and became a distinct grapheme.
+For an average (non-Uyghur) Arabic-script reader <em class="gr-ar">‪هه</em>‬ is just a sequence of two identical /h/ graphemes—in Uyghur it is an /h/ followed by an /ε/. In grapholinguistic jargon one would say that the contextual allograph  ‪هـ‬ changed status and became a distinct grapheme.
 
-Last problem: how to deal with vowel phonemes /o/, /u/, /ø/, /y/ and semi-vowel /w/. These phonemes were, incidentally, all represented by a single grapheme  in Ottoman, namely ‪و‬. This time, Uyghurs reformers used a more conventional approach: diacritization.
+Last problem: how to deal with vowel phonemes /o/, /u/, /ø/, /y/ and semi-vowel /w/. These phonemes were, incidentally, all represented by a single grapheme  in Ottoman, namely <em class="gr-ar">‪و‬</em>. This time, Uyghurs reformers used a more conventional approach: diacritization.
 
-This leads us to the one and only case where Uyghurs broke the original grapheme-phoneme correspondence of the Arabic language. They decided that ‪و‬ (a long /u/ or a semi-vocalic /w/ in Arabic) would be used for /o/, a phoneme that does not exist in the Arabic language. But if ‪و‬ is /o/, how do you represent the original /u/? Once again Uyghurs found a smart solution by saying: “if you really want an /u/, then write it twice”, namely as ‪ۇ‬, that is a ‪و‬ letter combined with a diacritic looking like ‪و‬. This diacritic is actually the Arabic-language short vowel *damma* /u/.
+This leads us to the one and only case where Uyghurs broke the original grapheme-phoneme correspondence of the Arabic language. They decided that <em class="gr-ar">‪و‬</em> (a long /u/ or a semi-vocalic /w/ in Arabic) would be used for /o/, a phoneme that does not exist in the Arabic language. But if <em class="gr-ar">‪و</em>‬ is /o/, how do you represent the original /u/? Once again Uyghurs found a smart solution by saying: “if you really want an /u/, then write it twice”, namely as <em class="gr-ar">‪ۇ</em>‬, that is a ‪<em class="gr-ar">و</em>‬ letter combined with a diacritic looking like <em class="gr-ar">‪و</em>‬. This diacritic is actually the Arabic-language short vowel *damma* /u/.
 
-As for the relatively rare phonemes /ø/ and /y/, Uyghurs used diacritics absent from the Arabic writing system: ‪ۆ‬ and ‪ۈ‬. 
+As for the relatively rare phonemes /ø/ and /y/, Uyghurs used diacritics absent from the Arabic writing system: <em class="gr-ar">‪ۆ</em>‬ and <em class="gr-ar">‪ۈ</em>‬. 
 
-And last but not least, for the semi-vowel /w/, they chose a [triple-dotted vowel](#sn:triple-points) ‪ۋ‬—also a clever choice since triple dots are exclusively used for consonants in the Arabic and Ottoman writing systems, so that they carry the “consonant” connotation.
+And last but not least, for the semi-vowel /w/, they chose a [triple-dotted vowel](#sn:triple-points) <em class="gr-ar">‪ۋ</em>‬—also a clever choice since triple dots are exclusively used for consonants in the Arabic and Ottoman writing systems, so that they carry the “consonant” connotation.
 
 And this is how the Arabic script joined the world of phonography.
 
 ## Hyphenation of Arabic script
 
-What is common to Semitic languages is the fact that the morphology of a graphemic word is identified by the reader through a specific mental process. This process consists of detecting a *root* combined with a *scheme*, a potential prefix, and a potential suffix. The root is a set of three or four consonants carrying semantic information. The scheme is a pattern of vowels or consonants carrying morphosyntactic information (such as: is it a noun? a verb? what number? what tense? what person?, etc.). Root and scheme are intertwined. A frequently used example of this phenomenon is the root *k t b* ‪ك ت ب‬ that provides words such as /kātib/ ‪كاتب‬ “author” (scheme /ā-i-∅/), /kitābun/ ‪كتاب‬ “a book” (scheme /i-ā-un/), /kutub/ ‪كتب‬ “books” (scheme /u-u-∅/), /katabtu/ ‪كتبت‬ “I wrote” (scheme /a-a-tu/), etc.
+What is common to Semitic languages is the fact that the morphology of a graphemic word is identified by the reader through a specific mental process. This process consists of detecting a *root* combined with a *scheme*, a potential prefix, and a potential suffix. The root is a set of three or four consonants carrying semantic information. The scheme is a pattern of vowels or consonants carrying morphosyntactic information (such as: is it a noun? a verb? what number? what tense? what person?, etc.). Root and scheme are intertwined. A frequently used example of this phenomenon is the root *k t b* <em class="gr-ar">‪ك ت ب</em>‬ that provides words such as /kātib/ <em class="gr-ar">‪كاتب‬</em> “author” (scheme /ā-i-∅/), /kitābun/ <em class="gr-ar">‪كتاب‬</em> “a book” (scheme /i-ā-un/), /kutub/ <em class="gr-ar">‪كتب‬</em> “books” (scheme /u-u-∅/), /katabtu/ <em class="gr-ar">‪كتبت‬</em> “I wrote” (scheme /a-a-tu/), etc.
 
 To be able to carry out this process, the reader of the Arabic language needs a simultaneous visualization of the complete Arabic [graphemic word](#sn:graphemic-word). Hyphenation would break this visualization and make it more difficult to identify its parts. Consequently the Arabic language has never been hyphenated. Furthermore, the connected nature of the Arabic script allows the calligrapher (and, to a lesser extent, the typographer) to elongate or shrink words to fit them on lines of equal width, so that there is no need for hyphenation in the first place.
 
@@ -99,8 +99,8 @@ Splitting after a biform letter involves no special design. After all, being [bi
 
 | Hyphenating at | Non-hyphenated | Upper line | Lower line |
 |---|---|---|---|
-| biform letter | ‪مەهى‬ | ‪۔‬‪مە‬ | ‪هى‬ |
-| quadriform letter | ‪مىهى‬ | ‪مىـ۔‬ | ‪ـهى‬ |
+| biform letter | <em class="gr-ar">‪مەهى‬</em> | <em class="gr-ar">‪۔‬‪مە‬</em> | <em class="gr-ar">‪هى‬</em> |
+| quadriform letter | <em class="gr-ar">‪مىهى‬</em> | <em class="gr-ar">‪مىـ۔‬</em> | <em class="gr-ar">‪ـهى</em>‬ |
 
 The difficulty is to hyphenate quadriform letters, which are connected to the following letter by a calligraphic stroke and hyphenation occurs between forms that are normally meant to be connected.
 
@@ -118,7 +118,7 @@ Uyghurs reformed their writing system to use the Arabic script phonographically 
 
 ## Solution to the exercise
 
-Here is the solution to the test of identification of letter ‪ـىـ‬:
+Here is the solution to the test of identification of letter <em class="gr-ar">‪ـىـ‬</em>:
 
 ![](/assets/2021-10-12-breaking-arabic/design-regression-solution.svg)
 
@@ -130,17 +130,17 @@ Here is the solution to the test of identification of letter ‪ـىـ‬:
 
 <aside id="sn:IT-favors-romanized">According to Zhou (2003, p. 137–138), Uyghur may return once again to the Latin script since “information technology clearly favors romanized writing systems”, an extremely Eurocentric point of view.</aside>
 
-<aside id="sn:tooth">The tooth form (cf. Smitshuijzen, 2001, p. 181, for the name) is used in six Arabic-language letters, namely ‪ـبـ‬ ‪ـتـ‬ ‪ـثـ‬ ‪ـنـ‬ ‪ـيـ‬ and ‪ـئـ‬, always accompanied by dots or other forms.</aside>
+<aside id="sn:tooth">The tooth form (cf. Smitshuijzen, 2001, p. 181, for the name) is used in six Arabic-language letters, namely <em class="gr-ar">‪ـبـ‬, ‪ـتـ,‬ ‪ـثـ,‬ ‪ـنـ,‬ ‪ـيـ‬</em> and <em class="gr-ar">‪ـئـ</em>‬, always accompanied by dots or other forms.</aside>
 
 <aside id="sn:solution">For the solution, look at the end of this paper.</aside>
 
-<aside id="sn:triple-points">Indeed, all triple-dotted graphemes represent consonants: ‪ث‬ /θ/, ‪پ‬ /p/, ‪ش‬ /ʃ/, ‪ڭ‬ /ŋ/, ‪چ‬ /ʧ/.</aside>
+<aside id="sn:triple-points">Indeed, all triple-dotted graphemes represent consonants: <em class="gr-ar">‪ث</em>‬ /θ/, <em class="gr-ar">‪پ‬</em> /p/, <em class="gr-ar">‪ش‬</em> /ʃ/, <em class="gr-ar">‪ڭ‬</em> /ŋ/, <em class="gr-ar">‪چ‬</em> /ʧ/.</aside>
 
 <aside id="sn:graphemic-word">See (Meletis, 2020, §2.5) for the definition of “graphemic word”.</aside>
 
 <aside id="sn:Turkish">Turkish is a so-called <em>agglutinative</em> language where graphemic words may contain entire phrases and therefore can be quite long.</aside>
 
-<aside id="sn:flat-design">At least in the Naskh style (see Osborn, 2017, p. 55 and Haralambous, 1994), aesthetic Arabic ligatures often correspond to a vertical stacking of shapes. In the absence of aesthetic ligatures, the base line is visually omnipresent and the general impression is one of a flat design. Compare the ligatured ‪لححـ‬ with the non-ligatured ‪لـحـحـ‬.</aside>
+<aside id="sn:flat-design">At least in the Naskh style (see Osborn, 2017, p. 55 and Haralambous, 1994), aesthetic Arabic ligatures often correspond to a vertical stacking of shapes. In the absence of aesthetic ligatures, the base line is visually omnipresent and the general impression is one of a flat design. Compare the ligatured <em class="gr-ar">‪لححـ‬</em> with the non-ligatured <em class="gr-ar">‪لـحـحـ‬</em>.</aside>
 
 <aside id="sn:biform-letters">In the Arabic script, <em>biform</em> letters are not connected to the following letter; <em>quadriform</em> letters are connected to the following letter.</aside>
 
