@@ -50,7 +50,7 @@
     font-weight: 400;
     font-style: normal;
     src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterArabicTextWeb-Rg.woff") format("woff");
-    size-adjust: 135%;
+    //size-adjust: 135%;
 }
 
 /* Text Bold */
@@ -60,7 +60,7 @@
     font-weight: 700;
     font-style: normal;
     src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterArabicTextWeb-Bd.woff") format("woff");
-    size-adjust: 135%;
+    //size-adjust: 135%;
 }
 
 @supports (font-variation-settings: initial) {
@@ -70,7 +70,7 @@
         font-weight: 100 900;
         font-style: normal;
         src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterArabicVFWeb-All.woff2") format("woff2");
-        size-adjust: 135%;
+        //size-adjust: 135%;
     }
 }
 
@@ -109,7 +109,7 @@
  * and consequently only that family's webfonts will be loaded!!!
  */
 @mixin font-text($fontsize: 20px, $lineheight: 1.6, $letterspacing: initial, $weight: 400) {
-    font-family: "AdapterText", "AdapterArabicText", sans-serif;
+    font-family: "AdapterText", sans-serif;
     font-style: normal;
     font-weight: $weight;
     font-size: $fontsize;
@@ -117,7 +117,7 @@
     line-height: $lineheight;
 
     @supports (font-variation-settings: initial) {
-        font-family: "AdapterVF", "AdapteArabicVF", sans-serif;
+        font-family: "AdapterVF", sans-serif;
         font-variation-settings: "opsz"4;
     }
 }
@@ -132,7 +132,7 @@
     line-height: $lineheight;
 
     @supports (font-variation-settings: initial) {
-        font-family: "AdapterVF", "AdapteArabicVF", sans-serif;
+        font-family: "AdapterVF", sans-serif;
         font-variation-settings: "opsz"$opsz, "slnt"$slnt;
     }
 }
@@ -142,20 +142,33 @@
  * much about the fallback for non VF
  */
  @mixin font-italic {
-    font-family: "AdapterText", "AdapterArabicText", sans-serif;
+    font-family: "AdapterText", sans-serif;
     font-weight: 400;
     font-style: italic;
     font-feature-settings: "ss02" 1, "ss04" 1;
 
     @supports (font-variation-settings: initial) {
         font-style: normal;
-        font-family: "AdapterVF", "AdapteArabicVF", sans-serif;
+        font-family: "AdapterVF", sans-serif;
         font-variation-settings: "opsz"4, "slnt"-10;
     }
 }
 
+@mixin font-arabic {
+   font-family: "AdapterArabicText", "AdapterText", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+   font-feature-settings: "ss02" 0, "ss04" 0;
+
+   @supports (font-variation-settings: initial) {
+       font-style: normal;
+       font-family: "AdapterArabicVF", "AdapterVF", sans-serif;
+       font-variation-settings: "opsz"4, "slnt" 0;
+   }
+}
+
 @mixin font-mono($fontsize: 18px, $lineheight: 1, $weight: 400) {
-    font-family: "AdapterMonoVF", "AdapteArabicVF", monospace;
+    font-family: "AdapterMonoVF", "AdapterArabicVF", monospace;
     font-style: normal;
     font-weight: $weight;
     font-size: $fontsize;
@@ -169,7 +182,7 @@
  */
  @mixin font-mono-italic {
     font-style: italic;
-    font-family: "AdapterMonoVF", "AdapteArabicVF", monospace;
+    font-family: "AdapterMonoVF", "AdapterArabicVF", monospace;
     font-feature-settings: "ss05" 1;
 
     @supports (font-variation-settings: initial) {

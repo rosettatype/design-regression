@@ -339,3 +339,19 @@
         }
     }
 }
+
+.gr-ar {
+    @include font-arabic;
+    font-size: 129%;
+    line-height: 100%;
+    &:before {
+        content: "‹";
+        // opacity: 50%;
+        margin-right: 0.05em;
+    }
+    &:after {
+        content: "›";
+        // opacity: 50%;
+        margin-left: 0.05em;
+    }
+}
