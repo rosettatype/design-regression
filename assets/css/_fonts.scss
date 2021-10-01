@@ -50,7 +50,6 @@
     font-weight: 400;
     font-style: normal;
     src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterArabicTextWeb-Rg.woff") format("woff");
-    //size-adjust: 135%;
 }
 
 /* Text Bold */
@@ -60,7 +59,6 @@
     font-weight: 700;
     font-style: normal;
     src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterArabicTextWeb-Bd.woff") format("woff");
-    //size-adjust: 135%;
 }
 
 @supports (font-variation-settings: initial) {
@@ -70,7 +68,6 @@
         font-weight: 100 900;
         font-style: normal;
         src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterArabicVFWeb-All.woff2") format("woff2");
-        //size-adjust: 135%;
     }
 }
 
@@ -163,7 +160,7 @@
    @supports (font-variation-settings: initial) {
        font-style: normal;
        font-family: "AdapterArabicVF", "AdapterVF", sans-serif;
-       font-variation-settings: "opsz"4, "slnt" 0;
+       font-variation-settings: "opsz" 4, "slnt" 0;
    }
 }
 

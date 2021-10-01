@@ -47,7 +47,7 @@ Let us therefore consider vowels in decreasing order of frequency, to discover t
 
 The most frequent Uyghur vowel phoneme is /i/; it appears in 42.64% of Uyghur words. Arabic uses <em class="gr" lang="ug">‪ي‬</em> for the long vowel /i/. The medial form of this Arabic letter is <em class="gr" lang="ug">‪ـيـ‬</em>, which is [the standard “tooth”](#sn:tooth) with two dots underneath. The simple solution would be to use <em class="gr" lang="ug">‪ـيـ‬</em> for phoneme /i/, but that would be a tedious solution since Uyghur texts would be flooded by <em class="gr" lang="ug">‪ـيـ‬</em> letters, and strongly-opinionated Arabs might have said: “See, this is why we prefer abjad: it allows us to avoid repeating the obvious and to show only pertinent information”.
 
-Uyghur reformers were definitely not tedious. They cut the Gordian knot by changing the rules of the Arabic script: they used a *non-letter*, namely a tooth without dots or diacritics. Using an undotted tooth <em class="gr" lang="ug">‪ـىـ‬</em> is both radical and ingenuous—indeed, the most unobtrusive grapheme you can get is the one you wouldn't notice in the first place. A non-Uyghur reader of the Arabic script may not even detect its presence. As a test, [try to locate the four occurrences](#sn:solution) of letter <em class="gr" lang="ug">‪ـىـ‬</em> in [Figure~1](#fig:design-regression).
+Uyghur reformers were definitely not tedious. They cut the Gordian knot by changing the rules of the Arabic script: they used a *non-letter*, namely a tooth without dots or diacritics. Using an undotted tooth <em class="gr" lang="ug">‪ـىـ‬</em> is both radical and ingenuous—indeed, the most unobtrusive grapheme you can get is the one you wouldn't notice in the first place. A non-Uyghur reader of the Arabic script may not even detect its presence. As a test, [try to locate the four occurrences](#sn:solution) of letter <em class="gr" lang="ug">‪ـىـ‬</em> in [Figure 1](#fig:design-regression).
 
 ![](/assets/2021-10-12-breaking-arabic/design-regression.svg)
 <figcaption id="fig:design-regression"><strong>Figure 1:</strong> An (approximate) Uyghur transcription of  “Design Regression”, typeset in the typeface Amiri.</figcaption>
@@ -82,7 +82,7 @@ Of course this decision was taken at a time when typesetting was mechanical and 
 
 A natural question to ask is: do the features of the Uyghur language affect font design?
 
-In [Figures~2](#fig:excerpt1), [3](#fig:excerpt2) and [4](#fig:excerpt3) the reader can see excerpts from three Uyghur printed documents, covering the period 1979–2021 (documents from the Web site [https://elkitab.org](https://elkitab.org)).
+In [Figures 2](#fig:excerpt1), [3](#fig:excerpt2) and [4](#fig:excerpt3) the reader can see excerpts from three Uyghur printed documents, covering the period 1979–2021 (documents from the Web site [https://elkitab.org](https://elkitab.org)).
 
 ![](/assets/2021-10-12-breaking-arabic/hyphenation-sample-1.png)
 <figcaption id="fig:excerpt1"><strong>Figure 2:</strong> From ‪شىنجاڭنىڭ قىسقىچە تارىخى‬ (<i>Shinjangning qisqiche tarixi</i>), 1979. Hyphenation with hyphens (located at the base line) for biform letters as in (2), and without hyphens for quadriform letters, as in (1) and (3).</figcaption>

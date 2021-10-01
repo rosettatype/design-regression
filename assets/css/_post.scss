@@ -343,12 +343,7 @@
 /*
  * ARABIC content
  */
-:lang(ar) {
-    @include font-arabic;
-    font-size: 129%;
-    line-height: 100%;
-}
-:lang(ug) {
+:lang(ar), :lang(ug) {
     @include font-arabic;
     font-size: 129%;
     line-height: 100%;
@@ -362,4 +357,9 @@ em.gr {
     background-color: #fff;
     padding: 0.1em 0.2em 0.2em 0.2em;
     border-radius: $border-radius;
+    &:lang(ar), &:lang(ug) {
+       // using the Display variant to make the Arabic shapes more pronounced
+       font-variation-settings: "opsz" 18, "slnt" 0;
+       font-weight: 450;
+    }
 }
