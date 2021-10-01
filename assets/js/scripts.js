@@ -107,7 +107,7 @@ window.addEventListener("load", function () {
 
         // Try wait for the webfonts to load before doing any initial
         // positioning
-        var textFont = new FontFaceObserver("AdapterVF"),
+        var textFont = new FontFaceObserver("AdapterPEVF"),
             monoFont = new FontFaceObserver("AdapterMonoVF")
         Promise.all([textFont.load(), monoFont.load()]).then(function () {
             console.debug("fonts loaded")
