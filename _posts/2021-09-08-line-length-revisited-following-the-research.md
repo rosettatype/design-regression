@@ -66,7 +66,7 @@ As it is not possible to adequately disentangle the effect of line length from t
 
 ### Further doubt
 
-There is one study which questions the difficulty with long lines in text using material printed in a line length far beyond Tinker’s *safety zones*(Tinker, 1963, p106). The researchers found that “an extreme line-length does not place an undue strain on the reader” (Hartley et al., 1978, p183). This study involved school children of around 11–13 years old, rather than university students who made up the majority of Tinker and Paterson’s participants. The long line length of 42 ems, about 178 mm or 110–115 characters per line (cpl), was not [recommended.](#sn:estimate-details)
+There is one study which questions the difficulty with long lines in text using material printed in a line length far beyond Tinker’s *safety zones* (Tinker, 1963, p106). The researchers found that “an extreme line-length does not place an undue strain on the reader” (Hartley et al., 1978, p183). This study involved school children of around 11–13 years old, rather than university students who made up the majority of Tinker and Paterson’s participants. The long line length of 42 ems, about 178 mm or 110–115 characters per line (cpl), was not [recommended.](#sn:estimate-details)
  However, the results of Hartley et al. do suggest that even if the landing location of the return sweep needs to be corrected, this may not be as undesirable as previously assumed.
 
 But, if we look only at research into print legibility, we have inadequate data to either support or refute Tinker and Paterson’s evidence that reading speed is slowed down with long lines.
