@@ -14,7 +14,7 @@ theme: sand
 
 ## Abjad or not abjad?
 
-The Arabic writing system is notoriously an [*abjad*](#sn:abjad). Nevertheless, let us not confuse writing system and script! A script is neither *abjad* nor *not abjad* per se—it is its use in the frame of a particular language that can be qualified as such (for further discussion see Meletis, 2020, p. 21). In theory, for languages other than Arabic language, the Arabic script could be used in manifold ways.
+The Arabic writing system is notoriously an [*abjad*](#sn:abjad). Nevertheless, let us not confuse writing system and script! A script is neither abjad nor *not* abjad per se—it is its use in the frame of a particular language that can be qualified as such (for further discussion see Meletis, 2020, p. 21). In theory, for languages other than Arabic language, the Arabic script could be used in manifold ways.
 
 However, the rule is that most languages that use Arabic script use it as an abjad. The reasons are historical: the Arabic script has been spread as the vehicle of Islam and, consequently, Arabic-script languages contain a substantial amount of Arabic words, in their original Arabic spelling. If Arabic loan words are written and read in abjad mode, then it is not surprising that words in native languages are written and read in the same way.
 
@@ -47,12 +47,12 @@ Let us therefore consider vowels in decreasing order of frequency, to discover t
 
 The most frequent Uyghur vowel phoneme is /i/; it appears in 42.64% of Uyghur words. Arabic uses <em class="gr" lang="ug">‪ي‬</em> for the long vowel /i/. The medial form of this Arabic letter is <em class="gr" lang="ug">‪ـيـ‬</em>, which is [the standard “tooth”](#sn:tooth) with two dots underneath. The simple solution would be to use <em class="gr" lang="ug">‪ـيـ‬</em> for phoneme /i/, but that would be a tedious solution since Uyghur texts would be flooded by <em class="gr" lang="ug">‪ـيـ‬</em> letters, and strongly-opinionated Arabs might have said: “See, this is why we prefer abjad: it allows us to avoid repeating the obvious and to show only pertinent information”.
 
-Uyghur reformers were definitely not tedious. They cut the Gordian knot by changing the rules of the Arabic script: they used a *non-letter*, namely a tooth without dots or diacritics. Using an undotted tooth <em class="gr" lang="ug">‪ـىـ‬</em> is both radical and ingenuous—indeed, the most unobtrusive grapheme you can get is the one you wouldn't notice in the first place. A non-Uyghur reader of the Arabic script may not even detect its presence. As a test, [try to locate the four occurrences](#sn:solution) of letter <em class="gr" lang="ug">‪ـىـ‬</em> in [Figure 1](#fig:design-regression).
+Uyghur reformers were definitely not tedious. They cut the Gordian knot by changing the rules of the Arabic script: they used a *non-letter*, namely a tooth without dots or diacritics. Using an undotted tooth <em class="gr" lang="ug">‪ـىـ‬</em> is both radical and ingenuous—indeed, the most unobtrusive grapheme you can get is the one you wouldn't notice in the first place. A non-Uyghur reader of the Arabic script may not even detect its presence. As a test, [try to locate the four occurrences](#sn:solution) of the letter <em class="gr" lang="ug">‪ـىـ‬</em> in [Figure 1](#fig:design-regression).
 
 ![](/assets/2021-10-12-breaking-arabic/design-regression.svg)
 <figcaption id="fig:design-regression"><strong>Figure 1:</strong> An (approximate) Uyghur transcription of  “Design Regression”, typeset in the typeface Amiri.</figcaption>
 
-The second most frequent Uyghur vowel phoneme is /a/, which is non-problematic since it is perfectly compatible with Arabic letter <em class="gr" lang="ug">‪ا‬</em>. So let us turn to the third most frequent Uyghur vowel phoneme, namely /ε/. For this, the Ottomans used letter <em class="gr" lang="ug">‪ە‬</em>. The problem is that in the Arabic writing system, <em class="gr" lang="ug">‪ە‬</em> stands for /h/. Uyghur reformers had a second rule-breaking idea: since the Arabic <em class="gr" lang="ug">‪ه‬</em> letter has four quite distinct contextual forms, namely <em class="gr" lang="ug">‪هـ‬</em> (initial), <em class="gr" lang="ug">‪ـهـ‬</em> (medial), <em class="gr" lang="ug">‪ـه‬</em> (final) and <em class="gr" lang="ug">‪ه‬</em> (isolated), why not use its initial contextual form as a grapheme representing /h/ and its final and isolated forms as a distinct grapheme representing /ε/?
+The second most frequent Uyghur vowel phoneme is /a/, which is non-problematic since it is perfectly compatible with the Arabic letter <em class="gr" lang="ug">‪ا‬</em>. So let us turn to the third most frequent Uyghur vowel phoneme, namely /ε/. For this, the Ottomans used the letter <em class="gr" lang="ug">‪ە‬</em>. The problem is that in the Arabic writing system, <em class="gr" lang="ug">‪ە‬</em> stands for /h/. Uyghur reformers had a second rule-breaking idea: since the Arabic <em class="gr" lang="ug">‪ه‬</em> letter has four quite distinct contextual forms, namely <em class="gr" lang="ug">‪هـ‬</em> (initial), <em class="gr" lang="ug">‪ـهـ‬</em> (medial), <em class="gr" lang="ug">‪ـه‬</em> (final) and <em class="gr" lang="ug">‪ه‬</em> (isolated), why not use its initial contextual form as a grapheme representing /h/ and its final and isolated forms as a distinct grapheme representing /ε/?
 
 For an average (non-Uyghur) Arabic-script reader <em class="gr" lang="ug">‪هه‬</em> is just a sequence of two identical /h/ graphemes—in Uyghur it is an /h/ followed by an /ε/. In grapholinguistic jargon one would say that the contextual allograph <em class="gr" lang="ug">‪هـ‬</em> changed status and became a distinct grapheme.
 
@@ -72,11 +72,11 @@ What is common to Semitic languages is the fact that the morphology of a graphem
 
 To be able to carry out this process, the reader of the Arabic language needs a simultaneous visualization of the complete Arabic [graphemic word](#sn:graphemic-word). Hyphenation would break this visualization and make it more difficult to identify its parts. Consequently the Arabic language has never been hyphenated. Furthermore, the connected nature of the Arabic script allows the calligrapher (and, to a lesser extent, the typographer) to elongate or shrink words to fit them on lines of equal width, so that there is no need for hyphenation in the first place.
 
-The choice of not hyphenating Arabic language has been inherited by all other languages using the Arabic script, even though languages such as [Turkish](#sn:Turkish) or Persian could very well benefit from such a method. This would apply especially in printed media, in which columns may be narrow. Furthermore, in typography, lengthening of connecting strokes between Arabic letters in order to compensate exceeding whitespace is not as easy as in calligraphy.
+The choice of not hyphenating Arabic language has been inherited by all other languages using the Arabic script, even though languages such as [Turkish](#sn:Turkish) or Persian could very well benefit from such a method. This would apply especially in printed media, in which columns may be narrow. Furthermore, in typography, lengthening of connecting strokes between Arabic letters in order to compensate for excessive whitespace is not as easy as in calligraphy.
 
-Once again Uyghur broke the rule. Reformers probably considered hyphenation as a feature inherent to all phonographic writing systems and decided to take the plunge and be the first (and only, for the moment) Arabic-script language in the world adopting it.
+Once again Uyghur broke the rule. Reformers probably considered hyphenation as a feature inherent in all phonographic writing systems and decided to take the plunge and be the first (and only, for the moment) Arabic-script language in the world adopting it.
 
-Of course this decision was taken at a time when typesetting was mechanical and such an operation was still possible. In digital typography, hyphenation of Arabic script is quite a challenge since it requires redefining the basic contextual behaviour or letters, which is handled at a very low level by the operating system. Systems such as XeTeX can do it in a rather tricky way (cf. Haralambous, 2021) but not (yet) word processing software, at least not automatically. And hyphenation, by its nature, should be automatic.
+Of course this decision was taken at a time when typesetting was mechanical and such an operation was still possible. In digital typography, hyphenation of Arabic script is quite a challenge since it requires redefining the basic contextual behaviour of letters, which is handled at a very low level by the operating system. Systems such as XeTeX can do it in a rather tricky way (cf. Haralambous, 2021) but not (yet) word processing software, at least not automatically. And hyphenation, by its nature, should be automatic.
 
 ## Font design of hyphenated Arabic script
 
@@ -104,7 +104,7 @@ Splitting after a biform letter involves no special design. After all, being [bi
 | biform letter | <em style="font-size: 200%" lang="ug">‪مەهى‬</em> | <em style="font-size: 200%" lang="ug">‪۔‬‪مە‬</em> | <em style="font-size: 200%" lang="ug">‪هى‬</em> |
 | quadriform letter | <em style="font-size: 200%" lang="ug">‪مىهى‬</em> | <em style="font-size: 200%" lang="ug">‪مىـ۔‬</em> | <em style="font-size: 200%" lang="ug">‪ـهى‬</em> |
 
-<figcaption id="tab:hyphens"><strong>Table 1:</strong> Hyphenating after biform and quadriform letters in Uyghur</figcaption>
+<figcaption id="tab:hyphens"><strong>Table 1:</strong> Hyphenating after biform and quadriform letters in Uyghur.</figcaption>
 
 The difficulty is to hyphenate quadriform letters, which are connected to the following letter by a calligraphic stroke and hyphenation occurs between forms that are normally meant to be connected.
 
@@ -124,7 +124,7 @@ Uyghurs reformed their writing system to use the Arabic script phonographically 
 ## Solution to the exercise
 
 ![](/assets/2021-10-12-breaking-arabic/design-regression-solution.svg)
-<figcaption id="fig:solution"><strong>Figure 6:</strong> Solution to the test of identification of letter <em class="gr" lang="ug">‪ـىـ‬</em>.</figcaption>
+<figcaption id="fig:solution"><strong>Figure 6:</strong> Solution to the test of identification of the letter <em class="gr" lang="ug">‪ـىـ‬</em>.</figcaption>
 
 ## Notes
 
