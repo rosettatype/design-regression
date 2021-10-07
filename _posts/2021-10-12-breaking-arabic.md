@@ -14,7 +14,7 @@ theme: sand
 
 ## Abjad or not abjad?
 
-The Arabic writing system is notoriously an [*abjad*](#sn:abjad). Nevertheless, let us not confuse writing system and script! A script is neither abjad nor *not* abjad per se—it is its use in the frame of a particular language that can be qualified as such (for further discussion see Meletis, 2020, p. 21). In theory, for languages other than Arabic language, the Arabic script could be used in manifold ways.
+The Arabic writing system is notoriously an [*abjad*](#sn:abjad). Nevertheless, let us not confuse writing system and script! A script is neither abjad nor *not* abjad per se—it is its use in the frame of a particular language that can be qualified as such (for further discussion see Meletis, 2020, p. 21). In theory, for languages other than Arabic, the Arabic script could be used in manifold ways.
 
 However, the rule is that most languages that use Arabic script use it as an abjad. The reasons are historical: the Arabic script has been spread as the vehicle of Islam and, consequently, Arabic-script languages contain a substantial amount of Arabic words, in their original Arabic spelling. If Arabic loan words are written and read in abjad mode, then it is not surprising that words in native languages are written and read in the same way.
 
@@ -45,7 +45,7 @@ The main constraint was to do it in a way that is natural to the Arabic script, 
 
 Let us therefore consider vowels in decreasing order of frequency, to discover the inventiveness of Uyghur reformers.
 
-The most frequent Uyghur vowel phoneme is /i/; it appears in 42.64% of Uyghur words. Arabic uses <em class="gr" lang="ug">‪ي‬</em> for the long vowel /i/. The medial form of this Arabic letter is <em class="gr" lang="ug">‪ـيـ‬</em>, which is [the standard “tooth”](#sn:tooth) with two dots underneath. The simple solution would be to use <em class="gr" lang="ug">‪ـيـ‬</em> for phoneme /i/, but that would be a tedious solution since Uyghur texts would be flooded by <em class="gr" lang="ug">‪ـيـ‬</em> letters, and strongly-opinionated Arabs might have said: “See, this is why we prefer abjad: it allows us to avoid repeating the obvious and to show only pertinent information”.
+The most frequent Uyghur vowel phoneme is /i/; it appears in 42.64% of Uyghur words. Arabic uses <em class="gr" lang="ug">‪ي‬</em> for the long vowel /i/. The medial form of this Arabic letter is <em class="gr" lang="ug">‪ـيـ‬</em>, which is [the standard “tooth”](#sn:tooth) with two dots underneath. The simple solution would be to use <em class="gr" lang="ug">‪ـيـ‬</em> for phoneme /i/, but that would be a tedious solution since Uyghur texts would be flooded with <em class="gr" lang="ug">‪ـيـ‬</em> letters, and strongly-opinionated Arabs might have said: “See, this is why we prefer abjad: it allows us to avoid repeating the obvious and to show only pertinent information”.
 
 Uyghur reformers were definitely not tedious. They cut the Gordian knot by changing the rules of the Arabic script: they used a *non-letter*, namely a tooth without dots or diacritics. Using an undotted tooth <em class="gr" lang="ug">‪ـىـ‬</em> is both radical and ingenuous—indeed, the most unobtrusive grapheme you can get is the one you wouldn't notice in the first place. A non-Uyghur reader of the Arabic script may not even detect its presence. As a test, [try to locate the four occurrences](#sn:solution) of the letter <em class="gr" lang="ug">‪ـىـ‬</em> in [Figure 1](#fig:design-regression).
 
@@ -132,7 +132,7 @@ Uyghurs reformed their writing system to use the Arabic script phonographically 
 
 <aside id="sn:phonographic">A script is used in a phonographic mode when graphemes represent all types of phonemes, whether consonant, long vowels, or short vowels.</aside>
 
-<aside id="sn:uighur">While the venerable <i>Oxford English Dictionary</i> and <i>Encyclopaedia Britannica</i> write “Uighur” (with an “i”), Wikipedia and mass media use the “Uyghur” spelling. We kept the latter because it coincides with the official Uyghur Latin-alphabet transcription of the Uyghur word for Uyghur, namely <em class="gr" lang="ug">‪ئۇيغۇر‬</em></aside>
+<aside id="sn:uighur">While the venerable <i>Oxford English Dictionary</i> and <i>Encyclopaedia Britannica</i> write “Uighur” (with an “i”), Wikipedia and mass media use the “Uyghur” spelling. We kept the latter because it coincides with the official Uyghur Latin-alphabet transcription of the Uyghur word for Uyghur, namely <em class="gr" lang="ug">‪ئۇيغۇر‬</em>.</aside>
 
 <aside id="sn:IT-favors-romanized">According to Zhou (2003, p. 137–138), Uyghur may return once again to the Latin script since “information technology clearly favors romanized writing systems”, an extremely Eurocentric point of view.</aside>
 
@@ -177,4 +177,4 @@ Smitshuijzen Abi Farès, H. (2001). _Arabic typography: A Comprehensive Sourcebo
 
 Wei, C. (1993). An historical survey of modern Uighur writing since the 1950s in Xinjiang, China. _Central Asiatic Journal_, _37_(3–4), 249–322. [https://www.jstor.org/stable/24467845?refreqid=excelsior%3Afcd2252a88eee2d971a96655780114dc](https://www.jstor.org/stable/24467845) accessed 18 September 2021.
 
-Zhou, M. (2003). _Multilingualism in China: the politics of writing reforms for minority languages, 1949-2002_. Mouton De Gruyter. [https://www.degruyter.com/document/doi/10.1515/9783110924596/html](https://www.degruyter.com/document/doi/10.1515/9783110924596/html) accessed 18 September 2021.
+Zhou, M. (2003). _Multilingualism in China: The politics of writing reforms for minority languages, 1949-2002_. Mouton De Gruyter. [https://www.degruyter.com/document/doi/10.1515/9783110924596/html](https://www.degruyter.com/document/doi/10.1515/9783110924596/html) accessed 18 September 2021.
