@@ -146,7 +146,11 @@ Uyghurs reformed their writing system to use the Arabic script phonographically 
 
 <aside id="sn:Turkish">Turkish is a so-called <em>agglutinative</em> language where graphemic words may contain entire phrases and therefore can be quite long.</aside>
 
-<aside id="sn:flat-design">At least in the Naskh style (see Osborn, 2017, p. 55 and Haralambous, 1994), aesthetic Arabic ligatures often correspond to a vertical stacking of shapes. In the absence of aesthetic ligatures, the base line is visually omnipresent and the general impression is one of a flat design. Compare the ligatured <em class="gr" lang="ug">‪لححـ‬</em> with the non-ligatured <em class="gr" lang="ug">‪لـحـحـ‬</em>.</aside>
+<aside id="sn:flat-design">At least in the Naskh style (see Osborn, 2017, p. 55 and Haralambous, 1994), aesthetic Arabic ligatures often correspond to a vertical stacking of shapes. In the absence of aesthetic ligatures, the base line is visually omnipresent and the general impression is one of a flat design. Compare the ligatured (left) and unligatured (right) sequence of the three letters in the following figure.
+
+<img src="/assets/2021-10-12-breaking-arabic/ligatured-vs-unligatured.svg" class="narrow">
+
+</aside>
 
 <aside id="sn:biform-letters">In the Arabic script, <em>biform</em> letters are not connected to the following letter; <em>quadriform</em> letters are connected to the following letter.</aside>
 
