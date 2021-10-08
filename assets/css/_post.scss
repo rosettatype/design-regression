@@ -357,6 +357,12 @@ em.gr {
     background-color: #fff;
     padding: 0.1em 0.2em 0.2em 0.2em;
     border-radius: $border-radius;
+
+    // This _should_ be (inheriting) the 'none' value, yet somehow Safari
+    // renders it as display only when set to auto, which does not make any
+    // sense
+    font-optical-sizing: auto;
+
     &:lang(ar), &:lang(ug) {
        // using the Display variant to make the Arabic shapes more pronounced
        font-variation-settings: "opsz" 18, "slnt" 0;
