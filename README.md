@@ -17,7 +17,8 @@ The site is built from the Markdown (.md) files in this repository and hosted on
 - author your article in the [Markdown syntax](https://www.markdownguide.org/tools/jekyll/)
 - to preview your edits:
     - you need [Ruby](https://www.ruby-lang.org) installed on your system
-    - install Jekyll locally, run `gem install`
+    - ~~install Jekyll locally, run `gem install`~~~
+    - install the required gems by running `bundle install` (you may need to install bundler first with `gem install bundler`)
     - run the Jekyll site locally with `bundle exec jekyll serve`
     - the local preview server address is output to the terminal, usually something like:
         > Server address: http://127.0.0.1:4000/
@@ -28,7 +29,8 @@ The site is built from the Markdown (.md) files in this repository and hosted on
 
 The project is built with static site generator [Jekyll](https://jekyllrb.com/). You will require Ruby to run and preview the site locally before committing any changes to the repository. To run a local preview follow the steps above under "Adding content".
 
-To recompile or update the icon fonts, you need to separately install the `fontcustom` gem and re-compile (after editing or adding SVG files in `/icons`): 
+To recompile or update the icon fonts, you need to separately install the `fontcustom` gem and re-compile (after editing or adding SVG files in `/icons`):
+
 ```
 gem install fontcustom
 fontcustom compile
