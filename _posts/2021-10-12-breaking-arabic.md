@@ -36,8 +36,8 @@ Here is how they did it.
 
 First of all the Uyghurs needed to solve the problem of Arabic loan words that would need to be read in abjad mode. They solved it by respelling the words (in a way similar to the way the Hungarians spell the name of the French capital as “Párizs”). For example, the Arabic word <em class="gr" lang="ug">‪سلطان‬</em> (sultan)—that uses a non-Uyghur emphatic letter <em class="gr" lang="ug">‪ط‬</em> and does not mark the short /u/—becomes <em class="gr" lang="ug">‪سۇلتان‬</em> in Uyghur; <em class="gr" lang="ug">‪ط‬</em> has become <em class="gr" lang="ug">‪ت‬</em> (of which the medial form is <em class="gr" lang="ug">‪ـتـ‬</em>) and the phoneme /u/ is represented by grapheme <em class="gr" lang="ug">‪ۇ‬</em>.
 
-Next, they cleaned up their consonants. They kept Arabic consonants belonging to their phonology, without changing their grapheme-phoneme correspondence. All other consonants (<em class="gr" lang="ug">‪ث‬, ‪ح‬, ‪ذ‬, ‪ص‬, ‪ض‬, ‪ط‬, ‪ظ‬, ‪ع‬, ‪ة‬</em> and the stand-alone <em class="gr" lang="ug">‪ء‬</em>) had to go. 
-And as the Arabic writing system was not sufficient to represent all Uyghur consonantic phonemes, they added graphemes <em class="gr" lang="ug">‪پ‬, ‪چ‬, ‪ژ‬, ‪گ‬</em> and <em class="gr" lang="ug">‪ڭ‬</em>, which were already used in Ottoman (Buğday, 2009).
+Next, they cleaned up their consonants. They kept Arabic consonants belonging to their phonology, without changing their grapheme-phoneme correspondence. All other consonants (<em class="gr" lang="ug">ث، ح، ذ، ص، ض، ط، ظ، ع، ة </em> and the stand-alone <em class="gr" lang="ug">‪ء‬</em>) had to go. 
+And as the Arabic writing system was not sufficient to represent all Uyghur consonantic phonemes, they added graphemes <em class="gr" lang="ug">‪پ‬ ،‪چ‬ ،‪ژ‬ ،‪گ‬</em> and <em class="gr" lang="ug">‪ڭ‬</em>, which were already used in Ottoman (Buğday, 2009).
 
 Now comes the difficult part: how to deal with vowels. Disregarding vocalic length, Arabic language has only three vowels, while the Uyghur phonology requires eight vowels. The principle of strict phonography requires all vowels to be denoted by distinct graphemes—Uyghurs were keen on applying this principle and, after 47 years of reforms, they achieved it.
 
@@ -136,7 +136,7 @@ Uyghurs reformed their writing system to use the Arabic script phonographically 
 
 <aside id="sn:IT-favors-romanized">According to Zhou (2003, p. 137–138), Uyghur may return once again to the Latin script since “information technology clearly favors romanized writing systems”, an extremely Eurocentric point of view.</aside>
 
-<aside id="sn:tooth">The tooth form (cf. Smitshuijzen, 2001, p. 181, for the name) is used in six Arabic-language letters, namely <em class="gr" lang="ug">‪ـبـ‬, ‪ـتـ,‬ ‪ـثـ,‬ ‪ـنـ,‬ ‪ـيـ‬</em> and <em class="gr" lang="ug">‪ـئـ‬</em>, always accompanied by dots or other forms.</aside>
+<aside id="sn:tooth">The tooth form (cf. Smitshuijzen, 2001, p. 181, for the name) is used in six Arabic-language letters, namely <em class="gr" lang="ug">ـبـ، ـتـ، ـثـ، ـنـ، ـيـ</em> and <em class="gr" lang="ug">‪ـئـ‬</em>, always accompanied by dots or other forms.</aside>
 
 <aside id="sn:solution">For the solution, see <a href="#fig:solution">Figure 6</a>.</aside>
 
