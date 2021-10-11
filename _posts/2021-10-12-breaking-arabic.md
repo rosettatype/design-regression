@@ -91,7 +91,7 @@ In [Figures 2](#fig:excerpt1), [3](#fig:excerpt2) and [4](#fig:excerpt3) the rea
 <figcaption id="fig:excerpt2"><strong>Figure 3:</strong> From ‪لالە۔قۇربان‬ (<i>Lale-qurban</i>), 1997. Standard hyphenation of a quadriform letter, with base line hyphen (1).</figcaption>
 
 ![](/assets/2021-10-12-breaking-arabic/hyphenation-sample-3.png)
-<figcaption id="fig:excerpt3"><strong>Figure 4:</strong> From ‪لۇتۇن‬ (<i>Lutun</i>), 2021, typeset in InDesign. No hyphenation. Connections between letters have been elongated to compensate the lack of hyphenation. This is a standard practice in Arabic language but does not comply with Uyghur typographic tradition, as can be seen in Figures 2 and 3.</figcaption>
+<figcaption id="fig:excerpt3"><strong>Figure 4:</strong> From ‪لۇتۇن‬ (<i>Lutun</i>), 2021, typeset in InDesign. No hyphenation. Connections between letters have been elongated to compensate for the lack of hyphenation. This is a standard practice in Arabic language but does not comply with Uyghur typographic tradition, as can be seen in Figures 2 and 3.</figcaption>
 
 Observing these documents, one immediately notices that Uyghur typesetters avoid Arabic aesthetic ligatures (see Haralambous & Dürst, 2019, p. 152) and favour a [*flat design*.](#sn:flat-design) Maybe the purpose of this communicative strategy is to emphasize the phonographic nature of the writing system, where graphemes are directly matched to phonemes and we have a tendency to perceive the order of phonemes as inherently linear since our speech organs can only emit a single phoneme at a time.
 
@@ -101,7 +101,7 @@ Splitting after a biform letter involves no special design. After all, being [bi
 
 | Hyphenating at | Non-hyphenated | Upper line | Lower line |
 |---|---|---|---|
-| biform letter | <em style="font-size: 200%" lang="ug">‪مەهى‬</em> | <em style="font-size: 200%" lang="ug">‪۔‬‪مە‬</em> | <em style="font-size: 200%" lang="ug">‪هى‬</em> |
+| biform letter | <em style="font-size: 200%" lang="ug">‪مەهى‬</em> | <em style="font-size: 200%" lang="ug">مە۔</em> | <em style="font-size: 200%" lang="ug">‪هى‬</em> |
 | quadriform letter | <em style="font-size: 200%" lang="ug">‪مىهى‬</em> | <em style="font-size: 200%" lang="ug">‪مىـ۔‬</em> | <em style="font-size: 200%" lang="ug">‪ـهى‬</em> |
 
 <figcaption id="tab:hyphens"><strong>Table 1:</strong> Hyphenating after biform and quadriform letters in Uyghur.</figcaption>
