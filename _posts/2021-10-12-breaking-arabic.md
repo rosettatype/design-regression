@@ -84,13 +84,13 @@ A natural question to ask is: do the features of the Uyghur language affect font
 
 In [Figures 2](#fig:excerpt1), [3](#fig:excerpt2) and [4](#fig:excerpt3) the reader can see excerpts from three Uyghur printed documents, covering the period 1979–2021 (documents from the Web site [https://elkitab.org](https://elkitab.org)).
 
-![](/assets/2021-10-12-breaking-arabic/hyphenation-sample-1.png)
+![](/assets/2021-10-12-breaking-arabic/hyphenation-sample_1.svg)
 <figcaption id="fig:excerpt1"><strong>Figure 2:</strong> From ‪شىنجاڭنىڭ قىسقىچە تارىخى‬ (<i>Shinjangning qisqiche tarixi</i>), 1979. Hyphenation with hyphens (located at the base line) for biform letters as in (2), and without hyphens for quadriform letters, as in (1) and (3).</figcaption>
 
-![](/assets/2021-10-12-breaking-arabic/hyphenation-sample-2.png)
+![](/assets/2021-10-12-breaking-arabic/hyphenation-sample_2.svg)
 <figcaption id="fig:excerpt2"><strong>Figure 3:</strong> From ‪لالە۔قۇربان‬ (<i>Lale-qurban</i>), 1997. Standard hyphenation of a quadriform letter, with base line hyphen (1).</figcaption>
 
-![](/assets/2021-10-12-breaking-arabic/hyphenation-sample-3.png)
+![](/assets/2021-10-12-breaking-arabic/hyphenation-sample_3.svg)
 <figcaption id="fig:excerpt3"><strong>Figure 4:</strong> From ‪لۇتۇن‬ (<i>Lutun</i>), 2021, typeset in InDesign. No hyphenation. Connections between letters have been elongated to compensate for the lack of hyphenation. This is a standard practice in Arabic language but does not comply with Uyghur typographic tradition, as can be seen in Figures 2 and 3.</figcaption>
 
 Observing these documents, one immediately notices that Uyghur typesetters avoid Arabic aesthetic ligatures (see Haralambous & Dürst, 2019, p. 152) and favour a [*flat design*.](#sn:flat-design) Maybe the purpose of this communicative strategy is to emphasize the phonographic nature of the writing system, where graphemes are directly matched to phonemes and we have a tendency to perceive the order of phonemes as inherently linear since our speech organs can only emit a single phoneme at a time.
@@ -101,8 +101,8 @@ Splitting after a biform letter involves no special design. After all, being [bi
 
 | Hyphenating at | Non-hyphenated | Upper line | Lower line |
 |---|---|---|---|
-| biform letter | <em style="font-size: 200%" lang="ug">‪مەهى‬</em> | <em style="font-size: 200%" lang="ug">مە۔</em> | <em style="font-size: 200%" lang="ug">‪هى‬</em> |
-| quadriform letter | <em style="font-size: 200%" lang="ug">‪مىهى‬</em> | <em style="font-size: 200%" lang="ug">‪مىـ۔‬</em> | <em style="font-size: 200%" lang="ug">‪ـهى‬</em> |
+| biform letter | <em style="font-size: 200%;font-feature-settings: 'ss19' 1;" lang="ug">‪مەهى‬</em> | <em style="font-size: 200%;font-feature-settings: 'ss19' 1;" lang="ug">مە۔</em> | <em style="font-size: 200%;font-feature-settings: 'ss19' 1;" lang="ug">‪هى‬</em> |
+| quadriform letter | <em style="font-size: 200%;font-feature-settings: 'ss19' 1;" lang="ug">‪مىهى‬</em> | <em style="font-size: 200%;font-feature-settings: 'ss19' 1;" lang="ug">‪مىـ۔‬</em> | <em style="font-size: 200%;font-feature-settings: 'ss19' 1;" lang="ug">‪ـهى‬</em> |
 
 <figcaption id="tab:hyphens"><strong>Table 1:</strong> Hyphenating after biform and quadriform letters in Uyghur.</figcaption>
 
@@ -146,7 +146,7 @@ Uyghurs reformed their writing system to use the Arabic script phonographically 
 
 <aside id="sn:Turkish">Turkish is a so-called <em>agglutinative</em> language where graphemic words may contain entire phrases and therefore can be quite long.</aside>
 
-<aside id="sn:flat-design">At least in the Naskh style (see Osborn, 2017, p. 55 and Haralambous, 1994), aesthetic Arabic ligatures often correspond to a vertical stacking of shapes. In the absence of aesthetic ligatures, the base line is visually omnipresent and the general impression is one of a flat design. Compare the ligatured (left) and unligatured (right) sequence of the three letters in the following figure.
+<aside id="sn:flat-design">At least in the Naskh style (see Osborn, 2017, p. 55 and Haralambous, 1994), aesthetic Arabic ligatures often correspond to a vertical stacking of shapes. In the absence of aesthetic ligatures, the base line is visually omnipresent and the general impression is one of a flat design. Compare the ligatured (left) and unligatured (right) sequence of the three letters in the following figure:
 
 <img src="/assets/2021-10-12-breaking-arabic/ligatured-vs-unligatured.svg" class="narrow">
 

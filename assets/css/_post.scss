@@ -348,6 +348,9 @@
     font-size: 129%;
     line-height: 100%;
 }
+:lang(ug) {
+    font-feature-settings: "ss19" 1;
+}
 
 /*
  * GRAPHEME HIGHLIGHT
@@ -367,5 +370,8 @@ em.gr {
        // using the Display variant to make the Arabic shapes more pronounced
        font-variation-settings: "opsz" 18, "slnt" 0;
        font-weight: 450;
+    }
+    :lang(ug) {
+        font-feature-settings: "ss19" 1;
     }
 }
