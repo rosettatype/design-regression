@@ -46,6 +46,23 @@ We will proof read and edit the final copy. The target word count for the articl
 
 ## Formatting of submissions
 
+### File format
+
+You can send us your draft article as a MS Word or PDF The source files of figures will be required whether or not you embed your figures in the Word/PDF document.
+
+### Figures and captions
+
+- all figures should be referred to from the text, be numbered and have captions
+- list all your captions in a separate text file
+- captions can contain bibliographic references
+- captions can contain references to sidenotes, but it is easier if they do not
+- vector graphics should ideally be provided in individual PDF files (we will convert it to SVG for use on the website)
+- for plots, please provide values (data points) and we will generate the plots ourselves. We are using a Javascript library to do this live on the website, so the readers can review the values conveniently.
+- for photos and other bitmaps, provide as high resolution as possible in a JPG with minimal compression (best quality setting). We will optimize them for the website ourselves. Unless you really need to use colour, we prefer black and white photos as these fit best with our website design.
+- when taking website screenshots, take a screenshot of the content, do not include the browser window. We will add a simplified browser window around it using our website styles.
+
+### Our style
+
 We are using APA 7th style guidelines. The full details are available [online](https://apastyle.apa.org/style-grammar-guidelines) but you might find this quick summary helpful for the basics. 
 
 ### Headings
