@@ -164,6 +164,14 @@
             border-top-right-radius: 0;
         }
 
+        .meta-readingtime {
+            border-bottom-right-radius: 0;
+        }
+
+        .meta-date {
+            border-bottom-left-radius: 0;
+        }
+
         .meta-date {
             margin-left: -1px;
         }
@@ -183,6 +191,7 @@
 
             .meta-date {
                 margin-left: 0;
+                border-bottom-left-radius: $border-radius;
             }
         }
     }
