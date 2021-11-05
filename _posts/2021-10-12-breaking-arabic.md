@@ -14,7 +14,7 @@ theme: sand
 
 ## Abjad or not?
 
-The Arabic writing system is notoriously an [*abjad*](#sn:abjad). Nevertheless, let us not confuse writing system and script! A script is neither abjad nor *not* abjad per se—it is its use in the frame of a particular language that can be qualified as such (for further discussion see [Meletis, 2020](#ref:meletis-2020), p. 21). In theory, for languages other than Arabic, the Arabic script could be used in manifold ways.
+The Arabic writing system is notoriously an [*abjad*](#sn:abjad). Nevertheless, let us not confuse writing system and script! A script is neither abjad nor *not* abjad per se—it is its use in the frame of a particular language that can be qualified as such (for further discussion see [Meletis, 2020, p. 21](#ref:meletis-2020)). In theory, for languages other than Arabic, the Arabic script could be used in manifold ways.
 
 However, the rule is that most languages that use Arabic script use it as an abjad. The reasons are historical: the Arabic script has been spread as the vehicle of Islam and, consequently, Arabic-script languages contain a substantial amount of Arabic words, in their original Arabic spelling. If Arabic loan words are written and read in abjad mode, then it is not surprising that words in native languages are written and read in the same way.
 
@@ -28,7 +28,7 @@ Uyghur is a Turkic language and, as such, it historically faced the same problem
 
 In Turkey, Kemal Atatürk solved the problem in 1929 by imposing a purely phonographic Latin-script based writing system, and by removing most Arabic and Persian loan words from the language ([Lewis, 1999](#ref:lewis-1999)).
 
-The Xinjiang region (Northwest China), where most of the Uyghurs live, has not been affected by Atatürk's reform—at the time it was politically part of the Republic of China and culturally under the Soviet sphere of influence ([Wei, 1993](#ref:wei-1993), p. 263). Uyghurs chose a different path: from 1937 to 1983 (and despite short periods of use of the Cyrillic and [the Latin script](#sn:IT-favors-romanized)) they reformed their writing system ([Wei, 1993](#ref:wei-1993); [Reheman & Guo, 2019](#ref:reheman-guo-2019)), and progressively transformed the use of Arabic script in Uyghur from abjad mode to phonographic mode.
+The Xinjiang region (Northwest China), where most of the Uyghurs live, has not been affected by Atatürk's reform—at the time it was politically part of the Republic of China and culturally under the Soviet sphere of influence ([Wei, 1993, p. 263](#ref:wei-1993)). Uyghurs chose a different path: from 1937 to 1983 (and despite short periods of use of the Cyrillic and [the Latin script](#sn:IT-favors-romanized)) they reformed their writing system ([Wei, 1993](#ref:wei-1993); [Reheman & Guo, 2019](#ref:reheman-guo-2019)), and progressively transformed the use of Arabic script in Uyghur from abjad mode to phonographic mode.
 
 Here is how they did it.
 
@@ -104,7 +104,7 @@ In [Figures 2](#fig:excerpt1), [3](#fig:excerpt2) and [4](#fig:excerpt3) the rea
 ![](/assets/2021-10-12-breaking-arabic/hyphenation-sample_3.svg)
 <figcaption id="fig:excerpt3"><strong>Figure 4:</strong> From ‪لۇتۇن‬ (<i>Lutun</i>), 2021, typeset in InDesign. No hyphenation. Connections between letters have been elongated to compensate for the lack of hyphenation. This is a standard practice in Arabic language but does not comply with Uyghur typographic tradition, as can be seen in Figures 2 and 3.</figcaption>
 
-Observing these documents, one immediately notices that Uyghur typesetters avoid Arabic aesthetic ligatures (see [Haralambous & Dürst, 2019](#ref:haralambous-durst-2019), p. 152) and favour a [*flat design*.](#sn:flat-design) Maybe the purpose of this communicative strategy is to emphasize the phonographic nature of the writing system, where graphemes are directly matched to phonemes and we have a tendency to perceive the order of phonemes as inherently linear since our speech organs can only emit a single phoneme at a time.
+Observing these documents, one immediately notices that Uyghur typesetters avoid Arabic aesthetic ligatures (see [Haralambous & Dürst, 2019, p. 152](#ref:haralambous-durst-2019)) and favour a [*flat design*.](#sn:flat-design) Maybe the purpose of this communicative strategy is to emphasize the phonographic nature of the writing system, where graphemes are directly matched to phonemes and we have a tendency to perceive the order of phonemes as inherently linear since our speech organs can only emit a single phoneme at a time.
 
 The preference of non-ligatured text is easy to achieve; it suffices to deactivate aesthetic ligatures in the font. What is more challenging for designers is to cope with hyphenation.
 
@@ -147,7 +147,7 @@ Uyghurs reformed their writing system to use the Arabic script phonographically 
 
 <aside id="sn:IT-favors-romanized">According to Zhou ([2003](zhou-2003), p. 137–138), Uyghur may return once again to the Latin script since “information technology clearly favors romanized writing systems”, an extremely Eurocentric point of view.</aside>
 
-<aside id="sn:tooth">The tooth form (cf. [Smitshuijzen, 2001](#ref:smitshuijzen-2001), p. 181, for the name) is used in six Arabic-language letters, namely <em class="gr" lang="ug">ـبـ</em>,
+<aside id="sn:tooth">The tooth form (cf. [Smitshuijzen, 2001, p. 181](#ref:smitshuijzen-2001), for the name) is used in six Arabic-language letters, namely <em class="gr" lang="ug">ـبـ</em>,
 <em class="gr" lang="ug">ـتـ</em>,
 <em class="gr" lang="ug">ـثـ</em>,
 <em class="gr" lang="ug">ـنـ</em>,
@@ -157,11 +157,11 @@ Uyghurs reformed their writing system to use the Arabic script phonographically 
 
 <aside id="sn:triple-points">Indeed, all triple-dotted graphemes represent consonants: <em class="gr" lang="ug">‪ث‬</em> /θ/, <em class="gr" lang="ug">‪پ‬</em> /p/, <em class="gr" lang="ug">‪ش‬</em> /ʃ/, <em class="gr" lang="ug">‪ڭ‬</em> /ŋ/, <em class="gr" lang="ug">‪چ‬</em> /ʧ/.</aside>
 
-<aside id="sn:graphemic-word">See ([Meletis, 2020](#ref:meletis-2020), §2.5) for the definition of “graphemic word”.</aside>
+<aside id="sn:graphemic-word">See ([Meletis, 2020, §2.5](#ref:meletis-2020)) for the definition of “graphemic word”.</aside>
 
 <aside id="sn:Turkish">Turkish is a so-called <em>agglutinative</em> language where graphemic words may contain entire phrases and therefore can be quite long.</aside>
 
-<aside id="sn:flat-design">At least in the Naskh style (see [Osborn, 2017](#ref:osborn-2017), p. 55 and [Haralambous, 1994](#ref:haralambous-1994)), aesthetic Arabic ligatures often correspond to a vertical stacking of shapes. In the absence of aesthetic ligatures, the base line is visually omnipresent and the general impression is one of a flat design. Compare the ligatured (left) and unligatured (right) sequence of the three letters in the following figure:
+<aside id="sn:flat-design">At least in the Naskh style (see [Osborn, 2017, p. 55](#ref:osborn-2017) and [Haralambous, 1994](#ref:haralambous-1994)), aesthetic Arabic ligatures often correspond to a vertical stacking of shapes. In the absence of aesthetic ligatures, the base line is visually omnipresent and the general impression is one of a flat design. Compare the ligatured (left) and unligatured (right) sequence of the three letters in the following figure:
 
 <img src="/assets/2021-10-12-breaking-arabic/ligatured-vs-unligatured.svg" class="narrow">
 
