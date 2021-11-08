@@ -158,17 +158,19 @@
             border-bottom-right-radius: 0;
         }
 
-        .meta-readingtime,
-        .meta-date {
+        .meta-editor+.meta-readingtime,
+        .meta-editor+.meta-readingtime+.meta-date {
             border-top-left-radius: 0;
             border-top-right-radius: 0;
         }
 
         .meta-readingtime {
             border-bottom-right-radius: 0;
+            border-top-right-radius: 0;
         }
-
+        
         .meta-date {
+            border-top-left-radius: 0;
             border-bottom-left-radius: 0;
         }
 
@@ -178,6 +180,16 @@
 
         @media screen and (min-width: $breakpoint-mobile) and (max-width: $breakpoint-tablet) {
 
+            .meta-readingtime {
+                border-top-left-radius: $border-radius !important;
+                border-top-right-radius: $border-radius !important;
+            }
+
+            .meta-editor+.meta-readingtime {
+                border-top-left-radius: 0 !important;
+                border-top-right-radius: 0 !important;
+            }
+
             .meta-readingtime,
             .meta-date {
                 width: 100%;
@@ -185,13 +197,17 @@
             }
 
             .meta-readingtime {
-                border-radius: 0;
                 margin-bottom: -1px;
             }
 
             .meta-date {
                 margin-left: 0;
                 border-bottom-left-radius: $border-radius;
+            }
+
+            .meta-readingtime+.meta-date {
+                border-top-left-radius: 0 !important;
+                border-top-right-radius: 0 !important;
             }
         }
     }
@@ -327,6 +343,7 @@
 
 @media print {
     @include post-tablet();
+
     .layout-post aside[id^="sn:"] {
         transform: none !important;
     }
@@ -352,13 +369,15 @@
 /*
  * ARABIC content
  */
-:lang(ar), :lang(ug) {
+:lang(ar),
+:lang(ug) {
     @include font-arabic;
     font-size: 129%;
     line-height: 100%;
 }
+
 :lang(ug) {
-    font-feature-settings: "ss19" 1;
+    font-feature-settings: "ss19"1;
 }
 
 /*
@@ -375,12 +394,14 @@ em.gr {
     // sense
     font-optical-sizing: auto;
 
-    &:lang(ar), &:lang(ug) {
-       // using the Display variant to make the Arabic shapes more pronounced
-       font-variation-settings: "opsz" 18, "slnt" 0;
-       font-weight: 450;
+    &:lang(ar),
+    &:lang(ug) {
+        // using the Display variant to make the Arabic shapes more pronounced
+        font-variation-settings: "opsz"18, "slnt"0;
+        font-weight: 450;
     }
+
     :lang(ug) {
-        font-feature-settings: "ss19" 1;
+        font-feature-settings: "ss19"1;
     }
 }
