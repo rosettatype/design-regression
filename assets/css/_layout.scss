@@ -217,6 +217,11 @@ aside#note {
         border-left: $border;
         width: 33%;
 
+        a {
+            display: inline-block;
+            margin-right: 1em;
+        }
+
         p+p {
             margin-top: 1rem;
         }
