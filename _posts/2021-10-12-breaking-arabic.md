@@ -145,9 +145,9 @@ Uyghurs reformed their writing system to use the Arabic script phonographically 
 
 <aside id="sn:uighur">While the venerable <i>Oxford English Dictionary</i> and <i>Encyclopaedia Britannica</i> write “Uighur” (with an “i”), Wikipedia and mass media use the “Uyghur” spelling. We kept the latter because it coincides with the official Uyghur Latin-alphabet transcription of the Uyghur word for Uyghur, namely <em class="gr" lang="ug">‪ئۇيغۇر‬</em>.</aside>
 
-<aside id="sn:IT-favors-romanized">According to Zhou ([2003](zhou-2003), p. 137–138), Uyghur may return once again to the Latin script since “information technology clearly favors romanized writing systems”, an extremely Eurocentric point of view.</aside>
+<aside id="sn:IT-favors-romanized">According to Zhou (<a href="#ref:zhou-2003">2003</a>), p. 137–138), Uyghur may return once again to the Latin script since “information technology clearly favors romanized writing systems”, an extremely Eurocentric point of view.</aside>
 
-<aside id="sn:tooth">The tooth form (cf. [Smitshuijzen, 2001, p. 181](#ref:smitshuijzen-2001), for the name) is used in six Arabic-language letters, namely <em class="gr" lang="ug">ـبـ</em>,
+<aside id="sn:tooth">The tooth form (cf. <a href="#ref:smitshuijzen-2001">Smitshuijzen, 2001, p. 181</a>, for the name) is used in six Arabic-language letters, namely <em class="gr" lang="ug">ـبـ</em>,
 <em class="gr" lang="ug">ـتـ</em>,
 <em class="gr" lang="ug">ـثـ</em>,
 <em class="gr" lang="ug">ـنـ</em>,
@@ -157,11 +157,11 @@ Uyghurs reformed their writing system to use the Arabic script phonographically 
 
 <aside id="sn:triple-points">Indeed, all triple-dotted graphemes represent consonants: <em class="gr" lang="ug">‪ث‬</em> /θ/, <em class="gr" lang="ug">‪پ‬</em> /p/, <em class="gr" lang="ug">‪ش‬</em> /ʃ/, <em class="gr" lang="ug">‪ڭ‬</em> /ŋ/, <em class="gr" lang="ug">‪چ‬</em> /ʧ/.</aside>
 
-<aside id="sn:graphemic-word">See ([Meletis, 2020, §2.5](#ref:meletis-2020)) for the definition of “graphemic word”.</aside>
+<aside id="sn:graphemic-word">See (<a href="#ref:meletis-2020">Meletis, 2020, §2.5</a>) for the definition of “graphemic word”.</aside>
 
 <aside id="sn:Turkish">Turkish is a so-called <em>agglutinative</em> language where graphemic words may contain entire phrases and therefore can be quite long.</aside>
 
-<aside id="sn:flat-design">At least in the Naskh style (see [Osborn, 2017, p. 55](#ref:osborn-2017) and [Haralambous, 1994](#ref:haralambous-1994)), aesthetic Arabic ligatures often correspond to a vertical stacking of shapes. In the absence of aesthetic ligatures, the base line is visually omnipresent and the general impression is one of a flat design. Compare the ligatured (left) and unligatured (right) sequence of the three letters in the following figure:
+<aside id="sn:flat-design">At least in the Naskh style (see <a href="#ref:osborn-2017">Osborn, 2017, p. 55</a> and <a href="#ref:haralambous-1994">Haralambous, 1994</a>), aesthetic Arabic ligatures often correspond to a vertical stacking of shapes. In the absence of aesthetic ligatures, the base line is visually omnipresent and the general impression is one of a flat design. Compare the ligatured (left) and unligatured (right) sequence of the three letters in the following figure:
 
 <img src="/assets/2021-10-12-breaking-arabic/ligatured-vs-unligatured.svg" class="narrow">
 
