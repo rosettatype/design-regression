@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Designing books for readers with early-stage Alzheimer’s disease
-date: 2022-01-11 10:00:00
+date: 2022-01-31 10:00:00
 categories:
     - Article
 authors:
@@ -329,8 +329,8 @@ contribution to the studies.
 \* Indicates published text used in the preparation of sample materials
 for the studies.
 
-Alzheimer (2021). Alzheimer’s Society. Dementia symptoms and areas of
-the brain. Available at
+Alzheimer (2021). *Alzheimer’s Society. Dementia symptoms and areas of
+the brain.* Available at
 <https://www.alzheimers.org.uk/about-dementia/symptoms-and-diagnosis/how-dementia-progresses/symptoms-brain>.
 
 Bate, H.J. (2014). *Too late to learn to drive: dementia, visual
@@ -344,11 +344,10 @@ individuals with Alzheimer’s disease: emergence of behavioral
 interventions. *Journal of Communication Disorders*, *36*(5), 327–343.
 <https://doi.org/10.1016/S0021-9924(03)00047-9>
 
-Bayles, K.A. & Tomoeda, C.K. (2013). [*MCI and Alzheimer\’s dementia:
+Bayles, K.A. & Tomoeda, C.K. (2013). *MCI and Alzheimer\’s dementia:
 clinical essentials for assessment and treatment of
 cognitive-communication
-disorders*](http://copac.ac.uk/search?title=MCI%20and%20Alzheimer%27s%20dementia%20%3A%20clinical%20essentials%20for%20assessment%20and%20treatment%20of%20cognitive-communication%20disorders).
-Plural Publishing, Inc.
+disorders*. Available at <http://copac.ac.uk/search?title=MCI%20and%20Alzheimer%27s%20dementia%20%3A%20clinical%20essentials%20for%20assessment%20and%20treatment%20of%20cognitive-communication%20disorders> Plural Publishing, Inc.
 
 Bower, G.H. (1976). Experiments on story understanding and recall.
 *Quarterly Journal of Experimental Psychology*, *28*(4), 511–534.
@@ -381,29 +380,26 @@ mild cognitive impairment. *Neuropsychologia*, *50*(9), 2333–2340.
 Geertz, C. (1973). Thick description: towards an interpretive theory of
 culture. In C. Geertz, *The interpretation of cultures* (pp. 3–30).
 Basic Books, Inc.
-[https://web.mit.edu/allanmc/www/geertz.pdf]{.underline}
+[https://web.mit.edu/allanmc/www/geertz.pdf]
 
 Hartley, J. & Trueman, J. (1983). The effects of headings in text on
-recall, search and retrieval. *British Journal of Educational
-Psychology*, *53*(2), 205–214.
+recall, search and retrieval. *British Journal of Educational Psychology*, *53*(2), 205–214.
 <https://doi.org/10.1111/j.2044-8279.1983.tb02551.x>
 
 Hudon, C., Belleville, S., Souchay, C., Gély-Nargeot, M.C., Chertkow, H.
 & Gauthier, S. (2006). Memory for gist and detail information in
 Alzheimer’s disease and Mild Cognitive Impairment. *Neuropsychology*,
 *20*(5), 566–577.
-[https://doi.org/10.1037/0894-4105.20.5.566](https://psycnet.apa.org/doi/10.1037/0894-4105.20.5.566)
+<https://doi.org/10.1037/0894-4105.20.5.566>
 
 Kempler, D., Almor, A. & MacDonald, M.C. (1998). Teasing apart the
 contribution of memory and language impairments in Alzheimer’s disease.
-An online study of sentence comprehension. *American Journal of
-Speech–Language Pathology*, *7*(1), 61–67.
+An online study of sentence comprehension. *American Journal of Speech–Language Pathology*, *7*(1), 61–67.
 <https://doi.org/10.1044/1058-0360.0701.61>
 
 \*La Plante, L. (2012). *The Little One*. Simon & Schuster UK Ltd.
 
-Leahy, M. (2021). *Reading with early-stage Alzheimer’s disease.
-Modifications to book design as a way of supporting preserved memory*
+Leahy, M. (2021). *Reading with early-stage Alzheimer’s disease. Modifications to book design as a way of supporting preserved memory*
 skills. Doctoral thesis, University of Reading.
 <https://doi.org/10.48683/1926.00100747>
 
@@ -419,7 +415,7 @@ and memory processes. *Educational Psychology Review*, *1*, 209–234.
 Little, Aloud* (pp. 25-35). Chatto & Windus. (Original work published
 1922)
 
-Mollerup, P. (2013). Wayshowing \> Wayfinding: Basic and interactive.
+Mollerup, P. (2013). *Wayshowing \> Wayfinding: Basic and interactive*.
 (2nd ed.). BIS Publishers.
 
 Patterson, K.E., Graham, N. & Hodges, J.R. (1994). Reading in dementia
@@ -431,12 +427,10 @@ Press.
 
 Snowdon, D.A. (2003). Healthy aging and dementia: findings from the Nun
 Study. *Annals of Internal Medicine, 135*(5), 450–455.
-[https://doi.org/10.7326/0003-4819-135-5 Part
-2-200309021-00014](https://doi.org/10.7326/0003-4819-135-5%20Part%202-200309021-00014)
+[https://doi.org/10.7326/0003-4819-135-5 Part 2-200309021-00014](https://doi.org/10.7326/0003-4819-135-5%20Part%202-200309021-00014)
 
 Stern, Y. (2012). Cognitive reserve in ageing and Alzheimer’s disease.
-*Lancet Neurology*, *11*, 1006–12.
-https://doi.org/[10.1016/S1474-4422(12)70191-6](https://dx.doi.org/10.1016%2FS1474-4422(12)70191-6)
+*Lancet Neurology*, *11*, 1006–12. <https://dx.doi.org/10.1016%2FS1474-4422(12)70191-6>
 
 \*Stevenson. R.L. (1883). *Treasure Island*. Cassell & Co.
 <https://www.gutenberg.org/files/120/120-h/120-h.html>.
@@ -447,11 +441,10 @@ learning. *Cognitive Science*, *12*(2), 257–285.
 
 Tatler, B.W., Wade, N.J., Kwan, H., Findlay, J.M. & Velichkovsky, B.M.
 (2010). Yarbus, eye movements, and vision*.* *i-Perception*, *1*, 7–27.
-[https://journals.sagepub.com/doi/pdf/10.1068/i0382](https://journals.sagepub.com/doi/pdf/10.1068/i0382%20)
+<https://journals.sagepub.com/doi/pdf/10.1068/i0382%20>
 
 Wasson, C. (2000). Ethnography in the field of design. *Human
-Organization*, *59*(4), 377– 388.
-<https://doi.org/10.17730/humo.59.4.h13326628n127516>
+Organization*, *59*(4), 377– 388. <https://doi.org/10.17730/humo.59.4.h13326628n127516>
 
 Yarbus, A.L. (1967). *Eye movements and vision*. Plenum Press.
 
