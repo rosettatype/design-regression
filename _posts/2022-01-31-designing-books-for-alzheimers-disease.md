@@ -7,7 +7,7 @@ categories:
 authors:
     - Marie E. Leahy
 readingtime: 15 min read
-intro: 
+intro: The research describes the studies carried out in order to investigate whether adjusting the design of books could help readers with a memory impairment.
 sharing_image: /assets/2022-01-31-designing-books-for-alzheimers-disease/sharing_image.png
 theme: red
 # Version 6 as at 12.11.2021 with MD and DB corrections
@@ -164,14 +164,20 @@ showing alternative treatments of four design issues. The issues were:
 The samples in each case were based on existing books and followed the
 typography and page design of traditional texts.
 
-**Insert Fig. 1a and 1b, Fig. 2a and 2b, Fig. 3a and 3b, Fig. 4a and
-4b.**
+```
+Insert Fig. 1a and 1b, Fig. 2a and 2b, Fig. 3a and 3b, Fig. 4a and
+4b.
+```
 
-**Fig. 3b Add arrows next to the image to indicate where names have been
-inserted (see ref. image)**
+```
+Fig. 3b Add arrows next to the image to indicate where names have been
+inserted (see ref. image)
+```
 
-**Fig. 4b Add arrows next to the image to indicate where editorial
-changes have been made (see ref. image)**
+```
+Fig. 4b Add arrows next to the image to indicate where editorial
+changes have been made (see ref. image)
+```
 
 **Textual additions study:** the layouts addressed the issue of
 forgetting the characters in a story and forgetting the events described
@@ -185,7 +191,9 @@ The samples again adopted the design of traditional works of fiction
 with the plot summaries added in a sans serif typeface and on a grey
 background.
 
-**Insert Fig. 5a and 5b, Fig. 6a and 6b**
+```
+Insert Fig. 5a and 5b, Fig. 6a and 6b
+```
 
 **Book cover study:** the samples tested memory-supporting additions to
 a work of fiction. The additions were:
@@ -198,7 +206,9 @@ The design of the book covers was deliberately fresh and simple with a
 strong reliance on typography to ensure the legibility of both the book
 title and the flap copy.
 
-**Insert Fig. 7, Fig. 8 and Fig. 9**
+```
+Insert Fig. 7, Fig. 8 and Fig. 9
+```
 
 ## The participants and what they did
 
@@ -292,7 +302,7 @@ vital when producing books that will appeal to readers with early-stage
 Alzheimer’s disease.
 
 <aside id="sn:ritter">
-Ritter writes in *The Oxford Manual of Style* (1992, p. 112) that
+Ritter writes in <em>The Oxford Manual of Style</em> (1992, p. 112) that
 “Punctuation exists to clarify meaning in the written word and to
 facilitate reading. Too much can hamper understanding through an
 uneven, staccato text, while too little can lead to misreading.”
