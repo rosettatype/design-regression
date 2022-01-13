@@ -98,8 +98,7 @@ Lorch (1989) proposes that they help focus attention and thus
 support comprehension. Limiting the need for inference might be
 achieved by building in redundancy (Bower, 1976) or deliberate
 superfluousness (Mollerup, 2013), and by using explicit punctuation
-(Ritter, 1992)[.](#sn:ritter) Perhaps most significantly, research led by the
-University of Liverpool suggests that imaginative content and rich
+(Ritter, 1992)[.](#sn:ritter) Perhaps most significantly, research led by the University of Liverpool suggests that imaginative content and rich
 vocabulary continue to be appreciated by readers with a cognitive
 impairment (Davis et al., 2016). The pleasure derived from reading
 is undoubtedly subjective, but personal observation suggested that
@@ -149,9 +148,7 @@ participants’ full meaning.
 
 I drew up a detailed brief for each of the three small-scale
 user-centred studies and commissioned the test materials from two
-[professional designers.](#sn:professional-designers) In each case the designers prepared pairs of
-contrasting sample materials so that participants would only have to
-choose between alternative treatments.
+[professional designers.](#sn:professional-designers) In each case the designers prepared pairs of contrasting sample materials so that participants would only have to choose between alternative treatments.
 
 **Participant interview study:** four pairs of layouts were prepared
 showing alternative treatments of four design issues. The issues were:
@@ -164,20 +161,19 @@ showing alternative treatments of four design issues. The issues were:
 The samples in each case were based on existing books and followed the
 typography and page design of traditional texts.
 
-```
-Insert Fig. 1a and 1b, Fig. 2a and 2b, Fig. 3a and 3b, Fig. 4a and
-4b.
-```
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_1.jpg)
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_2.jpg)
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_3.jpg)
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_4.jpg)
 
-```
+
+<!--
 Fig. 3b Add arrows next to the image to indicate where names have been
 inserted (see ref. image)
-```
 
-```
 Fig. 4b Add arrows next to the image to indicate where editorial
 changes have been made (see ref. image)
-```
+-->
 
 **Textual additions study:** the layouts addressed the issue of
 forgetting the characters in a story and forgetting the events described
@@ -191,9 +187,8 @@ The samples again adopted the design of traditional works of fiction
 with the plot summaries added in a sans serif typeface and on a grey
 background.
 
-```
-Insert Fig. 5a and 5b, Fig. 6a and 6b
-```
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_5.jpg)
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_6.jpg)
 
 **Book cover study:** the samples tested memory-supporting additions to
 a work of fiction. The additions were:
@@ -206,9 +201,9 @@ The design of the book covers was deliberately fresh and simple with a
 strong reliance on typography to ensure the legibility of both the book
 title and the flap copy.
 
-```
-Insert Fig. 7, Fig. 8 and Fig. 9
-```
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_7.jpg)
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_8.jpg)
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_9.jpg)
 
 ## The participants and what they did
 
