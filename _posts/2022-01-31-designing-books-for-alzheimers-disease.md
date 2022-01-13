@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Designing books for readers with early-stage Alzheimer’s disease
-date: 2022-01-31 10:00:00
+date: 2022-01-11 10:00:00
 categories:
     - Article
 authors:
