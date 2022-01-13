@@ -162,9 +162,16 @@ The samples in each case were based on existing books and followed the
 typography and page design of traditional texts.
 
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_1.jpg)
+<figcaption id="fig:figure-1"><strong>Figure 1:</strong></figcaption>
+
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_2.jpg)
+<figcaption id="fig:figure-2"><strong>Figure 2:</strong></figcaption>
+
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_3.jpg)
+<figcaption id="fig:figure-3"><strong>Figure 3:</strong></figcaption>
+
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_4.jpg)
+<figcaption id="fig:figure-4"><strong>Figure 4:</strong></figcaption>
 
 
 <!--
@@ -188,7 +195,10 @@ with the plot summaries added in a sans serif typeface and on a grey
 background.
 
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_5.jpg)
+<figcaption id="fig:figure-5"><strong>Figure 5:</strong></figcaption>
+
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_6.jpg)
+<figcaption id="fig:figure-6"><strong>Figure 6:</strong></figcaption>
 
 **Book cover study:** the samples tested memory-supporting additions to
 a work of fiction. The additions were:
@@ -202,8 +212,13 @@ strong reliance on typography to ensure the legibility of both the book
 title and the flap copy.
 
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_7.jpg)
+<figcaption id="fig:figure-7"><strong>Figure 7:</strong></figcaption>
+
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_8.jpg)
+<figcaption id="fig:figure-8"><strong>Figure 8:</strong></figcaption>
+
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_9.jpg)
+<figcaption id="fig:figure-9"><strong>Figure 9:</strong></figcaption>
 
 ## The participants and what they did
 
