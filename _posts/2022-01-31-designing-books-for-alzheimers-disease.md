@@ -161,17 +161,29 @@ showing alternative treatments of four design issues. The issues were:
 The samples in each case were based on existing books and followed the
 typography and page design of traditional texts.
 
-![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_1.jpg)
-<figcaption id="fig:figure-1"><strong>Figure 1:</strong></figcaption>
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_1a.jpg)
+<figcaption id="fig:figure-1"><strong>Figure 1a:</strong> Diagram of the first layout used in the Participant interview study. The illustration is inserted after its point of reference in the text.</figcaption>
 
-![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_2.jpg)
-<figcaption id="fig:figure-2"><strong>Figure 2:</strong></figcaption>
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_1b.jpg)
+<figcaption id="fig:figure-1"><strong>Figure 1b:</strong> Diagram of the second layout used in the Participant interview study. The illustration is positioned opposite the reference in the text.</figcaption>
 
-![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_3.jpg)
-<figcaption id="fig:figure-3"><strong>Figure 3:</strong></figcaption>
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_2a.jpg)
+<figcaption id="fig:figure-2"><strong>Figure 2a:</strong> Fictitious text describing a portrait by Rubens.</figcaption>
 
-![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_4.jpg)
-<figcaption id="fig:figure-4"><strong>Figure 4:</strong></figcaption>
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_2b.jpg)
+<figcaption id="fig:figure-2"><strong>Figure 2b:</strong> Fictitious text with added subheadings describing a portrait by Rubens.</figcaption>
+
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_3a.jpg)
+<figcaption id="fig:figure-3"><strong>Figure 3a:</strong> Pages of dialogue from Lynda La Plante’s The Little One (pp. 10–11).</figcaption>
+
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_3b.jpg)
+<figcaption id="fig:figure-3"><strong>Figure 3b:</strong> Pages of dialogue from Lynda La Plante’s The Little One (pp. 10–11) with added references to the speakers’ names.</figcaption>
+
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_4a.jpg)
+<figcaption id="fig:figure-4"><strong>Figure 4a:</strong> The opening page of Katherine Mansfield’s The Doll’s House. From the anthology A Little, Aloud (Chatto & Windus, 2010).  </figcaption>
+
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_4b.jpg)
+<figcaption id="fig:figure-4"><strong>Figure 4b:</strong> The opening page of Katherine Mansfield’s The Doll’s House with editorial changes. From the anthology A Little, Aloud (Chatto & Windus,  2010).</figcaption>
 
 
 <!--
@@ -194,11 +206,17 @@ The samples again adopted the design of traditional works of fiction
 with the plot summaries added in a sans serif typeface and on a grey
 background.
 
-![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_5.jpg)
-<figcaption id="fig:figure-5"><strong>Figure 5:</strong></figcaption>
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_5a.jpg)
+<figcaption id="fig:figure-5"><strong>Figure 5a:</strong> The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol (1843). The text is ranged left.</figcaption>
 
-![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_6.jpg)
-<figcaption id="fig:figure-6"><strong>Figure 6:</strong></figcaption>
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_5b.jpg)
+<figcaption id="fig:figure-5"><strong>Figure 5b:</strong> The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol (1843). The text is centred horizontally.</figcaption>
+
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_6a.jpg)
+<figcaption id="fig:figure-6"><strong>Figure 6a:</strong> The plot summary positioned at the end of a chapter.</figcaption>
+
+![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_6b.jpg)
+<figcaption id="fig:figure-6"><strong>Figure 6b:</strong>  The plot summary facing the opening page of a new chapter.</figcaption>
 
 **Book cover study:** the samples tested memory-supporting additions to
 a work of fiction. The additions were:
@@ -212,13 +230,13 @@ strong reliance on typography to ensure the legibility of both the book
 title and the flap copy.
 
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_7.jpg)
-<figcaption id="fig:figure-7"><strong>Figure 7:</strong></figcaption>
+<figcaption id="fig:figure-7"><strong>Figure 7:</strong> Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s Treasure Island (Cassell & Co., 1883).</figcaption>
 
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_8.jpg)
-<figcaption id="fig:figure-8"><strong>Figure 8:</strong></figcaption>
+<figcaption id="fig:figure-8"><strong>Figure 8:</strong> Bookmark with a list of the characters in Treasure Island provided as a detachable strip printed on the front flap.</figcaption>
 
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_9.jpg)
-<figcaption id="fig:figure-9"><strong>Figure 9:</strong></figcaption>
+<figcaption id="fig:figure-9"><strong>Figure 9:</strong> Alternative designs for a publicity sticker, with (left) a book motif and (right) an elephant motif. </figcaption>
 
 ## The participants and what they did
 
