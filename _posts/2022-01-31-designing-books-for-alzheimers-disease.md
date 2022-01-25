@@ -163,12 +163,10 @@ typography and page design of traditional texts.
 
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_1a_image-in-text.png)
 {: .narrow}
-
 <figcaption id="fig:figure-1"><strong>Figure 1a:</strong> Diagram of the first layout used in the Participant interview study. The illustration is inserted after its point of reference in the text.</figcaption>
 
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_1b_image-opposite-text.png)
 {: .narrow}
-
 <figcaption id="fig:figure-1"><strong>Figure 1b:</strong> Diagram of the second layout used in the Participant interview study. The illustration is positioned opposite the reference in the text.</figcaption>
 
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_2a_without-subheadings.svg)
@@ -250,6 +248,7 @@ title and the flap copy.
 <figcaption id="fig:figure-8"><strong>Figure 8:</strong> Bookmark with a list of the characters in Treasure Island provided as a detachable strip printed on the front flap.</figcaption>
 
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_9_stickers.svg)
+{: .narrow}
 <figcaption id="fig:figure-9"><strong>Figure 9:</strong> Alternative designs for a publicity sticker, with (left) a book motif and (right) an elephant motif. </figcaption>
 
 ## The participants and what they did
