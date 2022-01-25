@@ -426,35 +426,35 @@ article main {
         }
     }
 
-        // Even narrower paragraph or image container
-        .narrower {
-            max-width: 25%;
+    // Even narrower paragraph or image container
+    .narrower {
+        max-width: 25%;
 
-            img {
-                width: 100%;
-            }
+        img {
+            width: 100%;
+        }
+
+        &+figcaption {
+            max-width: 40%;
+        }
+
+        @include tablet {
+            margin-left: auto;
+            margin-right: auto;
 
             &+figcaption {
-                max-width: 40%;
-            }
-
-            @include tablet {
                 margin-left: auto;
                 margin-right: auto;
-
-                &+figcaption {
-                    margin-left: auto;
-                    margin-right: auto;
-                }
             }
-
-        @include mobile {
-            max-width: 400px;
-
-            &+figcaption {
-                max-width: 400px;
-            }    
         }
+    }
+
+    @include mobile {
+        max-width: 400px;
+
+        &+figcaption {
+            max-width: 400px;
+        }    
     }
 
     figcaption {
@@ -471,6 +471,10 @@ article main {
 
     .outlined {
         border: $border;
+    }
+
+    .white-background {
+        background-color: #fff;
     }
 
     .browser {
