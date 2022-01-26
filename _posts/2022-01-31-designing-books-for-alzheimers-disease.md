@@ -153,10 +153,10 @@ user-centred studies and commissioned the test materials from two
 **Participant interview study:** four pairs of layouts were prepared
 showing alternative treatments of four design issues. The issues were:
 
--  the positioning of an illustration in the text (Fig. 1a) or on the facing page (Fig. 1b) in a work of fiction
--  the addition of subheadings in a piece of explanatory prose (Figs 2a and 2b)
--  the addition of speakers’ names in a page of dialogue (Figs 3a and 3b)
--  the simplification of language in a page of a literary fiction (Figs 4a and 4b)
+-  the positioning of an illustration in the text (Figure 1a) or on the facing page (Figure 1b) in a work of fiction
+-  the addition of subheadings in a piece of explanatory prose (Figures 2a and 2b)
+-  the addition of speakers’ names in a page of dialogue (Figures 3a and 3b)
+-  the simplification of language in a page of a literary fiction (Figures 4a and 4b)
 
 The samples in each case were based on existing books and followed the
 typography and page design of traditional texts.
@@ -195,10 +195,10 @@ typography and page design of traditional texts.
 
 
 <!--
-Fig. 3b Add arrows next to the image to indicate where names have been
+Figure 3b Add arrows next to the image to indicate where names have been
 inserted (see ref. image)
 
-Fig. 4b Add arrows next to the image to indicate where editorial
+Figure 4b Add arrows next to the image to indicate where editorial
 changes have been made (see ref. image)
 -->
 
@@ -206,9 +206,9 @@ changes have been made (see ref. image)
 forgetting the characters in a story and forgetting the events described
 in previous chapters. The layouts showed:
 
--  alternative presentations of a list of characters in the prelims (Figs 5a and 5b)
--  a plot summary at the end of a chapter (Fig. 6a)
--  a plot summary at the start of a new chapter (Fig. 6b)
+-  alternative presentations of a list of characters in the prelims (Figures 5a and 5b)
+-  a plot summary at the end of a chapter (Figure 6a)
+-  a plot summary at the start of a new chapter (Figure 6b)
 
 The samples again adopted the design of traditional works of fiction
 with the plot summaries added in a sans serif typeface and on a grey
@@ -233,9 +233,9 @@ background.
 **Book cover study:** the samples tested memory-supporting additions to
 a work of fiction. The additions were:
 
-- a bookmark attached to a ribbon and providing a list of characters(Fig. 7)
-- a list of characters provided as a detachable strip printed on the front flap (Fig. 8)
-- two suggestions for a publicity sticker for the front of the book (Fig. 9)
+- a bookmark attached to a ribbon and providing a list of characters(Figure 7)
+- a list of characters provided as a detachable strip printed on the front flap (Figure 8)
+- two suggestions for a publicity sticker for the front of the book (Figure 9)
 
 The design of the book covers was deliberately fresh and simple with a
 strong reliance on typography to ensure the legibility of both the book
@@ -350,8 +350,8 @@ uneven, staccato text, while too little can lead to misreading.”
 </aside>
 
 <aside id="sn:professional-designers">
-The layouts illustrated in Figs 1–6 were prepared by David
-Woodward. The materials illustrated in Figs 7–9 were prepared by
+The layouts illustrated in Figures 1–6 were prepared by David
+Woodward. The materials illustrated in Figures 7–9 were prepared by
 Tamsin Ogilvie. I am grateful to both designers for their
 contribution to the studies.
 </aside>
