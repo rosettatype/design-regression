@@ -203,6 +203,10 @@
             margin-bottom: 1em;
         }
 
+        >figcaption {
+            margin-bottom: initial;
+        }
+
         aside {
             position: absolute;
             right: -50%;
@@ -327,6 +331,7 @@
 
 @media print {
     @include post-tablet();
+
     .layout-post aside[id^="sn:"] {
         transform: none !important;
     }
@@ -352,13 +357,15 @@
 /*
  * ARABIC content
  */
-:lang(ar), :lang(ug) {
+:lang(ar),
+:lang(ug) {
     @include font-arabic;
     font-size: 129%;
     line-height: 100%;
 }
+
 :lang(ug) {
-    font-feature-settings: "ss19" 1;
+    font-feature-settings: "ss19"1;
 }
 
 /*
@@ -375,12 +382,14 @@ em.gr {
     // sense
     font-optical-sizing: auto;
 
-    &:lang(ar), &:lang(ug) {
-       // using the Display variant to make the Arabic shapes more pronounced
-       font-variation-settings: "opsz" 18, "slnt" 0;
-       font-weight: 450;
+    &:lang(ar),
+    &:lang(ug) {
+        // using the Display variant to make the Arabic shapes more pronounced
+        font-variation-settings: "opsz"18, "slnt"0;
+        font-weight: 450;
     }
+
     :lang(ug) {
-        font-feature-settings: "ss19" 1;
+        font-feature-settings: "ss19"1;
     }
 }

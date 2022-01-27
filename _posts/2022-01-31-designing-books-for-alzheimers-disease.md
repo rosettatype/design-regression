@@ -161,13 +161,13 @@ showing alternative treatments of four design issues. The issues were:
 The samples in each case were based on existing books and followed the
 typography and page design of traditional texts.
 
-![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_1a_image-in-text.png)
-{: .narrow}
+<div class="columns">
+<img alt="" src="/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_1a_image-in-text.png" >
 <figcaption id="fig:figure-1"><strong>Figure 1a:</strong> Diagram of the first layout used in the Participant interview study. The illustration is inserted after its point of reference in the text.</figcaption>
 
-![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_1b_image-opposite-text.png)
-{: .narrow}
+<img alt="" src="/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_1b_image-opposite-text.png" >
 <figcaption id="fig:figure-1"><strong>Figure 1b:</strong> Diagram of the second layout used in the Participant interview study. The illustration is positioned opposite the reference in the text.</figcaption>
+</div>
 
 ![](/assets/2022-01-31-designing-books-for-alzheimers-disease/figure_2a_without-subheadings.svg)
 {: .white-background}

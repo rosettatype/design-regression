@@ -459,7 +459,7 @@ article main {
 
     figcaption {
         @include text-s;
-        margin: 1rem 0 4rem;
+        margin: 1rem 0 4rem !important;
     }
 
     .full {
