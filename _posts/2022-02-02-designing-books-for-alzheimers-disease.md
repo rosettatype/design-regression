@@ -342,7 +342,7 @@ Tamsin Ogilvie. I am grateful to both designers for their
 contribution to the studies.
 </aside>
 
-<aside id="sn:jamie-stonebridge"> The series of paperback books independently published by Jamie Stonebridge makes a significant contribution to this area. Each title consists of a short story with simple documentary illustrations and carefully edited text that is designed for independent reading. The books are listed at <a href="https://jamiestonebridge.com">https://jamiestonebridge.com</a>.
+<aside id="sn:jamie-stonebridge"> The series of paperback books independently published by Jamie Stonebridge makes a significant contribution to this area. Each title consists of a short story with simple documentary illustrations and carefully edited text that is designed for independent reading. The books are listed at <a href="https://jamiestonebridge.com">https://jamiestonebridge.com</a>.
 </aside>
 
 ## References
