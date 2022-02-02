@@ -26,7 +26,7 @@ design of books could help readers with a memory impairment (Leahy,
 ## Why Alzheimer’s disease can affect reading
 
 Alzheimer’s disease is the most commonly occurring form of dementia
-(Zahn and Burns, 2017, p. 2). It is a progressive condition and is
+(Zahn & Burns, 2017, p. 2). It is a progressive condition and is
 characterised by a particular form of memory loss that is due in part to
 a deterioration in the functioning of the hippocampus, a part of the
 brain that plays a vital role in working memory and in the formation of
@@ -168,7 +168,7 @@ typography and page design of traditional texts.
 
 ![Fictitious text describing a portrait by Rubens](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_2a_without-subheadings.svg)
 {: .white-background}
-<figcaption id="fig:figure-2a"><strong>Figure 2a:</strong> Fictitious text describing a portrait by Rubens. Image courtesy of the Royal Collection Trust. © Her Majesty Queen Elizabeth II 2022.</figcaption>
+<figcaption id="fig:figure-2a"><strong>Figure 2a:</strong> Fictitious text describing a portrait by Rubens. Image courtesy of the Royal Collection Trust. © Her Majesty Queen Elizabeth II 2022.</figcaption>
 
 ![Fictitious text with added subheadings describing a portrait by Rubens](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_2b_with-subheadings.svg)
 {: .white-background}
@@ -221,7 +221,7 @@ background.
 **Book cover study:** the samples tested memory-supporting additions to
 a work of fiction. The additions were:
 
-- a bookmark attached to a ribbon and providing a list of characters(see Figure 7)
+- a bookmark attached to a ribbon and providing a list of characters (see Figure 7)
 - a list of characters provided as a detachable strip printed on the front flap (see Figure 8)
 - two suggestions for a publicity sticker for the front of the book (see Figure 9)
 
@@ -337,8 +337,7 @@ uneven, staccato text, while too little can lead to misreading.”
 </aside>
 
 <aside id="sn:professional-designers">
-The layouts illustrated in Figures 1–6 were prepared by David
-Woodward. The materials illustrated in Figures 7–9 were prepared by
+The layouts illustrated in Figures 1–6 were prepared by David Woodward. The materials illustrated in Figures 7–9 were prepared by
 Tamsin Ogilvie. I am grateful to both designers for their
 contribution to the studies.
 </aside>
