@@ -158,13 +158,13 @@ showing alternative treatments of four design issues. The issues were:
 The samples in each case were based on existing books and followed the
 typography and page design of traditional texts.
 
-![Diagram of the first layout used in the Participant interview study](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_1a_image-in-text.png)
-{: .narrow}
+<div class="columns">
+<img alt="Diagram of the first layout used in the Participant interview study" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_1a_image-in-text.png">
 <figcaption id="fig:figure-1a"><strong>Figure 1a:</strong> Diagram of the first layout used in the Participant interview study. The illustration is inserted after its point of reference in the text.</figcaption>
 
-![Diagram of the second layout used in the Participant interview study](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_1b_image-opposite-text.png)
-{: .narrow}
+<img alt="Diagram of the second layout used in the Participant interview study" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_1b_image-opposite-text.png">
 <figcaption id="fig:figure-1v"><strong>Figure 1b:</strong> Diagram of the second layout used in the Participant interview study. The illustration is positioned opposite the reference in the text.</figcaption>
+</div>
 
 ![Fictitious text describing a portrait by Rubens](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_2a_without-subheadings.svg)
 {: .white-background}
@@ -182,13 +182,13 @@ typography and page design of traditional texts.
 {: .white-background}
 <figcaption id="fig:figure-3b"><strong>Figure 3b:</strong> Pages of dialogue from Lynda La Plante’s <em>The Little One</em> (pp. 10–11) with added references to the speakers’ names. Excerpt included by permission of Simon and Schuster Ltd.</figcaption>
 
-![The opening page of Katherine Mansfield’s The Doll’s House](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_4a_without-editorial-changes.svg)
-{: .white-background}
+<div class="columns">
+<img alt="The opening page of Katherine Mansfield’s The Doll’s House" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_4a_without-editorial-changes.svg" class="white-background">
 <figcaption id="fig:figure-4a"><strong>Figure 4a:</strong> The opening page of Katherine Mansfield’s <em>The Doll’s House</em>. From the anthology <em>A Little, Aloud</em> (Chatto & Windus, 2010). Excerpt included by permission of The Reader: <em>A Little, Aloud</em>, Chatto & Windus, 2010.</figcaption>
 
-![The opening page of Katherine Mansfield’s The Doll’s House with editorial changes](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_4b_with-editorial-changes.svg)
-{: .white-background}
+<img alt="The opening page of Katherine Mansfield’s The Doll’s House with editorial changes" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_4b_with-editorial-changes.svg" class="white-background">
 <figcaption id="fig:figure-4b"><strong>Figure 4b:</strong> The opening page of Katherine Mansfield’s <em>The Doll’s House</em> with editorial changes. From the anthology <em>A Little, Aloud</em> (Chatto & Windus, 2010). Excerpt included by permission of The Reader: <em>A Little, Aloud</em>, Chatto & Windus, 2010.</figcaption>
+</div>
 
 **Textual additions study:** the layouts addressed the issue of
 forgetting the characters in a story and forgetting the events described
@@ -230,6 +230,7 @@ strong reliance on typography to ensure the legibility of both the book
 title and the flap copy.
 
 ![Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s Treasure Island](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_7_bookmark-with-ribbon.jpg)
+{: .narrow}
 <figcaption id="fig:figure-7"><strong>Figure 7:</strong> Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s <em>Treasure Island</em> (Cassell & Co., 1883).</figcaption>
 
 ![Bookmark with a list of the characters in Treasure Island](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_8_bookmark-front-flap.jpg)
@@ -237,7 +238,7 @@ title and the flap copy.
 
 ![Alternative designs for a publicity sticker](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_9_stickers.svg)
 {: .narrow}
-<figcaption id="fig:figure-9"><strong>Figure 9:</strong> Alternative designs for a publicity sticker, with (left) a book motif and (right) an elephant motif. </figcaption>
+<figcaption id="fig:figure-9"><strong>Figure 9:</strong> Alternative designs for a publicity sticker, with (left) a book motif and (right) an elephant motif.</figcaption>
 
 ## The participants and what they did
 
