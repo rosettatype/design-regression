@@ -42,11 +42,6 @@
     margin: 0;
 }
 
-// html,
-// body {
-//     height: 100%;
-// }
-
 hr {
     border: 0;
     border-top: $border;
@@ -173,6 +168,21 @@ aside#note {
 
     li {
         margin: 1rem 0;
+    }
+}
+
+
+// A wrapper around two narrow / split image containers
+.columns {
+    column-count: 2;
+    margin-bottom: 0 !important;
+
+    > * {
+        display: inline-block;
+    }
+
+    @include mobile {
+        column-count: 1;
     }
 }
 
