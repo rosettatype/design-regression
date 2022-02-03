@@ -176,6 +176,10 @@ aside#note {
 .columns {
     column-count: 2;
 
+    > * {
+        display: inline-block;
+    }
+
     @include mobile {
         column-count: 1;
     }

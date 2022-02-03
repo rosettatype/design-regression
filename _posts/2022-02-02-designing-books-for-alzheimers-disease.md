@@ -161,11 +161,15 @@ The samples in each case were based on existing books and followed the
 typography and page design of traditional texts.
 
 <div class="columns">
+<div>
 <img alt="Diagram of the first layout used in the Participant interview study" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_1a_image-in-text.png">
 <figcaption id="fig:figure-1a"><strong>Figure 1a:</strong> Diagram of the first layout used in the Participant interview study. The illustration is inserted after its point of reference in the text.</figcaption>
+</div>
 
+<div>
 <img alt="Diagram of the second layout used in the Participant interview study" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_1b_image-opposite-text.png">
 <figcaption id="fig:figure-1v"><strong>Figure 1b:</strong> Diagram of the second layout used in the Participant interview study. The illustration is positioned opposite the reference in the text.</figcaption>
+</div>
 </div>
 
 ![Fictitious text describing a portrait by Rubens](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_2a_without-subheadings.svg)
@@ -185,11 +189,15 @@ typography and page design of traditional texts.
 <figcaption id="fig:figure-3b"><strong>Figure 3b:</strong> Pages of dialogue from Lynda La Plante’s <em>The Little One</em> (<a href="#ref:la-plante-2012">pp. 10–11</a>) with added references to the speakers’ names. Excerpt included by permission of Simon and Schuster Ltd.</figcaption>
 
 <div class="columns">
+<div>
 <img alt="The opening page of Katherine Mansfield’s The Doll’s House" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_4a_without-editorial-changes.svg" class="white-background">
 <figcaption id="fig:figure-4a"><strong>Figure 4a:</strong> The opening page of Katherine Mansfield’s <em>The Doll’s House</em>. From the anthology <em>A Little, Aloud</em> (<a href="#ref:chatto-windus-2010">Chatto & Windus, 2010</a>). Excerpt included by permission of The Reader: <em>A Little, Aloud</em>, <a href="#ref:chatto-windus-2010">Chatto & Windus, 2010</a>.</figcaption>
+</div>
 
+<div>
 <img alt="The opening page of Katherine Mansfield’s The Doll’s House with editorial changes" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_4b_with-editorial-changes.svg" class="white-background">
 <figcaption id="fig:figure-4b"><strong>Figure 4b:</strong> The opening page of Katherine Mansfield’s <em>The Doll’s House</em> with editorial changes. From the anthology <em>A Little, Aloud</em> (<a href="#ref:chatto-windus-2010">Chatto & Windus, 2010</a>). Excerpt included by permission of The Reader: <em>A Little, Aloud</em>, <a href="#ref:chatto-windus-2010">Chatto & Windus, 2010</a>.</figcaption>
+</div>
 </div>
 
 **Textual additions study:** the layouts addressed the issue of
