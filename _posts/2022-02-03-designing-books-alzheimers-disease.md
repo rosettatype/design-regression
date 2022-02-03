@@ -8,7 +8,7 @@ authors:
   - Marie E. Leahy
 readingtime: 15 min read
 intro: An account of three studies carried out in order to investigate whether adjusting the design of books could help readers with a memory impairment.
-sharing_image: /assets/2022-02-03-designing-books-for-alzheimers-disease/sharing_image.png
+sharing_image: /assets/2022-02-03-designing-books-alzheimers-disease/sharing_image.png
 theme: red
 ---
 
@@ -162,48 +162,48 @@ typography and page design of traditional texts.
 
 <div class="full columns">
 <div>
-<img alt="Diagram of the first layout used in the Participant interview study" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_1a_image-in-text.png">
+<img alt="Diagram of the first layout used in the Participant interview study" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_1a_image-in-text.png">
 <figcaption id="fig:figure-1a"><strong>Figure 1a:</strong> Diagram of the first layout used in the Participant interview study. The illustration is inserted after its point of reference in the text.</figcaption>
 </div>
 
 <div>
-<img alt="Diagram of the second layout used in the Participant interview study" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_1b_image-opposite-text.png">
+<img alt="Diagram of the second layout used in the Participant interview study" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_1b_image-opposite-text.png">
 <figcaption id="fig:figure-1v"><strong>Figure 1b:</strong> Diagram of the second layout used in the Participant interview study. The illustration is positioned opposite the reference in the text.</figcaption>
 </div>
 </div>
 
 <div class="full columns">
 <div>
-<img class="white-background" alt="Fictitious text describing a portrait by Rubens" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_2a_without-subheadings.svg">
+<img class="white-background" alt="Fictitious text describing a portrait by Rubens" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_2a_without-subheadings.svg">
 <figcaption id="fig:figure-2a"><strong>Figure 2a:</strong> Fictitious text describing a portrait by Rubens. Image courtesy of the Royal Collection Trust / © Her Majesty Queen Elizabeth II 2022.</figcaption>
 </div>
 
 <div>
-<img class="white-background" alt="Fictitious text with added subheadings describing a portrait by Rubens" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_2b_with-subheadings.svg">
+<img class="white-background" alt="Fictitious text with added subheadings describing a portrait by Rubens" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_2b_with-subheadings.svg">
 <figcaption id="fig:figure-2b"><strong>Figure 2b:</strong> Fictitious text with added subheadings describing a portrait by Rubens. Image courtesy of the Royal Collection Trust / © Her Majesty Queen Elizabeth II 2022.</figcaption>
 </div>
 </div>
 
 <div class="full columns">
 <div>
-<img class="white-background" alt="Pages of dialogue from Lynda La Plante’s The Little One" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_3a_without-additions.svg">
+<img class="white-background" alt="Pages of dialogue from Lynda La Plante’s The Little One" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_3a_without-additions.svg">
 <figcaption id="fig:figure-3a"><strong>Figure 3a:</strong> Pages of dialogue from Lynda La Plante’s <em>The Little One</em> (<a href="#ref:la-plante-2012">pp. 10–11</a>). Excerpt included by permission of Simon and Schuster Ltd.</figcaption>
 </div>
 
 <div>
-<img class="white-background" atl="Pages of dialogue from Lynda La Plante’s The Little One with added references to the speakers’ names" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_3b_with-additions.svg">
+<img class="white-background" atl="Pages of dialogue from Lynda La Plante’s The Little One with added references to the speakers’ names" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_3b_with-additions.svg">
 <figcaption id="fig:figure-3b"><strong>Figure 3b:</strong> Pages of dialogue from Lynda La Plante’s <em>The Little One</em> (<a href="#ref:la-plante-2012">pp. 10–11</a>) with added references to the speakers’ names. Excerpt included by permission of Simon and Schuster Ltd.</figcaption>
 </div>
 </div>
 
 <div class="full columns">
 <div>
-<img alt="The opening page of Katherine Mansfield’s The Doll’s House" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_4a_without-editorial-changes.svg" class="white-background">
+<img alt="The opening page of Katherine Mansfield’s The Doll’s House" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_4a_without-editorial-changes.svg" class="white-background">
 <figcaption id="fig:figure-4a"><strong>Figure 4a:</strong> The opening page of Katherine Mansfield’s <em>The Doll’s House</em>. From the anthology <em>A Little, Aloud</em> (<a href="#ref:chatto-windus-2010">Chatto & Windus, 2010</a>). Excerpt included by permission of The Reader: <em>A Little, Aloud</em>, <a href="#ref:chatto-windus-2010">Chatto & Windus, 2010</a>.</figcaption>
 </div>
 
 <div>
-<img alt="The opening page of Katherine Mansfield’s The Doll’s House with editorial changes" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_4b_with-editorial-changes.svg" class="white-background">
+<img alt="The opening page of Katherine Mansfield’s The Doll’s House with editorial changes" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_4b_with-editorial-changes.svg" class="white-background">
 <figcaption id="fig:figure-4b"><strong>Figure 4b:</strong> The opening page of Katherine Mansfield’s <em>The Doll’s House</em> with editorial changes. From the anthology <em>A Little, Aloud</em> (<a href="#ref:chatto-windus-2010">Chatto & Windus, 2010</a>). Excerpt included by permission of The Reader: <em>A Little, Aloud</em>, <a href="#ref:chatto-windus-2010">Chatto & Windus, 2010</a>.</figcaption>
 </div>
 </div>
@@ -222,24 +222,24 @@ background.
 
 <div class="full columns">
 <div>
-<img class="white-background" alt="The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol – the text is ranged left" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_5a_list-of-characters-ranged-left.svg">
+<img class="white-background" alt="The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol – the text is ranged left" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_5a_list-of-characters-ranged-left.svg">
 <figcaption id="fig:figure-5a"><strong>Figure 5a:</strong> The list of characters positioned opposite the title page of Charles Dickens’s <em>A Christmas Carol</em> (1843). The text is ranged left.</figcaption>
 </div>
 
 <div>
-<img class="white-background" alt="The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol – the text is centred horizontally" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_5b_list-of-characters-centered.svg">
+<img class="white-background" alt="The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol – the text is centred horizontally" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_5b_list-of-characters-centered.svg">
 <figcaption id="fig:figure-5b"><strong>Figure 5b:</strong> The list of characters positioned opposite the title page of Charles Dickens’s <em>A Christmas Carol</em> (1843). The text is centred horizontally.</figcaption>
 </div>
 </div>
 
 <div class="full columns">
 <div>
-<img class="white-background" alt="The plot summary positioned at the end of a chapter" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_6a_plot-summary-at-end.svg">
+<img class="white-background" alt="The plot summary positioned at the end of a chapter" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_6a_plot-summary-at-end.svg">
 <figcaption id="fig:figure-6a"><strong>Figure 6a:</strong> The plot summary positioned at the end of a chapter.</figcaption>
 </div>
 
 <div>
-<img class="white-background" alt="The plot summary facing the opening page of a new chapter" src="/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_6b_plot-summary-at-beginning.svg">
+<img class="white-background" alt="The plot summary facing the opening page of a new chapter" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_6b_plot-summary-at-beginning.svg">
 <figcaption id="fig:figure-6b"><strong>Figure 6b:</strong> The plot summary facing the opening page of a new chapter.</figcaption>
 </div>
 </div>
@@ -255,14 +255,14 @@ The design of the book covers was deliberately fresh and simple with a
 strong reliance on typography to ensure the legibility of both the book
 title and the flap copy.
 
-![Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s Treasure Island](/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_7_bookmark-with-ribbon.jpg)
+![Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s Treasure Island](/assets/2022-02-03-designing-books-alzheimers-disease/figure_7_bookmark-with-ribbon.jpg)
 {: .narrow}
 <figcaption id="fig:figure-7"><strong>Figure 7:</strong> Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s <em>Treasure Island</em> ([Cassell & Co., 1883](#ref:cassell-1883)).</figcaption>
 
-![Bookmark with a list of the characters in Treasure Island](/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_8_bookmark-front-flap.jpg)
+![Bookmark with a list of the characters in Treasure Island](/assets/2022-02-03-designing-books-alzheimers-disease/figure_8_bookmark-front-flap.jpg)
 <figcaption id="fig:figure-8"><strong>Figure 8:</strong> Bookmark with a list of the characters in <em>Treasure Island</em> provided as a detachable strip printed on the front flap.</figcaption>
 
-![Alternative designs for a publicity sticker](/assets/2022-02-03-designing-books-for-alzheimers-disease/figure_9_stickers.svg)
+![Alternative designs for a publicity sticker](/assets/2022-02-03-designing-books-alzheimers-disease/figure_9_stickers.svg)
 {: .narrow}
 <figcaption id="fig:figure-9"><strong>Figure 9:</strong> Alternative designs for a publicity sticker, with (left) a book motif and (right) an elephant motif.</figcaption>
 
