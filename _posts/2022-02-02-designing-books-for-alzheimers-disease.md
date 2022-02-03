@@ -331,7 +331,7 @@ need to be avoided.
 
 Finding that informants retained their ability to visualise scenes and
 people was surprising given the wide range of losses that can be caused
-by strokes and brain injuries ([Zeman, 2016](#ref:zeman-dewar-della-salla-2016)). Research into 
+by strokes and brain injuries ([Zeman et al., 2016](#ref:zeman-dewar-della-salla-2016)). Research into 
 the commissioning of texts for readers with early-stage dementia would need
 to explore this aspect of imagination, which lies at the heart of the
 author/reader [collaboration.](#sn:jamie-stonebridge)
@@ -470,7 +470,7 @@ and memory processes. *Educational Psychology Review*, *1*, 209–234.
 † Mansfield, K. (2010). *The Doll’s House.* In A. Macmillan (Ed.), *A
 Little, Aloud* (pp. 25-35). Chatto & Windus. (Original work published
 1922)
-{: id="ref:mansfield-2010"}
+{: id="ref:chatto-windus-2010"}
 
 Mollerup, P. (2013). *Wayshowing \> Wayfinding: Basic and interactive*.
 (2nd ed.). BIS Publishers.
