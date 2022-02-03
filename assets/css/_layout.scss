@@ -176,6 +176,7 @@ aside#note {
 .columns {
     column-count: 2;
     margin-bottom: 0 !important;
+    overflow: hidden;
 
     > * {
         display: inline-block;
