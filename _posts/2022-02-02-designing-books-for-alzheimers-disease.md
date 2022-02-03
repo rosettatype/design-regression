@@ -160,7 +160,7 @@ showing alternative treatments of four design issues. The issues were:
 The samples in each case were based on existing books and followed the
 typography and page design of traditional texts.
 
-<div class="columns">
+<div class="full columns">
 <div>
 <img alt="Diagram of the first layout used in the Participant interview study" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_1a_image-in-text.png">
 <figcaption id="fig:figure-1a"><strong>Figure 1a:</strong> Diagram of the first layout used in the Participant interview study. The illustration is inserted after its point of reference in the text.</figcaption>
@@ -172,23 +172,31 @@ typography and page design of traditional texts.
 </div>
 </div>
 
-![Fictitious text describing a portrait by Rubens](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_2a_without-subheadings.svg)
-{: .white-background}
-<figcaption id="fig:figure-2a"><strong>Figure 2a:</strong> Fictitious text describing a portrait by Rubens. Image courtesy of the Royal Collection Trust. © Her Majesty Queen Elizabeth II 2022.</figcaption>
+<div class="full columns">
+<div>
+<img class="white-background" alt="Fictitious text describing a portrait by Rubens" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_2a_without-subheadings.svg">
+<figcaption id="fig:figure-2a"><strong>Figure 2a:</strong> Fictitious text describing a portrait by Rubens. Image courtesy of the Royal Collection Trust / © Her Majesty Queen Elizabeth II 2022.</figcaption>
+</div>
 
-![Fictitious text with added subheadings describing a portrait by Rubens](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_2b_with-subheadings.svg)
-{: .white-background}
+<div>
+<img class="white-background" alt="Fictitious text with added subheadings describing a portrait by Rubens" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_2b_with-subheadings.svg">
 <figcaption id="fig:figure-2b"><strong>Figure 2b:</strong> Fictitious text with added subheadings describing a portrait by Rubens. Image courtesy of the Royal Collection Trust / © Her Majesty Queen Elizabeth II 2022.</figcaption>
+</div>
+</div>
 
-![Pages of dialogue from Lynda La Plante’s The Little One](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_3a_without-additions.svg)
-{: .white-background}
+<div class="full columns">
+<div>
+<img class="white-background" alt="Pages of dialogue from Lynda La Plante’s The Little One" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_3a_without-additions.svg">
 <figcaption id="fig:figure-3a"><strong>Figure 3a:</strong> Pages of dialogue from Lynda La Plante’s <em>The Little One</em> (<a href="#ref:la-plante-2012">pp. 10–11</a>). Excerpt included by permission of Simon and Schuster Ltd.</figcaption>
+</div>
 
-![Pages of dialogue from Lynda La Plante’s The Little One with added references to the speakers’ names](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_3b_with-additions.svg)
-{: .white-background}
+<div>
+<img class="white-background" atl="Pages of dialogue from Lynda La Plante’s The Little One with added references to the speakers’ names" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_3b_with-additions.svg">
 <figcaption id="fig:figure-3b"><strong>Figure 3b:</strong> Pages of dialogue from Lynda La Plante’s <em>The Little One</em> (<a href="#ref:la-plante-2012">pp. 10–11</a>) with added references to the speakers’ names. Excerpt included by permission of Simon and Schuster Ltd.</figcaption>
+</div>
+</div>
 
-<div class="columns">
+<div class="full columns">
 <div>
 <img alt="The opening page of Katherine Mansfield’s The Doll’s House" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_4a_without-editorial-changes.svg" class="white-background">
 <figcaption id="fig:figure-4a"><strong>Figure 4a:</strong> The opening page of Katherine Mansfield’s <em>The Doll’s House</em>. From the anthology <em>A Little, Aloud</em> (<a href="#ref:chatto-windus-2010">Chatto & Windus, 2010</a>). Excerpt included by permission of The Reader: <em>A Little, Aloud</em>, <a href="#ref:chatto-windus-2010">Chatto & Windus, 2010</a>.</figcaption>
@@ -212,21 +220,29 @@ The samples again adopted the design of traditional works of fiction
 with the plot summaries added in a sans serif typeface and on a grey
 background.
 
-![The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol – the text is ranged left](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_5a_list-of-characters-ranged-left.svg)
-{: .white-background}
+<div class="full columns">
+<div>
+<img class="white-background" alt="The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol – the text is ranged left" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_5a_list-of-characters-ranged-left.svg">
 <figcaption id="fig:figure-5a"><strong>Figure 5a:</strong> The list of characters positioned opposite the title page of Charles Dickens’s <em>A Christmas Carol</em> (1843). The text is ranged left.</figcaption>
+</div>
 
-![The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol – the text is centred horizontally](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_5b_list-of-characters-centered.svg)
-{: .white-background}
+<div>
+<img class="white-background" alt="The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol – the text is centred horizontally" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_5b_list-of-characters-centered.svg">
 <figcaption id="fig:figure-5b"><strong>Figure 5b:</strong> The list of characters positioned opposite the title page of Charles Dickens’s <em>A Christmas Carol</em> (1843). The text is centred horizontally.</figcaption>
+</div>
+</div>
 
-![The plot summary positioned at the end of a chapter](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_6a_plot-summary-at-end.svg)
-{: .white-background}
+<div class="full columns">
+<div>
+<img class="white-background" alt="The plot summary positioned at the end of a chapter" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_6a_plot-summary-at-end.svg">
 <figcaption id="fig:figure-6a"><strong>Figure 6a:</strong> The plot summary positioned at the end of a chapter.</figcaption>
+</div>
 
-![The plot summary facing the opening page of a new chapter](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_6b_plot-summary-at-beginning.svg)
-{: .white-background}
+<div>
+<img class="white-background" alt="The plot summary facing the opening page of a new chapter" src="/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_6b_plot-summary-at-beginning.svg">
 <figcaption id="fig:figure-6b"><strong>Figure 6b:</strong> The plot summary facing the opening page of a new chapter.</figcaption>
+</div>
+</div>
 
 **Book cover study:** the samples tested memory-supporting additions to
 a work of fiction. The additions were:
