@@ -160,7 +160,7 @@ showing alternative treatments of four design issues. The issues were:
 The samples in each case were based on existing books and followed the
 typography and page design of traditional texts.
 
-<div class="full columns">
+<div class="columns">
 <div>
 <img alt="Diagram of the first layout used in the Participant interview study" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_1a_image-in-text.png">
 <figcaption id="fig:figure-1a"><strong>Figure 1a:</strong> Diagram of the first layout used in the Participant interview study. The illustration is inserted after its point of reference in the text.</figcaption>
