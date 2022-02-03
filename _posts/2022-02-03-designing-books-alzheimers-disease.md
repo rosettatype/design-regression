@@ -180,7 +180,7 @@ typography and page design of traditional texts.
 
 <div>
 <img class="white-background" alt="Fictitious text with added subheadings describing a portrait by Rubens" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_2b_with-subheadings.svg">
-<figcaption id="fig:figure-2b"><strong>Figure 2b:</strong> Fictitious text with added subheadings describing a portrait by Rubens. Image courtesy of the Royal Collection Trust / © Her Majesty Queen Elizabeth II 2022.</figcaption>
+<figcaption id="fig:figure-2b"><strong>Figure 2b:</strong> Fictitious text with added subheadings describing a portrait by Rubens. Image courtesy of the Royal Collection Trust / © Her Majesty Queen Elizabeth II 2022.</figcaption>
 </div>
 </div>
 
