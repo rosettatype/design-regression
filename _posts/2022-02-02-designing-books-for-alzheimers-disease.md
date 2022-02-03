@@ -178,7 +178,7 @@ typography and page design of traditional texts.
 
 ![Fictitious text with added subheadings describing a portrait by Rubens](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_2b_with-subheadings.svg)
 {: .white-background}
-<figcaption id="fig:figure-2b"><strong>Figure 2b:</strong> Fictitious text with added subheadings describing a portrait by Rubens. Image courtesy of the Royal Collection Trust. © Her Majesty Queen Elizabeth II 2022.</figcaption>
+<figcaption id="fig:figure-2b"><strong>Figure 2b:</strong> Fictitious text with added subheadings describing a portrait by Rubens. Image courtesy of the Royal Collection Trust / © Her Majesty Queen Elizabeth II 2022.</figcaption>
 
 ![Pages of dialogue from Lynda La Plante’s The Little One](/assets/2022-02-02-designing-books-for-alzheimers-disease/figure_3a_without-additions.svg)
 {: .white-background}
@@ -508,7 +508,7 @@ Tatler, B.W., Wade, N.J., Kwan, H., Findlay, J.M. & Velichkovsky, B.M.
 {: id="ref:tatler-wade-kwan-findlay-velichkovsky-2010"}
 
 Wasson, C. (2000). Ethnography in the field of design. *Human
-Organization*, *59*(4), 377– 388. <https://doi.org/10.17730/humo.59.4.h13326628n127516>
+Organization*, *59*(4), 377–388. <https://doi.org/10.17730/humo.59.4.h13326628n127516>
 {: id="ref:wasson-2000"}
 
 Yarbus, A.L. (1967). *Eye movements and vision*. Plenum Press.
