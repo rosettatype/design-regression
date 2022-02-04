@@ -257,7 +257,7 @@ title and the flap copy.
 
 ![Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s Treasure Island](/assets/2022-02-03-designing-books-alzheimers-disease/figure_7_bookmark-with-ribbon.jpg)
 {: .narrow}
-<figcaption id="fig:figure-7"><strong>Figure 7:</strong> Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s <em>Treasure Island</em> ([Cassell & Co., 1883](#ref:cassell-1883)).</figcaption>
+<figcaption id="fig:figure-7"><strong>Figure 7:</strong> Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s <em>Treasure Island</em> (<a href="#ref:cassell-1883">Cassell & Co., 1883</a>).</figcaption>
 
 ![Bookmark with a list of the characters in Treasure Island](/assets/2022-02-03-designing-books-alzheimers-disease/figure_8_bookmark-front-flap.jpg)
 <figcaption id="fig:figure-8"><strong>Figure 8:</strong> Bookmark with a list of the characters in <em>Treasure Island</em> provided as a detachable strip printed on the front flap.</figcaption>
