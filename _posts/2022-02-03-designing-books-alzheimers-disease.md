@@ -175,12 +175,12 @@ typography and page design of traditional texts.
 <div class="full columns">
 <div>
 <img class="white-background" alt="Fictitious text describing a portrait by Rubens" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_2a_without-subheadings.svg">
-<figcaption id="fig:figure-2a"><strong>Figure 2a:</strong> Fictitious text describing a portrait by Rubens. Image courtesy of the Royal Collection Trust / © Her Majesty Queen Elizabeth II 2022.</figcaption>
+<figcaption id="fig:figure-2a"><strong>Figure 2a:</strong> Fictitious text describing a portrait by Rubens. Image reproduced by courtesy of the Royal Collection Trust/© Her Majesty Queen Elizabeth II 2022.</figcaption>
 </div>
 
 <div>
 <img class="white-background" alt="Fictitious text with added subheadings describing a portrait by Rubens" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_2b_with-subheadings.svg">
-<figcaption id="fig:figure-2b"><strong>Figure 2b:</strong> Fictitious text with added subheadings describing a portrait by Rubens. Image courtesy of the Royal Collection Trust / © Her Majesty Queen Elizabeth II 2022.</figcaption>
+<figcaption id="fig:figure-2b"><strong>Figure 2b:</strong> Fictitious text with added subheadings describing a portrait by Rubens. Image reproduced by courtesy of the Royal Collection Trust/© Her Majesty Queen Elizabeth II 2022.</figcaption>
 </div>
 </div>
 
@@ -223,12 +223,12 @@ background.
 <div class="full columns">
 <div>
 <img class="white-background" alt="The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol – the text is ranged left" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_5a_list-of-characters-ranged-left.svg">
-<figcaption id="fig:figure-5a"><strong>Figure 5a:</strong> The list of characters positioned opposite the title page of Charles Dickens’s <em>A Christmas Carol</em> (1843). The text is ranged left.</figcaption>
+<figcaption id="fig:figure-5a"><strong>Figure 5a:</strong> The list of characters positioned opposite the title page of Charles Dickens’s <em>A Christmas Carol</em> (<a href="#ref:dickens-1843">1843</a>). The text is ranged left.</figcaption>
 </div>
 
 <div>
 <img class="white-background" alt="The list of characters positioned opposite the title page of Charles Dickens’s A Christmas Carol – the text is centred horizontally" src="/assets/2022-02-03-designing-books-alzheimers-disease/figure_5b_list-of-characters-centered.svg">
-<figcaption id="fig:figure-5b"><strong>Figure 5b:</strong> The list of characters positioned opposite the title page of Charles Dickens’s <em>A Christmas Carol</em> (1843). The text is centred horizontally.</figcaption>
+<figcaption id="fig:figure-5b"><strong>Figure 5b:</strong> The list of characters positioned opposite the title page of Charles Dickens’s <em>A Christmas Carol</em> (<a href="#ref:dickens-1843">1843</a>). The text is centred horizontally.</figcaption>
 </div>
 </div>
 
@@ -429,6 +429,9 @@ Davis, P., Magee, F., Koleva, K., Tangeras, T.M., Hill, E. & Baker, H.
 of shared reading as a whole population health intervention*. The Guy’s
 and St Thomas’s Charity. <https://research.gold.ac.uk/id/eprint/18847/>
 {: id="ref:davis-magee-koleva-tangeras-hill-baker-2016"}
+
+† Dickens, C. (1843). *A Christmas Carol. A Ghost Story of Christmas*. <https://www.gutenberg.org/files/46/46-h/46-h.htm>
+{: id="ref:dickens-1843"}
 
 Eichenbaum, H. (2017). On the integration of space, time, and memory.
 *Neuron*, *5*, 1007–1018.
