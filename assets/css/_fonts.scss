@@ -119,7 +119,7 @@
     }
 }
 
-@mixin font-heading($fontsize: 32px, $lineheight: 1.15, $letterspacing: 0.02em,
+@mixin font-heading($fontsize: 32px, $lineheight: 1.15, $letterspacing: -0.01em,
     $weight: 900, $opsz: 18, $slnt: 0) {
     font-family: "AdapterPEDisplay", sans-serif;
     font-style: normal;
