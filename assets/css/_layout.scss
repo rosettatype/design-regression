@@ -117,7 +117,11 @@ article .header,
     #byline-close {
         display: none;
         line-height: 1;
-        top: -2px;
+        top: -7px;
+
+        @include mobile {
+            top: -2px;
+        }
     }
 
     @include mobile {
@@ -147,6 +151,7 @@ article .header,
 }
 
 body.scrolled {
+
     #title,
     .header-menu .byline {
         opacity: 0;
@@ -156,8 +161,9 @@ body.scrolled {
     // .. except when below tablet, where they are stacked, and thus _should_
     &.split #title {
         opacity: 1 !important;
+
         @include tablet {
-            opacity: 0 !important;   
+            opacity: 0 !important;
         }
     }
 
@@ -213,7 +219,7 @@ aside#note {
     margin-bottom: 0 !important;
     overflow: hidden;
 
-    > * {
+    >* {
         display: inline-block;
     }
 
