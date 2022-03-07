@@ -153,7 +153,7 @@ h1#title {
     // @include text-meta-large;
     @include font-mono($fontsize: 16px, $lineheight: 1, $weight: 600);
     @include no-underline;
-    margin-right: 1rem;
+    margin-right: 3rem;
     top: -0.4em;
     position: relative;
 
@@ -161,10 +161,6 @@ h1#title {
         font-family: inherit !important;
         font-weight: inherit !important;
         font-size: inherit !important;
-    }
-
-    @include mobile {
-        margin-right: 0.25rem;
     }
 }
 
@@ -250,7 +246,7 @@ p {
         text-align: center;
         border-radius: 100%;
         margin: 0;
-        margin-top: -0.55em;
+        margin-top: -0.35em;
         border: none;
 
         &:hover,
