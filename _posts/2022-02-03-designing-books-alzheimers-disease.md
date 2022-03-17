@@ -140,8 +140,7 @@ be able to supply ([Wasson, 2000](#ref:wasson-2000)). I made audio-recordings of
 conversations -- with the participants’ consent -- and I transcribed
 their comments word for word in order to ensure transparency. I also
 wrote up detailed notes on each encounter using the *thick description*
-approach favoured by Geertz ([1973, p. 6](#ref:geertz-1973)) in an effort to capture the
-participants’ full meaning.
+approach favoured by Geertz ([1973, p. 6](#ref:geertz-1973)) in an effort to capture the participants’ full meaning.
 
 ## The study materials
 

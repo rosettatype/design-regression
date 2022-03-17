@@ -374,8 +374,14 @@
     @include font-arabic;
 }
 
+// Uyghur
 :lang(ug) {
     font-feature-settings: "ss19"1;
+}
+
+// Bulgarian
+:lang(bg) {
+    font-feature-settings: "ss08"1;
 }
 
 /*
