@@ -12,6 +12,7 @@ readingtime: 17 min read
 theme: sand
 intro: The second part of a mini-series discusses the technical requirements for language support at the level of encodings, keyboards, and word shaping.
 sharing_image: /assets/2022-03-21-elements-of-multi-script-typography-part-2/sharing_image.png
+published: false
 ---
 
 **Previous chapter:** [introduction]({% post_url 2021-05-18-elements-of-multi-script-typography-introduction %})
