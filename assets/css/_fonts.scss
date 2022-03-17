@@ -106,7 +106,7 @@
  * and consequently only that family's webfonts will be loaded!!!
  */
 @mixin font-text($fontsize: 20px, $lineheight: 1.6, $letterspacing: initial, $weight: 400) {
-    font-family: "AdapterPEText", sans-serif;
+    font-family: "AdapterPEText", "AdapterArabicText", sans-serif;
     font-style: normal;
     font-weight: $weight;
     font-size: $fontsize;
@@ -114,7 +114,7 @@
     line-height: $lineheight;
 
     @supports (font-variation-settings: initial) {
-        font-family: "AdapterPEVF", sans-serif;
+        font-family: "AdapterPEVF", "AdapterArabicVF", sans-serif;
         font-variation-settings: "opsz"4;
     }
 }
@@ -139,29 +139,16 @@
  * much about the fallback for non VF
  */
  @mixin font-italic {
-    font-family: "AdapterPEText", sans-serif;
+    font-family: "AdapterPEText", "AdapterArabicText", sans-serif;
     font-weight: 400;
     font-style: italic;
     font-feature-settings: "ss02" 1, "ss04" 1;
 
     @supports (font-variation-settings: initial) {
         font-style: normal;
-        font-family: "AdapterPEVF", sans-serif;
+        font-family: "AdapterPEVF", "AdapterArabicVF", sans-serif;
         font-variation-settings: "opsz"4, "slnt"-10;
     }
-}
-
-@mixin font-arabic {
-   font-family: "AdapterArabicText", "AdapterPEText", sans-serif;
-   font-weight: 400;
-   font-style: normal;
-   font-feature-settings: "ss02" 0, "ss04" 0;
-
-   @supports (font-variation-settings: initial) {
-       font-style: normal;
-       font-family: "AdapterArabicVF", "AdapterPEVF", sans-serif;
-       font-variation-settings: "opsz" 4, "slnt" 0;
-   }
 }
 
 @mixin font-mono($fontsize: 18px, $lineheight: 1, $weight: 400) {

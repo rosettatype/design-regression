@@ -367,12 +367,8 @@
 }
 
 /*
- * ARABIC content
+ * LANGUAGE-SPECIFIC SETTINGS
  */
-:lang(ar),
-:lang(ug) {
-    @include font-arabic;
-}
 
 // Uyghur
 :lang(ug) {
