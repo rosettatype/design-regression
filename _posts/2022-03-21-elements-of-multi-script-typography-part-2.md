@@ -351,48 +351,37 @@ in the next chapter.
 *I would like to thank John Hudson for his suggestions on an early draft
 of this chapter.*
 
-<aside id="sn:other-interpretations">
-The various non-typographic interpretations of digital texts, such as automated speech or translation, are not covered here.
+<aside id="sn:other-interpretations">The various non-typographic interpretations of digital texts, such as automated speech or translation, are not covered here.
 </aside>
 
-<aside id="sn:grapheme-definition">
-Depending on the definition of the term character (or grapheme) this may not be entirely correct. For example, the Unicode code points may also refer to peripheral elements, such as accent marks, or to invisible elements of writing, such as word spaces. They can also be used for special control instructions for the text rendering software.
+<aside id="sn:grapheme-definition">Depending on the definition of the term character (or grapheme) this may not be entirely correct. For example, the Unicode code points may also refer to peripheral elements, such as accent marks, or to invisible elements of writing, such as word spaces. They can also be used for special control instructions for the text rendering software.
 </aside>
 
-<aside id="sn:unicode-impact">
-The dramatic effects a Unicode inclusion or exclusion can have on cultures, languages, and scripts in the digital environment cannot be underestimated and merits a public discussion.
+<aside id="sn:unicode-impact">The dramatic effects a Unicode inclusion or exclusion can have on cultures, languages, and scripts in the digital environment cannot be underestimated and merits a public discussion.
 </aside>
 
-<aside id="sn:vocal-group">
-In recent decades, internet and social media have shown that distinguishing the general preferences held by a large group of people from idiosyncratic preferences held by vocal individuals or smaller groups can be a daunting task.
+<aside id="sn:vocal-group">In recent decades, internet and social media have shown that distinguishing the general preferences held by a large group of people from idiosyncratic preferences held by vocal individuals or smaller groups can be a daunting task.
 </aside>
 
-<aside id="sn:dead-key">
-The dead key mechanism comes from typewriters. In the digital environment, it allows users to type multiple keystrokes to input a single code point. It is typically used for Latin-script accents where the user types an accent followed by the base letter. Thus, a keyboard layout does not need to contain all possible combinations of letters and accents.
+<aside id="sn:dead-key">The dead key mechanism comes from typewriters. In the digital environment, it allows users to type multiple keystrokes to input a single code point. It is typically used for Latin-script accents where the user types an accent followed by the base letter. Thus, a keyboard layout does not need to contain all possible combinations of letters and accents.
 </aside>
 
-<aside id="sn:opentype">
-In the case of the OpenType font format, the specification (<a href="#ref:opentype-2021">OpenType® Specification, 2021</a>) lists expected methods (called <em>features</em> in OpenType) that a font needs to support and describes what they need to do and how they are going to be used by a shaping engine to create word shapes or compose paragraphs. However, it does not specify the shaping implementation. Thus, different software may produce different shaping results.
+<aside id="sn:opentype">In the case of the OpenType font format, the specification (<a href="#ref:opentype-2021">OpenType® Specification, 2021</a>) lists expected methods (called <em>features</em> in OpenType) that a font needs to support and describes what they need to do and how they are going to be used by a shaping engine to create word shapes or compose paragraphs. However, it does not specify the shaping implementation. Thus, different software may produce different shaping results.
 </aside>
 
-<aside id="sn:english-challenging">
-Admittedly, even typesetting of an English word may become more challenging when kerning, mark positioning, hyphenation, and justification come into play.
+<aside id="sn:english-challenging">Admittedly, even typesetting of an English word may become more challenging when kerning, mark positioning, hyphenation, and justification come into play.
 </aside>
 
-<aside id="sn:reading-direction">
-One might also refer to a reading direction, but I try to stick to the terminology used in the Unicode Standard (<a href="#ref:unicode-2021">2021</a>).
+<aside id="sn:reading-direction">One might also refer to a reading direction, but I try to stick to the terminology used in the Unicode Standard (<a href="#ref:unicode-2021">2021</a>).
 </aside>
 
-<aside id="sn:secondary-direction">
-The diagonal orientation of words in Arabic-script style Nastaliq or vertical stacking of syllables in scripts like Burmese, Devanagari, or Tibetan is considered a minor deviation from the overwhelmingly horizontal orientation of these scripts.
+<aside id="sn:secondary-direction">The diagonal orientation of words in Arabic-script style Nastaliq or vertical stacking of syllables in scripts like Burmese, Devanagari, or Tibetan is considered a minor deviation from the overwhelmingly horizontal orientation of these scripts.
 </aside>
 
-<aside id="sn:phonetic-keyboard">
-Some languages use phonetic keyboards where the order of the keys struck follows the order of the sounds made by a speaker. However, some scripts do not follow this order. For example some vowels in the Indian scripts are represented by symbols that come before consonants, although they are pronounced after them.
+<aside id="sn:phonetic-keyboard">Some languages use phonetic keyboards where the order of the keys struck follows the order of the sounds made by a speaker. However, some scripts do not follow this order. For example some vowels in the Indian scripts are represented by symbols that come before consonants, although they are pronounced after them.
 </aside>
 
-<aside id="sn:metrics">
-During font development some of the boundaries get defined globally for the whole font and individually for each glyph (<a href="#ref:opentype-2021">OpenType® Specification, 2021</a>).
+<aside id="sn:metrics">During font development some of the boundaries get defined globally for the whole font and individually for each glyph (<a href="#ref:opentype-2021">OpenType® Specification, 2021</a>).
 </aside>
 
 {% include cta-feedback.html %}

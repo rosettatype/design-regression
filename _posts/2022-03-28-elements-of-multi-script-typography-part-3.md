@@ -237,28 +237,22 @@ script and language to ensure quality in their digital work.
 
 ## Notes
 
-<aside id="sn:last-line">
-The last line of a justified paragraph can be dealt with independently, as a single paragraph, i.e. centred, ragged, or justified.
+<aside id="sn:last-line">The last line of a justified paragraph can be dealt with independently, as a single paragraph, i.e. centred, ragged, or justified.
 </aside>
 
-<aside id="sn:previous-chapter">
-Note that some of these influence the word shaping discussed in the previous chapter.
+<aside id="sn:previous-chapter">Note that some of these influence the word shaping discussed in the previous chapter.
 </aside>
 
-<aside id="sn:justification-arabic">
-This is particularly true for Arabic where the insertion of the extending glyph (called kashida or tatweel) is merely the simplest solution to automated line justification as the Arabic script can also use alternative glyph shapes including ligatures to perfect typographic justification. For further and more nuanced discussion, see Elyaakoubi and Lazrek (<a href="#ref:elyaakoubi-lazrek-2010">2010</a>) or Nemeth (<a href="#ref:nemeth-2020">2020</a>).
+<aside id="sn:justification-arabic">This is particularly true for Arabic where the insertion of the extending glyph (called kashida or tatweel) is merely the simplest solution to automated line justification as the Arabic script can also use alternative glyph shapes including ligatures to perfect typographic justification. For further and more nuanced discussion, see Elyaakoubi and Lazrek (<a href="#ref:elyaakoubi-lazrek-2010">2010</a>) or Nemeth (<a href="#ref:nemeth-2020">2020</a>).
 </aside>
 
-<aside id="sn:segmentation">
-Among others, the Unicode Standard (<a href="#ref:unicode-2021">2021, Annex #29</a>) also describes algorithms for determining default boundaries between grapheme clusters (user-perceived characters). Syllables in the Indian scripts are a perfect example as they can be specified using multiple code points and formed using multiple glyphs, some of which represent multiple code points.
+<aside id="sn:segmentation">Among others, the Unicode Standard (<a href="#ref:unicode-2021">2021, Annex #29</a>) also describes algorithms for determining default boundaries between grapheme clusters (user-perceived characters). Syllables in the Indian scripts are a perfect example as they can be specified using multiple code points and formed using multiple glyphs, some of which represent multiple code points.
 </aside>
 
-<aside id="sn:visual-considerations">
-The visual considerations will be discussed in one of the next chapters of this series.
+<aside id="sn:visual-considerations">The visual considerations will be discussed in one of the next chapters of this series.
 </aside>
 
-<aside id="sn:hinting">
-Some systems rely on rasterisation instructions in fonts called *hinting*, while others ignore them or use only part of the hinting instructions. Discussing a highly technical concept such as hinting is beyond the scope of this mini-series.
+<aside id="sn:hinting">Some systems rely on rasterisation instructions in fonts called *hinting*, while others ignore them or use only part of the hinting instructions. Discussing a highly technical concept such as hinting is beyond the scope of this mini-series.
 </aside>
 
 {% include cta-feedback.html %}
