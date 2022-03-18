@@ -11,7 +11,7 @@ editor:
 readingtime: 9 min read
 theme: sand
 intro: The first part of a mini-series focused on the typographic design of documents that make use of two or more different world’s scripts.
-sharing_image: /assets/2021-05-18-elements-of-multi-script-typography-chapter-1/sharing_image.png
+sharing_image: /assets/2021-05-18-elements-of-multi-script-typography-introduction/sharing_image.png
 ---
 
 **Next chapter:** [codes, keys, and word shapes]({% post_url 2022-03-21-elements-of-multi-script-typography-chapter-2 %})
@@ -30,13 +30,13 @@ Although not all-encompassing, hopefully the series achieves a discussion that a
 
 When working with multiple languages, some of them will be unfamiliar to the designer. A sensitive approach is critical as an unattended lack of typographic expertise with a language can lead to anything from a disheartening reading experience, rejection, frustration, to backlash, or publishers’ embarrassment in front of readers (see figures 1 and 2). Similarly to poorly translated texts, poorly typeset texts can raise negative connotations and cause confusion.
 
-![A screenshot from Figma](/assets/2021-05-18-elements-of-multi-script-typography-chapter-1/figma-screenshot.png)
+![A screenshot from Figma](/assets/2021-05-18-elements-of-multi-script-typography-introduction/figma-screenshot.png)
 
-![A screenshot from Figma, corrected](/assets/2021-05-18-elements-of-multi-script-typography-chapter-1/figma-screenshot-corrected.png)
+![A screenshot from Figma, corrected](/assets/2021-05-18-elements-of-multi-script-typography-introduction/figma-screenshot-corrected.png)
 
 <figcaption><strong>Figure 1:</strong> as of April 2021, the web design application <a href="https://figma.com">Figma</a> does not support correct mark positioning in the Devanagari script used for the Hindi language (top). The bottom screenshot shows my mockup of a correct placement of the nukta mark which may not correspond to the original design of the Adobe Devanagari typeface used here. Nonetheless, the top example would read as “hidi” while the bottom one would read as “Hindi”. What a difference one mark can make.</figcaption>
 
-![A screenshot of a Twitter conversation](/assets/2021-05-18-elements-of-multi-script-typography-chapter-1/twitter-screenshot.png)
+![A screenshot of a Twitter conversation](/assets/2021-05-18-elements-of-multi-script-typography-introduction/twitter-screenshot.png)
 {: .narrow}
 
 <figcaption><strong>Figure 2:</strong> a disenchanted Twitter user (<a href="#ref:morris-2021">Morris, 2021</a>) commenting on the poor handling of the Arabic typesetting in a major motion picture from a US production. The captions in the movie show Arabic texts with disconnected letters which is wrong.</figcaption>

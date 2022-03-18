@@ -8,7 +8,7 @@ authors:
     - Mary Dyson
 readingtime: 17 min read
 intro: Recent eye movement research is reviewed which questions whether long line lengths do cause reading difficulties.
-sharing_image: /assets/2021-09-08-line-length-revisited/sharing_image.png
+sharing_image: /assets/2021-09-08-line-length-revisited-following-the-research/sharing_image.png
 ---
 
 ## Introduction
@@ -25,7 +25,7 @@ The consensus among typographers is that we should avoid long line lengths when 
 
 The problem with return sweeps is that they can be inaccurate: undershooting (failing to reach the beginning of the next line) or locating the [wrong line](#sn:wrong-line). The recent research from Slattery’s lab (referred to in the introduction) describes undershooting as an *under-sweep*. When the return sweep does not reach the beginning of the new line (undershoots), it is followed by a small leftward saccade to move back towards the beginning of the line. This is described as a *corrective saccade*. *Undersweep-fixations* are the brief pauses after the inaccurate return sweeps, before the corrective saccades ([Parker et al., 2017](#ref:parker-kirkby-slattery-2017)). (See Figure 1.)
 
-![Diagram describing types of saccades and fixations](/assets/2021-09-08-line-length-revisited/nomenclature_saccade.svg)
+![Diagram describing types of saccades and fixations](/assets/2021-09-08-line-length-revisited-following-the-research/nomenclature_saccade.svg)
 
 <figcaption><strong>Figure 1:</strong> The saccades (marked with arrows) we make as we read along a line from left to right are shorter than the saccade at the end of the line. The return sweep, the saccade from right to left (marked with a long dashed arrow), may be inaccurate and followed by a corrective saccade (marked with a red arrow). The undersweep fixations are marked with a red circle.
 </figcaption>
@@ -50,7 +50,7 @@ Why aren’t undersweep-fixations and the addition of corrective saccades slowin
 
 We benefit by briefly processing words during the undersweep-fixation, e.g. a preview of line-initial words in parafoveal vision (see Figure 2). Also, we give some attention to the word at the undersweep-fixation and this facilitates later lexical processing ([Parker et al., 2020](#ref:parker-kirkby-slattery-2020)). The precise nature of the information extracted during under-sweep fixations is not yet established. However, we may be identifying letters and retaining their representations for subsequent processing, i.e. when recognizing words in left-to-right reading ([Slattery & Parker, 2019](#ref:slattery-parker-2019)).
 
-![](/assets/2021-09-08-line-length-revisited/nomenclature_fixation.svg)
+![](/assets/2021-09-08-line-length-revisited-following-the-research/nomenclature_fixation.svg)
 <figcaption><strong>Figure 2:</strong> Words at the beginning of the line may be previewed in the parafoveal region.
 </figcaption>
 
