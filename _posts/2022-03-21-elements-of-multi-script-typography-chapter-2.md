@@ -149,6 +149,7 @@ Medium (the first three lines), Adobe Devanagari, and Tiro Bangla.
 </figcaption>
 
 ## From codes to word shapes
+{. id="from-codes-to-word-shapes }
 
 Rendering a text into its visual representation is coordinated across an
 operating system, fonts used, and a typesetting application. It is
