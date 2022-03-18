@@ -32,7 +32,7 @@
 
 @mixin heading-xs {
     @include font-heading(20px, 1.15, 0.01em, 600, 12, -10);
-    font-feature-settings: "ss02" 1, "ss04" 1;
+    font-feature-settings: "ss02"1, "ss04"1;
 }
 
 @mixin text {
@@ -418,7 +418,7 @@ article main {
 
             &+figcaption {
                 max-width: 400px;
-            }    
+            }
         }
     }
 
@@ -450,7 +450,7 @@ article main {
 
         &+figcaption {
             max-width: 400px;
-        }    
+        }
     }
 
     figcaption {
@@ -467,9 +467,6 @@ article main {
 
     table.full {
         margin-left: 0;
-        th, td {
-            padding: 1.25rem 0.5rem 1rem;
-        }
     }
 
     .outlined {
@@ -542,6 +539,7 @@ article main {
         border-collapse: collapse;
         text-align: left;
         font-feature-settings: "tnum"1, "zero"1;
+        width: 100%;
 
         th {
             @include text-label;
@@ -555,8 +553,8 @@ article main {
 
         th,
         td {
-            padding: 0.5rem 0.5rem 0.25rem;
             margin: 0;
+            padding: 1.25rem 0.5rem 1rem;
 
             &.right {
                 text-align: right;

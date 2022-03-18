@@ -67,7 +67,6 @@ almost universally.
 |   Central European (ISO 8859–2)   |   Vícejazyčná přednáška           |
 |   Western European (ISO 8859–1)   |   Vícejazyèná pøedná¹ka           |
 |   Baltic (ISO 8859–4)             |   Vícejazyčná pøednáška           |
-{: class="full" }
 
 <figcaption id="tab:encoding-mismatch"><strong>Table 1:</strong> An illustration of a mismatch between the intended appearance of a Czech text that was originally encoded in the Central European ISO 8859–2 (first row, correct representation) and its interpretation using two other encodings (ISO 8859–1 and ISO 8859–4) that map the original code points to unexpected characters. All three example texts have been encoded using Unicode for reproducibility.
 </figcaption>
@@ -151,6 +150,7 @@ Medium (the first three lines), Adobe Devanagari, and Tiro Bangla.
 </figcaption>
 
 ## From codes to word shapes
+{. id="from-codes-to-word-shapes }
 
 Rendering a text into its visual representation is coordinated across an
 operating system, fonts used, and a typesetting application. It is
