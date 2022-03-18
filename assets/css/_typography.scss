@@ -465,6 +465,13 @@ article main {
         box-sizing: content-box;
     }
 
+    table.full {
+        margin-left: 0;
+        th, td {
+            padding: 1.25rem 0.5rem 1rem;
+        }
+    }
+
     .outlined {
         border: $border;
     }

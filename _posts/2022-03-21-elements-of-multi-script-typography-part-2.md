@@ -12,7 +12,7 @@ readingtime: 17 min read
 theme: sand
 intro: The second part of a mini-series discusses the technical requirements for language support at the level of encodings, keyboards, and word shaping.
 sharing_image: /assets/2022-03-21-elements-of-multi-script-typography-part-2/sharing_image.png
-published: false
+published: trueq
 ---
 
 **Previous chapter:** [introduction]({% post_url 2021-05-18-elements-of-multi-script-typography-introduction %})
@@ -67,6 +67,7 @@ almost universally.
 |   Central European (ISO 8859–2)   |   Vícejazyčná přednáška           |
 |   Western European (ISO 8859–1)   |   Vícejazyèná pøedná¹ka           |
 |   Baltic (ISO 8859–4)             |   Vícejazyčná pøednáška           |
+{: class="full" }
 
 <figcaption id="tab:encoding-mismatch"><strong>Table 1:</strong> An illustration of a mismatch between the intended appearance of a Czech text that was originally encoded in the Central European ISO 8859–2 (first row, correct representation) and its interpretation using two other encodings (ISO 8859–1 and ISO 8859–4) that map the original code points to unexpected characters. All three example texts have been encoded using Unicode for reproducibility.
 </figcaption>
@@ -100,6 +101,7 @@ character shapes (see [Table 2](#tab:bulgarian)).
 | Code point      | 043A | 043B | 043F | 0442 | 0446 | 0448 | 0449 | 044E |
 | Ukrainian shape preference |   к   |   л   |   п   |   т   |   ц    |   ш   |   щ   |   ю   |
 | Bulgarian shape preference |<span lang="bg">к</span>|<span lang="bg">л</span>|<span lang="bg">п</span>|<span lang="bg">т</span>|<span lang="bg">ц</span> |<span lang="bg">ш</span>|<span lang="bg">щ</span>|<span lang="bg">ю</span>|
+{: class="full" }
 
 <figcaption id="tab:bulgarian"><strong>Table 2:</strong> The preferred character shapes differ between Ukrainian and Bulgarian languages (<a href="#ref:karaivanov-2021">Karaivanov, 2021</a>) although the Unicode code points used are identical. Note that Unicode uses the Ukrainian shapes as examples. These are also used for Central Asian languages, Belarusian, or Russian. The code points in the table are hexadecimal. The example character shapes are in the typeface Adapter PE Text Medium.</figcaption>
 
