@@ -63,10 +63,9 @@ almost universally.
 
 |   Encoding                         |     Text                          |
 |------------------------------------|-----------------------------------|
-|   Central European (ISO 8859–2)   |   Vícejazyčná přednáška           |
-|   Western European (ISO 8859–1)   |   Vícejazyèná pøedná¹ka           |
-|   Baltic (ISO 8859–4)             |   Vícejazyčná pøednáška           |
-{: class="full" }
+|   Central European (ISO 8859–2)    |   Vícejazyčná přednáška           |
+|   Western European (ISO 8859–1)    |   Vícejazyèná pøedná¹ka           |
+|   Baltic (ISO 8859–4)              |   Vícejazyčná pøednáška           |
 
 <figcaption id="tab:encoding-mismatch"><strong>Table 1:</strong> An illustration of a mismatch between the intended appearance of a Czech text that was originally encoded in the Central European ISO 8859–2 (first row, correct representation) and its interpretation using two other encodings (ISO 8859–1 and ISO 8859–4) that map the original code points to unexpected characters. All three example texts have been encoded using Unicode for reproducibility.
 </figcaption>
@@ -100,7 +99,7 @@ character shapes (see [Table 2](#tab:bulgarian)).
 | Code point      | 043A | 043B | 043F | 0442 | 0446 | 0448 | 0449 | 044E |
 | Ukrainian shape preference |   к   |   л   |   п   |   т   |   ц    |   ш   |   щ   |   ю   |
 | Bulgarian shape preference |<span lang="bg">к</span>|<span lang="bg">л</span>|<span lang="bg">п</span>|<span lang="bg">т</span>|<span lang="bg">ц</span> |<span lang="bg">ш</span>|<span lang="bg">щ</span>|<span lang="bg">ю</span>|
-{: class="full" }
+{: .full }
 
 <figcaption id="tab:bulgarian"><strong>Table 2:</strong> The preferred character shapes differ between Ukrainian and Bulgarian languages (<a href="#ref:karaivanov-2021">Karaivanov, 2021</a>) although the Unicode code points used are identical. Note that Unicode uses the Ukrainian shapes as examples. These are also used for Central Asian languages, Belarusian, or Russian. The code points in the table are hexadecimal. The example character shapes are in the typeface Adapter PE Text Medium.</figcaption>
 
