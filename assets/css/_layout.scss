@@ -75,6 +75,10 @@ body {
     padding-top: 30px !important;
 }
 
+body > .header {
+    z-index: 999;
+}
+
 article .header,
 .main .header {
     padding: 0;
