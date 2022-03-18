@@ -61,7 +61,7 @@ character code points ([The Unicode Standard, 2021, p. 14](#ref:unicode-2021)). 
 consequence, Unicode allows for multilingual and multi-scriptural texts,
 almost universally.
 
-|   Encoding                         |     Text                          |
+|   Encoding                         |   Text                          |
 |------------------------------------|-----------------------------------|
 |   Central European (ISO 8859–2)    |   Vícejazyčná přednáška           |
 |   Western European (ISO 8859–1)    |   Vícejazyèná pøedná¹ka           |
@@ -91,15 +91,83 @@ and choose those appropriate for the job. Typically, this is a question
 of choosing the right font or setting the font so it produces required
 character shapes (see [Table 2](#tab:bulgarian)).
 
-| Language        | Characters                                            |
-|-----------------|-------------------------------------------------------|
-| Code point      | 0414 | 041B | 0432 | 0433 | 0434 | 0436 | 0437 | 0438 |
-| Ukrainian shape preference |   Д   |   Л  |   в  |   г  |   д  |   ж  |   з  |   и  |
-| Bulgarian shape preference |<span lang="bg">Д</span>|<span lang="bg">Л</span>|<span lang="bg">в</span>|<span lang="bg">г</span>|<span lang="bg">д</span>|<span lang="bg">ж</span>|<span lang="bg">з</span>|<span lang="bg">и</span>|
-| Code point      | 043A | 043B | 043F | 0442 | 0446 | 0448 | 0449 | 044E |
-| Ukrainian shape preference |   к   |   л   |   п   |   т   |   ц    |   ш   |   щ   |   ю   |
-| Bulgarian shape preference |<span lang="bg">к</span>|<span lang="bg">л</span>|<span lang="bg">п</span>|<span lang="bg">т</span>|<span lang="bg">ц</span> |<span lang="bg">ш</span>|<span lang="bg">щ</span>|<span lang="bg">ю</span>|
-{: .full }
+<table class="full">
+<thead>
+    <tr>
+        <th>Language</th>
+        <th colspan=8>Characters</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>Code point</td>
+        <td>0414</td>
+        <td>041B</td>
+        <td>0432</td>
+        <td>0433</td>
+        <td>0434</td>
+        <td>0436</td>
+        <td>0437</td>
+        <td>0438</td>
+    </tr>
+    <tr>
+        <td>Ukrainian shape preference</td>
+        <td>Д</td>
+        <td>Л</td>
+        <td>в</td>
+        <td>г</td>
+        <td>д</td>
+        <td>ж</td>
+        <td>з</td>
+        <td>и</td>
+    </tr>
+    <tr>
+        <td>Bulgarian shape preference</td>
+        <td lang="bg">Д</td>
+        <td lang="bg">Л</td>
+        <td lang="bg">в</td>
+        <td lang="bg">г</td>
+        <td lang="bg">д</td>
+        <td lang="bg">ж</td>
+        <td lang="bg">з</td>
+        <td lang="bg">и</td>
+    </tr>
+    <tr>
+        </td>
+        <td>Code point</td>
+        <td>043A</td>
+        <td>043B</td>
+        <td>043F</td>
+        <td>0442</td>
+        <td>0446</td>
+        <td>0448</td>
+        <td>0449</td>
+        <td>044E</td>
+    </tr>
+    <tr>
+        <td>Ukrainian shape preference</td>
+        <td>к</td>
+        <td>л</td>
+        <td>п</td>
+        <td>т</td>
+        <td>ц</td>
+        <td>ш</td>
+        <td>щ</td>
+        <td>ю</td>
+    </tr>
+    <tr>
+        <td>Bulgarian shape preference</td>
+        <td lang="bg">к</td>
+        <td lang="bg">л</td>
+        <td lang="bg">п</td>
+        <td lang="bg">т</td>
+        <td lang="bg">ц</td>
+        <td lang="bg">ш</td>
+        <td lang="bg">щ</td>
+        <td lang="bg">ю</td>
+    </tr>
+</tbody>
+</table>
 
 <figcaption id="tab:bulgarian"><strong>Table 2:</strong> The preferred character shapes differ between Ukrainian and Bulgarian languages (<a href="#ref:karaivanov-2021">Karaivanov, 2021</a>) although the Unicode code points used are identical. Note that Unicode uses the Ukrainian shapes as examples. These are also used for Central Asian languages, Belarusian, or Russian. The code points in the table are hexadecimal. The example character shapes are in the typeface Adapter PE Text Medium.</figcaption>
 
