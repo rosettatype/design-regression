@@ -360,21 +360,21 @@ presentation of texts, but that the contribution of user experience is
 vital when producing books that will appeal to readers with early-stage
 Alzheimer’s disease.
 
-<aside id="sn:ritter">
-Ritter writes in <em>The Oxford Manual of Style</em> 
+## Notes
+
+<aside id="sn:ritter">Ritter writes in <em>The Oxford Manual of Style</em> 
 ([1992, p. 112](#ref:ref:ritter-1992)) that
 “Punctuation exists to clarify meaning in the written word and to
 facilitate reading. Too much can hamper understanding through an
 uneven, staccato text, while too little can lead to misreading.”
 </aside>
 
-<aside id="sn:professional-designers">
-The layouts illustrated in Figures 1–6 were prepared by David Woodward. The 
+<aside id="sn:professional-designers">The layouts illustrated in Figures 1–6 were prepared by David Woodward. The 
 materials illustrated in Figures 7–9 were prepared by Tamsin Ogilvie. I am
 grateful to both designers for their contribution to the studies.
 </aside>
 
-<aside id="sn:jamie-stonebridge"> The series of paperback books independently
+<aside id="sn:jamie-stonebridge">The series of paperback books independently
 published by Jamie Stonebridge makes a significant contribution to this area. 
 Each title consists of a short story with simple documentary illustrations and 
 carefully edited text that is designed for independent reading. The books are 
