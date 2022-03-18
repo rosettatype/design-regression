@@ -34,8 +34,7 @@ codes, moving from keys to characters and words. The next chapter will
 deal with paragraph composition and rasterization, i.e. the conversion
 of vector contours to pixels. Keeping with the spirit of this series, I
 will try to generalise from the intricate specifics to provide an
-introductory overview. See further reading for detailed descriptions of
-contemporary solutions.
+introductory overview. See [further reading](#further-reading) and [references](#references) for detailed descriptions of contemporary solutions.
 
 ## From shapes to codes
 
@@ -133,7 +132,6 @@ character shapes (see [Table 2](#tab:bulgarian)).
         <td lang="bg">и</td>
     </tr>
     <tr>
-        </td>
         <td>Code point</td>
         <td>043A</td>
         <td>043B</td>
@@ -407,7 +405,7 @@ to right): Adobe Devanagari Regular and Skolar PE Medium.
 
 <figcaption id="fig:cursive-attachment"><strong>Figure 11:</strong> Cursive attachment is used in the Arabic script to ensure
 joining and diagonal alignment. The font is Gulzar Regular. The
-unpublished, about-to-be-released font was supplied by Borna Izadpanah.
+unpublished, about-to-be-released font, was supplied by Borna Izadpanah.
 </figcaption>
 
 A discussion of language support would not be complete without an
@@ -461,36 +459,36 @@ of this chapter.*
 *Allsorts : Font parser, shaping engine, and subsetter for OpenType,
 WOFF, and WOFF2 implemented in Rust*. (2022). The most recent version
 available from [https://github.com/yeslogic/allsorts](https://github.com/yeslogic/allsorts)
+{: id="ref:allsorts-2022"}
 
 Berry, J. (Ed.) (2002). *Language culture type : international type
 design in the age of Unicode*. ATypI and Graphis.
+{: id="ref:berry-2002"}
 
 Esfahbod, B. et al. (2022). *HarfBuzz manual*. The most recent version
 available from [https://harfbuzz.github.io/index.html](https://harfbuzz.github.io/index.html)
+{: id="ref:esfahbod-2022"}
 
 *Graphite : A free and open rendering engine for complex scripts*.
 (2013). SIL International. The most recent version available from
 [https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home](https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home)
-
-OpenType® Specification Version 1.9. (2021). Microsoft Corp. The most
-recent version available from [https://docs.microsoft.com/en-us/typography/opentype/spec/](https://docs.microsoft.com/en-us/typography/opentype/spec/)
+{: id="ref:graphite-2013"}
 
 *TrueType Reference Manual*. (n d.). Apple Inc. The most recent version
 available from [https://developer.apple.com/fonts/TrueType-Reference-Manual/](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
-
-*The Unicode Standard* (Version 14.0). (2021). Mountain View, CA: The
-Unicode Consortium. The most recent version is available from [http://unicode.org](http://unicode.org)
+{: id="ref:truetype-n-d"}
 
 Vadgama, K. (2020) *Rendering complex scripts in digital spaces : the
 development of layout and shaping technologies for complex script and
 language representation and consequent approaches to type design*.
 University of Reading. Unpublished dissertation available on request
 from the author ([https://www.keyavadgama.com](https://www.keyavadgama.com)).
+{: id="ref:vadgama-2020"}
 
 ## References
 
 Hudson, J. (2000). *Windows glyph processing. An OpenType primer*.
-Retrieved 20. 1. 2018, from [http://www.microsoft.com/typography/developers/opentype/default.htm](http://www.microsoft.com/typography/developers/opentype/default.htm)
+Retrieved 22. 2. 2022, from [http://www.microsoft.com/typography/developers/opentype/default.htm](http://www.microsoft.com/typography/developers/opentype/default.htm)
 {: id="ref:hudson-2000"}
 
 Karaivanov, B. *За българската форма на кирилица \[On the Bulgarian form
@@ -501,7 +499,7 @@ of Cyrillic\]*. Lecture at SoftUni Creative on 15 April 2021.
 most recent version available from [https://docs.microsoft.com/en-us/typography/opentype/spec/](https://docs.microsoft.com/en-us/typography/opentype/spec/)
 {: id="ref:opentype-2021"}
 
-*The Unicode Standard* (Version 14.0). (2021). Mountain View, CA: The
+*The Unicode Standard* (Version 14.0). (2021). The
 Unicode Consortium. The most recent version is available from
 [http://unicode.org](http://unicode.org)
 {: id="ref:unicode-2021"}

@@ -270,7 +270,7 @@ Nemeth, T. (2020). On Arabic justification. *The Journal of Electronic
 Publishing*, 23(1). [https://doi.org/10.3998/3336451.0023.104](https://doi.org/10.3998/3336451.0023.104)
 {: id="ref:nemeth-2020"}
 
-*The Unicode Standard* (Version 14.0). (2021). Mountain View, CA: The
+*The Unicode Standard* (Version 14.0). (2021). The
 Unicode Consortium. The most recent version is available from
 [http://unicode.org](http://unicode.org)
 {: id="ref:unicode-2021"}
