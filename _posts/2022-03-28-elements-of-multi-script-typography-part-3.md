@@ -21,14 +21,7 @@ sharing_image: /assets/2022-03-28-elements-of-multi-script-typography-part-3/sha
 ## From word shapes to paragraphs
 
 During paragraph composition, words are set one next to the other in the
-writing direction (see [Figure 1](#fig:paragraph-directions)) and separated by word separators
-(typically a word space) and other punctuation to form lines (see [Figure
-2](#fig:dandas)). Note that some scripts do not have established conventions for the
-use of word separator and punctuation, e.g. Chinese ([Daniels & Bright,
-1996](#ref:daniels-bright-1996)). Following the customary order of lines on a page (see [Figure 1](#fig:paragraph-directions)) a
-paragraph is formed. At the end, the paragraph may be separated by a
-selected paragraph separator (end of line, blank line, indent of the
-following line).
+writing direction (see [Figure 1](#fig:paragraph-directions)) and separated by word separators (typically a word space) and other punctuation to form lines (see [Figure 2](#fig:dandas)). Note that some scripts do not have established conventions for the use of word separator and punctuation, e.g. Chinese ([Daniels & Bright, 1996] (#ref:daniels-bright-1996)). Following the customary order of lines on a page (see [Figure 1](#fig:paragraph-directions)) a paragraph is formed. At the end, the paragraph may be separated by a selected paragraph separator (end of line, blank line, indent of the following line).
 
 ![Examples of common contemporary writing directions](/assets/2022-03-28-elements-of-multi-script-typography-part-3/paragraph-directions.svg)
 
@@ -48,8 +41,7 @@ are omitted.
 
 ![The use of a danda and double danda signs](/assets/2022-03-28-elements-of-multi-script-typography-part-3/dandas.png)
 
-<figcaption id="fig:dandas"><strong>Figure 2:</strong> The use of a danda (vertical line) and double danda signs
-as punctuation in Sanskrit texts set in the Devanagari script. Note that
+<figcaption id="fig:dandas"><strong>Figure 2:</strong> The use of a danda (single vertical line) and double danda (two vertical lines) signs as punctuation in Sanskrit texts set in the Devanagari script. Note that
 Latin-script punctuation is usually used for contemporary languages such
 as Hindi, Marathi, or Nepali when set in the Devanagari script. The
 example is from Śrī Bhagavad Sandarbha (<a href="#ref:gosvami-2014">Gosvāmī, 2014, p. 7</a>). The font is Skolar
@@ -165,14 +157,7 @@ characters as users type (see [Figure 6](#fig:bidi-input)). This becomes crucial
 ![Inputting Latin-script text within Arabic](/assets/2022-03-28-elements-of-multi-script-typography-part-3/bidi-input.svg)
 {: .narrow}
 
-<figcaption id="fig:bidi-input"><strong>Figure 6:</strong> Typing an email in the Latin script within an
-Arabic-script context may seem counter-intuitive to users who are not
-familiar with bi-directional type setting. Notice that the "@" and "."
-get positioned initially on the left, following the Arabic-script
-direction. They are moved to the right only after the following
-Latin-script letter is typed and it is clear they form a part of the
-email address that is treated as a whole. Note that the support for
-bi-directional content varies across software.
+<figcaption id="fig:bidi-input"><strong>Figure 6:</strong> Typing an email in the Latin script within an Arabic-script context may seem counter-intuitive to users who are not familiar with bi-directional type setting. Notice that the "@" and "." get positioned initially on the left, following the Arabic-script direction. They are moved to the right only after the following Latin-script letter is typed and it is clear they form a part of the email address that is treated as a whole. Note that the support for bi-directional content varies across software.
 </figcaption>
 
 Hyphenation brings about another potentially confusing challenge where a
@@ -186,8 +171,7 @@ the rest of the line is too short for the complete Latin term, the word
 "TAXIFOLIA" has to be hyphenated. The remainder of the hyphenated word
 is placed at the beginning of the line, i.e. to the right, but aligned
 from left to right. The right part shows a schematic flow of the text,
-the flow of the Latin word is marked in red arrows. Note that only the
-Latin text can be hyphenated as the Arabic language does not use
+the flow of the Latin word is marked in red dashed arrows. Note that only the Latin text can be hyphenated as the Arabic language does not use
 hyphenation. From the newspaper Asharq Al-Awsat (2000, p. 15), supplied
 by Fiona Ross.
 </figcaption>
