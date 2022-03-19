@@ -41,7 +41,7 @@ introductory overview. See [further reading](#further-reading) and [references](
 Most modern software represents texts as sequences of numeric code
 points that correspond to [individual characters](#sn:grapheme-definition) from a script. The code points are listed in a shared database called an *encoding* that serves as a key for interpreting those code points as characters. The most commonly used encoding today is probably
 [Unicode](http://www.unicode.org) which covers a great
-majority of the world's scripts and is regularly updated ([The Unicode
+majority of the world’s scripts and is regularly updated ([The Unicode
 Standard, 2021](#ref:unicode-2021)).
 
 Many pre-Unicode encodings for the Latin script represented characters
@@ -71,8 +71,8 @@ almost universally.
 
 The ability to encode texts is an essential requirement for language use
 on computers from typing and word processing to online search.
-Therefore, due to Unicode's dominance, the inclusion of all necessary
-characters in its database is a de facto requirement for the languages'
+Therefore, due to Unicode’s dominance, the inclusion of all necessary
+characters in its database is a de facto requirement for the languages’
 survival in the [digital environment.](#sn:unicode-impact)
 
 In order to assign code points to characters, researchers working with
@@ -85,7 +85,7 @@ over the appearance of a particular script or [language.](#sn:vocal-group)
 
 This leaves designers with yet another research challenge: when
 designing for a specific audience, they need to become familiar with
-various visual preferences that exist outside Unicode's specification
+various visual preferences that exist outside Unicode’s specification
 and choose those appropriate for the job. Typically, this is a question
 of choosing the right font or setting the font so it produces required
 character shapes (see [Table 2](#tab:bulgarian)).
@@ -195,7 +195,7 @@ changes completely to show relevant characters.
 When using a physical keyboard connected to a computer and originally
 designed for a single language, you can still switch among multiple
 layouts. However, the use of scripts that are not represented on the key
-labels may feel like a blind man's buff game. This can be helped with an
+labels may feel like a blind man’s buff game. This can be helped with an
 on-screen keyboard preview.
 
 Notably, there are other input methods besides keyboards, such as
@@ -232,21 +232,21 @@ These are the key software components involved in text rendering:
 characters. A font contains a collection of geometric shape descriptions
 (*glyphs*) that typically consist of contours constructed from beziér
 curves. Additionally, a font also includes instructions regarding the
-glyphs' positioning and instructions for their combination. Some of the
+glyphs’ positioning and instructions for their combination. Some of the
 glyphs are mapped onto code points directly while others serve as
 alternatives or parts that are assigned through programmed instructions
 in the font. In order to support a language properly, a font needs to
 cover necessary code points and include instructions that help to
 represent the corresponding script correctly during shaping.
 - a *shaping engine* that combines the glyphs from a font to compose words
-while relying on the instructions in the font and following the script's
+while relying on the instructions in the font and following the script’s
 [orthographic principles](#sn:opentype).
 - a *paragraph composer* that sets words one after the other and deals with line-breaking, paragraph alignment, justification, hyphenation, and other operations that relate to paragraph setting. Paragraph composition will be discussed in the next chapter.
 
 To provide a simple example: rendering of an [English word](#sn:english-challenging) means that
 a sequence of code points is converted into glyphs which are laid out
 one by one, set from left to right following the writing direction (see
-[Figure 3](#fig:english-word)). However, the orthographic principles of many world's
+[Figure 3](#fig:english-word)). However, the orthographic principles of many world’s
 scripts are more diverse which means that text rendering can get very
 complex. The following will discuss some of the challenges that need to
 be dealt with when rendering these scripts.
@@ -357,7 +357,7 @@ is handled by the shaping engine. The font used is Rasa Medium.
 
 Thirdly, the glyphs need to be positioned relative to each other. The
 position of each glyph is defined by its boundaries, both vertical and
-[horizontal](#sn:metrics) (see [Figure 8](#fig:glyph-boundaries)). These are represented as rectangles in the figures in this chapter. The boundaries of adjacent glyphs are aligned in the writing direction by default. Glyphs' positions can be further adjusted using three different concepts:
+[horizontal](#sn:metrics) (see [Figure 8](#fig:glyph-boundaries)). These are represented as rectangles in the figures in this chapter. The boundaries of adjacent glyphs are aligned in the writing direction by default. Glyphs’ positions can be further adjusted using three different concepts:
 
 - *kerning* (or *conditional spacing adjustment*) typically defines
 additional horizontal or vertical adjustment for a pair (or a larger

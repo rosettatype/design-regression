@@ -68,11 +68,11 @@ centred (7) alignments are used sporadically.
 </figcaption>
 
 Note that the direction of the paragraph alignment is independent of the
-writing direction. However, script's writing directions and document
+writing direction. However, scripts’ writing directions and document
 genres have established preferences for particular paragraph alignments.
 
 Typographers use various techniques to achieve full justification or to
-reduce the raggedness of the lines' edges. Here are some of the common
+reduce the raggedness of the lines’ edges. Here are some of the common
 ones that are used to extend or shorten lines to fit the intended width,
 i.e. to *justify* [them](#sn:previous-chapter):
 
@@ -119,7 +119,7 @@ Mukta Extrabold.
 
 Where words are hyphenated depends on the conventions of a particular
 language and the document genre. Arabic or Persian do not hyphenate
-words, for example, while Uyghur that also uses the Arabic script, does
+words, for example, while Uyghur, that also uses the Arabic script, does
 ([Haralambous, 2021](#ref:haralambous-2021)).
 
 To do hyphenation well, the paragraph composer needs to have access to a
@@ -170,7 +170,7 @@ the paragraph direction of the main script (see [Figure 7](#fig:bidi-hyphenation
 the rest of the line is too short for the complete Latin term, the word
 "TAXIFOLIA" has to be hyphenated. The remainder of the hyphenated word
 is placed at the beginning of the line, i.e. to the right, but aligned
-from left to right. The right part shows a schematic flow of the text,
+from left to right. The right part shows a schematic flow of the text;
 the flow of the Latin word is marked in red dashed arrows. Note that only the Latin text can be hyphenated as the Arabic language does not use
 hyphenation. From the newspaper Asharq Al-Awsat (2000, p. 15), supplied
 by Fiona Ross.
@@ -197,7 +197,7 @@ important visual features are well preserved in low resolution (see
 
 <figcaption id="fig:japanese-simplification"><strong>Figure 8:</strong> Designers simplify complex glyphs of Japanese Kanji at
 small sizes; the top row shows samples of the same glyph in the font
-Meiryo in three different sizes. Illustration from Larson (<a href="#ref:larson-2007">2007</a>).
+Meiryo in three different sizes. The bottom row shows the same character in three calligraphic styles. Illustration from Larson (<a href="#ref:larson-2007">2007</a>).
 </figcaption>
 
 Depending on the rasterisation technique and the font used, there may be
@@ -212,9 +212,9 @@ to implement a visual compensation: use a lighter or darker weight for
 one of the scripts.
 
 Since the last quarter of the last century, the technology of digital
-typography has made considerable progress in supporting many world's
+typography has made considerable progress in supporting many world’s
 scripts. Yet, it is still not perfect to the point where it would always
-work smoothly without a designer's intervention. Designers need to be
+work smoothly without a designer’s intervention. Designers need to be
 aware of all the principles, limitations, and issues that come with each
 script and language to ensure quality in their digital work.
 
@@ -229,7 +229,7 @@ script and language to ensure quality in their digital work.
 <aside id="sn:justification-arabic">This is particularly true for Arabic where the insertion of the extending glyph (called kashida or tatweel) is merely the simplest solution to automated line justification as the Arabic script can also use alternative glyph shapes including ligatures to perfect typographic justification. For further and more nuanced discussion, see Elyaakoubi and Lazrek (<a href="#ref:elyaakoubi-lazrek-2010">2010</a>) or Nemeth (<a href="#ref:nemeth-2020">2020</a>).
 </aside>
 
-<aside id="sn:segmentation">Among others, the Unicode Standard (<a href="#ref:unicode-2021">2021, Annex #29</a>) also describes algorithms for determining default boundaries between grapheme clusters (user-perceived characters). Syllables in the Indian scripts are a perfect example as they can be specified using multiple code points and formed using multiple glyphs, some of which represent multiple code points.
+<aside id="sn:segmentation">Among others, the Unicode Standard (<a href="#ref:unicode-2021">2021, Annex #29</a>) describes algorithms for determining default boundaries between grapheme clusters (user-perceived characters). Syllables in the Indian scripts are a perfect example as they can be specified using multiple code points and formed using multiple glyphs, some of which represent multiple code points.
 </aside>
 
 <aside id="sn:visual-considerations">The visual considerations will be discussed in one of the next chapters of this series.
@@ -245,7 +245,7 @@ script and language to ensure quality in their digital work.
 
 ## References
 
-Daniels, P. T., & Bright, W. (1996). *The world's writing systems*.
+Daniels, P. T., & Bright, W. (1996). *The world’s writing systems*.
 Oxford University Press.
 {: id="ref:daniels-bright-1996"}
 
