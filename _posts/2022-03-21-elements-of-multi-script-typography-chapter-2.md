@@ -66,7 +66,7 @@ almost universally.
 |   Western European (ISO 8859–1)    |   Vícejazyèná pøedná¹ka           |
 |   Baltic (ISO 8859–4)              |   Vícejazyčná pøednáška           |
 
-<figcaption id="tab:encoding-mismatch"><strong>Table 1:</strong> An illustration of a mismatch between the intended appearance of a Czech text that was originally encoded in the Central European ISO 8859–2 (first row, correct representation) and its interpretation using two other encodings (ISO 8859–1 and ISO 8859–4) that map the original code points to unexpected characters. All three example texts have been encoded using Unicode for reproducibility.
+<figcaption id="tab:encoding-mismatch"><strong>Table 1:</strong> An illustration of a mismatch between the intended appearance of a Czech text that was originally encoded in the Central European [ISO 8859–2](https://www.charset.org/charsets/iso-8859-2) (first row, correct representation) and its interpretation using two other encodings ([ISO 8859–1](https://www.charset.org/charsets/iso-8859-1) and [ISO 8859–4](https://www.charset.org/charsets/iso-8859-4)) that map the original code points to unexpected characters. All three example texts have been encoded using Unicode for reproducibility.
 </figcaption>
 
 The ability to encode texts is an essential requirement for language use

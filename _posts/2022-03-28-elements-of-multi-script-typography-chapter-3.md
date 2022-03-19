@@ -157,7 +157,7 @@ characters as users type (see [Figure 6](#fig:bidi-input)). This becomes crucial
 ![Inputting Latin-script text within Arabic](/assets/2022-03-28-elements-of-multi-script-typography-chapter-3/bidi-input.svg)
 {: .narrow}
 
-<figcaption id="fig:bidi-input"><strong>Figure 6:</strong> Typing an email in the Latin script within an Arabic-script context may seem counter-intuitive to users who are not familiar with bi-directional type setting. Notice that the "@" and "." get positioned initially on the left, following the Arabic-script direction. They are moved to the right only after the following Latin-script letter is typed and it is clear they form a part of the email address that is treated as a whole. Note that the support for bi-directional content varies across software.
+<figcaption id="fig:bidi-input"><strong>Figure 6:</strong> Typing an email address in the Latin script within an Arabic-script context may seem counter-intuitive to users who are not familiar with bi-directional type setting. Notice that the "@" and "." get positioned initially on the left, following the Arabic-script direction. They are moved to the right only after the following Latin-script letter is typed and it is clear they form a part of the email address that is treated as a whole. Note that the support for bi-directional content varies across software.
 </figcaption>
 
 Hyphenation brings about another potentially confusing challenge where a
