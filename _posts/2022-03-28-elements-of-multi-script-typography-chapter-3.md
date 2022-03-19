@@ -197,7 +197,7 @@ important visual features are well preserved in low resolution (see
 
 <figcaption id="fig:japanese-simplification"><strong>Figure 8:</strong> Designers simplify complex glyphs of Japanese Kanji at
 small sizes; the top row shows samples of the same glyph in the font
-Meiryo in three different sizes. The bottom row shows the same character in three calligraphic styles. Illustration from Larson (<a href="#ref:larson-2007">2007</a>).
+Meiryo in three different sizes. The bottom row shows the same character in three calligraphic styles where the simplification was done for aesthetic reasons. Illustration from Larson (<a href="#ref:larson-2007">2007</a>).
 </figcaption>
 
 Depending on the rasterisation technique and the font used, there may be
