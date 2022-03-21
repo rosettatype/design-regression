@@ -12,6 +12,7 @@ readingtime: 10 min read
 theme: sand
 intro: The third part of a mini-series discusses the technical requirements for language support at the level of paragraph and rasterization.
 sharing_image: /assets/2022-03-28-elements-of-multi-script-typography-chapter-3/sharing_image.png
+published: false
 ---
 
 **Previous chapter:** [codes, keys, and word shapes]({% post_url 2022-03-21-elements-of-multi-script-typography-chapter-2 %})
