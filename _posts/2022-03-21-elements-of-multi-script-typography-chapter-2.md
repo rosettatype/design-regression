@@ -18,10 +18,6 @@ sharing_image: /assets/2022-03-21-elements-of-multi-script-typography-chapter-2/
 
 **Next chapter:** paragraphs and pixels (coming soon)
 
-<!--
-**Next chapter:** [paragraphs and pixels]({% post_url 2022-03-28-elements-of-multi-script-typography-chapter-3 %})
--->
-
 High-quality design can only happen if technology allows it, thus I make
 a distinction between *design* for a language and *support* for a
 language. The former deals with design quality while the latter
