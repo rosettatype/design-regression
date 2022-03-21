@@ -21,7 +21,7 @@ sharing_image: /assets/2022-03-28-elements-of-multi-script-typography-chapter-3/
 ## From word shapes to paragraphs
 
 During paragraph composition, words are set one next to the other in the
-writing direction (see [Figure 1](#fig:paragraph-directions)) and separated by word separators (typically a word space) and other punctuation to form lines (see [Figure 2](#fig:dandas)). Note that some scripts do not have established conventions for the use of word separator and punctuation, e.g. Chinese ([Daniels & Bright, 1996] (#ref:daniels-bright-1996)). Following the customary order of lines on a page (see [Figure 1](#fig:paragraph-directions)) a paragraph is formed. At the end, the paragraph may be separated by a selected paragraph separator (end of line, blank line, indent of the following line).
+writing direction (see [Figure 1](#fig:paragraph-directions)) and separated by word separators (typically a word space) and other punctuation to form lines (see [Figure 2](#fig:dandas)). Note that some scripts do not have established conventions for the use of word separator and punctuation, e.g. Chinese ([Daniels & Bright, 1996](#ref:daniels-bright-1996)). Following the customary order of lines on a page (see [Figure 1](#fig:paragraph-directions)) a paragraph is formed. At the end, the paragraph may be separated by a selected paragraph separator (end of line, blank line, indent of the following line).
 
 ![Examples of common contemporary writing directions](/assets/2022-03-28-elements-of-multi-script-typography-chapter-3/paragraph-directions.svg)
 
@@ -197,7 +197,7 @@ important visual features are well preserved in low resolution (see
 
 <figcaption id="fig:japanese-simplification"><strong>Figure 8:</strong> Designers simplify complex glyphs of Japanese Kanji at
 small sizes; the top row shows samples of the same glyph in the font
-Meiryo in three different sizes. The bottom row shows the same character in three calligraphic styles where the simplification was done for aesthetic reasons. Illustration from Larson (<a href="#ref:larson-2007">2007</a>).
+Meiryo in three different sizes. The bottom row shows the same character in three calligraphic styles where the simplification is done for aesthetic reasons. Illustration from Larson (<a href="#ref:larson-2007">2007</a>).
 </figcaption>
 
 Depending on the rasterisation technique and the font used, there may be
