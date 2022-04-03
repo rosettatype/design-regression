@@ -16,7 +16,7 @@ sharing_image: /assets/2022-03-21-elements-of-multi-script-typography-chapter-2/
 
 **Previous chapter:** [introduction]({% post_url 2021-05-18-elements-of-multi-script-typography-introduction %})
 
-**Next chapter:** [paragraphs and pixels]({% post_url _posts/2022-03-28-elements-of-multi-script-typography-chapter-3 %})
+**Next chapter:** [paragraphs and pixels]({% post_url 2022-03-28-elements-of-multi-script-typography-chapter-3 %})
 
 High-quality design can only happen if technology allows it, thus I make
 a distinction between *design* for a language and *support* for a
@@ -62,7 +62,7 @@ almost universally.
 |   Western European (ISO 8859–1)    |   Vícejazyèná pøedná¹ka           |
 |   Baltic (ISO 8859–4)              |   Vícejazyčná pøednáška           |
 
-<figcaption id="tab:encoding-mismatch"><strong>Table 1:</strong> An illustration of a mismatch between the intended appearance of a Czech text that was originally encoded in the Central European [ISO 8859–2](https://www.charset.org/charsets/iso-8859-2) (first row, correct representation) and its interpretation using two other encodings ([ISO 8859–1](https://www.charset.org/charsets/iso-8859-1) and [ISO 8859–4](https://www.charset.org/charsets/iso-8859-4)) that map the original code points to unexpected characters. All three example texts have been encoded using Unicode for reproducibility.
+<figcaption id="tab:encoding-mismatch"><strong>Table 1:</strong> An illustration of a mismatch between the intended appearance of a Czech text that was originally encoded in the Central European <a href="https://www.charset.org/charsets/iso-8859-2">ISO 8859–2</a> (first row, correct representation) and its interpretation using two other encodings (<a href="https://www.charset.org/charsets/iso-8859-1">ISO 8859–1</a> and <a href="https://www.charset.org/charsets/iso-8859-4">ISO 8859–4</a>) that map the original code points to unexpected characters. All three example texts have been encoded using Unicode for reproducibility.
 </figcaption>
 
 The ability to encode texts is an essential requirement for language use
@@ -211,7 +211,6 @@ Medium (the first three lines), Adobe Devanagari, and Tiro Bangla.
 </figcaption>
 
 ## From codes to word shapes
-{. id="from-codes-to-word-shapes }
 
 Rendering a text into its visual representation is coordinated across an
 operating system, fonts used, and a typesetting application. It is
