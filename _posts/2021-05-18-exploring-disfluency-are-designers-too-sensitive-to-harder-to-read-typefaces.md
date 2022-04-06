@@ -74,7 +74,7 @@ This was a lexical decision task (see [Figure 1](#fig:example-lexical)) which co
 - probably non-word
 - sure word
 
-![Example screen of the lexical decision task using Arial (Task 1)](/assets/2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces/study-screenshot_task-1.png){: .browser}
+![Example screen of the lexical decision task using Arial (Task 1)](/assets/2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces/study-screenshot_lexical-task_non-word_arial.png){: .browser}
 
 <figcaption id="fig:example-lexical"><strong>Figure 1:</strong> Example screen of the lexical decision task using Arial (Task 1)</figcaption>
 
@@ -103,9 +103,9 @@ This was a recognition task which involved a sequence of 16 screens where the pa
 
 We timed responses and recorded accuracy for both tasks and the two tasks were repeated; a different font was used for the second pair of [tasks.](#sn:tasks)
 
-![Example screen of the recognition task using Arial (Task 2)](/assets/2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces/study-screenshot_task-2.png){: .browser}
+![Example screen of the recognition task using Sans Forgetica (Task 2)](/assets/2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces/study-screenshot_recognition-task_word_sans-forgetica.png){: .browser}
 
-<figcaption id="example-recognition"><strong>Figure 3:</strong> Example screen of the recognition task using Arial (Task 2)</figcaption>
+<figcaption id="example-recognition"><strong>Figure 3:</strong> Example screen of the recognition task using Sans Forgetica (Task 2)</figcaption>
 
 ## Details of the words and non-words
 
