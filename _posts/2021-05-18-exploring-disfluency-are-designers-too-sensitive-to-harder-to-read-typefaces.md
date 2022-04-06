@@ -67,7 +67,7 @@ Before they started, we asked participants whether they are a fluent English spe
 
 ### Task 1
 
-This was a lexical decision task (see Figure 1) which consisted of a sequence of 20 screens where the participant is shown an _item_, a word-like group of letters, and asked to say whether it is a word or a non-word in the English language. The participant is asked to respond as quickly and accurately as possible. How confident they are in their response is measured by using four [alternatives](#sn:alternatives):
+This was a lexical decision task (see [Figure 1](#fig:example-lexical)) which consisted of a sequence of 20 screens where the participant is shown an _item_, a word-like group of letters, and asked to say whether it is a word or a non-word in the English language. The participant is asked to respond as quickly and accurately as possible. How confident they are in their response is measured by using four [alternatives](#sn:alternatives):
 
 - sure word
 - probably word
@@ -76,11 +76,11 @@ This was a lexical decision task (see Figure 1) which consisted of a sequence of
 
 ![Example screen of the lexical decision task using Arial (Task 1)](/assets/2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces/study-screenshot_task-1.png){: .browser}
 
-<figcaption><strong>Figure 1:</strong> example screen of the lexical decision task using Arial (Task 1)</figcaption>
+<figcaption id="fig:example-lexical"><strong>Figure 1:</strong> Example screen of the lexical decision task using Arial (Task 1)</figcaption>
 
 ### Intervening questionnaire
 
-In between the first and second task they are asked to make two judgments (see Figure 2). The first is how well they remembered the items on a scale from 0 (I do not remember any) to 100 (I can remember everything). We refer to this as a Judgment of Memory [(JoM).](#sn:jom) The second is a Judgment of Legibility (JoL) of the font used in the lexical decision task, using the scale:
+In between the first and second task they are asked to make two judgments (see [Figure 2](#fig:judgements)). The first is how well they remembered the items on a scale from 0 (I do not remember any) to 100 (I can remember everything). We refer to this as a Judgment of Memory [(JoM).](#sn:jom) The second is a Judgment of Legibility (JoL) of the font used in the lexical decision task, using the scale:
 
 - very easy to read
 - easy to read
@@ -90,11 +90,11 @@ In between the first and second task they are asked to make two judgments (see F
 
 ![Two judgments following the lexical decision task](/assets/2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces/study-screenshot_intervening-questionnaire.png){: .browser}
 
-<figcaption><strong>Figure 2:</strong> two judgments following the lexical decision task</figcaption>
+<figcaption id="fig:judgements"><strong>Figure 2:</strong> Two judgments following the lexical decision task</figcaption>
 
 ### Task 2
 
-This was a recognition task which involved a sequence of 16 screens where the participant is shown an item in the same font as the one used in the lexical decision task. They are asked to say whether they saw that item in the previous task. In this case, the participant is invited to take as much time as they like to respond. Their confidence is measured through four alternative responses (see Figure 3):
+This was a recognition task which involved a sequence of 16 screens where the participant is shown an item in the same font as the one used in the lexical decision task. They are asked to say whether they saw that item in the previous task. In this case, the participant is invited to take as much time as they like to respond. Their confidence is measured through four alternative responses (see [Figure 3](#fig:example-recognition)):
 
 - sure seen
 - probably seen
@@ -105,7 +105,7 @@ We timed responses and recorded accuracy for both tasks and the two tasks were r
 
 ![Example screen of the recognition task using Arial (Task 2)](/assets/2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces/study-screenshot_task-2.png){: .browser}
 
-<figcaption><strong>Figure 3:</strong> example screen of the recognition task using Arial (Task 2)</figcaption>
+<figcaption id="example-recognition"><strong>Figure 3:</strong> Example screen of the recognition task using Arial (Task 2)</figcaption>
 
 ## Details of the words and non-words
 
@@ -131,7 +131,7 @@ In the two tasks, all participants responded more slowly to items in Sans Forget
 
 ### Designers and non-designers
 
-There was a greater difference between judgments of memory for Arial and Sans Forgetica in designers than [non-designers](#sn:stats-5) (see Figure 4), supporting our hypothesis that designers are more sensitive to differences in fonts (see Figure 4). We also found an unexpected general difference between the two groups. In both lexical decision and recognition, designers responded more quickly than [non-designers.](#sn:stats-6)
+There was a greater difference between judgments of memory for Arial and Sans Forgetica in designers than [non-designers](#sn:stats-5) (see [Figure 4](#fig:judgements-of-memory)), supporting our hypothesis that designers are more sensitive to differences in fonts (see [Figure 4](#fig:judgements-of-memory)). We also found an unexpected general difference between the two groups. In both lexical decision and recognition, designers responded more quickly than [non-designers.](#sn:stats-6)
 
 <div class="barchart"
     data-name="Judgement of Memory"
@@ -141,11 +141,11 @@ There was a greater difference between judgments of memory for Arial and Sans Fo
     data-errors="2.75,3.28;3.171,3.084"
     ></div>
 
-<figcaption><strong>Figure 4:</strong> Judgments of Memory for the two fonts with greater difference in judgments by designers.</figcaption>
+<figcaption id="fig:judgements-of-memory"><strong>Figure 4:</strong> Judgments of Memory for the two fonts with greater difference in judgments by designers.</figcaption>
 
 ### Words vs non-words
 
-Although the study was not specifically aimed at comparing words and non-words, some interesting differences emerged. Responses to words were faster than non-words for [both tasks](#sn:stats-7), which is known as a _lexicality effect_. However, there was also a difference between the two fonts in the lexical decision task: non-words slow participants down even more in Sans Forgetica than in [Arial](#sn:stats-8) (see Figure 5). A result that seems initially to be counter-intuitive is that non-words were remembered better than words in [both fonts.](#sn:stats-9)
+Although the study was not specifically aimed at comparing words and non-words, some interesting differences emerged. Responses to words were faster than non-words for [both tasks](#sn:stats-7), which is known as a _lexicality effect_. However, there was also a difference between the two fonts in the lexical decision task: non-words slow participants down even more in Sans Forgetica than in [Arial](#sn:stats-8) (see [Figure 5](#fig:response-times)). A result that seems initially to be counter-intuitive is that non-words were remembered better than words in [both fonts.](#sn:stats-9)
 
 <div class="barchart"
     data-name="Response time"
@@ -156,7 +156,7 @@ Although the study was not specifically aimed at comparing words and non-words, 
     data-offset="7"
     ></div>
 
-<figcaption><strong>Figure 5:</strong> responses to non-words are slower than words and particularly in Sans Forgetica. Response times in milliseconds have been transformed using the natural logarithm to be suitable for statistical analysis.</figcaption>
+<figcaption id="fig:response-times"><strong>Figure 5:</strong> Responses to non-words are slower than words and particularly in Sans Forgetica. Response times in milliseconds have been transformed using the natural logarithm to be suitable for statistical analysis.</figcaption>
 
 ## What do these results tell us?
 
