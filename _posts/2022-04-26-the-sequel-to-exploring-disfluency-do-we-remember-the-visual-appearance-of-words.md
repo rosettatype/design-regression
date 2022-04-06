@@ -9,7 +9,7 @@ authors:
     - David Březina
 readingtime: 14 min read
 theme: sand
-intro: We have expanded our an online study exploring disfluency to investigate whether visual appearance of words gets preserved in memory.
+intro: We have expanded our an online study of disfluency to investigate whether visual appearance of words gets preserved in memory.
 sharing_image: /assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/sharing_image.png
 ---
 
