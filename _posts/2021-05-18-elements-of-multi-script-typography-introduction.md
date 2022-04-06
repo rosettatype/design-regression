@@ -28,18 +28,18 @@ Although not all-encompassing, hopefully the series achieves a discussion that a
 
 ## Known unknowns
 
-When working with multiple languages, some of them will be unfamiliar to the designer. A sensitive approach is critical as an unattended lack of typographic expertise with a language can lead to anything from a disheartening reading experience, rejection, frustration, to backlash, or publishers’ embarrassment in front of readers (see figures 1 and 2). Similarly to poorly translated texts, poorly typeset texts can raise negative connotations and cause confusion.
+When working with multiple languages, some of them will be unfamiliar to the designer. A sensitive approach is critical as an unattended lack of typographic expertise with a language can lead to anything from a disheartening reading experience, rejection, frustration, to backlash, or publishers’ embarrassment in front of readers (see [Figures 1](#fig:figma) and [2](#fig:twitter-arrival)). Similarly to poorly translated texts, poorly typeset texts can raise negative connotations and cause confusion.
 
 ![A screenshot from Figma](/assets/2021-05-18-elements-of-multi-script-typography-introduction/figma-screenshot.png)
 
 ![A screenshot from Figma, corrected](/assets/2021-05-18-elements-of-multi-script-typography-introduction/figma-screenshot-corrected.png)
 
-<figcaption><strong>Figure 1:</strong> as of April 2021, the web design application <a href="https://figma.com">Figma</a> does not support correct mark positioning in the Devanagari script used for the Hindi language (top). The bottom screenshot shows my mockup of a correct placement of the nukta mark which may not correspond to the original design of the Adobe Devanagari typeface used here. Nonetheless, the top example would read as “hidi” while the bottom one would read as “Hindi”. What a difference one mark can make.</figcaption>
+<figcaption id="figma"><strong>Figure 1:</strong> As of April 2021, the web design application <a href="https://figma.com">Figma</a> does not support correct mark positioning in the Devanagari script used for the Hindi language (top). The bottom screenshot shows my mockup of a correct placement of the nukta mark which may not correspond to the original design of the Adobe Devanagari typeface used here. Nonetheless, the top example would read as “hidi” while the bottom one would read as “Hindi”. What a difference one mark can make.</figcaption>
 
 ![A screenshot of a Twitter conversation](/assets/2021-05-18-elements-of-multi-script-typography-introduction/twitter-screenshot.png)
 {: .narrow}
 
-<figcaption><strong>Figure 2:</strong> a disenchanted Twitter user (<a href="#ref:morris-2021">Morris, 2021</a>) commenting on the poor handling of the Arabic typesetting in a major motion picture from a US production. The captions in the movie show Arabic texts with disconnected letters which is wrong.</figcaption>
+<figcaption id="twitter-arrival"><strong>Figure 2:</strong> A disenchanted Twitter user (<a href="#ref:morris-2021">Morris, 2021</a>) commenting on the poor handling of the Arabic typesetting in a major motion picture from a US production. The captions in the movie show Arabic texts with disconnected letters which is wrong.</figcaption>
 
 Giving sufficient attention to every language and script and recognising their typographic prerequisites raises the bar regarding the skills and competence of designers. Ideally, they should have experience with design for all of the languages involved. An individual might not be competent enough: the combination of languages might be unusual, there might be just too many languages, the linguistically-able designer might lack in [design skills.](#sn:design-skills) A collaboration among experienced specialists is often advisable together with thorough research into the unfamiliar scripts and languages. The nature of the needs depends on the specificities of a project. While designing for an unfamiliar language using a familiar script may still be manageable with relatively modest research, designing for a completely unfamiliar script brings more challenges and unknowns. A designer who is only experienced in typesetting English books is likely to find typesetting of a French novel significantly easier than typesetting a Marathi novel in the Devanagari script.
 
