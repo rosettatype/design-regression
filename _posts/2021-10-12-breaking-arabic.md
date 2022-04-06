@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Breaking Arabic: the&nbsp;creative inventiveness of Uyghur script reforms"
+title: "Breaking Arabic: the creative inventiveness of Uyghur script reforms"
 date: 2021-10-12 10:00:00
 categories:
     - Article
