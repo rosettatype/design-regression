@@ -106,7 +106,9 @@ We described the format of these studies in our previous article
 ‘Exploring disfluency: Are designers too sensitive to harder-to-read
 typefaces?’. The only difference in format between the current study and study 1 is that here we changed the font between the lexical decision and recognition tasks (see [Figure 3](#fig:schema)). Our analysis includes a comparison with the results of study 1 in order to address the research questions.
 
-![A schematic comparison between Study 1 and the current Study 2](/assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/schema.svg){: .full}
+<div class="full">
+    <img src="/assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/schema.svg" alt="A schematic comparison between Study 1 and the current Study 2" />
+</div>
 
 <figcaption id="fig:schema"><strong>Figure 3:</strong> A schematic comparison between Study 1 and the current Study 2. The general format of the study did not change. In Study 2 we changed the font between the lexical decision and recognition tasks. Note that in each study there are two versions, one starting with samples in Arial and one starting with Sans Forgetica.</figcaption>
 
