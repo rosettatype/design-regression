@@ -76,7 +76,7 @@ This was a lexical decision task (see [Figure 1](#fig:example-lexical)) which co
 
 ![Example screen of the lexical decision task using Arial (Task 1)](/assets/2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces/study-screenshot_lexical-task_non-word_arial.png){: .browser}
 
-<figcaption id="fig:example-lexical"><strong>Figure 1:</strong> Example screen of the lexical decision task using Arial (Task 1)</figcaption>
+<figcaption id="fig:example-lexical"><strong>Figure 1:</strong> Example screen of the lexical decision task using Arial (Task 1).</figcaption>
 
 ### Intervening questionnaire
 
@@ -90,7 +90,7 @@ In between the first and second task they are asked to make two judgments (see [
 
 ![Two judgments following the lexical decision task](/assets/2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces/study-screenshot_intervening-questionnaire.png){: .browser}
 
-<figcaption id="fig:judgements"><strong>Figure 2:</strong> Two judgments following the lexical decision task</figcaption>
+<figcaption id="fig:judgements"><strong>Figure 2:</strong> Two judgments following the lexical decision task.</figcaption>
 
 ### Task 2
 
