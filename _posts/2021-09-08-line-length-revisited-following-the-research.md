@@ -121,7 +121,7 @@ But it would be exciting if designers were to challenge received wisdom, explore
 
 <aside id="sn:null-results">These null results cannot confirm that line length has no effect as the experimental method may not have been sufficiently sensitive to detect differences.</aside>
 
-<aside id="sn:dyson-kipping">Further discussed in Dyson and Kipping ([1998](#ref:dyson-kipping-1998)).</aside>
+<aside id="sn:dyson-kipping">Further discussed in Dyson and Kipping (<a href="#ref:dyson-kipping-1998">1998</a>).</aside>
 
 <aside id="sn:future-research">I believe that some of these questions will be answered when labs are able to return to conducting experiments with participants (post-pandemic).</aside>
 
