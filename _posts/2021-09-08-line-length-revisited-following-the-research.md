@@ -107,7 +107,7 @@ But it would be exciting if designers were to challenge received wisdom, explore
 
 <aside id="sn:report-details">The paper reports that line lengths ranged from 5 to 91 characters. The example page (Figure 1 in their paper) has an average of 69 characters per line and is double spaced.</aside>
 
-<aside id="sn:other-studies">Citation examples include: Dyson (<a href="#ref:dyson-2005">2005</a>), <a href="#ref:dyson-2018">2018</a>); Dyson and Beier (<a href="#ref:dyson-beier-2016">2016</a>); Dyson and Kipping (<a href="#ref:dyson-kipping-1997">1997</a>), <a href="#ref:dyson-kipping-1998">1998</a>); Dyson and Haselgrove (<a href="#ref:dyson-haselgrove-2001">2001</a>); Kruk and Muter (<a href="#ref:kruk-muter-1984">1984</a>); Morrison and Inhoff (1981); Rayner and Pollatsek (<a href="#ref:rayner-pollatsek-1989">1989</a>).</aside>
+<aside id="sn:other-studies">Citation examples include: Dyson (<a href="#ref:dyson-2005">2005</a>, <a href="#ref:dyson-2018">2018</a>); Dyson and Beier (<a href="#ref:dyson-beier-2016">2016</a>); Dyson and Kipping (<a href="#ref:dyson-kipping-1997">1997</a>, <a href="#ref:dyson-kipping-1998">1998</a>); Dyson and Haselgrove (<a href="#ref:dyson-haselgrove-2001">2001</a>); Kruk and Muter (<a href="#ref:kruk-muter-1984">1984</a>); Morrison and Inhoff (<a href="#ref:morrison-inhoff-1981">1981</a>); Rayner and Pollatsek (<a href="#ref:rayner-pollatsek-1989">1989</a>).</aside>
 
 <aside id="sn:other-typographical-variables">The same methodological issue arises with their studies of other typographical variables.</aside>
 
