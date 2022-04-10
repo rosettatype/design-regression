@@ -9,7 +9,7 @@ authors:
     - David Březina
 readingtime: 14 min read
 theme: sand
-intro: We have expanded our an online study of disfluency to investigate whether visual appearance of words gets preserved in memory.
+intro: We have expanded on our online study of disfluency to investigate whether the visual appearance of words is preserved in memory.
 sharing_image: /assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/sharing_image.png
 ---
 
@@ -40,9 +40,9 @@ in memory when reading, but this requires further research.
 
 [Our first study]({% post_url 2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces %})
 (referred to as study 1 below) had two parts which consisted of two
-consecutive tasks: lexical decision and recognition (see [Figures 1](#fig:screen-lexical) and [2](#fig:screen-recognition), for detailed description see the section ‘[What we
+consecutive tasks: lexical decision and recognition (see [Figures 1](#fig:screen-lexical) and [2](#fig:screen-recognition). For detailed description see the section ‘[What we
 did]({% post_url 2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces %}#what-we-did)’
-in the report of study 1). Each part of the study used one font, either
+in the report of study 1. Each part of study 1 used one font, either
 Arial or Sans Forgetica, for both tasks. We realised this study design
 could also be used to explore what happens if the font changes between
 the two tasks, if the lexical task is in one font and the subsequent
@@ -52,21 +52,16 @@ does not match how it was previously seen? Might designers be more likely to rem
 
 ![Example screen of the lexical decision task using Arial (Task 1)](/assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/study-screenshot_lexical-task_non-word_arial.png)
 
-<figcaption id="fig:screen-lexical"><strong>Figure 1:</strong> Example screen of the lexical decision task using Arial (Task 1)</figcaption>
+<figcaption id="fig:screen-lexical"><strong>Figure 1:</strong> Example screen of the lexical decision task using Arial (Task 1).</figcaption>
 
 ![Example screen of the recognition task using Sans Forgetica (Task 2)](/assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/study-screenshot_recognition-task_word_sans-forgetica.png)
 
-<figcaption id="fig:screen-recognition"><strong>Figure 2:</strong> Example screen of the recognition task using Sans Forgetica (Task 2)</figcaption>
+<figcaption id="fig:screen-recognition"><strong>Figure 2:</strong> Example screen of the recognition task using Sans Forgetica (Task 2).</figcaption>
 
 ### Existing academic research on memory representations 
 
 A distinction has been made between graphemic and semantic analyses
-([Kolers, 1975](#kolers-1975); [1976](#kolers-1976)). This distinction is also described as perceptual
-and conceptual, respectively. A representation in memory which preserves
-information about the graphemic or perceptual features of text (e.g.
-font styling) is contrasted with a representation which contains only
-conceptual information about the meaning of the text (Sherigan &
-Rheingold, 2012).
+([Kolers, 1975](#kolers-1975), [1976](#kolers-1976)). This distinction is also described as perceptual and conceptual, respectively. A representation in memory which preserves information about the graphemic or perceptual features of text (e.g. font styling) is contrasted with a representation which contains only conceptual information about the meaning of the text ([Sheridan & Reingold, 2012](ref:sheridan-reingold-2021)).
 
 A technique which is typically used to explore whether a previous item
 can influence the response to a subsequent item is called *priming*. If
@@ -106,11 +101,13 @@ We described the format of these studies in our previous article
 ‘Exploring disfluency: Are designers too sensitive to harder-to-read
 typefaces?’. The only difference in format between the current study and study 1 is that here we changed the font between the lexical decision and recognition tasks (see [Figure 3](#fig:schema)). Our analysis includes a comparison with the results of study 1 in order to address the research questions.
 
+We have made the study website and data available on [GitHub](https://github.com/MrBrezina/disfluency-study) and licenced them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
+
 <div class="full">
     <img src="/assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/schema.svg" alt="A schematic comparison between Study 1 and the current Study 2" />
 </div>
 
-<figcaption id="fig:schema"><strong>Figure 3:</strong> A schematic comparison between Study 1 and the current Study 2. The general format of the study did not change. In Study 2 we changed the font between the lexical decision and recognition tasks. Note that in each study there are two versions, one starting with samples in Arial and one starting with Sans Forgetica.</figcaption>
+<figcaption id="fig:schema"><strong>Figure 3:</strong> A schematic comparison between study 1 and the current study 2. The general format of the study did not change. In study 2 we changed the font between the lexical decision (shown in green) and recognition (blue) tasks. Note that in each study there are two versions: one starting with samples in Arial and one starting with Sans Forgetica. Half the participants received the version starting with Arial, and half the version starting with Sans Forgetica.</figcaption>
 
 ## Our participants
 
@@ -161,19 +158,18 @@ As in study 1, responses to words were faster than non-words for both
 [tasks.](#sn:note-13) Also, in both tasks, the responses to non-words were slowed
 down more compared to words when they were set in Sans Forgetica.[](#sn:note-14)
 In study 1, both groups of participants remembered non-words better than
-words. However, in this study only non-designers were better at
-remembering non-words (see [Figure 4](#fig:auc)), remembering more non-words than [designers](#sn:note-15).
+words. However, in this study only non-designers were better at remembering non-words, remembering more non-words than [designers](#sn:note-15) (see [Figure 4](#fig:auc)).
 
 <div class="barchart"
     data-name="Recognition (AUC)"
     data-groups="Words;Non-words"
     data-options="non-designers;designers"
     data-values="2.563203,2.668174;2.537827,2.443453"
-    data-errors="0.026,0.035;0.027,0.043"
+    data-errors="0.05249,0.045254;0.053309,0.054046"
     data-offset="2.2"
     ></div>
 
-<figcaption id="fig:auc"><strong>Figure 4:</strong> Non-designers are more accurate at recognizing non-words. AUC is a measure of the accuracy of responses (i.e. whether the item is remembered) which is free of response bias, such as responding ‘seen’ most of the time.</figcaption>
+<figcaption id="fig:auc"><strong>Figure 4:</strong> Non-designers are more accurate at remembering non-words. The accuracy of responses is measured using AUC which is free of response bias, such as responding ‘seen’ most of the time.</figcaption>
 
 ## What do these results tell us?
 
@@ -237,11 +233,11 @@ sensitive to font differences than graphic designers, which makes sense.
     data-name="Numbers of participants grouped by their professional training"
     data-groups="Study 1;Study 2"
     data-options="non-designer;letter designer;graphic designer;other designer;typographer"
-    data-values="45,45;25,25;15,15;10,10;5,5"
+    data-values="44,59;25,16;17,28;6,12;5,7"
     data-errors=",;,;,;,;,"
     ></div>
 
-<figcaption id="fig:professional-training"><strong>Figure 5:</strong> Breakdown of participants by professional training across the two studies</figcaption>
+<figcaption id="fig:professional-training"><strong>Figure 5:</strong> Breakdown of number of participants by professional training across the two studies. Study 1 includes more letter designers than other categories of designer whereas study 2 includes more graphic designers.</figcaption>
 
 ## Comment on the results of the two studies
 
@@ -329,49 +325,47 @@ training.
 Barton, J.J.S., Sekunova, A., Sheldon, C., Johnston, S., Iaria, G., &
 Scheel, M. (2010). Reading words, seeing style: The neuropsychology of
 word, font and handwriting perception. *Neuropsychologia*, *48*(13),
-3866–3877.
+3866–3877. [https://doi.org/10.1016/j.neuropsychologia.2010.09.012](https://doi.org/10.1016/j.neuropsychologia.2010.09.012)
 {: id="ref:barton-2010"}
 
 Dyson, M.C. (2020). Does perceptual disfluency theory represent a
 significant challenge to a legibility researcher? *Hyphen*, *12*(18),
-17–35.
+17–35. [https://istvc.org/hyphien-a-typographic-forum.html](https://istvc.org/hyphien-a-typographic-forum.html)
 {: id="ref:dyson-2020"}
 
 Geller, J., Davis, S.D., & Peterson, D.J. (2020). Sans Forgetica is not
-desirable for learning. *Memory*, *28*(8), 957–967.
+desirable for learning. *Memory*, *28*(8), 957–967. [https://doi.org/10.1080/09658211.2020.1797096](https://doi.org/10.1080/09658211.2020.1797096)
 {: id="ref:geller-2020"}
 
 Jacoby, L.L., & Hayman, C.A.G. (1987). Specific visual transfer in word
 identification. *Journal of Experimental Psychology: Learning Memory and
-Cognition*, *13*(3), 456–463.
+Cognition*, *13*(3), 456–463. [https://doi.org/10.1037/0278-7393.13.3.456](https://doi.org/10.1037/0278-7393.13.3.456)
 {: id="ref:jacoby-1987"}
 
 Kolers, P.A. (1975). Specificity of operations in sentence recognition.
-*Cognitive Psychology*, *7*(3), 289–306.
+*Cognitive Psychology*, *7*(3), 289–306. [https://doi.org/10.1016/0010-0285(75)90013-4](https://doi.org/10.1016/0010-0285(75)90013-4)
 {: id="ref:kolers-1975"}
 
 Kolers, P.A. (1976). Reading a year later. *Journal of Experimental
-Psychology-Human Learning and Memory*, *2*(5), 554–565.
+Psychology-Human Learning and Memory*, *2*(5), 554–565. [https://doi.org/10.1037/0278-7393.2.5.554](https://doi.org/10.1037/0278-7393.2.5.554)
 {: id="ref:kolers-1976"}
 
 Rajaram, S., & Roediger, H.L. (1993). Direct comparison of four implicit
 memory tests. *Journal of Experimental Psychology: Learning, Memory, and
-Cognition*, *19*(4), 765–776.
+Cognition*, *19*(4), 765–776. [https://doi.org/10.1037/0278-7393.19.4.765](https://doi.org/10.1037/0278-7393.19.4.765)
 {: id="ref:rajram-roediger-1993"}
 
 Roediger, H.L., & Blaxton, T.A. (1987). Effects of varying modality,
 surface features, and retention interval on priming in word-fragment
-completion. *Memory & Cognition*, *15*(5), 379–388.
+completion. *Memory & Cognition*, *15*(5), 379–388. [https://doi.org/10.3758/BF03197728](https://doi.org/10.3758/BF03197728)
 {: id="ref:roediger-blaxton-1987"}
 
-<!--
 Sheridan, H., & Reingold, E.M. (2012). Perceptual specificity effects in
 rereading: Evidence from eye movements. *Journal of Memory and Language*,
-*67*(2), 255–269.
+*67*(2), 255–269. [https://doi.org/10.1016/j.jml.2012.05.005](https://doi.org/10.1016/j.jml.2012.05.005)
 {: id="ref:sheridan-reingold-2021"}
--->
 
 Taylor, A., Sanson, M., Burnell, R., Wade, K.A., & Garry, M. (2020).
 Disfluent difficulties are not desirable difficulties: The (lack of)
 effect of Sans Forgetica on memory. *Memory*, *28*(7), 850–857.
-{: id="ref:taylor-et-al-2020"}
+{: id="ref:taylor-et-al-2020"} [https://doi.org/10.1080/09658211.2020.1758726](https://doi.org/10.1080/09658211.2020.1758726)
