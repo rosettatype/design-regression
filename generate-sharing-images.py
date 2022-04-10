@@ -80,8 +80,6 @@ def saveSharingImage(outpath, title, authors, categories, theme):
 for path in glob.glob("_posts/*.md"):
     # get post meta
     post = frontmatter.load(path)
-    if "published" in post and not post["published"]:
-        continue
     if "sharing_image" in post:
         outpath = post["sharing_image"][1:]  # hack: remove initial /
     else:

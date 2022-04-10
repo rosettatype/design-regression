@@ -21,7 +21,7 @@ in June 2019. In that study we explored whether designers’ greater
 sensitivity to typographic presentation might influence their judgments
 of memory for items set in a less legible font (Sans Forgetica) and how
 well they identify and remember words. We did find that designers’
-judgements of memory were influenced more by the legibility of items
+judgments of memory were influenced more by the legibility of items
 compared with non-designers. However, there was no difference in the
 accuracy of responses in either group. Sans Forgetica items were not
 easier to remember, as predicted by disfluency theory.
@@ -61,7 +61,7 @@ does not match how it was previously seen? Might designers be more likely to rem
 ### Existing academic research on memory representations 
 
 A distinction has been made between graphemic and semantic analyses
-([Kolers, 1975](#kolers-1975), [1976](#kolers-1976)). This distinction is also described as perceptual and conceptual, respectively. A representation in memory which preserves information about the graphemic or perceptual features of text (e.g. font styling) is contrasted with a representation which contains only conceptual information about the meaning of the text ([Sheridan & Reingold, 2012](ref:sheridan-reingold-2021)).
+([Kolers, 1975](#ref:kolers-1975), [1976](#ref:kolers-1976)). This distinction is also described as perceptual and conceptual, respectively. A representation in memory which preserves information about the graphemic or perceptual features of text (e.g. font styling) is contrasted with a representation which contains only conceptual information about the meaning of the text ([Sheridan & Reingold, 2012](#ref:sheridan-reingold-2021)).
 
 A technique which is typically used to explore whether a previous item
 can influence the response to a subsequent item is called *priming*. If
@@ -70,10 +70,7 @@ there is a partial match with the subsequent item, the response can be
 facilitated, i.e. responses are faster. With respect to the
 representations mentioned above, priming may be perceptual or
 conceptual. The degree of facilitation depends on the match between the
-two presentations ([Roediger & Blaxton, 1987](#ref:roediger-blaxton-1987)). Some researchers have
-found reduced perceptual priming with font style changes, because of the
-mismatch between the visual representations of corresponding items
-([Jacoby & Hayman](#ref:jacoby-1987), 1987; [Roediger & Blaxton, 1987](#ref:roediger-blaxton-1987)) but others have found
+two presentations ([Roediger & Blaxton, 1987](#ref:roediger-blaxton-1987)). Some researchers have found reduced perceptual priming with font style changes, because of the mismatch between the visual representations of corresponding items ([Jacoby & Hayman, 1987](#ref:jacoby-1987); [Roediger & Blaxton, 1987](#ref:roediger-blaxton-1987)) but others have found
 no difference ([Rajaram & Roediger, 1993](#ref:rajram-roediger-1993)). There is therefore a question
 as to whether font styling is represented in memory in [some way.](#sn:note-1)
 
@@ -367,5 +364,5 @@ rereading: Evidence from eye movements. *Journal of Memory and Language*,
 
 Taylor, A., Sanson, M., Burnell, R., Wade, K.A., & Garry, M. (2020).
 Disfluent difficulties are not desirable difficulties: The (lack of)
-effect of Sans Forgetica on memory. *Memory*, *28*(7), 850–857.
-{: id="ref:taylor-et-al-2020"} [https://doi.org/10.1080/09658211.2020.1758726](https://doi.org/10.1080/09658211.2020.1758726)
+effect of Sans Forgetica on memory. *Memory*, *28*(7), 850–857. [https://doi.org/10.1080/09658211.2020.1758726](https://doi.org/10.1080/09658211.2020.1758726)
+{: id="ref:taylor-et-al-2020"}

@@ -115,10 +115,10 @@ def saveStorySecondary(outpath, title, authors, categories, theme, intro):
     # categories & authors
     padx, pady = 30, 17
     with db.savedState():
-        db.translate(mainpad, h * 0.72)
+        db.translate(mainpad, h * 0.71)
         db.fill(*textcol)
         db.font("AdapterMonoPE-Sb")
-        db.fontSize(14)
+        db.fontSize(24)
         db.tracking(1)
         tw1, th1 = db.textSize(categories)
         tw2, _ = db.textSize(authors)
