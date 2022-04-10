@@ -381,6 +381,10 @@ carefully edited text that is designed for independent reading. The books are
 listed at <a href="https://jamiestonebridge.com">https://jamiestonebridge.com</a>.
 </aside>
 
+{% include cta-feedback.html %}
+
+{% include cta-newsletter.html %}
+
 ## References
 
 † published text used in the preparation of sample materials

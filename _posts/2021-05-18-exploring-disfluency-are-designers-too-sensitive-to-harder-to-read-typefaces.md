@@ -94,7 +94,7 @@ In between the first and second task they are asked to make two judgments (see [
 
 ### Task 2
 
-This was a recognition task which involved a sequence of 16 screens where the participant is shown an item in the same font as the one used in the lexical decision task. They are asked to say whether they saw that item in the previous task. In this case, the participant is invited to take as much time as they like to respond. Their confidence is measured through four alternative responses (see [Figure 3](#fig:example-recognition)):
+This was a recognition task which involved a sequence of 16 screens where the participant is shown an item in the same font as the one used in the lexical decision task. They are asked to say whether they saw that item in the previous task. In this case, the participant is invited to take as much time as they like to respond. Their confidence is measured through four alternative responses (see [Figure 3](#fig:fig:)):
 
 - sure seen
 - probably seen
@@ -105,7 +105,7 @@ We timed responses and recorded accuracy for both tasks and the two tasks were r
 
 ![Example screen of the recognition task using Sans Forgetica (Task 2)](/assets/2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces/study-screenshot_recognition-task_word_sans-forgetica.png){: .browser}
 
-<figcaption id="example-recognition"><strong>Figure 3:</strong> Example screen of the recognition task using Sans Forgetica (Task 2)</figcaption>
+<figcaption id="fig:example-recognition"><strong>Figure 3:</strong> Example screen of the recognition task using Sans Forgetica (Task 2).</figcaption>
 
 ## Details of the words and non-words
 
