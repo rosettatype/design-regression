@@ -231,7 +231,6 @@ sensitive to font differences than graphic designers, which makes sense.
     data-groups="Study 1;Study 2"
     data-options="non-designer;letter designer;graphic designer;other designer;typographer"
     data-values="44,59;25,16;17,28;6,12;5,7"
-    data-errors=",;,;,;,;,"
     ></div>
 
 <figcaption id="fig:professional-training"><strong>Figure 5:</strong> Breakdown of number of participants by professional training across the two studies. Study 1 includes more letter designers than other categories of designer whereas study 2 includes more graphic designers.</figcaption>

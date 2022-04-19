@@ -176,6 +176,14 @@ window.addEventListener("load", function () {
     if (barcharts) {
         barcharts.forEach(function (node) {
             try {
+                var plot_errors = [];
+                
+                if (node.dataset.errors) {
+                    plot_errors = node.dataset.errors.split(";").map(function (arrayString) {
+                        return arrayString.split(",")
+                    });
+                }
+
                 BarChart(
                     node,
                     node.dataset.title,
@@ -185,9 +193,7 @@ window.addEventListener("load", function () {
                     node.dataset.values.split(";").map(function (arrayString) {
                         return arrayString.split(",")
                     }),
-                    node.dataset.errors.split(";").map(function (arrayString) {
-                        return arrayString.split(",")
-                    }),
+                    plot_errors,
                     node.dataset.offset,
                 )
             } catch (e) {
