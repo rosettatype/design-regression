@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The sequel to exploring disfluency: Do we remember the visual appearance of words?"
-date: 2022-04-26 09:30:00
+date: 2022-04-26 07:30:00
 categories:
     - Research
 authors:
