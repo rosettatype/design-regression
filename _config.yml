@@ -65,4 +65,4 @@ collections:
     output: false
 
 # Show articles with future date
-future: true
+future: false
