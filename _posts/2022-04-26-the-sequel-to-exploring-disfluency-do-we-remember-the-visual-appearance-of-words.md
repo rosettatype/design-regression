@@ -14,17 +14,8 @@ sharing_image: /assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remem
 ---
 
 We described our study exploring disfluency in a [previous
-article]({% post_url 2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces %})
-and conference presentation at the
-[ICTVC](https://ictvc.org/2019/en/) conference in Patras
-in June 2019. In that study we explored whether designers’ greater
-sensitivity to typographic presentation might influence their judgments
-of memory for items set in a less legible font (Sans Forgetica) and how
-well they identify and remember words. We did find that designers’
-judgments of memory were influenced more by the legibility of items
-compared with non-designers. However, there was no difference in the
-accuracy of responses in either group. Sans Forgetica items were not
-easier to remember, as predicted by disfluency theory.
+article]({% post_url 2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces %}) and conference presentation at the
+[ICTVC](https://ictvc.org/2019/en/) conference in Patras in June 2019. In that study we explored whether designers’ greater sensitivity to typographic presentation might influence their judgments of memory for items set in a less legible font (Sans Forgetica) and how well they identify and remember words. We did find that designers’ judgments of memory were influenced more by the legibility of items compared with non-designers. However, there was no difference in the accuracy of responses in either group. Sans Forgetica items were not easier to remember, as predicted by disfluency theory.
 
 ## Summary
 
