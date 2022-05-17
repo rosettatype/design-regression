@@ -8,7 +8,7 @@ authors:
     - Mary Dyson
     - David Březina
 readingtime: 14 min read
-theme: sand
+theme: blue
 intro: We have expanded on our online study of disfluency to investigate whether the visual appearance of words is preserved in memory.
 sharing_image: /assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/sharing_image.png
 ---

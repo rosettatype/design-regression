@@ -7,6 +7,7 @@ categories:
 authors:
     - Mary Dyson
 readingtime: 17 min read
+theme: blue
 intro: Recent eye movement research is reviewed which questions whether long line lengths do cause reading difficulties.
 sharing_image: /assets/2021-09-08-line-length-revisited-following-the-research/sharing_image.png
 ---

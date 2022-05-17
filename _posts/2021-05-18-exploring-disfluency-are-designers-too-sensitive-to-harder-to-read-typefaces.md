@@ -8,7 +8,7 @@ authors:
     - Mary Dyson
     - David Březina
 readingtime: 14 min read
-theme: sand
+theme: blue
 intro: We conducted an online study to see if designers respond in a different way to non-designers to a less legible typeface (Sans Forgetica), exploring judgments and memory.
 sharing_image: /assets/2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces/sharing_image.png
 ---
