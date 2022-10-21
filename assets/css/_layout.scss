@@ -275,7 +275,9 @@ aside#note {
 
         a {
             display: inline-block;
-            margin-right: 1em;
+        }
+        a+a {
+            margin-left: 1em;
         }
 
         p+p {
