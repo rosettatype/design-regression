@@ -16,7 +16,7 @@ sharing_image: /assets/2022-03-28-elements-of-multi-script-typography-chapter-3/
 
 **Previous chapter:** [codes, keys, and word shapes]({% post_url 2022-03-21-elements-of-multi-script-typography-chapter-2 %})
 
-*Next chapter: coming later this year*
+*Next chapter: coming later next year*
 
 ## From word shapes to paragraphs
 
