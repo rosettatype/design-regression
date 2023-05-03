@@ -9,7 +9,7 @@ authors:
 readingtime: 2 min read
 theme: sand
 intro: |
-    Design Regression is pleased to announce the publication of Mary Dyson’s book *Legibility: how and why typography affects ease of reading* in a new, digital edition, in English and Spanish.
+    Design Regression is pleased to announce the publication of Mary Dyson’s book Legibility: how and why typography affects ease of reading in a new, digital edition, in English and Spanish.
 sharing_image: /assets/2023-05-03-legibility-how-and-why-typography-affects-ease-of-reading/sharing_image.png
 ---
 
