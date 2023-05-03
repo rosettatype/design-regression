@@ -9,7 +9,7 @@ authors:
 readingtime: 2 min read
 theme: sand
 intro: |
-    Design Regression is pleased to announce the publication of Mary Dyson’s book Legibility: how and why typography affects ease of reading in a new, digital edition, in English and Spanish.
+    Design Regression is pleased to announce the publication of Mary Dyson’s book *Legibility: how and why typography affects ease of reading* in a new, digital edition, in English and Spanish.
 sharing_image: /assets/2023-05-03-legibility-how-and-why-typography-affects-ease-of-reading/sharing_image.png
 ---
 
@@ -25,7 +25,7 @@ Mary Dyson spent most of her academic life at the renowned Department of Typogra
 
 One cannot understate the importance of its publication online. It is now a prime resource on typographic legibility available on the web, licenced permissively ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)) like all other texts on Design Regression. I believe it will have a profound impact on web typography and typographic discourse online, but it would be just as fine if you find it useful for your thinking, practice, or research.
 
-The project would not be possible without the generosity of the original publisher and editor María González de Cossío from Centro de Estudios Avanzados de Diseño (Puebla, México) and financial support of Google Fonts. The production work for the digital edition was done under the auspices of Rosetta Type with most of the heavy lifting executed by Johannes Neumeier. With further thanks to Sofie Beier, Jeanne-Louise Moys, Carlos Pérez Cerón, Kevin Larson, and Tania Chacana (see acknowledgements in the book itself).
+The project would not be possible without the generosity of the original publisher and editor María González de Cossío from Centro de Estudios Avanzados de Diseño (Puebla, México) and financial support of Google Fonts. The production work for the digital edition was done under the auspices of Rosetta Type with most of the heavy lifting executed by Johannes Neumeier. With further thanks to Sofie Beier, Jeanne-Louise Moys, Carlos Pérez Cerón, Kevin Larson, and Tania Chacana (see [acknowledgements in the book itself](https://legible-typography.com/en/acknowledgements)).
 
 The book is now available from: [https://legible-typography.com](https://legible-typography.com)
 
