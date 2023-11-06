@@ -15,10 +15,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   <strong>Design Regression</strong> is a journalette (mini journal) publishing texts that are about design for reading and reading-related research.
   It aims for the hard-to-get blend of approachability with seriousness and relevance to practice.
 
+# plain copy of the above
+description_plain: >- # this means to ignore newlines until "baseurl:"
+  Design Regressionis a journalette (mini journal) publishing texts that are about design for reading and reading-related research.
+  It aims for the hard-to-get blend of approachability with seriousness and relevance to practice.
+
 # The default sharing image for sharing any page to social media. If a post has
 # a "sharing_image" meta that will be used instead
 # Use a relative path from the root of the project!
-sharing_image: /media/design-regression.png
+sharing_image: /assets/sharing_image.png
 
 # Html meta
 keywords: design, reading, type design, research, publication, article

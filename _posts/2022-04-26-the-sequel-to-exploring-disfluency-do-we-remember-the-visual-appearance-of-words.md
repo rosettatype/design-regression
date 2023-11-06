@@ -1,30 +1,21 @@
 ---
 layout: post
 title: "The sequel to exploring disfluency: Do we remember the visual appearance of words?"
-date: 2022-04-26 10:30:00
+date: 2022-04-26 07:30:00
 categories:
     - Research
 authors:
     - Mary Dyson
     - David Březina
 readingtime: 14 min read
-theme: sand
+theme: blue
 intro: We have expanded on our online study of disfluency to investigate whether the visual appearance of words is preserved in memory.
 sharing_image: /assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/sharing_image.png
 ---
 
 We described our study exploring disfluency in a [previous
-article]({% post_url 2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces %})
-and conference presentation at the
-[ICTVC](https://ictvc.org/2019/en/) conference in Patras
-in June 2019. In that study we explored whether designers’ greater
-sensitivity to typographic presentation might influence their judgments
-of memory for items set in a less legible font (Sans Forgetica) and how
-well they identify and remember words. We did find that designers’
-judgments of memory were influenced more by the legibility of items
-compared with non-designers. However, there was no difference in the
-accuracy of responses in either group. Sans Forgetica items were not
-easier to remember, as predicted by disfluency theory.
+article]({% post_url 2021-05-18-exploring-disfluency-are-designers-too-sensitive-to-harder-to-read-typefaces %}) and conference presentation at the
+[ICTVC](https://ictvc.org/2019/en/) conference in Patras in June 2019. In that study we explored whether designers’ greater sensitivity to typographic presentation might influence their judgments of memory for items set in a less legible font (Sans Forgetica) and how well they identify and remember words. We did find that designers’ judgments of memory were influenced more by the legibility of items compared with non-designers. However, there was no difference in the accuracy of responses in either group. Sans Forgetica items were not easier to remember, as predicted by disfluency theory.
 
 ## Summary
 
