@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Online book “Legibility: how and why typography affects ease of reading” by Mary Dyson"
-date: 2022-05-03 12:30:00
+date: 2023-05-03 12:30:00
 categories:
     - Announcement
 authors:
