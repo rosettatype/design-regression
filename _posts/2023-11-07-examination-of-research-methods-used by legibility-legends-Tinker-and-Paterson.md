@@ -26,7 +26,7 @@ Essentially the same experimental design was used throughout all Tinker and Pate
 
 ## Tinker and Paterson (1929): an example of their experimental method
 
-Their first published study into line length reviewed the existing results from experiments and the opinions of advertisers to conclude that “the problem of optimal line length is in a very unsatisfactory state” ([Tinker & Paterson, 1929, p209-210](](#ref:tinker-paterson-1929)). In this study, the paragraphs were printed in 10pt Scotch Roman, varying the line length from 59 mm to 186 mm, set solid. They compared line lengths by using a standard: a line length of 80 mm. Each pair (standard and test line length) was tested on a different group of 80 university students adding up to a total of 560 participants, across 7 comparisons (see [Table 1](#tab:line-lengths)).
+Their first published study into line length reviewed the existing results from experiments and the opinions of advertisers to conclude that “the problem of optimal line length is in a very unsatisfactory state” ([Tinker & Paterson, 1929, p209-210](](#ref:tinker-paterson-1929)). In this study, the paragraphs were printed in 10pt Scotch Roman, varying the line length from 59 mm to 186 mm, set solid. They compared line lengths by using a standard: a line length of 80 mm. Each pair (standard and test line length) was tested on a different group of 80 university students adding up to a total of 560 participants, across 7 comparisons (see [Table 1](#tab:one)).
 
 ![Form B of Chapman-Cook Speed of Reading](/assets/2023-11-07-examination-of-research-methods-used-by-legibility-legends-Tinker-and-Paterson/chapman-cook.jpg)
 
@@ -44,11 +44,11 @@ They stated that in all 7 groups, the line length of 80 mm was read faster than 
 |  Group 6   |  Form A     |   80 mm       |    Form B     |    168 mm   |
 |  Group 7   |  Form A     |   80 mm       |    Form B     |    186 mm   |
 
-<figcaption id="tab:line-lengths"><strong>Table 1:</strong> Line lengths given to 7 groups of students. Each group first receives the standard line length of 80 mm and then the test line length. (<a href="#ref:tinker-paterson-1929">Tinker and Paterson, 1929, p210</a>)</figcaption>
+<figcaption id="tab:one"><strong>Table 1:</strong> Line lengths given to 7 groups of students. Each group first receives the standard line length of 80 mm and then the test line length. (<a href="#ref:tinker-paterson-1929">Tinker and Paterson, 1929, p210</a>)</figcaption>
 
 ## The flaw
 
-As mentioned above, each form of the Chapman-Cook test (Form A and Form B) has different content, i.e. a different set of paragraphs. As [Table 1](#tab:line-lengths) shows, in each group Form A is used for the standard (line length of 80 mm) and Form B for the alternative, the test line length. Material set in each pair of line lengths was read by a different group of participants who always read Form B after Form A and the test line length always followed the standard. This means that the content of each form is confounded with line length. Faster reading of the 80 mm line length could be attributed to Form A having paragraphs that are easier to read than those of Form B. Moreover, the effect of practice is not [controlled.](#sn:conversion-note)
+As mentioned above, each form of the Chapman-Cook test (Form A and Form B) has different content, i.e. a different set of paragraphs. As [Table 1](#tab:one) shows, in each group Form A is used for the standard (line length of 80 mm) and Form B for the alternative, the test line length. Material set in each pair of line lengths was read by a different group of participants who always read Form B after Form A and the test line length always followed the standard. This means that the content of each form is confounded with line length. Faster reading of the 80 mm line length could be attributed to Form A having paragraphs that are easier to read than those of Form B. Moreover, the effect of practice is not [controlled.](#sn:conversion-note)
 
 ## Their control condition
 
@@ -80,7 +80,6 @@ This control group technique is questionable because the correction factor is ob
 ## Their response to criticism
 
 Tinker and Paterson were aware of their “methodological difficulties” and published a paper on methodological considerations ([Tinker & Paterson, 1936](#ref:tinker-paterson-1936)). This paper describes a series of “special experiments” they conducted to address all the issues they could think of. These include discussion of the control condition and differences among participant groups. They explore the differences and decide they are within suitable limits ([Tinker & Paterson, 1936, p135](#ref:tinker-paterson-1936)). This is questionable (see note 5). Subsequently, Paterson and Tinker ([1940, p188](#ref:paterson-tinker-1940)) acknowledge that “Some critics might believe that these differences would affect the typographical comparisons involved in any one study”. I believe that this is a possibility; I am unconvinced by the data they use to support their argument that the variations in the average scores of the 7 groups do not affect their results. But we do not know *how* the results might be affected.
-
 
 | Group \(1\) | Form \(2\) | Line length \(3\) | Average number of paragraphs read \(4\) | Difference between A and B \(5\) | Corrected difference between A and B \(6\) | Percent difference after correction \(7\) |
 |------|---------|---------|----------|----------|---------|---------|
@@ -152,7 +151,7 @@ Tinker and Paterson’s findings on line length are consistent with typographer�
 
 <aside id="sn:effect-of-practice">The effect of practice would usually result in faster reading of the second form (Form B) which did not happen, perhaps because Form A is a lot easier than Form B. Paterson and Tinker (1929, p121) do acknowledge practice effects, but propose a solution which would be challenging to implement. “Alternate forms of textual material should be arranged so that the form used for the second trial is sufficiently more difficult to just offset whatever practice effects may be present.”</aside>
 
-<aside id="sn:problem-with-correction">There is a problem with this particular correction as the control group received Form A in a line length of 80 mm and Form B in a line length of 97 mm (see Group 2 in [Table 1](#tab:line-lengths) and [Table 1](#tab:three)). This is clearly not a control condition as the line lengths differ, even if only by a small amount.</aside>
+<aside id="sn:problem-with-correction">There is a problem with this particular correction as the control group received Form A in a line length of 80 mm and Form B in a line length of 97 mm (see Group 2 in [Table 1](#tab:one) and [Table 3](#tab:three)). This is clearly not a control condition as the line lengths differ, even if only by a small amount.</aside>
 
 <aside id="sn:conversion-note">Measurements are given in picas in 1940 and subsequent publications but I have converted these to mm to enable comparison with 1929 results where line lengths were given in mm.</aside>
 
