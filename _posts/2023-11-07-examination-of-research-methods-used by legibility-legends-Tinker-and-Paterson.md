@@ -29,30 +29,20 @@ Essentially the same experimental design was used throughout all Tinker and Pate
 Their first published study into line length reviewed the existing results from experiments and the opinions of advertisers to conclude that “the problem of optimal line length is in a very unsatisfactory state” ([Tinker & Paterson, 1929, p209-210](](#ref:tinker-paterson-1929)). In this study, the paragraphs were printed in 10pt Scotch Roman, varying the line length from 59 mm to 186 mm, set solid. They compared line lengths by using a standard: a line length of 80 mm. Each pair (standard and test line length) was tested on a different group of 80 university students adding up to a total of 560 participants, across 7 comparisons (see [Table 1](#tab:line-lengths)).
 
 ![Form B of Chapman-Cook Speed of Reading](/assets/2023-11-07-examination-of-research-methods-used-by-legibility-legends-Tinker-and-Paterson/chapman-cook.jpg)
-{: .narrow}
 
 <figcaption id="fig:chapmann-cook"><strong>Figure 1:</strong> Form B of Chapman-Cook Speed of Reading. The image is taken from Cobb (<a href="#ref:cobb-1944">1944, p37</a>). This example has a time limit of two and a half minutes.</figcaption>
 
 They stated that in all 7 groups, the line length of 80 mm was read faster than the alternative, only one of which was shorter (59 mm); the rest were longer than 80 mm. All differences except one (80 mm versus 97 mm) were reported as statistically significant.
 
-  ------------ -------------- --------------- -------------- ---------------
-               Test form      Standard\       Test form      Test\
-                              line length                    line length
-
-  Group 1      Form A         80 mm           Form B         59 mm
-
-  Group 2      Form A         80 mm           Form B         97 mm
-
-  Group 3      Form A         80 mm           Form B         114 mm
-
-  Group 4      Form A         80 mm           Form B         136 mm
-
-  Group 5      Form A         80 mm           Form B         152 mm
-
-  Group 6      Form A         80 mm           Form B         168 mm
-
-  Group 7      Form A         80 mm           Form B         186 mm
-  ------------ -------------- --------------- -------------- ---------------
+|            | Test form | Standard line length | Test form | Test line length |
+|------------|-------------|---------------|---------------|-------------|
+|  Group 1   |  Form A     |   80 mm       |    Form B     |    59 mm    |
+|  Group 2   |  Form A     |   80 mm       |    Form B     |    97 mm    |
+|  Group 3   |  Form A     |   80 mm       |    Form B     |    114 mm   |
+|  Group 4   |  Form A     |   80 mm       |    Form B     |    136 mm   |
+|  Group 5   |  Form A     |   80 mm       |    Form B     |    152 mm   |
+|  Group 6   |  Form A     |   80 mm       |    Form B     |    168 mm   |
+|  Group 7   |  Form A     |   80 mm       |    Form B     |    186 mm   |
 
 <figcaption id="tab:line-lengths"><strong>Table 1:</strong> Line lengths given to 7 groups of students. Each group first receives the standard line length of 80 mm and then the test line length. (<a href="#ref:tinker-paterson-1929">Tinker and Paterson, 1929, p210</a>)</figcaption>
 
@@ -64,55 +54,22 @@ As mentioned above, each form of the Chapman-Cook test (Form A and Form B) has d
 
 Recognising this potential problem, Tinker and Paterson’s solution was to include what they considered to be a control condition where one group receives Forms A and B set in the same line length (80 mm). Any difference due to practice or lack of equivalence of content is then used as a ’correction factor’ ([Paterson & Tinker 1940, p42](#ref:paterson-tinker-1940)) that is applied to correct for potential effects of the order and content of the forms. (See [Table 2](#tab:two) for an example of how the correction is applied). This correction was considered adequate to conclude that a difference in reading speed could be attributed to the typographical arrangement, rather than the test procedure.
 
-+-------+----+----------+--------------+--------------+--------------+
-|       | Te | Typeface | Average      | Difference   | Corrected    |
-| Group | st |          | number of    | between A    | difference   |
-|       | fo | \(3\)    | paragraphs   | and B        | between A    |
-| \(1\) | rm |          | read         |              | and B        |
-|       |    |          |              | \(5\)        |              |
-|       | \  |          | \(4\)        |              | \(6\)        |
-|       | (2 |          |              |              |              |
-|       | \) |          |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-| 1     | A  | Scotch   | 19.1         | 0.71         | 0            |
-|       |    | Roman    |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-|       | B  | Scotch   | 18.39        |              |              |
-|       |    | Roman    |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-| 2     | A  | Scotch   | 18.78        | 0.64         | -0.07        |
-|       |    | Roman    |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-|       | B  | Garamont | 18.14        |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-| 3     | A  | Scotch   | 18.81        | 0.74         | 0.03         |
-|       |    | Roman    |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-|       | B  | Antique  | 18.07        |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-| 4     | A  | Scotch   | 19.42        | 0.91         | 0.2          |
-|       |    | Roman    |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-|       | B  | Bodoni   | 18.51        |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-| 5     | A  | Scotch   | 19.03        | 0.91         | 0.2          |
-|       |    | Roman    |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-|       | B  | Old      | 18.12        |              |              |
-|       |    | Style    |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-| 6     | A  | Scotch   | 18.43        | 0.94         | 0.23         |
-|       |    | Roman    |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-|       | B  | Caslon   | 17.49        |              |              |
-|       |    | O.S.     |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-| 7     | A  | Scotch   | 19.06        | 1.13         | 0.42         |
-|       |    | Roman    |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
-|       | B  | Kabel    | 17.93        |              |              |
-|       |    | Lite     |              |              |              |
-+-------+----+----------+--------------+--------------+--------------+
+| Group \(1\) | Test form \(2\) | Typeface \(3\) | Average number of paragraphs read \(4\) | Difference between A and B \(5\) | Corrected difference between A and B \(6\) |
+|-------|----|----------------|-------|------|------|
+| 1     | A  | Scotch Roman   | 19.1  | 0.71 | 0    |
+|       | B  | Scotch Roman   | 18.39 |      |      |
+| 2     | A  | Scotch Roman   | 18.78 | 0.64 |-0.07 |
+|       | B  | Garamont       | 18.14 |      |      |
+| 3     | A  | Scotch Roman   | 18.81 | 0.74 | 0.03 |
+|       | B  | Antique        | 18.07 |      |      |
+| 4     | A  | Scotch Roman   | 19.42 | 0.91 | 0.2  |
+|       | B  | Bodoni         | 18.51 |      |      |
+| 5     | A  | Scotch Roman   | 19.03 | 0.91 | 0.2  |
+|       | B  | Old Style      | 18.12 |      |      |
+| 6     | A  | Scotch Roman   | 18.43 | 0.94 | 0.23 |
+|       | B  | Caslon O.S.    | 17.49 |      |      |
+| 7     | A  | Scotch Roman   | 19.06 | 1.13 | 0.42 |
+|       | B  | Kabel Lite     | 17.93 |      |      |
 
 <figcaption id="tab:two"><strong>Table 2:</strong> Group 1 works as the control group and the difference between the number of paragraphs read in Form A and Form B of Group 1 is 0.71 (column 5). This number functions as the correction factor and is subtracted from each of the differences found between other comparisons, resulting in the numbers in column 6. Note that the size of the difference between Form A and Form B is therefore reduced. The data in this table is a subset of the data in Table 1 from Paterson and Tinker (<a href="#ref:paterson-tinker-1932">1932, p610–611</a>).</figcaption>
 
@@ -124,44 +81,23 @@ This control group technique is questionable because the correction factor is ob
 
 Tinker and Paterson were aware of their “methodological difficulties” and published a paper on methodological considerations ([Tinker & Paterson, 1936](#ref:tinker-paterson-1936)). This paper describes a series of “special experiments” they conducted to address all the issues they could think of. These include discussion of the control condition and differences among participant groups. They explore the differences and decide they are within suitable limits ([Tinker & Paterson, 1936, p135](#ref:tinker-paterson-1936)). This is questionable (see note 5). Subsequently, Paterson and Tinker ([1940, p188](#ref:paterson-tinker-1940)) acknowledge that “Some critics might believe that these differences would affect the typographical comparisons involved in any one study”. I believe that this is a possibility; I am unconvinced by the data they use to support their argument that the variations in the average scores of the 7 groups do not affect their results. But we do not know *how* the results might be affected.
 
-+------+---------+---------+----------+----------+---------+---------+
-| Gr   |  Form\  | Line    | Average  | Di       | Co      | Percent |
-| oup\ | (2)     | length\ | number   | fference | rrected | dif     |
-|  (1) |         | (3)     | of       | between  | dif     | ference |
-|      |         |         | pa       | A and B\ | ference | after   |
-|      |         |         | ragraphs | (5)      | between | corr    |
-|      |         |         | read\    |          | A and B | ection\ |
-|      |         |         | (4)      |          |         | (7)     |
-|      |         |         |          |          | \(6\)   |         |
-+------+---------+---------+----------+----------+---------+---------+
+
+| Group \(1\) | Form \(2\) | Line length \(3\) | Average number of paragraphs read \(4\) | Difference between A and B \(5\) | Corrected difference between A and B \(6\) | Percent difference after correction \(7\) |
+|------|---------|---------|----------|----------|---------|---------|
 | 1    | A       | 80 mm   | 18.31    | 1.25     | 0.75    | -4.1    |
-+------+---------+---------+----------+----------+---------+---------+
 |      | B       | 59 mm   | 17.06    |          |         |         |
-+------+---------+---------+----------+----------+---------+---------+
 | 2    | A       | 80 mm   | 18.46    | 0.5      | 0       | 0       |
-+------+---------+---------+----------+----------+---------+---------+
 |      | B       | 97 mm   | 17.96    |          |         |         |
-+------+---------+---------+----------+----------+---------+---------+
 | 3    | A       | 80 mm   | 18.19    | 0.96     | 0.46    | -2.5    |
-+------+---------+---------+----------+----------+---------+---------+
 |      | B       | 114 mm  | 17.23    |          |         |         |
-+------+---------+---------+----------+----------+---------+---------+
 | 4    | A       | 80 mm   | 18.98    | 0.93     | 0.43    | -2.3    |
-+------+---------+---------+----------+----------+---------+---------+
 |      | B       | 136 mm  | 18.05    |          |         |         |
-+------+---------+---------+----------+----------+---------+---------+
 | 5    | A       | 80 mm   | 18.94    | 1.14     | 0.64    | -3.4    |
-+------+---------+---------+----------+----------+---------+---------+
 |      | B       | 152 mm  | 17.8     |          |         |         |
-+------+---------+---------+----------+----------+---------+---------+
 | 6    | A       | 80 mm   | 18.88    | 1.47     | 0.97    | -5.1    |
-+------+---------+---------+----------+----------+---------+---------+
 |      | B       | 168 mm  | 17.41    |          |         |         |
-+------+---------+---------+----------+----------+---------+---------+
 | 7    | A       | 80 mm   | 18.31    | 1.88     | 1.38    | -7.5    |
-+------+---------+---------+----------+----------+---------+---------+
 |      | B       | 186 mm  | 16.43    |          |         |         |
-+------+---------+---------+----------+----------+---------+---------+
 
 <figcaption id="tab:three"><strong>Table 3:</strong> The numbers in columns 4 and 5 are taken from Table 1 of Tinker and Paterson (<a href="#ref:tinker-paterson-1929">1929, p211</a>). The numbers in column 7 are taken from Table 14 of Paterson and Tinker, (<a href="#ref:paterson-tinker-1940">1940, p42</a>). The negative difference in this final column indicates that the test line length is read slower than the standard (80 mm). I have added column 6 to indicate the effect of the correction factor (0.5) on the difference in the number of paragraphs read. Note that the correction factor comes from a comparison of Form A in 80 mm and Form B in 97 mm, and not both forms in 80 mm.</figcaption>
 
@@ -177,22 +113,18 @@ address the confound)
 
 Instead of using their single configuration:
 
-  ---------- --------- ----------------------- --------- -----------------
-  Group 1    Form A    Standard line length    Form B    Test line length
-
-  ---------- --------- ----------------------- --------- -----------------
+|-----------|--------|----------------------|--------|----------------------|
+|  Group 1  | Form A | Standard line length | Form B | Test line length     |
+|-----------|--------|----------------------|--------|----------------------|
 
 three other configurations are added to create a balanced design, with different groups of participants assigned to each configuration:
 
-  ---------- --------- --------------------- -------- --------------------
-  Group 1a   Form A    Standard line length  Form B   Test line length
-
-  Group 1b   Form B    Standard line length  Form A   Test line length
-
-  Group 1c   Form A    Test line length      Form B   Standard line length
-
-  Group 1d   Form B    Test line length      Form A   Standard line length
-  ---------- --------- --------------------- -------- --------------------
+|-----------|--------|----------------------|--------|----------------------|
+|  Group 1a | Form A | Standard line length | Form B | Test line length     |
+|  Group 1b | Form B | Standard line length | Form A | Test line length     |
+|  Group 1c | Form A | Test line length     | Form B | Standard line length |
+|  Group 1d | Form B | Test line length     | Form A | Standard line length |
+|-----------|--------|----------------------|--------|----------------------|
 
 As I tried to work out possible reasons why Tinker and Paterson hadn’t used this experimental design, I was surprised to find that they had. In an earlier paper ([Tinker & Paterson, 1928](#ref:tinker-paterson-1928)) they explain why they use this design, which they describe as the A B B A method of sequence, addressing the criticisms outlined above. They state that this method avoids “differences due to difficulty of the alternate forms A and B” and avoids “the presence of any marked practice effect in passing from one trial to the second” ([Tinker & Paterson, 1928, p362](#ref:tinker-paterson-1928)).
 
