@@ -54,7 +54,7 @@ As mentioned above, each form of the Chapman-Cook test (Form A and Form B) has d
 
 Recognising this potential problem, Tinker and Paterson’s solution was to include what they considered to be a control condition where one group receives Forms A and B set in the same line length (80 mm). Any difference due to practice or lack of equivalence of content is then used as a ’correction factor’ ([Paterson & Tinker 1940, p42](#ref:paterson-tinker-1940)) that is applied to correct for potential effects of the order and content of the forms. (See [Table 2](#tab:two) for an example of how the correction is applied). This correction was considered adequate to conclude that a difference in reading speed could be attributed to the typographical arrangement, rather than the test procedure.
 
-| Group \(1\) | Test form \(2\) | Typeface \(3\) | Average number of paragraphs read \(4\) | Difference between A and B \(5\) | Corrected difference between A and B \(6\) |
+| Group \(1\) | Test form \(2\) | Typeface \(3\) | Average number<br>of paragraphs read \(4\) | Difference between<br>A and B \(5\) | Corrected difference<br>between A and B \(6\) |
 |-------|----|----------------|-------|------|------|
 | 1     | A  | Scotch Roman   | 19.1  | 0.71 | 0    |
 |       | B  | Scotch Roman   | 18.39 |      |      |
@@ -81,7 +81,7 @@ This control group technique is questionable because the correction factor is ob
 
 Tinker and Paterson were aware of their “methodological difficulties” and published a paper on methodological considerations ([Tinker & Paterson, 1936](#ref:tinker-paterson-1936)). This paper describes a series of “special experiments” they conducted to address all the issues they could think of. These include discussion of the control condition and differences among participant groups. They explore the differences and decide they are within suitable limits ([Tinker & Paterson, 1936, p135](#ref:tinker-paterson-1936)). This is questionable (see note 5). Subsequently, Paterson and Tinker ([1940, p188](#ref:paterson-tinker-1940)) acknowledge that “Some critics might believe that these differences would affect the typographical comparisons involved in any one study”. I believe that this is a possibility; I am unconvinced by the data they use to support their argument that the variations in the average scores of the 7 groups do not affect their results. But we do not know *how* the results might be affected.
 
-| Group \(1\) | Form \(2\) | Line length \(3\) | Average number of paragraphs read \(4\) | Difference between A and B \(5\) | Corrected difference between A and B \(6\) | Percent difference after correction \(7\) |
+| Group \(1\) | Form \(2\) | Line length \(3\) | Average number<br>of paragraphs read \(4\) | Difference between<br>A and B \(5\) | Corrected difference<br>between A and B \(6\) | Percent difference<br>after correction \(7\) |
 |------|---------|---------|----------|----------|---------|---------|
 | 1    | A       | 80 mm   | 18.31    | 1.25     | 0.75    | -4.1    |
 |      | B       | 59 mm   | 17.06    |          |         |         |
@@ -112,18 +112,18 @@ address the confound)
 
 Instead of using their single configuration:
 
-|-----------|--------|----------------------|--------|----------------------|
 |  Group 1  | Form A | Standard line length | Form B | Test line length     |
 |-----------|--------|----------------------|--------|----------------------|
 
 three other configurations are added to create a balanced design, with different groups of participants assigned to each configuration:
 
-|-----------|--------|----------------------|--------|----------------------|
 |  Group 1a | Form A | Standard line length | Form B | Test line length     |
-|  Group 1b | Form B | Standard line length | Form A | Test line length     |
-|  Group 1c | Form A | Test line length     | Form B | Standard line length |
-|  Group 1d | Form B | Test line length     | Form A | Standard line length |
 |-----------|--------|----------------------|--------|----------------------|
+|  Group 1b | Form B | Standard line length | Form A | Test line length     |
+|-----------|--------|----------------------|--------|----------------------|
+|  Group 1c | Form A | Test line length     | Form B | Standard line length |
+|-----------|--------|----------------------|--------|----------------------|
+|  Group 1d | Form B | Test line length     | Form A | Standard line length |
 
 As I tried to work out possible reasons why Tinker and Paterson hadn’t used this experimental design, I was surprised to find that they had. In an earlier paper ([Tinker & Paterson, 1928](#ref:tinker-paterson-1928)) they explain why they use this design, which they describe as the A B B A method of sequence, addressing the criticisms outlined above. They state that this method avoids “differences due to difficulty of the alternate forms A and B” and avoids “the presence of any marked practice effect in passing from one trial to the second” ([Tinker & Paterson, 1928, p362](#ref:tinker-paterson-1928)).
 
