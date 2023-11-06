@@ -29,6 +29,7 @@ Essentially the same experimental design was used throughout all Tinker and Pate
 Their first published study into line length reviewed the existing results from experiments and the opinions of advertisers to conclude that “the problem of optimal line length is in a very unsatisfactory state” ([Tinker & Paterson, 1929, p209-210](](#ref:tinker-paterson-1929)). In this study, the paragraphs were printed in 10pt Scotch Roman, varying the line length from 59 mm to 186 mm, set solid. They compared line lengths by using a standard: a line length of 80 mm. Each pair (standard and test line length) was tested on a different group of 80 university students adding up to a total of 560 participants, across 7 comparisons (see [Table 1](#tab:line-lengths)).
 
 ![Form B of Chapman-Cook Speed of Reading](/assets/2023-11-07-examination-of-research-methods-used-by-legibility-legends-Tinker-and-Paterson/chapman-cook.jpg)
+{: .narrow}
 
 <figcaption id="fig:chapmann-cook"><strong>Figure 1:</strong> Form B of Chapman-Cook Speed of Reading. The image is taken from Cobb (<a href="#ref:cobb-1944">1944, p37</a>). This example has a time limit of two and a half minutes.</figcaption>
 
