@@ -2,12 +2,12 @@
 layout: post
 title: "Do the research methods used by legibility legends Tinker and Paterson
 stand up to close examination?"
-date: 2023-11-07 12:30:00
+date: 2023-11-05 12:30:00
 categories:
     - Article
 authors:
     - Mary Dyson
-readingtime: 2 min read
+readingtime: 18 min read
 theme: blue
 intro: |
     Going back to research by Tinker and Paterson, questions were raised over the validity of their methods. This article takes a closer and critical look at what they did as their work is frequently cited in educational design literature and by other legibility researchers.
