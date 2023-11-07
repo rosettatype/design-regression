@@ -540,6 +540,7 @@ article main {
         th {
             @include text-label;
             white-space: pre;
+            line-height: 1.5;
         }
 
         td {
