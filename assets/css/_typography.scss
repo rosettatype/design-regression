@@ -536,11 +536,12 @@ article main {
         text-align: left;
         font-feature-settings: "tnum"1, "zero"1;
         width: 100%;
+        table-layout: fixed;
 
         th {
             @include text-label;
-            white-space: pre;
             line-height: 1.5;
+            vertical-align: baseline;
         }
 
         td {
