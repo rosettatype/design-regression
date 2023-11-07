@@ -71,7 +71,7 @@ Recognising this potential problem, Tinker and Paterson’s solution was to incl
 |       | B  | Caslon O.S.    | 17.49 |      |      |
 | 7     | A  | Scotch Roman   | 19.06 | 1.13 | 0.42 |
 |       | B  | Kabel Lite     | 17.93 |      |      |
-{: .full }
+{: .full}
 
 <figcaption id="tab:two"><strong>Table 2:</strong> Group 1 works as the control group and the difference between the number of paragraphs read in Form A and Form B of Group 1 is 0.71 (column 5). This number functions as the correction factor and is subtracted from each of the differences found between other comparisons, resulting in the numbers in column 6. Note that the size of the difference between Form A and Form B is therefore reduced. The data in this table is a subset of the data in Table 1 from Paterson and Tinker (<a href="#ref:paterson-tinker-1932">1932, p610–611</a>).</figcaption>
 
@@ -99,7 +99,7 @@ Tinker and Paterson were aware of their “methodological difficulties” and pu
 |      | B       | 168 mm  | 17.41    |          |         |         |
 | 7    | A       | 80 mm   | 18.31    | 1.88     | 1.38    | -7.5    |
 |      | B       | 186 mm  | 16.43    |          |         |         |
-{: .full }
+{: .full}
 
 <figcaption id="tab:three"><strong>Table 3:</strong> The numbers in columns 4 and 5 are taken from Table 1 of Tinker and Paterson (<a href="#ref:tinker-paterson-1929">1929, p211</a>). The numbers in column 7 are taken from Table 14 of Paterson and Tinker, (<a href="#ref:paterson-tinker-1940">1940, p42</a>). The negative difference in this final column indicates that the test line length is read slower than the standard (80 mm). I have added column 6 to indicate the effect of the correction factor (0.5) on the difference in the number of paragraphs read. Note that the correction factor comes from a comparison of Form A in 80 mm and Form B in 97 mm, and not both forms in 80 mm.</figcaption>
 
@@ -115,48 +115,18 @@ address the confound)
 
 Instead of using their single configuration:
 
-<table>
-<tr>
-    <td>Group 1</td>
-    <td>Form A</td>
-    <td>Standard line length</td>
-    <td>Form B</td>
-    <td>Test line length</td>
-</tr>
-</table>
+| Group    | 1st form | Line length          | 2nd form | Line length          |
+|----------|----------|----------------------|----------|----------------------|
+| Group 1  | Form A   | Standard line length | Form B   | Test line length     |
 
 three other configurations are added to create a balanced design, with different groups of participants assigned to each configuration:
 
-<table>
-<tr>
-    <td>Group 1a</td>
-    <td>Form A</td>
-    <td>Standard line length</td>
-    <td>Form B</td>
-    <td>Test line length</td>
-</tr>
-<tr>
-    <td>Group 1b</td>
-    <td>Form B</td>
-    <td>Standard line length</td>
-    <td>Form A</td>
-    <td>Test line length</td>
-</tr>
-<tr>
-    <td>Group 1c</td>
-    <td>Form A</td>
-    <td>Test line length</td>
-    <td>Form B</td>
-    <td>Standard line length</td>
-</tr>
-<tr>
-    <td>Group 1d</td>
-    <td>Form B</td>
-    <td>Test line length</td>
-    <td>Form A</td>
-    <td>Standard line length</td>
-</tr>
-</table>
+| Group    | 1st form | Line length          | 2nd form | Line length          |
+|----------|----------|----------------------|----------|----------------------|
+| Group 1a | Form A   | Standard line length | Form B   | Test line length     |
+| Group 1b | Form B   | Standard line length | Form A   | Test line length     |
+| Group 1c | Form A   | Test line length     | Form B   | Standard line length |
+| Group 1d | Form B   | Test line length     | Form A   | Standard line length |
 
 As I tried to work out possible reasons why Tinker and Paterson hadn’t used this experimental design, I was surprised to find that they had. In an earlier paper ([Tinker & Paterson, 1928](#ref:tinker-paterson-1928)) they explain why they use this design, which they describe as the A B B A method of sequence, addressing the criticisms outlined above. They state that this method avoids “differences due to difficulty of the alternate forms A and B” and avoids “the presence of any marked practice effect in passing from one trial to the second” ([Tinker & Paterson, 1928, p362](#ref:tinker-paterson-1928)).
 
