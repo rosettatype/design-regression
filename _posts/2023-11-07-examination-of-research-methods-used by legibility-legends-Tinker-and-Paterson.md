@@ -114,48 +114,18 @@ address the confound)
 
 Instead of using their single configuration:
 
-<table>
-<tr>
-    <td>Group 1</td>
-    <td>Form A</td>
-    <td>Standard line length</td>
-    <td>Form B</td>
-    <td>Test line length</td>
-</tr>
-</table>
+| Group    | 1st form | Line length          | 2nd form | Line length          |
+|----------|----------|----------------------|----------|----------------------|
+| Group 1  | Form A   | Standard line length | Form B   | Test line length     |
 
 three other configurations are added to create a balanced design, with different groups of participants assigned to each configuration:
 
-<table>
-<tr>
-    <td>Group 1a</td>
-    <td>Form A</td>
-    <td>Standard line length</td>
-    <td>Form B</td>
-    <td>Test line length</td>
-</tr>
-<tr>
-    <td>Group 1b</td>
-    <td>Form B</td>
-    <td>Standard line length</td>
-    <td>Form A</td>
-    <td>Test line length</td>
-</tr>
-<tr>
-    <td>Group 1c</td>
-    <td>Form A</td>
-    <td>Test line length</td>
-    <td>Form B</td>
-    <td>Standard line length</td>
-</tr>
-<tr>
-    <td>Group 1d</td>
-    <td>Form B</td>
-    <td>Test line length</td>
-    <td>Form A</td>
-    <td>Standard line length</td>
-</tr>
-</table>
+| Group    | 1st form | Line length          | 2nd form | Line length          |
+|----------|----------|----------------------|----------|----------------------|
+| Group 1a | Form A   | Standard line length | Form B   | Test line length     |
+| Group 1b | Form B   | Standard line length | Form A   | Test line length     |
+| Group 1c | Form A   | Test line length     | Form B   | Standard line length |
+| Group 1d | Form B   | Test line length     | Form A   | Standard line length |
 
 As I tried to work out possible reasons why Tinker and Paterson hadn’t used this experimental design, I was surprised to find that they had. In an earlier paper ([Tinker & Paterson, 1928](#ref:tinker-paterson-1928)) they explain why they use this design, which they describe as the A B B A method of sequence, addressing the criticisms outlined above. They state that this method avoids “differences due to difficulty of the alternate forms A and B” and avoids “the presence of any marked practice effect in passing from one trial to the second” ([Tinker & Paterson, 1928, p362](#ref:tinker-paterson-1928)).
 
