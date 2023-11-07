@@ -41,11 +41,11 @@ recognition task is in another (see [Figures 1](#fig:screen-lexical) and [2](#fi
 a word or non-word more difficult if the visual appearance of the item
 does not match how it was previously seen? Might designers be more likely to remember the visual representation, the font used to style the text, than non-designers?
 
-![Example screen of the lexical decision task using Arial (Task 1)](/assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/study-screenshot_lexical-task_non-word_arial.png)
+![Example screen of the lexical decision task using Arial (Task 1)](/assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/study-screenshot_lexical-task_non-word_arial.png){: .browser }
 
 <figcaption id="fig:screen-lexical"><strong>Figure 1:</strong> Example screen of the lexical decision task using Arial (Task 1).</figcaption>
 
-![Example screen of the recognition task using Sans Forgetica (Task 2)](/assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/study-screenshot_recognition-task_word_sans-forgetica.png)
+![Example screen of the recognition task using Sans Forgetica (Task 2)](/assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/study-screenshot_recognition-task_word_sans-forgetica.png){: .browser }
 
 <figcaption id="fig:screen-recognition"><strong>Figure 2:</strong> Example screen of the recognition task using Sans Forgetica (Task 2).</figcaption>
 
