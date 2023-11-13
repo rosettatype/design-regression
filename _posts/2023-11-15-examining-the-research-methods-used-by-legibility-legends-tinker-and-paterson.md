@@ -52,7 +52,7 @@ They stated that in all 7 groups, the line length of 80 mm was read faster than 
 
 ## The flaw
 
-As mentioned above, each form of the Chapman-Cook test (Form A and Form B) has different content, i.e. a different set of paragraphs. As [Table 1](#tab:one) shows, in each group Form A is used for the standard (line length of 80 mm) and Form B for the alternative, the test line length. Material set in each pair of line lengths was read by a different group of participants who always read Form B after Form A and the test line length always followed the standard. This means that the content of each form is confounded with line length. Faster reading of the 80 mm line length could be attributed to Form A having paragraphs that are easier to read than those of Form B. Moreover, the effect of practice is not [controlled.](#sn:effect-of-practice")
+As mentioned above, each form of the Chapman-Cook test (Form A and Form B) has different content, i.e. a different set of paragraphs. As [Table 1](#tab:one) shows, in each group Form A is used for the standard (line length of 80 mm) and Form B for the alternative, the test line length. Material set in each pair of line lengths was read by a different group of participants who always read Form B after Form A and the test line length always followed the standard. This means that the content of each form is confounded with line length. Faster reading of the 80 mm line length could be attributed to Form A having paragraphs that are easier to read than those of Form B. Moreover, the effect of practice is not [controlled.](#sn:effect-of-practice)
 
 ## Their control condition
 
