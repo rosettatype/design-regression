@@ -47,6 +47,7 @@ They stated that in all 7 groups, the line length of 80 mm was read faster than 
 <figcaption id="tab:one"><strong>Table 1:</strong> Line lengths given to 7 groups of students. Each group first receives the standard line length of 80 mm and then the test line length. (<a href="#ref:tinker-paterson-1929">Tinker and Paterson, 1929, p. 210</a>)</figcaption>
 
 ![Study mockup](/assets/2023-11-15-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/study-mockup.svg)
+{: .full}
 
 <figcaption id="fig:chapmann-cook"><strong>Figure 2:</strong> …</figcaption>
 
