@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Do the research methods used by legibility legends Tinker and Paterson
-stand up to close examination?"
+title: Examining the research methods used by legibility legends Tinker and Paterson
 date: 2023-11-05 12:30:00
 categories:
     - Article
@@ -10,15 +9,15 @@ authors:
 readingtime: 18 min read
 theme: blue
 intro: |
-    Going back to research by Tinker and Paterson, questions were raised over the validity of their methods. This article takes a closer and critical look at what they did as their work is frequently cited in educational design literature and by other legibility researchers.
-sharing_image: /assets/2023-11-07-examination-of-research-methods-used-by-legibility-legends-Tinker-and-Paterson.png
+    Tinker’s books are frequently cited providing a helpful summary of the legibility studies he conducted with Paterson starting in 1928. But unfortunately, if we look closely at the details of their methods, we may detect some flaws. 
+sharing_image: /assets/2023-11-15-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/sharing_image.png
 ---
 
 In a [previous article]({% post_url 2021-09-08-line-length-revisited-following-the-research %}) I described revisiting research on line length, having come across some interesting findings which didn’t fit with a commonly held view. It seems that long line lengths may not be as problematic as we thought. Going back to research by Tinker and Paterson, questions were raised over the validity of their methods. This article takes a closer and critical look at what they did as their work is frequently cited in educational design literature and by other legibility researchers.
 
 ## Motivation
 
-Why am I so concerned about the studies conducted by Tinker and Paterson? Because until I read about a flaw in their method ([Parker, 2019](#ref:parker-2019); [Parker et al., 2019](#ref:parker-et-al-2019)), I had considered their work to be a solid foundation for subsequent legibility research. Tinker is described as “an internationally recognized authority on legibility of print” ([Tinker, 1963, iv](#ref:tinker-1963)). Having been alerted to this potential problem, I sought out the original articles, realising that I had previously been over-reliant on the summaries (e.g. [Tinker, 1963](#ref:tinker-1963); [1965](#ref:tinker-1965)). I also looked to see if other researchers and writers had critiqued their method.
+Why am I so concerned about the studies conducted by Tinker and Paterson? Because until I read about a flaw in their method ([Parker, 2019](#ref:parker-2019); [Parker et al., 2019](#ref:parker-et-al-2019)), I had considered their work to be a solid foundation for subsequent legibility research. Tinker is described as “an internationally recognized authority on legibility of print” ([Tinker, 1963, p. iv](#ref:tinker-1963)). Having been alerted to this potential problem, I sought out the original articles, realising that I had previously been over-reliant on the summaries (e.g. [Tinker, 1963](#ref:tinker-1963); [1965](#ref:tinker-1965)). I also looked to see if other researchers and writers had critiqued their method.
 
 ## Test material
 
@@ -26,26 +25,26 @@ Essentially the same experimental design was used throughout all Tinker and Pate
 
 ## Tinker and Paterson (1929): an example of their experimental method
 
-Their first published study into line length reviewed the existing results from experiments and the opinions of advertisers to conclude that “the problem of optimal line length is in a very unsatisfactory state” ([Tinker & Paterson, 1929, p209-210](](#ref:tinker-paterson-1929)). In this study, the paragraphs were printed in 10pt Scotch Roman, varying the line length from 59 mm to 186 mm, set solid. They compared line lengths by using a standard: a line length of 80 mm. Each pair (standard and test line length) was tested on a different group of 80 university students adding up to a total of 560 participants, across 7 comparisons (see [Table 1](#tab:one)).
+Their first published study into line length reviewed the existing results from experiments and the opinions of advertisers to conclude that “the problem of optimal line length is in a very unsatisfactory state” ([Tinker & Paterson, 1929, pp.209-210](](#ref:tinker-paterson-1929)). In this study, the paragraphs were printed in 10pt Scotch Roman, varying the line length from 59 mm to 186 mm, set solid. They compared line lengths by using a standard: a line length of 80 mm. Each pair (standard and test line length) was tested on a different group of 80 university students adding up to a total of 560 participants, across 7 comparisons (see [Table 1](#tab:one)).
 
-![Form B of Chapman-Cook Speed of Reading](/assets/2023-11-07-examination-of-research-methods-used-by-legibility-legends-Tinker-and-Paterson/chapman-cook.jpg)
+![Form B of Chapman-Cook Speed of Reading](/assets/2023-11-15-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/chapman-cook.jpg)
 
-<figcaption id="fig:chapmann-cook"><strong>Figure 1:</strong> Form B of Chapman-Cook Speed of Reading. The image is taken from Cobb (<a href="#ref:cobb-1944">1944, p37</a>). This example has a time limit of two and a half minutes.</figcaption>
+<figcaption id="fig:chapmann-cook"><strong>Figure 1:</strong> Form B of Chapman-Cook Speed of Reading. The image is taken from Cobb (<a href="#ref:cobb-1944">1944, p. 37</a>). This example has a time limit of two and a half minutes.</figcaption>
 
 They stated that in all 7 groups, the line length of 80 mm was read faster than the alternative, only one of which was shorter (59 mm); the rest were longer than 80 mm. All differences except one (80 mm versus 97 mm) were reported as statistically significant.
 
-|            | Test form | Standard line length | Test form | Test line length |
-|------------|-------------|---------------|---------------|-------------|
-|  Group 1   |  Form A     |   80 mm       |    Form B     |    59 mm    |
-|  Group 2   |  Form A     |   80 mm       |    Form B     |    97 mm    |
-|  Group 3   |  Form A     |   80 mm       |    Form B     |    114 mm   |
-|  Group 4   |  Form A     |   80 mm       |    Form B     |    136 mm   |
-|  Group 5   |  Form A     |   80 mm       |    Form B     |    152 mm   |
-|  Group 6   |  Form A     |   80 mm       |    Form B     |    168 mm   |
-|  Group 7   |  Form A     |   80 mm       |    Form B     |    186 mm   |
+|            | Test form   | Standard line length | Test form   | Test line length     |
+|------------|-------------|----------------------|-------------|----------------------|
+|  Group 1   |  Form A     |   80 mm              |  Form B     |    59 mm             |
+|  Group 2   |  Form A     |   80 mm              |  Form B     |    97 mm             |
+|  Group 3   |  Form A     |   80 mm              |  Form B     |    114 mm            |
+|  Group 4   |  Form A     |   80 mm              |  Form B     |    136 mm            |
+|  Group 5   |  Form A     |   80 mm              |  Form B     |    152 mm            |
+|  Group 6   |  Form A     |   80 mm              |  Form B     |    168 mm            |
+|  Group 7   |  Form A     |   80 mm              |  Form B     |    186 mm            |
 {: .full }
 
-<figcaption id="tab:one"><strong>Table 1:</strong> Line lengths given to 7 groups of students. Each group first receives the standard line length of 80 mm and then the test line length. (<a href="#ref:tinker-paterson-1929">Tinker and Paterson, 1929, p210</a>)</figcaption>
+<figcaption id="tab:one"><strong>Table 1:</strong> Line lengths given to 7 groups of students. Each group first receives the standard line length of 80 mm and then the test line length. (<a href="#ref:tinker-paterson-1929">Tinker and Paterson, 1929, p. 210</a>)</figcaption>
 
 ## The flaw
 
@@ -53,7 +52,7 @@ As mentioned above, each form of the Chapman-Cook test (Form A and Form B) has d
 
 ## Their control condition
 
-Recognising this potential problem, Tinker and Paterson’s solution was to include what they considered to be a control condition where one group receives Forms A and B set in the same line length (80 mm). Any difference due to practice or lack of equivalence of content is then used as a ’correction factor’ ([Paterson & Tinker 1940, p42](#ref:paterson-tinker-1940)) that is applied to correct for potential effects of the order and content of the forms. (See [Table 2](#tab:two) for an example of how the correction is applied). This correction was considered adequate to conclude that a difference in reading speed could be attributed to the typographical arrangement, rather than the test procedure.
+Recognising this potential problem, Tinker and Paterson’s solution was to include what they considered to be a control condition where one group receives Forms A and B set in the same line length (80 mm). Any difference due to practice or lack of equivalence of content is then used as a ’correction factor’ ([Paterson & Tinker 1940, p. 42](#ref:paterson-tinker-1940)) that is applied to correct for potential effects of the order and content of the forms. (See [Table 2](#tab:two) for an example of how the correction is applied). This correction was considered adequate to conclude that a difference in reading speed could be attributed to the typographical arrangement, rather than the test procedure.
 
 | Group \(1\) | Test form \(2\) | Typeface \(3\) | Average number<br>of paragraphs read \(4\) | Difference between<br>A and B \(5\) | Corrected difference<br>between A and B \(6\) |
 |-------|----|----------------|-------|------|------|
@@ -73,15 +72,15 @@ Recognising this potential problem, Tinker and Paterson’s solution was to incl
 |       | B  | Kabel Lite     | 17.93 |      |      |
 {: .full}
 
-<figcaption id="tab:two"><strong>Table 2:</strong> Group 1 works as the control group and the difference between the number of paragraphs read in Form A and Form B of Group 1 is 0.71 (column 5). This number functions as the correction factor and is subtracted from each of the differences found between other comparisons, resulting in the numbers in column 6. Note that the size of the difference between Form A and Form B is therefore reduced. The data in this table is a subset of the data in Table 1 from Paterson and Tinker (<a href="#ref:paterson-tinker-1932">1932, p610–611</a>).</figcaption>
+<figcaption id="tab:two"><strong>Table 2:</strong> Group 1 works as the control group and the difference between the number of paragraphs read in Form A and Form B of Group 1 is 0.71 (column 5). This number functions as the correction factor and is subtracted from each of the differences found between other comparisons, resulting in the numbers in column 6. Note that the size of the difference between Form A and Form B is therefore reduced. The data in this table is a subset of the data in Table 1 from Paterson and Tinker (<a href="#ref:paterson-tinker-1932">1932, pp. 610–611</a>).</figcaption>
 
-No control group was used in the 1929 line length study which explains why there are more significant differences described in the 1929 paper than summarised in the subsequent book ([Paterson & Tinker, 1940, p42](#ref:paterson-tinker-1940)) where the correction factor is applied (reducing the size of the [differences).](#sn:problem-with-correction) In the 1940 publication, variations in line length between 80 mm and 152 mm (i.e. 80, 97, 114, 136, 152 mm) are said to have little or no effect on speed of [reading.](#sn:conversion-note) An unusually short line (59 mm) may slow reading. At line lengths of 168 and 186 mm “the evidence is clear that reading speed is significantly retarded” ([Paterson & Tinker, 1940, p43](#ref:paterson-tinker-1940)). Here is a statement that long lines slow down reading. See [Table 1](#tab:three) for both the uncorrected and corrected data.
+No control group was used in the 1929 line length study which explains why there are more significant differences described in the 1929 paper than summarised in the subsequent book ([Paterson & Tinker, 1940, p. 42](#ref:paterson-tinker-1940)) where the correction factor is applied (reducing the size of the [differences).](#sn:problem-with-correction) In the 1940 publication, variations in line length between 80 mm and 152 mm (i.e. 80, 97, 114, 136, 152 mm) are said to have little or no effect on speed of [reading.](#sn:conversion-note) An unusually short line (59 mm) may slow reading. At line lengths of 168 and 186 mm “the evidence is clear that reading speed is significantly retarded” ([Paterson & Tinker, 1940, p. 43](#ref:paterson-tinker-1940)). Here is a statement that long lines slow down reading. See [Table 1](#tab:three) for both the uncorrected and corrected data.
 
 This control group technique is questionable because the correction factor is obtained from one group of readers and then applied to different groups of readers. Even if the experiment conditions are the same for all groups, the variability among readers may mean that the correction factor is not appropriate for [them.](#sn:example-comparison) It is perfectly valid to compare different groups of readers, known as between subject comparisons, but the data do not seem to be analysed in this [manner.](#sn:missing-detail-in-stats)
 
 ## Their response to criticism
 
-Tinker and Paterson were aware of their “methodological difficulties” and published a paper on methodological considerations ([Tinker & Paterson, 1936](#ref:tinker-paterson-1936)). This paper describes a series of “special experiments” they conducted to address all the issues they could think of. These include discussion of the control condition and differences among participant groups. They explore the differences and decide they are within suitable limits ([Tinker & Paterson, 1936, p135](#ref:tinker-paterson-1936)). This is questionable (see note 5). Subsequently, Paterson and Tinker ([1940, p188](#ref:paterson-tinker-1940)) acknowledge that “Some critics might believe that these differences would affect the typographical comparisons involved in any one study”. I believe that this is a possibility; I am unconvinced by the data they use to support their argument that the variations in the average scores of the 7 groups do not affect their results. But we do not know *how* the results might be affected.
+Tinker and Paterson were aware of their “methodological difficulties” and published a paper on methodological considerations ([Tinker & Paterson, 1936](#ref:tinker-paterson-1936)). This paper describes a series of “special experiments” they conducted to address all the issues they could think of. These include discussion of the control condition and differences among participant groups. They explore the differences and decide they are within suitable limits ([Tinker & Paterson, 1936, p. 135](#ref:tinker-paterson-1936)). This is questionable (see note 5). Subsequently, Paterson and Tinker ([1940, p. 188](#ref:paterson-tinker-1940)) acknowledge that “Some critics might believe that these differences would affect the typographical comparisons involved in any one study”. I believe that this is a possibility; I am unconvinced by the data they use to support their argument that the variations in the average scores of the 7 groups do not affect their results. But we do not know *how* the results might be affected.
 
 | Group \(1\) | Form \(2\) | Line length \(3\) | Average number<br>of paragraphs read \(4\) | Difference between<br>A and B \(5\) | Corrected difference<br>between A and B \(6\) | Percent difference<br>after correction \(7\) |
 |------|---------|---------|----------|----------|---------|---------|
@@ -101,7 +100,7 @@ Tinker and Paterson were aware of their “methodological difficulties” and pu
 |      | B       | 186 mm  | 16.43    |          |         |         |
 {: .full}
 
-<figcaption id="tab:three"><strong>Table 3:</strong> The numbers in columns 4 and 5 are taken from Table 1 of Tinker and Paterson (<a href="#ref:tinker-paterson-1929">1929, p211</a>). The numbers in column 7 are taken from Table 14 of Paterson and Tinker, (<a href="#ref:paterson-tinker-1940">1940, p42</a>). The negative difference in this final column indicates that the test line length is read slower than the standard (80 mm). I have added column 6 to indicate the effect of the correction factor (0.5) on the difference in the number of paragraphs read. Note that the correction factor comes from a comparison of Form A in 80 mm and Form B in 97 mm, and not both forms in 80 mm.</figcaption>
+<figcaption id="tab:three"><strong>Table 3:</strong> The numbers in columns 4 and 5 are taken from Table 1 of Tinker and Paterson (<a href="#ref:tinker-paterson-1929">1929, p. 211</a>). The numbers in column 7 are taken from Table 14 of Paterson and Tinker, (<a href="#ref:paterson-tinker-1940">1940, p. 42</a>). The negative difference in this final column indicates that the test line length is read slower than the standard (80 mm). I have added column 6 to indicate the effect of the correction factor (0.5) on the difference in the number of paragraphs read. Note that the correction factor comes from a comparison of Form A in 80 mm and Form B in 97 mm, and not both forms in 80 mm.</figcaption>
 
 ## A better solution to the flaw in their method
 
@@ -128,9 +127,9 @@ three other configurations are added to create a balanced design, with different
 | Group 1c | Form A   | Test line length     | Form B   | Standard line length |
 | Group 1d | Form B   | Test line length     | Form A   | Standard line length |
 
-As I tried to work out possible reasons why Tinker and Paterson hadn’t used this experimental design, I was surprised to find that they had. In an earlier paper ([Tinker & Paterson, 1928](#ref:tinker-paterson-1928)) they explain why they use this design, which they describe as the A B B A method of sequence, addressing the criticisms outlined above. They state that this method avoids “differences due to difficulty of the alternate forms A and B” and avoids “the presence of any marked practice effect in passing from one trial to the second” ([Tinker & Paterson, 1928, p362](#ref:tinker-paterson-1928)).
+As I tried to work out possible reasons why Tinker and Paterson hadn’t used this experimental design, I was surprised to find that they had. In an earlier paper ([Tinker & Paterson, 1928](#ref:tinker-paterson-1928)) they explain why they use this design, which they describe as the A B B A method of sequence, addressing the criticisms outlined above. They state that this method avoids “differences due to difficulty of the alternate forms A and B” and avoids “the presence of any marked practice effect in passing from one trial to the second” ([Tinker & Paterson, 1928, p. 362](#ref:tinker-paterson-1928)).
 
-Why did they stop using this experimental design? They justify abandoning the A B B A sequence method to permit “a simpler and more straightforward [comparison”](#sn:naive-rationale) ([Paterson & Tinker, 1929, p125](#ref:paterson-tinker-1929)). It’s possible that the A B B A configuration may have introduced some practical difficulties when administering the test in a classroom, or the cost of producing the test material may have been prohibitive at that [time.](#sn:thanks-beier) But in retrospect, their approach seems somewhat misguided.
+Why did they stop using this experimental design? They justify abandoning the A B B A sequence method to permit “a simpler and more straightforward [comparison”](#sn:naive-rationale) ([Paterson & Tinker, 1929, p. 125](#ref:paterson-tinker-1929)). It’s possible that the A B B A configuration may have introduced some practical difficulties when administering the test in a classroom, or the cost of producing the test material may have been prohibitive at that [time.](#sn:thanks-beier) But in retrospect, their approach seems somewhat misguided.
 
 ## Conclusion
 
@@ -146,13 +145,13 @@ But ultimately, when the design of the study questions the validity of the resul
 
 ## Some implications for designers and researchers
 
-Tinker and Paterson’s findings on line length are consistent with typographer’s recommendations for good printing practice (e.g. [Bringhurst, 2019](#ref:bringhurst-2019)). These recommendations may be based on the research (e.g. [Spencer, 1968](#ref:spencer-1968); [Schriver, 1997](#ref:schriver-1997)) or the “inherited experience of five hundred years of printing history” ([McLean, 1980, p47](#ref:mclean-1980)). This agreement suggests that designers should continue observing guidance provided by practitioners unless new research contradicts our current conventions. As I mentioned in my [previous article]({% post_url 2021-09-08-line-length-revisited-following-the-research %}), there have been few studies into line length in print following Tinker and Paterson’s work. Now seems to be a good time for researchers to conduct new studies.
+Tinker and Paterson’s findings on line length are consistent with typographer’s recommendations for good printing practice (e.g. [Bringhurst, 2019](#ref:bringhurst-2019)). These recommendations may be based on the research (e.g. [Spencer, 1968](#ref:spencer-1968); [Schriver, 1997](#ref:schriver-1997)) or the “inherited experience of five hundred years of printing history” ([McLean, 1980, p. 47](#ref:mclean-1980)). This agreement suggests that designers should continue observing guidance provided by practitioners unless new research contradicts our current conventions. As I mentioned in my [previous article]({% post_url 2021-09-08-line-length-revisited-following-the-research %}), there have been few studies into line length in print following Tinker and Paterson’s work. Now seems to be a good time for researchers to conduct new studies.
 
 
 
 <aside id="sn:time-limit">The time limit is varied according to the age of the participants, so that they do not read all of the paragraphs.</aside>
 
-<aside id="sn:effect-of-practice">The effect of practice would usually result in faster reading of the second form (Form B) which did not happen, perhaps because Form A is a lot easier than Form B. Paterson and Tinker (1929, p121) do acknowledge practice effects, but propose a solution which would be challenging to implement. “Alternate forms of textual material should be arranged so that the form used for the second trial is sufficiently more difficult to just offset whatever practice effects may be present.”</aside>
+<aside id="sn:effect-of-practice">The effect of practice would usually result in faster reading of the second form (Form B) which did not happen, perhaps because Form A is a lot easier than Form B. Paterson and Tinker (1929, p. 121) do acknowledge practice effects, but propose a solution which would be challenging to implement. “Alternate forms of textual material should be arranged so that the form used for the second trial is sufficiently more difficult to just offset whatever practice effects may be present.”</aside>
 
 <aside id="sn:problem-with-correction">There is a problem with this particular correction as the control group received Form A in a line length of 80 mm and Form B in a line length of 97 mm (see Group 2 in [Table 1](#tab:one) and [Table 3](#tab:three)). This is clearly not a control condition as the line lengths differ, even if only by a small amount.</aside>
 
