@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Examining the research methods used by legibility legends Tinker and Paterson
-date: 2023-11-15 12:30:00
+date: 2023-11-05 12:30:00
 categories:
     - Article
 authors:
