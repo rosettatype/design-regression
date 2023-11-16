@@ -6,7 +6,7 @@ categories:
     - Article
 authors:
     - Mary Dyson
-readingtime: 18 min read
+readingtime: 17 min read
 theme: blue
 intro: |
     Tinker’s books are frequently cited providing a helpful summary of the legibility studies he conducted with Paterson starting in 1928. But unfortunately, if we look closely at the details of their methods, we may detect some flaws. 
@@ -25,9 +25,9 @@ Essentially the same experimental design was used throughout all Tinker and Pate
 
 ## Tinker and Paterson (1929): an example of their experimental method
 
-Their first published study into line length reviewed the existing results from experiments and the opinions of advertisers to conclude that “the problem of optimal line length is in a very unsatisfactory state” ([Tinker & Paterson, 1929, pp.209-210](#ref:tinker-paterson-1929)). In this study, the paragraphs were printed in 10pt Scotch Roman, varying the line length from 59 mm to 186 mm, set solid. They compared line lengths by using a standard: a line length of 80 mm. Each pair (standard and test line length) was tested on a different group of 80 university students adding up to a total of 560 participants, across 7 comparisons (see [Table 1](#tab:one)).
+Their first published study into line length reviewed the existing results from experiments and the opinions of advertisers to conclude that “the problem of optimal line length is in a very unsatisfactory state” ([Tinker & Paterson, 1929, pp. 209–210](#ref:tinker-paterson-1929)). In this study, the paragraphs were printed in 10pt Scotch Roman, varying the line length from 59 mm to 186 mm, set solid. They compared line lengths by using a standard: a line length of 80 mm. See [Figure 2](#fig:simulation) for a simulation of part of the two forms. Each pair (standard and test line length) was tested on a different group of 80 university students adding up to a total of 560 participants, across 7 comparisons (see [Table 1](#tab:one)).
 
-![Form B of Chapman-Cook Speed of Reading](/assets/2023-11-15-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/chapman-cook.jpg)
+![Form B of Chapman-Cook Speed of Reading. The image is taken from Cobb (<a href="#ref:cobb-1944">1944, p. 37</a>). This example has a time limit of two and a half minutes.](/assets/2023-11-15-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/chapman-cook.jpg)
 
 <figcaption id="fig:chapmann-cook"><strong>Figure 1:</strong> Form B of Chapman-Cook Speed of Reading. The image is taken from Cobb (<a href="#ref:cobb-1944">1944, p. 37</a>). This example has a time limit of two and a half minutes.</figcaption>
 
@@ -46,10 +46,10 @@ They stated that in all 7 groups, the line length of 80 mm was read faster than 
 
 <figcaption id="tab:one"><strong>Table 1:</strong> Line lengths given to 7 groups of students. Each group first receives the standard line length of 80 mm and then the test line length. (<a href="#ref:tinker-paterson-1929">Tinker and Paterson, 1929, p. 210</a>)</figcaption>
 
-![Study mockup](/assets/2023-11-15-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/study-mockup.svg)
+![Simulation of two of the paragraphs from Form A (80 mm) and two from Form B (7 different test line lengths).](/assets/2023-11-15-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/study-simulation.svg)
 {: .full}
 
-<figcaption id="fig:chapmann-cook"><strong>Figure 2:</strong> …</figcaption>
+<figcaption id="fig:simulation"><strong>Figure 2:</strong> Simulation of two of the paragraphs from Form A (80 mm) and two from Form B (7 different test line lengths).</figcaption>
 
 ## The flaw
 
@@ -57,7 +57,7 @@ As mentioned above, each form of the Chapman-Cook test (Form A and Form B) has d
 
 ## Their control condition
 
-Recognising this potential problem, Tinker and Paterson’s solution was to include what they considered to be a control condition where one group receives Forms A and B set in the same line length (80 mm). Any difference due to practice or lack of equivalence of content is then used as a ’correction factor’ ([Paterson & Tinker 1940, p. 42](#ref:paterson-tinker-1940)) that is applied to correct for potential effects of the order and content of the forms. (See [Table 2](#tab:two) for an example of how the correction is applied). This correction was considered adequate to conclude that a difference in reading speed could be attributed to the typographical arrangement, rather than the test procedure.
+Recognising this potential problem, Tinker and Paterson’s solution was to include what they considered to be a control condition where one group receives Forms A and B set in the same line length (80 mm). Any difference due to practice or lack of equivalence of content is then used as a “correction factor” ([Paterson & Tinker 1940, p. 42](#ref:paterson-tinker-1940)) that is applied to correct for potential effects of the order and content of the forms. (See [Table 2](#tab:two) for an example of how the correction is applied). This correction was considered adequate to conclude that a difference in reading speed could be attributed to the typographical arrangement, rather than the test procedure.
 
 | Group \(1\) | Test form \(2\) | Typeface \(3\) | Average number<br>of paragraphs read \(4\) | Difference between<br>A and B \(5\) | Corrected difference<br>between A and B \(6\) |
 |-------|----|----------------|-------|------|------|
@@ -85,7 +85,7 @@ This control group technique is questionable because the correction factor is ob
 
 ## Their response to criticism
 
-Tinker and Paterson were aware of their “methodological difficulties” and published a paper on methodological considerations ([Tinker & Paterson, 1936](#ref:tinker-paterson-1936)). This paper describes a series of “special experiments” they conducted to address all the issues they could think of. These include discussion of the control condition and differences among participant groups. They explore the differences and decide they are within suitable limits ([Tinker & Paterson, 1936, p. 135](#ref:tinker-paterson-1936)). This is questionable (see [note 5](#sn:example-comparison)). Subsequently, Paterson and Tinker ([1940, p. 188](#ref:paterson-tinker-1940)) acknowledge that “Some critics might believe that these differences would affect the typographical comparisons involved in any one study”. I believe that this is a possibility; I am unconvinced by the data they use to support their argument that the variations in the average scores of the 7 groups do not affect their results. But we do not know *how* the results might be affected.
+Tinker and Paterson were aware of their “methodological difficulties” and published a paper on methodological considerations ([Tinker & Paterson, 1936](#ref:tinker-paterson-1936)). This paper describes a series of “special experiments” they conducted to address all the issues they could think of. These include discussion of the control condition and differences among participant groups. They explore the differences and decide they are within suitable limits ([Tinker & Paterson, 1936, p. 135](#ref:tinker-paterson-1936)). This is questionable (see note 5). Subsequently, Paterson and Tinker ([1940, p. 188](#ref:paterson-tinker-1940)) acknowledge that “Some critics might believe that these differences would affect the typographical comparisons involved in any one study”. I believe that this is a possibility; I am unconvinced by the data they use to support their argument that the variations in the average scores of the 7 groups do not affect their results. But we do not know *how* the results might be affected.
 
 | Group \(1\) | Form \(2\) | Line length \(3\) | Average number<br>of paragraphs read \(4\) | Difference between<br>A and B \(5\) | Corrected difference<br>between A and B \(6\) | Percent difference<br>after correction \(7\) |
 |------|---------|---------|----------|----------|---------|---------|
