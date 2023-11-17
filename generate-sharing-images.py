@@ -108,11 +108,3 @@ for path in glob.glob("_posts/*.md"):
     saveSharingImage(
         outpath, title, authors, categories, theme
     )
-# and the fallback
-saveSharingImage(
-    "assets/sharing_image.png",
-    "Articles about design for reading and reading-related research",
-    "DESIGN REGRESSORS",
-    "POST",
-    "blue"
-)
