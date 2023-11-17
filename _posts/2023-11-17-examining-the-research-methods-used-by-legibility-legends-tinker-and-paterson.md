@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Examining the research methods used by legibility legends Tinker and Paterson
-date: 2023-11-05 12:30:00
+date: 2023-11-17 12:00:00
 categories:
     - Article
 authors:
@@ -10,7 +10,7 @@ readingtime: 17 min read
 theme: blue
 intro: |
     Tinker’s books are frequently cited providing a helpful summary of the legibility studies he conducted with Paterson starting in 1928. But unfortunately, if we look closely at the details of their methods, we may detect some flaws. 
-sharing_image: /assets/2023-11-15-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/sharing_image.png
+sharing_image: /assets/2023-11-17-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/sharing_image.png
 ---
 
 In a [previous article]({% post_url 2021-09-08-line-length-revisited-following-the-research %}) I described revisiting research on line length, having come across some interesting findings which didn’t fit with a commonly held view. It seems that long line lengths may not be as problematic as we thought. Going back to research by Tinker and Paterson, questions were raised over the validity of their methods. This article takes a closer and critical look at what they did as their work is frequently cited in educational design literature and by other legibility researchers.
@@ -27,7 +27,7 @@ Essentially the same experimental design was used throughout all Tinker and Pate
 
 Their first published study into line length reviewed the existing results from experiments and the opinions of advertisers to conclude that “the problem of optimal line length is in a very unsatisfactory state” ([Tinker & Paterson, 1929, pp. 209–210](#ref:tinker-paterson-1929)). In this study, the paragraphs were printed in 10pt Scotch Roman, varying the line length from 59 mm to 186 mm, set solid. They compared line lengths by using a standard: a line length of 80 mm. See [Figure 2](#fig:simulation) for a simulation of part of the two forms. Each pair (standard and test line length) was tested on a different group of 80 university students adding up to a total of 560 participants, across 7 comparisons (see [Table 1](#tab:one)).
 
-![Form B of Chapman-Cook Speed of Reading. The image is taken from Cobb (<a href="#ref:cobb-1944">1944, p. 37</a>). This example has a time limit of two and a half minutes.](/assets/2023-11-15-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/chapman-cook.jpg)
+![Form B of Chapman-Cook Speed of Reading. The image is taken from Cobb (<a href="#ref:cobb-1944">1944, p. 37</a>). This example has a time limit of two and a half minutes.](/assets/2023-11-17-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/chapman-cook.jpg)
 
 <figcaption id="fig:chapmann-cook"><strong>Figure 1:</strong> Form B of Chapman-Cook Speed of Reading. The image is taken from Cobb (<a href="#ref:cobb-1944">1944, p. 37</a>). This example has a time limit of two and a half minutes.</figcaption>
 
@@ -46,7 +46,7 @@ They stated that in all 7 groups, the line length of 80 mm was read faster than 
 
 <figcaption id="tab:one"><strong>Table 1:</strong> Line lengths given to 7 groups of students. Each group first receives the standard line length of 80 mm and then the test line length. (<a href="#ref:tinker-paterson-1929">Tinker and Paterson, 1929, p. 210</a>)</figcaption>
 
-![Simulation of two of the paragraphs from Form A (80 mm) and two from Form B (7 different test line lengths).](/assets/2023-11-15-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/study-simulation.svg)
+![Simulation of two of the paragraphs from Form A (80 mm) and two from Form B (7 different test line lengths).](/assets/2023-11-17-examining-the-research-methods-used-by-legibility-legends-tinker-and-paterson/study-simulation.svg)
 {: .full}
 
 <figcaption id="fig:simulation"><strong>Figure 2:</strong> Simulation of two of the paragraphs from Form A (80 mm) and two from Form B (7 different test line lengths).</figcaption>
