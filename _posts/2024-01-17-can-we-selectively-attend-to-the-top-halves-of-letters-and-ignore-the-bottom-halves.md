@@ -141,6 +141,10 @@ into:
 | Other designers                | 21    |
 |--------------------------------|-------|
 
+### Repository
+
+We have made the study website and data available on [GitHub](https://github.com/MrBrezina/holistic-study) and licenced them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
+
 ## What we found
 
 ### Holistic processing
@@ -176,7 +180,14 @@ non-designers. Designers generally process letters in a similar manner
 to non-designers, holistically, rather than attending to parts of the
 letter.
 
-![]()
+<div class="barchart"
+    data-name="Discrimination score (AUC)"
+    data-groups="non-designers;graphic designers;letter designers;typographers;other designers"
+    data-options="Congruent;Incongruent"
+    data-values="2.5,2.6,2.5,2.4,1.0;3.5,3.6,3.5,3.4,3.0"
+    data-errors="0.05,0.04,0.05,0.05,0.05;0.05,0.04,0.05,0.05,0.05"
+    data-offset="0"
+    ></div>
 
 <figcaption id="fig:four"><strong>Figure 4:</strong> Mean AUC scores for each group of participants, comparing
 discrimination between same and different letters in congruent and
@@ -192,7 +203,14 @@ did find that graphic designers, letter designers, and typographers were
 better at detecting the differences than non-designers. Letter designers
 were better than graphic designers and other designers. See [Figure 5](#fig:five).
 
-![]()
+<div class="barchart"
+    data-name="Overall discrimination score (AUC)"
+    data-options=""
+    data-groups="non-designers;graphic designers;letter designers;typographers;other designers"
+    data-values="2.5,2.6,2.5,2.4,1.0"
+    data-errors="0.05,0.04,0.05,0.05,0.05"
+    data-offset="0"
+    ></div>
 
 <figcaption id="fig:five"><strong>Figure 5:</strong> Overall AUC scores for each group of participants, combining
 congruent and incongruent letter pairs.</figcaption>
@@ -204,7 +222,14 @@ be likely to get fewer correct responses during the practice trials.
 Other designers also received longer presentation times than letter
 designers.
 
-![]()
+<div class="barchart"
+    data-name="Presentation time in ms"
+    data-options=""
+    data-groups="non-designers;graphic designers;letter designers;typographers;other designers"
+    data-values="2.5,2.6,2.5,2.4,1.0"
+    data-errors="0.05,0.04,0.05,0.05,0.05"
+    data-offset="0"
+    ></div>
 
 <figcaption id="fig:six"><strong>Figure 6:</strong> Presentation speeds (based on practice trials) for each group
 of participants.</figcaption>
