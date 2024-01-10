@@ -16,6 +16,7 @@ sharing_image: /assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of
 
 ## Background to the study
 
+We presented this work at the [ICTVC 8](https://ictvc.org/2022/en/) conference in Thessaloniki in July 2022. 
 A primary aim of the online study was to find out if letters are
 processed holistically. This would mean that we attend to all parts of a
 letter at the same time, we cannot selectively attend, and we are
@@ -67,7 +68,8 @@ halves of the letters change, and the bottom halves remain the same. The
 diagonal, from top left to bottom right, contains letters where the
 variation is applied to both the top and bottom of the letter. These are
 labelled ‘normal’ letters in contrast to the ‘composite’ letters where
-the top and bottom come from different versions of the normal letters.</figcaption>
+the top and bottom come from different versions of the normal letters.
+Highlighted in gray are letters that were used to create the pairs described in figures 3a–d below.</figcaption>
 
 To test for holistic processing, a comparison is made between two
 conditions:
@@ -152,16 +154,16 @@ We have made the study website and data available on [GitHub](https://github.com
 The ability to discriminate between same and different pairs is measured
 using [AUC](#sn:AUC) which is free of response bias, such as responding ‘same’
 most of the time. Overall, the congruent pairs were easier to
-discriminate than the incongruent pairs. This means that the letters
+discriminate than the incongruent [pairs.](#sn:stat4) This means that the letters
 were processed holistically.
 
 The results broken down by participant group are shown in [Figure 4](#fig:four).
 Although the size of the difference between congruent and incongruent
-pairs varies across groups, the only statistically significant
+pairs varies across [groups,](#sn:stat5) the only statistically significant
 differences are between:
 
-- graphic designers and other designers
-- letter designers and other designers
+- graphic designers and other [designers](#sn:stat6)
+- letter designers and other [designers](#sn:stat7)
 
 In both cases, there is a larger difference between congruent and
 incongruent pairs in other designers, i.e. stronger evidence of holistic
@@ -176,7 +178,7 @@ participants who categorised themselves as typographers (N=7).
 
 The difference between congruent and incongruent pairs for all of the
 designer groups is not significantly smaller than the difference for
-non-designers. Designers generally process letters in a similar manner
+[non-designers.](#sn:stat9) Designers generally process letters in a similar manner
 to non-designers, holistically, rather than attending to parts of the
 letter.
 
@@ -199,9 +201,9 @@ represent the amount of variation among participants.</figcaption>
 
 Although we aimed to achieve a similar level of performance in designers
 and non-designers, by adjusting the presentation rate the letters, we
-did find that graphic designers, letter designers, and typographers were
+did find that [graphic designers,](#sn:stat10) [letter designers,](#sn:stat11) and [typographers](#sn:stat12) were
 better at detecting the differences than non-designers. Letter designers
-were better than graphic designers and other designers. See [Figure 5](#fig:five).
+were better than [graphic designers](#sn:stat13) and [other designers.](#sn:stat14) See [Figure 5](#fig:five).
 
 <div class="barchart"
    data-name="Overall discrimination score (AUC)"
@@ -217,10 +219,10 @@ congruent and incongruent letter pairs.</figcaption>
 
 The presentation rate the letters can also be compared across groups
 ([Figure 6](#fig:six)). The non-designers received longer presentation times than
-graphic designers and letter designers. This is expected as they would
+[graphic designers](#sn:stat15) and [letter designers.](#sn:stat16) This is expected as they would
 be likely to get fewer correct responses during the practice trials.
-Other designers also received longer presentation times than letter
-designers.
+Other designers also received longer presentation times than [letter
+designers.](#sn:stat17)
 
 <div class="barchart"
    data-name="Presentation rate in ms"
@@ -231,7 +233,7 @@ designers.
    data-offset="0"
 ></div>
 
-<figcaption id="fig:six"><strong>Figure 6:</strong> Presentation rates (based on practice trials) for each group
+<figcaption id="fig:six"><strong>Figure 6:</strong> Presentation rates in miliseconds (based on practice trials) for each group
 of participants.</figcaption>
 
 ## Possible explanations
@@ -262,7 +264,33 @@ variation (in contrast and terminals) is applied to both halves.</aside>
 
 <aside id="sn:AUC">Area Under the Curve; see <a href="https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc">https://developers.google.com/machine-learning/crash-course/classification/roc-and-auc</a> for more detail.</aside>
 
+<aside id="sn:stat4">F(1, 228)=20.898, p<0.001</aside>
+
+<aside id="sn:stat5">F(4,228)=3.387, p=0.01</aside>
+
+<aside id="sn:stat6">p=0.019</aside>
+
+<aside id="sn:stat7">p=0.044</aside>
+
 <aside id="sn:incongruent-pairs">This is evidenced by a larger standard error bar in Figure 4.</aside>
+
+<aside id="sn:stat9">F(1, 231)=1.059, p=0.305</aside>
+
+<aside id="sn:stat10">p=0.023</aside>
+
+<aside id="sn:stat11">p&lt;0.001</aside>
+
+<aside id="sn:stat12">p=0.018</aside>
+
+<aside id="sn:stat13">p=0.018</aside>
+
+<aside id="sn:stat14">p&lt;0.001</aside>
+
+<aside id="sn:stat15">p=0.033</aside>
+
+<aside id="sn:stat16">p&lt;0.001</aside>
+
+<aside id="sn:stat17">p&lt;0.001</aside>
 
 {% include cta-feedback.html %}
 
