@@ -113,17 +113,17 @@ bottom halves the same)</figcaption>
 
 The study included a practice set of trials followed by the main
 session. The practice was included to familiarise participants with the
-procedure and to set the speed of presenting the letters. It was
+procedure and to set the pace of presenting the letters (presentation rate). It was
 important to ensure that the task was neither too easy nor too
 difficult. By piloting the study, we realised that there might be quite
 big differences in the level of difficulty between designers and
 non-designers; the latter are less used to discriminating between fonts.
 
 We included 16 practice trials using letters “d”,
-“u”, and “l” where we varied the speed at which we presented the letters
-starting at 800 msecs, then increasing the speed in steps to 200 msecs
+“u”, and “l” where we varied the rate at which we presented the letters
+starting at 800 msecs, then increasing the rate in steps to 200 msecs
 and then back to 800 msecs. The proportion of correct responses was
-calculated, and this was used to set a consistent speed for the main
+calculated, and this was used to set a consistent rate for the main
 part of the study. The main part used a different set of letters:
 “a, b, c, e, h, j, l, n, p, q, r, t, z”.
 
@@ -181,13 +181,13 @@ to non-designers, holistically, rather than attending to parts of the
 letter.
 
 <div class="barchart"
-    data-name="Discrimination score (AUC)"
-    data-groups="non-designers;graphic designers;letter designers;typographers;other designers"
-    data-options="Congruent;Incongruent"
-    data-values="2.5,2.6,2.5,2.4,1.0;3.5,3.6,3.5,3.4,3.0"
-    data-errors="0.05,0.04,0.05,0.05,0.05;0.05,0.04,0.05,0.05,0.05"
-    data-offset="0"
-    ></div>
+   data-name="Discrimination score (AUC)"
+   data-groups="non-designers;graphic designers;letter designers;typographers;other designers"
+   data-options="Congruent;Incongruent"
+   data-values="2.0584, 2.1434, 2.2950, 2.2492, 2.1436;1.8914, 2.0656, 2.2032, 2.2514, 1.8243"
+   data-errors="0.022032, 0.036946, 0.037843569, 0.090070159, 0.048444107;0.025211, 0.036497, 0.047448437, 0.090054799, 0.096894323"
+   data-offset="0"
+   ></div>
 
 <figcaption id="fig:four"><strong>Figure 4:</strong> Mean AUC scores for each group of participants, comparing
 discrimination between same and different letters in congruent and
@@ -198,24 +198,24 @@ represent the amount of variation among participants.</figcaption>
 ### Further comparisons across groups of participants
 
 Although we aimed to achieve a similar level of performance in designers
-and non-designers, by adjusting the speed of presenting the letters, we
+and non-designers, by adjusting the presentation rate the letters, we
 did find that graphic designers, letter designers, and typographers were
 better at detecting the differences than non-designers. Letter designers
 were better than graphic designers and other designers. See [Figure 5](#fig:five).
 
 <div class="barchart"
-    data-name="Overall discrimination score (AUC)"
-    data-options=""
-    data-groups="non-designers;graphic designers;letter designers;typographers;other designers"
-    data-values="2.5,2.6,2.5,2.4,1.0"
-    data-errors="0.05,0.04,0.05,0.05,0.05"
-    data-offset="0"
-    ></div>
+   data-name="Overall discrimination score (AUC)"
+   data-groups="non-designers;graphic designers;letter designers;typographers;other designers"
+   data-options=""
+   data-values="1.974888, 2.10449, 2.249105849, 2.250292264, 1.983963205"
+   data-errors="0.020489, 0.032465, 0.037094548, 0.084122527, 0.048568163"
+   data-offset="0"
+></div>
 
 <figcaption id="fig:five"><strong>Figure 5:</strong> Overall AUC scores for each group of participants, combining
 congruent and incongruent letter pairs.</figcaption>
 
-The speed of presenting the letters can also be compared across groups
+The presentation rate the letters can also be compared across groups
 ([Figure 6](#fig:six)). The non-designers received longer presentation times than
 graphic designers and letter designers. This is expected as they would
 be likely to get fewer correct responses during the practice trials.
@@ -223,15 +223,15 @@ Other designers also received longer presentation times than letter
 designers.
 
 <div class="barchart"
-    data-name="Presentation time in ms"
-    data-options=""
-    data-groups="non-designers;graphic designers;letter designers;typographers;other designers"
-    data-values="2.5,2.6,2.5,2.4,1.0"
-    data-errors="0.05,0.04,0.05,0.05,0.05"
-    data-offset="0"
-    ></div>
+   data-name="Presentation rate in ms"
+   data-groups="non-designers;graphic designers;letter designers;typographers;other designers"
+   data-options=""
+   data-values="309.1847, 257.5765957, 215.9055556, 255.5571429, 325.9238, 283.8245"
+   data-errors="9.55685, 12.8046152, 12.27987122, 40.43927757, 21.73488, 6.765255"
+   data-offset="0"
+></div>
 
-<figcaption id="fig:six"><strong>Figure 6:</strong> Presentation speeds (based on practice trials) for each group
+<figcaption id="fig:six"><strong>Figure 6:</strong> Presentation rates (based on practice trials) for each group
 of participants.</figcaption>
 
 ## Possible explanations
