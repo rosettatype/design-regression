@@ -89,7 +89,7 @@ We described the format of these studies in our previous article
 ‘Exploring disfluency: Are designers too sensitive to harder-to-read
 typefaces?’. The only difference in format between the current study and study 1 is that here we changed the font between the lexical decision and recognition tasks (see [Figure 3](#fig:schema)). Our analysis includes a comparison with the results of study 1 in order to address the research questions.
 
-We have made the study website and data available on [GitHub](https://github.com/MrBrezina/disfluency-study) and licenced them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
+We have made the study website and data available on [GitHub](https://github.com/MrBrezina/disfluency-study) and licensed them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
 
 <div class="full">
     <img src="/assets/2022-04-26-the-sequel-to-exploring-disfluency-do-we-remember-the-visual-appearance-of-words/schema.svg" alt="A schematic comparison between Study 1 and the current Study 2" />

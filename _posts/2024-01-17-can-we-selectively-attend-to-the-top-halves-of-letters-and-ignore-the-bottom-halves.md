@@ -143,7 +143,7 @@ into:
 
 ### Repository
 
-We have made the study website and data available on [GitHub](https://github.com/MrBrezina/holistic-study) and licenced them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
+We have made the study website and data available on [GitHub](https://github.com/MrBrezina/holistic-study) and licensed them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## What we found
 
