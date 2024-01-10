@@ -5,12 +5,12 @@ date: 2024-01-07 11:00:00
 categories:
     - Article
 authors:
-    - Mary Dyson
     - David Březina
+    - Mary Dyson
 readingtime: 8 min read
 theme: blue
 intro: |
-    todo
+    We conducted a study online to address this question, comparing designers and non-designers. The results are somewhat surprising.
 sharing_image: /assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/sharing_image.png
 ---
 
@@ -272,10 +272,11 @@ variation (in contrast and terminals) is applied to both halves.</aside>
 
 Farah, M. J., Wilson, K. D., Drain, M., & Tanaka, J. N. (1998). What is
 "special" about face perception? *Psychological Review*, *105*(3),
-482–498.
+482–498. <https://doi.org/10.1037/0033-295x.105.3.482>
 {: id="ref:farah-wilson-drain-tanaka-1998"}
 
 Zhou, G. M., Cheng, Z. J., Zhang, X. D., & Wong, A. C. N. (2012).
 Smaller holistic processing of faces associated with face drawing
 experience. *Psychonomic Bulletin & Review*, *19*(2), 157–62.
+<https://doi.org/10.3758/s13423-011-0174-x>
 {: id="ref:zhou-cheng-zang-wong-2012"}
