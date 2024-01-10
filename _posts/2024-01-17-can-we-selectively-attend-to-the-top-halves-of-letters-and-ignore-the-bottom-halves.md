@@ -47,7 +47,7 @@ say whether the top halves of the two letters were identical. The
 response options were ‘Sure same’, ‘Probably same’, ‘Probably different’, ‘Sure different’.
 To avoid any ambiguity as to what was meant by the top half, there was a horizontal line through the middle of the letters. See [Figure 1](#fig:one).
 
-![](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_1.svg)
+![Two letters where the top halves are different, and the bottom halves are also different.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_1.svg)
 
 <figcaption id="fig:one"><strong>Figure 1:</strong> Two letters where the top halves are different, and the bottom halves are also different.</figcaption>
 
@@ -60,7 +60,7 @@ combinations connect smoothly in the middle. They were designed as
 monospaced letters for consistency of presentation in the task. See
 [Figure 2](#fig:two).
 
-![](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_2.svg)
+![Overview of the letter variants](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_2.svg)
 
 <figcaption id="fig:two"><strong>Figure 2:</strong> Reading across the rows, the top halves of the letters remain
 the same and the bottom changes. Reading down the columns, the top
@@ -91,22 +91,26 @@ conditions:
 
 The four categories of letter pairs are shown in [Figures 3a–3d](#fig:three-a)[](#sn:congruent-categories):
 
-![](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_3a.svg)
+![Two ‘same’ congruent pairs (top halves identical and bottom
+halves identical)](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_3a.svg)
 
 <figcaption id="fig:three-a"><strong>Figure 3a:</strong> Two ‘same’ congruent pairs (top halves identical and bottom
 halves identical)</figcaption>
 
-![](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_3b.svg)
+![Two ‘different’ congruent pairs (top halves and bottom halves
+different)](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_3b.svg)
 
 <figcaption id="fig:three-b"><strong>Figure 3b:</strong> Two ‘different’ congruent pairs (top halves and bottom halves
 different)</figcaption>
 
-![](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_3c.svg)
+![One ‘same’ incongruent pair (top halves identical but bottom
+halves different)](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_3c.svg)
 
 <figcaption id="fig:three-c"><strong>Figure 3c:</strong> One ‘same’ incongruent pair (top halves identical but bottom
 halves different)</figcaption>
 
-![](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_3d.svg)
+![One ‘different’ incongruent pair (top halves different but
+bottom halves the same)](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/figures_3d.svg)
 
 <figcaption id="fig:three-d"><strong>Figure 3d:</strong> One ‘different’ incongruent pair (top halves different but
 bottom halves the same)</figcaption>
@@ -122,19 +126,27 @@ big differences in the level of difficulty between designers and
 non-designers; the latter are less used to discriminating between fonts.
 
 We included 16 practice trials using letters “d”,
-“u”, and “l” where we varied the rate at which we presented the letters
+“u”, and “i” where we varied the rate at which we presented the letters
 starting at 800 msecs, then increasing the rate in steps to 200 msecs
 and then back to 800 msecs. The proportion of correct responses was
 calculated, and this was used to set a consistent rate for the main
 part of the study. The main part used a different set of letters:
 “a, b, c, e, h, j, l, n, p, q, r, t, z”.
 
-![](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_1.png)
+![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_1.png)
+![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_2.png)
+![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_3.png)
+![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_4.png)
 {: .browser}
 
 <figcaption id="fig:four"><strong>Figure 4:</strong>Example trial from the study. Click on arrows to proceed.</figcaption>
 
-<figcaption id="fig:five"><strong>Figure 5:</strong>All letters used in the study.</figcaption>
+<video width="800" height="800" class="outlined" autoplay>
+  <source src="/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/all-letters.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<figcaption id="fig:five"><strong>Figure 5:</strong>All letters and their variants used in the study.</figcaption>
 
 ### Participants
 
