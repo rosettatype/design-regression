@@ -129,6 +129,13 @@ calculated, and this was used to set a consistent rate for the main
 part of the study. The main part used a different set of letters:
 “a, b, c, e, h, j, l, n, p, q, r, t, z”.
 
+![](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_1.png)
+{: .browser}
+
+<figcaption id="fig:four"><strong>Figure 4:</strong>Example trial from the study. Click on arrows to proceed.</figcaption>
+
+<figcaption id="fig:five"><strong>Figure 5:</strong>All letters used in the study.</figcaption>
+
 ### Participants
 
 A total of 229 people completed the online study and were broken down
@@ -157,7 +164,7 @@ most of the time. Overall, the congruent pairs were easier to
 discriminate than the incongruent [pairs.](#sn:stat4) This means that the letters
 were processed holistically.
 
-The results broken down by participant group are shown in [Figure 4](#fig:four).
+The results broken down by participant group are shown in [Figure 6](#fig:six).
 Although the size of the difference between congruent and incongruent
 pairs varies across [groups,](#sn:stat5) the only statistically significant
 differences are between:
@@ -191,7 +198,7 @@ letter.
    data-offset="0"
    ></div>
 
-<figcaption id="fig:four"><strong>Figure 4:</strong> Mean AUC scores for each group of participants, comparing
+<figcaption id="fig:six"><strong>Figure 6:</strong> Mean AUC scores for each group of participants, comparing
 discrimination between same and different letters in congruent and
 incongruent pairs. A higher score for congruent pairs compared with
 incongruent indicates holistic processing. The standard error bars
@@ -203,7 +210,7 @@ Although we aimed to achieve a similar level of performance in designers
 and non-designers, by adjusting the presentation rate the letters, we
 did find that [graphic designers,](#sn:stat10) [letter designers,](#sn:stat11) and [typographers](#sn:stat12) were
 better at detecting the differences than non-designers. Letter designers
-were better than [graphic designers](#sn:stat13) and [other designers.](#sn:stat14) See [Figure 5](#fig:five).
+were better than [graphic designers](#sn:stat13) and [other designers.](#sn:stat14) See [Figure 7](#fig:seven).
 
 <div class="barchart"
    data-name="Overall discrimination score (AUC)"
@@ -214,11 +221,11 @@ were better than [graphic designers](#sn:stat13) and [other designers.](#sn:stat
    data-offset="0"
 ></div>
 
-<figcaption id="fig:five"><strong>Figure 5:</strong> Overall AUC scores for each group of participants, combining
+<figcaption id="fig:seven"><strong>Figure 7:</strong> Overall AUC scores for each group of participants, combining
 congruent and incongruent letter pairs.</figcaption>
 
 The presentation rate the letters can also be compared across groups
-([Figure 6](#fig:six)). The non-designers received longer presentation times than
+([Figure 8](#fig:eight)). The non-designers received longer presentation times than
 [graphic designers](#sn:stat15) and [letter designers.](#sn:stat16) This is expected as they would
 be likely to get fewer correct responses during the practice trials.
 Other designers also received longer presentation times than [letter
@@ -233,7 +240,7 @@ designers.](#sn:stat17)
    data-offset="0"
 ></div>
 
-<figcaption id="fig:six"><strong>Figure 6:</strong> Presentation rates in miliseconds (based on practice trials) for each group
+<figcaption id="fig:eight"><strong>Figure 8:</strong> Presentation rates in miliseconds (based on practice trials) for each group
 of participants.</figcaption>
 
 ## Possible explanations
@@ -259,6 +266,8 @@ differences in strategy.
 <aside id="sn:pattern-mask">The mask prevents the first letter still being visible after it has
 gone from the screen.</aside>
 
+
+
 <aside id="sn:congruent-categories">The congruent categories have two pairs because they include normal and composite letters. Normal letters cannot be incongruent because the
 variation (in contrast and terminals) is applied to both halves.</aside>
 
@@ -272,7 +281,7 @@ variation (in contrast and terminals) is applied to both halves.</aside>
 
 <aside id="sn:stat7">p=0.044</aside>
 
-<aside id="sn:incongruent-pairs">This is evidenced by a larger standard error bar in Figure 4.</aside>
+<aside id="sn:incongruent-pairs">This is evidenced by a larger standard error bar in Figure 6.</aside>
 
 <aside id="sn:stat9">F(1, 231)=1.059, p=0.305</aside>
 
