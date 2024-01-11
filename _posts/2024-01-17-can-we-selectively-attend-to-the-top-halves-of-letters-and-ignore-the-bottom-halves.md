@@ -133,17 +133,13 @@ calculated, and this was used to set a consistent rate for the main
 part of the study. The main part used a different set of letters:
 “a, b, c, e, h, j, l, n, p, q, r, t, z”.
 
-![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_1.png)
-{: .browser}
+![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_1.png){: .browser}
 
-![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_2.png)
-{: .browser}
+![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_2.png){: .browser}
 
-![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_3.png)
-{: .browser}
+![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_3.png){: .browser}
 
-![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_4.png)
-{: .browser}
+![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_4.png){: .browser}
 
 <figcaption id="fig:four"><strong>Figure 4:</strong> Example trial from the study. Click on arrows to proceed.</figcaption>
 

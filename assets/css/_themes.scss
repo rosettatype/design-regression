@@ -234,6 +234,10 @@
 
 body {
     @include theme();
+    
+    &.theme-blue {
+        @include theme();        
+    }
 
     &.theme-red {
         @include theme($red-foreground, $red-highlight, $red-background, $red-accent, $red-interactive);
