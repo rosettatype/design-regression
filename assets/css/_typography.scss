@@ -380,7 +380,7 @@ article main {
         padding: 1rem;
     }
 
-    img {
+    img, video {
         display: block;
         height: auto;
         max-width: 100%; // not sure this is a good idea
@@ -391,7 +391,7 @@ article main {
     .narrow {
         max-width: 50%;
 
-        img {
+        img, video {
             width: 100%;
         }
 
@@ -422,7 +422,8 @@ article main {
     .narrower {
         max-width: 25%;
 
-        img {
+        img,
+        video {
             width: 100%;
         }
 

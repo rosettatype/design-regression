@@ -26,6 +26,16 @@ Slideshow inside browser frame:
    </div>
 </div>
 
+Video inside browser frame:
+
+<div class="browser">
+   <!-- needs to be 'muted' to 'autoplay', optionally remove 'muted'/'autoplay' or add 'controls' -->
+   <video muted autoplay>
+      <!-- just add the mp4 to the repo and link locally instead of this placeholder-->
+      <source src="//commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
+   </video>
+</div>
+
 ## Background to the study
 
 We presented this work at the [ICTVC 8](https://ictvc.org/2022/en/) conference in Thessaloniki in July 2022. 
