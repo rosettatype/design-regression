@@ -47,7 +47,7 @@ Previous studies of disfluency have measured difficulty in two ways:
 
 ## What we did
 
-We have made the study website and data available on [GitHub](https://github.com/MrBrezina/disfluency-study) and licenced them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
+We have made the study website and data available on [GitHub](https://github.com/MrBrezina/disfluency-study) and licensed them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
 
 To address our two research questions, we obtained participants’ judgments of legibility and of memory, and measured the speed and accuracy of identifying and remembering words.
 
