@@ -14,28 +14,6 @@ intro: |
 sharing_image: /assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/sharing_image.png
 ---
 
-# Examples
-
-Slideshow inside browser frame: 
-
-<div class="browser">
-   <div class="slideshow">
-   <div><img src="/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_1.png" alt=""></div>
-   <div>Slides can be anything! Even just text</div>
-   <div><img src="/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_1.png" alt=""></div>
-   </div>
-</div>
-
-Video inside browser frame:
-
-<div class="browser">
-   <!-- needs to be 'muted' to 'autoplay', optionally remove 'muted'/'autoplay' or add 'controls' -->
-   <video muted autoplay>
-      <!-- just add the mp4 to the repo and link locally instead of this placeholder-->
-      <source src="//commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4">
-   </video>
-</div>
-
 ## Background to the study
 
 We presented this work at the [ICTVC 8](https://ictvc.org/2022/en/) conference in Thessaloniki in July 2022. 
@@ -155,17 +133,18 @@ calculated, and this was used to set a consistent rate for the main
 part of the study. The main part used a different set of letters:
 “a, b, c, e, h, j, l, n, p, q, r, t, z”.
 
-![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_1.png){: .browser}
-
-![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_2.png){: .browser}
-
-![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_3.png){: .browser}
-
-![Example trial from the study. Click on arrows to proceed.](/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_4.png){: .browser}
+<div class="browser">
+   <div class="slideshow">
+   <div><img alt="Example trial from the study. Click on arrows to proceed." src="/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_1.png" alt=""></div>
+   <div><img alt="Example trial from the study. Click on arrows to proceed." src="/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_2.png" alt=""></div>
+   <div><img alt="Example trial from the study. Click on arrows to proceed." src="/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_3.png" alt=""></div>
+   <div><img alt="Example trial from the study. Click on arrows to proceed." src="/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_4.png" alt=""></div>
+   </div>
+</div>
 
 <figcaption id="fig:four"><strong>Figure 4:</strong> Example trial from the study. Click on arrows to proceed.</figcaption>
 
-<video width="800" height="800" class="outlined" autoplay>
+<video width="800" height="800" class="outlined" muted autoplay>
   <source src="/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/all-letters.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
