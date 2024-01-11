@@ -14,6 +14,18 @@ intro: |
 sharing_image: /assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/sharing_image.png
 ---
 
+# Examples
+
+Slideshow inside browser frame: 
+
+<div class="browser">
+   <div class="slideshow">
+   <div><img src="/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_1.png" alt=""></div>
+   <div>Slides can be anything! Even just text</div>
+   <div><img src="/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/screenshot_1.png" alt=""></div>
+   </div>
+</div>
+
 ## Background to the study
 
 We presented this work at the [ICTVC 8](https://ictvc.org/2022/en/) conference in Thessaloniki in July 2022. 

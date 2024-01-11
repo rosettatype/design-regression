@@ -48,6 +48,16 @@
         }
     }
 
+    // Carousel buttons
+    .tns-controls button {
+        background: transparent;
+        color: $foreground;
+
+        &:hover {
+            color: $interactive;
+        }
+    }
+
     // Page logotype
     h1#title a {
         @include underline(4px, $foreground, $interactive);
