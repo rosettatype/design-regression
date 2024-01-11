@@ -22,11 +22,27 @@ var layout = {
     },
 };
 
-var colors = [
-    "#D6CBA2",
-    "#302C0D",
-    "#30280D4D",
-]
+var COLORS = {
+    // Colors from theme are:
+    // theme-accent
+    // theme-foreground
+    // theme-foreground + "4D"
+    "sand": [
+        "#D6CBA2",
+        "#302C0D",
+        "#30280D4D",
+    ],
+    "blue": [
+        "#ADCBDC",
+        "#002241",
+        "#0022414D",
+    ],
+    "red": [
+        "#DAABA5",
+        "#2F000E",
+        "#2F000E4D",
+    ]
+}
 
 var config = {
     displayModeBar: false, // hide the Ploty bar
@@ -45,8 +61,8 @@ var config = {
  * @param {*} options - the options that were asked
  * @param {*} values - 
  */
-function BoxChart(node, name, groups, options, values) {
-    console.debug("BoxChart", node, name, groups, options, values)
+function BoxChart(node, name, groups, options, values, colors) {
+    console.debug("BoxChart", node, name, groups, options, values, colors)
 
     if (!node || !name || groups.length != options.length != values.length / 2) {
         console.warn("Some of the BoxChart options were invalid. Groups and \
@@ -95,8 +111,8 @@ function BoxChart(node, name, groups, options, values) {
 /**
  * Plotting Bar Charts
  */
-function BarChart(node, title, label, groups, options, values, errors, offset) {
-    console.debug("BarChart", node, title, label, groups, options, values, errors, offset)
+function BarChart(node, title, label, groups, options, values, errors, offset, colors) {
+    console.debug("BarChart", node, title, label, groups, options, values, errors, offset, colors)
 
     if (!node || !title) {
         console.warn("Some of the BarChart options were invalid.")
@@ -153,6 +169,13 @@ function BarChart(node, title, label, groups, options, values, errors, offset) {
  */
 window.addEventListener("load", function () {
 
+    var theme = "blue",
+        bodyTheme = document.getElementsByTagName("body")[0].className.match("theme-([A-z]*)");
+
+    if (bodyTheme.length !== 0) {
+        theme = bodyTheme[1]
+    }
+
     var boxcharts = document.querySelectorAll(".boxchart")
     if (boxcharts) {
         boxcharts.forEach(function (node) {
@@ -164,7 +187,8 @@ window.addEventListener("load", function () {
                     node.dataset.options.split(";"),
                     node.dataset.values.split(";").map(function (arrayString) {
                         return arrayString.split(",")
-                    })
+                    }),
+                    COLORS[theme],
                 )
             } catch (e) {
                 console.error("Failed to create BoxChart: " + e)
@@ -195,6 +219,7 @@ window.addEventListener("load", function () {
                     }),
                     plot_errors,
                     node.dataset.offset,
+                    COLORS[theme],
                 )
             } catch (e) {
                 console.error("Failed to create BarChart: " + e)
