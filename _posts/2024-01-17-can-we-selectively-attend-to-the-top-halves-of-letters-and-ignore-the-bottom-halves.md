@@ -69,7 +69,7 @@ diagonal, from top left to bottom right, contains letters where the
 variation is applied to both the top and bottom of the letter. These are
 labelled ‘normal’ letters in contrast to the ‘composite’ letters where
 the top and bottom come from different versions of the normal letters.
-Highlighted in gray are letters that were used to create the pairs described in figures 3a–d below.</figcaption>
+Highlighted in grey are letters that were used to create the pairs described in figures 3a–d below.</figcaption>
 
 To test for holistic processing, a comparison is made between two
 conditions:
@@ -142,7 +142,7 @@ part of the study. The main part used a different set of letters:
    </div>
 </div>
 
-<figcaption id="fig:four"><strong>Figure 4:</strong> Example trial from the study. Click on arrows to proceed.</figcaption>
+<figcaption id="fig:four"><strong>Figure 4:</strong> Example trial from the study. Click on arrows to proceed. Participants were asked to look at a series of two letters, presented one after the other, with a pattern mask in between. The transition was automatic after defined period of time for each letter and mask. Only, after both letters had been shown, the response options were shown and the letters hidden. The task was to say whether the top halves of the two letters were identical.</figcaption>
 
 <video width="800" height="800" class="outlined" muted autoplay>
   <source src="/assets/2024-01-17-can-we-selectively-attend-to-the-top-halves-of-letters-and-ignore-the-bottom-halves/all-letters.mp4" type="video/mp4">
@@ -222,7 +222,7 @@ represent the amount of variation among participants.</figcaption>
 ### Further comparisons across groups of participants
 
 Although we aimed to achieve a similar level of performance in designers
-and non-designers, by adjusting the presentation rate the letters, we
+and non-designers, by adjusting the presentation rate of the letters, we
 did find that [graphic designers,](#sn:stat10) [letter designers,](#sn:stat11) and [typographers](#sn:stat12) were
 better at detecting the differences than non-designers. Letter designers
 were better than [graphic designers](#sn:stat13) and [other designers.](#sn:stat14) See [Figure 7](#fig:seven).
@@ -239,7 +239,7 @@ were better than [graphic designers](#sn:stat13) and [other designers.](#sn:stat
 <figcaption id="fig:seven"><strong>Figure 7:</strong> Overall AUC scores for each group of participants, combining
 congruent and incongruent letter pairs.</figcaption>
 
-The presentation rate the letters can also be compared across groups
+The presentation rate of the letters can also be compared across groups
 ([Figure 8](#fig:eight)). The non-designers received longer presentation times than
 [graphic designers](#sn:stat15) and [letter designers.](#sn:stat16) This is expected as they would
 be likely to get fewer correct responses during the practice trials.
