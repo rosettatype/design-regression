@@ -7,7 +7,7 @@ categories:
 authors:
     - David Březina
     - Mary Dyson
-readingtime: 8 min read
+readingtime: 10 min read
 theme: blue
 intro: |
     We conducted a study online to address this question, comparing designers and non-designers. The results are somewhat surprising.
