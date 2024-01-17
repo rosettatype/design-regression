@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can we selectively attend to the top halves of letters and ignore the bottom halves? 
-date: 2024-01-17 11:00:00
+date: 2024-01-17 10:00:00
 categories:
     - Article
 authors:
