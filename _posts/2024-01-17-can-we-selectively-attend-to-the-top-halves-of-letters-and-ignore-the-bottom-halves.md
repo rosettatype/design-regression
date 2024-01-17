@@ -33,6 +33,7 @@ artists) attend to parts of letters. We therefore predicted that
 designers, and in particular letter designers, might not process letters
 holistically, whereas non-designers would process letters holistically.
 
+
 ## What we did
 
 ### Tasks
@@ -169,6 +170,7 @@ into:
 
 We have made the study website and data available on [GitHub](https://github.com/MrBrezina/holistic-study) and licensed them under a [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](http://creativecommons.org/licenses/by-sa/4.0/).
 
+
 ## What we found
 
 ### Holistic processing
@@ -258,6 +260,7 @@ designers.](#sn:stat17)
 <figcaption id="fig:eight"><strong>Figure 8:</strong> Presentation rates in miliseconds (based on practice trials) for each group
 of participants.</figcaption>
 
+
 ## Possible explanations
 
 We found evidence for holistic processing of letters in non-designers
@@ -319,6 +322,7 @@ variation (in contrast and terminals) is applied to both halves.</aside>
 {% include cta-feedback.html %}
 
 {% include cta-newsletter.html %}
+
 
 ## References
 
