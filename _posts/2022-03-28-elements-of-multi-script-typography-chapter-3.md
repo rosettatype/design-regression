@@ -154,6 +154,11 @@ but often use Latin-script numerals and text snippets, e.g. email or web
 addresses. The composer changes the direction and position of the
 characters as users type (see [Figure 6](#fig:bidi-input)). This becomes crucial in word processors and online forms.
 
+<video class="outlined narrow" muted autoplay loop>
+  <source src="/assets/2022-03-28-elements-of-multi-script-typography-chapter-3/bidi-input.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ![Inputting Latin-script text within Arabic](/assets/2022-03-28-elements-of-multi-script-typography-chapter-3/bidi-input.svg)
 {: .narrow}
 
