@@ -1,5 +1,5 @@
 /**
- * Define Adapter fallback fonts for non-variable-font non-woff2 browsers with
+ * Define Adapter fallback fonts for non-variable-font browsers with
  * AdapterOPSZ names and distinct font-weight
  */
 
@@ -9,7 +9,7 @@
     font-family: "AdapterPEDisplay";
     font-weight: 800;
     font-style: normal;
-    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterPEDisplayWeb-Eb.woff") format("woff");
+    src: url("https://webfonts.rosettatype.com/dr/AdapterPEDisplayWeb-Eb.woff2") format("woff2");
 }
 
 /* Text Regular */
@@ -18,7 +18,7 @@
     font-family: "AdapterPEText";
     font-weight: 400;
     font-style: normal;
-    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterPETextWeb-Rg.woff") format("woff");
+    src: url("https://webfonts.rosettatype.com/dr/AdapterPETextWeb-Rg.woff2") format("woff2");
 }
 
 /* Text Bold */
@@ -27,7 +27,7 @@
     font-family: "AdapterPEText";
     font-weight: 700;
     font-style: normal;
-    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterPETextWeb-Bd.woff") format("woff");
+    src: url("https://webfonts.rosettatype.com/dr/AdapterPETextWeb-Bd.woff2") format("woff2");
 }
 
 /* Variable font all in one, if supported */
@@ -37,7 +37,7 @@
         font-family: "AdapterPEVF";
         font-weight: 100 900;
         font-style: normal;
-        src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterPEVFWeb-All.woff2") format("woff2");
+        src: url("https://webfonts.rosettatype.com/dr/AdapterPEVFWeb-All.woff2") format("woff2");
     }
 }
 
@@ -49,7 +49,7 @@
     font-family: "AdapterArabicText";
     font-weight: 400;
     font-style: normal;
-    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterArabicTextWeb-Rg.woff") format("woff");
+    src: url("https://webfonts.rosettatype.com/dr/AdapterArabicTextWeb-Rg.woff2") format("woff2");
 }
 
 /* Text Bold */
@@ -58,7 +58,7 @@
     font-family: "AdapterArabicText";
     font-weight: 700;
     font-style: normal;
-    src: url("https://universalspecimen.rosettatype.com/ui-fonts/fallback/AdapterArabicTextWeb-Bd.woff") format("woff");
+    src: url("https://webfonts.rosettatype.com/dr/AdapterArabicTextWeb-Bd.woff2") format("woff2");
 }
 
 @supports (font-variation-settings: initial) {
@@ -67,7 +67,7 @@
         font-family: "AdapterArabicVF";
         font-weight: 100 900;
         font-style: normal;
-        src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterArabicVFWeb-All.woff2") format("woff2");
+        src: url("https://webfonts.rosettatype.com/dr/AdapterArabicVFWeb-All.woff2") format("woff2");
     }
 }
 
@@ -96,7 +96,7 @@
         font-family: "AdapterMonoVF";
         font-weight: 100 900;
         font-style: normal;
-        src: url("https://universalspecimen.rosettatype.com/ui-fonts/AdapterMonoPEVF-All.woff2") format("woff2");
+        src: url("https://webfonts.rosettatype.com/dr/AdapterMonoPEVF-All.woff2") format("woff2");
     }
 }
 
