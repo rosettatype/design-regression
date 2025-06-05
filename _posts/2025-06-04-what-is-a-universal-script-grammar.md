@@ -12,10 +12,10 @@ intro:
 sharing_image: /assets/2025-06-04-what-is-a-universal-script-grammar/sharing_image.png
 ---
 
-> For myself, I always write about Dublin,  
-> because if I can get to the heart of Dublin  
-> I can get to the heart of all the cities of the world.  
-> In the particular is contained the universal.
+*For myself, I always write about Dublin,  
+because if I can get to the heart of Dublin  
+I can get to the heart of all the cities of the world.  
+In the particular is contained the universal.*
 
 ― James Joyce ([Ellman, 1959/1982, p. 50](#ref:ellman1959))
 
@@ -28,7 +28,7 @@ Although the focus is on scripts and character recognition, it is worth remember
 
 ![Obtaining letter identities as a part of word recognition](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_01.svg){: .full}
 
-<figcaption id="fig:1"><strong>Figure 1:</strong> Obtaining letter identities as a part of word recognition (after <a href="#ref:larson2005">Larson, 2005</a>).</figcaption>
+<figcaption id="fig:1"><strong>Figure 1:</strong> Obtaining letter identities as a part of word recognition (after <a href="#ref:larson2005">Larson, 2005</a>). Stimulus (bottom) is interpreted through a network of character detectors (the third row) and associated abstract character identities (the second row) to select one of potential word candidates (the first row). The correct candidate, the word “CORK”, is confirmed by virtue of all of its four characters being recognized in the stimulus.</figcaption>
 
 ![Geometrically identical shape is interpreted to obtain two different character identities ("H” in the word “THE” and “A” in the word “CAT") based on context](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_02.svg){: .full}
 
