@@ -55,7 +55,7 @@ Conservative epistemology makes innovation hard, perhaps even impossible — a 
 ![The letter “a” from the New Alphabet proposal by Wim Crouwel](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_04.svg)
 {: .narrow}
 
-<figcaption id="fig:4"><strong>Figure 4:</strong> The letter “a” from the New Alphabet proposal by Wim Crouwel (<a href="#ref:crouwel1967">1967</a>).</figcaption>
+<figcaption id="fig:4"><strong>Figure 4:</strong> The letter “a” from the New Alphabet proposal by Wim Crouwel (<a href="#ref:crouwel1967">1967</a>). See the whole typeface at <a href="https://www.thefoundrytypes.com/fonts/new-alphabet/">The Foundry Types website</a>.</figcaption>
 
 The potential to reform may be exhilarating for the radical artist within, but personal experience or preference are not solid grounds for the assessment of readability. Yet, on a daily basis, influential groups, schools of thought, fashion trends, or individuals affect readers’ perception of what is [readable.](#sn:5) Formed through education, reader's expectations keep on evolving and adapting. The internal representations of characters in human minds are thus a social construct.
 
@@ -73,10 +73,10 @@ Humans consider objects, such as faces or cars, identical to their mirrored imag
 
 This can help us expose more nuance regarding the nature of a character. Looking at the picture of the lowercase letters “b” and “d” (see [Figure 5](#fig:5)) one may wonder whether these are mirrored images of each other. Attentive readers may observe that, strictly speaking, they are not. There are clear geometrical differences between the two. Yet, they do seem mirrored on some level. How is it possible that two straightforward material images can be evaluated in two different ways?
 
-![Letters “b” and “d” and a mirror image of “d” on the right from serif (above) and sans-serif (below) fonts](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_05.svg)
+![Letters “b” and “d” and a mirror image of “d” on the right from a seriffed font](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_05.svg)
 {: .narrow}
 
-<figcaption id="fig:5"><strong>Figure 5:</strong> Letters “b” and “d” and a mirror image of “d” on the right from serif (above) and sans-serif (below) fonts.</figcaption>
+<figcaption id="fig:5"><strong>Figure 5:</strong> Letters “b” and “d” and a mirror image of “d” on the right from a seriffed font.</figcaption>
 
 There are two different ways we look at these letter shapes. Depending on the objective of the comparison, we choose one that better suits the task. In order to model these, we would need multiplicitous representations or two simple ones for either letter. Importantly, this also shows that there are conceptual differences between material characters and their corresponding internal representations.
 
@@ -95,19 +95,19 @@ considered independently of language. Calligraphers might argue, the smallest un
 
 In fact, study of font production tools reveals a pool of diverse character decompositions motivated by efficiency and convenience. The Metafont system by Donald Knuth ([1982](#ref:knuth1982)) started off with a stroke-based paradigm derived from calligraphy. The Ikarus system developed by Peter Karow ([1998](#ref:karow1998)) and his team in the early 1970s described character contours as a series of splines (curved segments). Barry Blesser et al. ([1973](#ref:blesseretal1973)) and Hofstadter ([1982](#ref:hofstadter1982)) elaborated on more notional features, see [Figures 7](#fig:7) and [8](#fig:8). Debra Adams ([1989](#ref:adams1989)) experimented with “primitive parts" (components) used to build whole characters, see [Figure 9](#fig:9). Changyuan Hu and Roger Hersch ([2001](#ref:hu-hersch2001)) proposed a hybrid approach that combines components of different kinds, see [Figure 10](#fig:10).
 
-![](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_07.png)
+![Blesser et al. (1973) pointed out differences between physical, perceptual, and functional attributes](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_07.png)
 
 <figcaption id="fig:7"><strong>Figure 7:</strong> Blesser et al. (<a href="#ref:blesseretal1973">1973</a>) pointed out differences between physical, perceptual, and functional attributes.</figcaption>
 
-![](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_08.png)
+![Hofstadter (1982) proposed the idea of a “role” to capture more notional design features](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_08.png)
 
-<figcaption id="fig:8"><strong>Figure 8:</strong> Hofstadter (<a href="#ref:hofstadter1982">1982</a>) proposed the idea of “role” to capture more notional design features. The illustration is from Gary McGraw and Douglas Hofstadter (<a href="#ref:mcgraw-hofstadter1996">1996</a>).</figcaption>
+<figcaption id="fig:8"><strong>Figure 8:</strong> Hofstadter (<a href="#ref:hofstadter1982">1982</a>) proposed the idea of a “role” to capture more notional design features. The illustration is from Gary McGraw and Douglas Hofstadter (<a href="#ref:mcgraw-hofstadter1996">1996</a>).</figcaption>
 
-![](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_09.png)
+![To compose character shapes <em>abcdefg</em> by Adams (1989) recombines “primitive parts”](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_09.png)
 
 <figcaption id="fig:9"><strong>Figure 9:</strong> To compose character shapes <em>abcdefg</em> by Adams (<a href="#ref:adams1989">1989</a>) recombines “primitive parts”.</figcaption>
 
-![](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_10.png)
+![To compose character shapes CPFPage by Hu and Hersch (2001) combines qualitatively different components such as sweeps, stems, and serifs](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_10.png)
 
 <figcaption id="fig:10"><strong>Figure 10:</strong> To compose character shapes <em>CPFPage</em> by Hu and Hersch (<a href="#ref:hu-hersch2001">2001</a>) combines qualitatively different components such as sweeps, stems, and serifs.</figcaption>
 
@@ -115,10 +115,10 @@ Although geometrically precise, these descriptions cannot by themselves warrant 
 
 However, it can be shown that some production concepts such as components and more general attributes and notions can be taken as [similarity features](#sn:9) and used to effectively model similarity judgements and coherence in fonts ([Březina, 2018](#ref:brezina2018), see [Figure 11](#fig:11). This suggests that by studying craft knowledge, we can start modelling perceptual character representations and their [relationships.](#sn:10)
 
-![](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_11a.svg){: .full}
-![](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_11b.svg){: .full}
+![Character models derived from craft knowledge were used to predict perceptual similarity judgements by readers: diagrams showing the character shapes interpreted in terms of features on the basis of craft knowledge](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_11a.svg){: .full}
+![Character models derived from craft knowledge were used to predict perceptual similarity judgements by readers: contextual similarity judgements of character triplets were collected and compared with predictions calculated using the features](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_11b.svg){: .full}
 
-<figcaption id="fig:11"><strong>Figure 11:</strong> Character models derived from craft knowledge were used to predict perceptual similarity judgements by readers of three different scripts (<a href="#ref:brezina2018">Březina, 2018</a>).</figcaption>
+<figcaption id="fig:11"><strong>Figure 11:</strong> Character models derived from craft knowledge were used to predict perceptual similarity judgements by readers (<a href="#ref:brezina2018">Březina, 2018</a>). Above: diagrams showing the character shapes interpreted in terms of features on the basis of craft knowledge. Below: contextual similarity judgements of character triplets were collected and compared with predictions calculated using the features.</figcaption>
 
 ## The universal principles
 
