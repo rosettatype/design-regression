@@ -6,7 +6,7 @@ categories:
     - Article
 authors:
     - David Březina
-readingtime: 20 min read
+readingtime: 15 min read
 theme: red
 intro:
 sharing_image: /assets/2025-06-04-what-is-a-universal-script-grammar/sharing_image.png
