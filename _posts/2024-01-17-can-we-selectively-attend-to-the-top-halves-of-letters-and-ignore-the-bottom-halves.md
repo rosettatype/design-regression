@@ -3,7 +3,7 @@ layout: post
 title: Can we selectively attend to the top halves of letters and ignore the bottom halves? 
 date: 2024-01-17 10:00:00
 categories:
-    - Article
+    - Research
 authors:
     - David Březina
     - Mary Dyson

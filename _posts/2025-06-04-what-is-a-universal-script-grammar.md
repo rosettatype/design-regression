@@ -3,7 +3,7 @@ layout: post
 title: What is a (universal) script grammar?
 date: 2025-06-04 10:00:00
 categories:
-    - Article
+    - Essay
 authors:
     - David Březina
 readingtime: 15 min read
