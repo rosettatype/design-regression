@@ -10,6 +10,11 @@ readingtime: 15 min read
 theme: red
 intro:
 sharing_image: /assets/2025-06-04-what-is-a-universal-script-grammar/sharing_image.png
+permissions:
+- blesseretal1973: todo
+- mcgraw-hofstadter1996: given via email
+- adams1989: todo
+- hu-hersch2001: given via email
 ---
 
 *For myself, I always write about Dublin,  
@@ -59,7 +64,7 @@ Conservative epistemology makes innovation hard, perhaps even impossible — a 
 
 <figcaption id="fig:4"><strong>Figure 4:</strong> The letter “a” from the New Alphabet proposal by Wim Crouwel (<a href="#ref:crouwel1967">1967</a>). See the whole project at <a href="https://www.thefoundrytypes.com/fonts/new-alphabet/">The Foundry Types website</a>.</figcaption>
 
-The potential to reform may be exhilarating for the radical artist within, but personal experience or preference are not solid grounds for the assessment of readability. Yet, on a daily basis, influential groups, schools of thought, fashion trends, or individuals affect readers’ perception of what is [readable.](#sn:5) Formed through education, reader's expectations keep on evolving and adapting. The internal representations of characters in human minds are thus a social construct.
+The potential to reform may be exhilarating for the radical artist within, but personal experience or preference are not solid grounds for the assessment of readability. Yet, on a daily basis, influential groups, schools of thought, fashion trends, or individuals affect readers’ perception of what is [readable.](#sn:5) Formed through education, reader's expectations keep on evolving and adapting. The internal representations of character concepts in human minds are thus a social construct.
 
 ## Script grammar
 
@@ -73,7 +78,7 @@ The differences between shapes and character shapes have been recently summarize
 
 Humans consider objects, such as faces or cars, identical to their mirrored images. This is not true for characters in some scripts of the world, such as Latin, where this invariance gets unlearned through education.
 
-This can help us expose more nuance regarding the nature of a character. Looking at the picture of the lowercase letters “b” and “d” (see [Figure 5](#fig:5)) one may wonder whether these are mirrored images of each other. Attentive readers may note that, strictly speaking, they are not. There are clear geometrical differences between the two. Yet, they do seem mirrored on some level. How is it possible that two straightforward material images can be evaluated in two different ways?
+This can help us expose more nuance regarding the nature of a character. Looking at the picture of the lowercase letters “b” and “d” (see [Figure 5](#fig:5)) one may wonder whether these are mirrored images of each other. Attentive readers may note that, strictly speaking, they are not. There are clear geometrical differences between the two. Yet, they do seem mirrored on some level. How is it possible that two straightforward material images can be interpreted in two different ways?
 
 ![Letters “b” and “d” and a mirror image of “d” on the right from a seriffed font](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_05.svg)
 {: .narrow}
@@ -193,7 +198,7 @@ Adams, D. (1989). abcdefg (a better constraint driven environment for font gener
 Black\[Foundry\], & Van Rossum, J. (2025). *Fontra*. <https://fontra.xyz>
 {: id="ref:blackfoundry-vanrossum2025"}
 
-Blesser, B., Shillman, R., Cox, C., Kuklinski, T., Ventura, J., & Eden, M. (1973). character recognition based on phenomenological attributes. *Visible Language*, *7*(3), 209—223.
+Blesser, B., Shillman, R., Cox, C., Kuklinski, T., Ventura, J., & Eden, M. (1973). Character recognition based on phenomenological attributes. *Visible Language*, *7*(3), 209—223.
 {: id="ref:blesseretal1973"}
 
 Březina, D. (2018). *Coherence in typeface design: Visual similarity of characters in Cyrillic, Devanagari, and Latin*. University of Reading. <https://doi.org/10.48683/1926.00085141>
@@ -257,7 +262,7 @@ Johnston, E. (1958). *Writing & illuminating, & lettering* (Reprint). Sir Isaac 
 Joyce, J. (1922). *Ulysses*. Shakespeare and Company.
 {: id="ref:joyce1922"}
 
-Karow, P. (1998). Two decades of typgraphic research at URW: A retrospective. In R. D. Hersch, J. André, & H. Brown (Eds.), *Electronic publishing, artistic imaging, and digital typography* (pp. 265—280). Springer. <https://doi.org/10.1007/BFb0053276>
+Karow, P. (1998). Two decades of typographic research at URW: A retrospective. In R. D. Hersch, J. André, & H. Brown (Eds.), *Electronic publishing, artistic imaging, and digital typography* (pp. 265—280). Springer. <https://doi.org/10.1007/BFb0053276>
 {: id="ref:karow1998"}
 
 Kim, Y., Allassonnière-Tang, M., Miton, H., & Morin, O. (2025). The phonology of letter shapes: Feature economy and informativeness in 43 writing systems. *Journal of Memory and Language*, *142*, 104620. <https://doi.org/10.1016/j.jml.2025.104620>
