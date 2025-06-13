@@ -136,7 +136,7 @@ With methods to elicit features and confirm their perceptual relevance, we might
 
 While the script grammar can use more specific formal descriptions, the universal script principles would rely on more general requirements determined by the constraints of human perception and be globally applicable to all forms of writing. Here is an early draft of a few script principles that might hold as universal:
 
-- Spatially, characters are organised in a predominantly linear way.
+- Spatially, characters are organised sequentially, in a predominantly linear way.
 - Although they can touch or connect, characters occupy their own space with minimal overlaps.
 - Character identities are invariant to size, rotation, position, and colour.
 - Characters can be represented as configurations of more or less specific [features.](#sn:11)
@@ -200,7 +200,7 @@ Adams, D. (1989). abcdefg (a better constraint driven environment for font gener
 Black\[Foundry\], & Van Rossum, J. (2025). *Fontra*. <https://fontra.xyz>
 {: id="ref:blackfoundry-vanrossum2025"}
 
-Blesser, B., Shillman, R., Cox, C., Kuklinski, T., Ventura, J., & Eden, M. (1973). Character recognition based on phenomenological attributes. *Visible Language*, *7*(3), 209—223.
+Blesser, B. A., Shillman, R. J., Cox, C., Kuklinski, T. T., Ventura, J., & Eden, M. (1973). Character recognition based on phenomenological attributes. *Visible Language*, *7*(3), 209—223.
 {: id="ref:blesseretal1973"}
 
 Březina, D. (2018). *Coherence in typeface design: Visual similarity of characters in Cyrillic, Devanagari, and Latin*. University of Reading. <https://doi.org/10.48683/1926.00085141>
