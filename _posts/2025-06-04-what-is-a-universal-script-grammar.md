@@ -6,11 +6,14 @@ categories:
     - Essay
 authors:
     - David Březina
+editor:
+    - Mary Dyson
 readingtime: 15 min read
 theme: red
 intro:
 sharing_image: /assets/2025-06-04-what-is-a-universal-script-grammar/sharing_image.png
 permissions:
+- larson2005: given via email
 - blesseretal1973: todo
 - mcgraw-hofstadter1996: given via email
 - adams1989: todo
@@ -28,14 +31,14 @@ It could be argued that the success of machine learning owes much to the willing
 
 This is particularly important with respect to digital technologies that embody writing. The assemblage of [topics discussed](#sn:1) attempts to map the relationship among the font technologies (such as font formats and font editors), the manual and educational origins of writing (in the sense of *mark making*), and human perception (namely character recognition). Would it be theoretically possible to derive basic morphological principles of scripts based on the human condition? And if so, why would we want to do that?
 
-Although the focus is on scripts and character recognition, it is worth remembering that these exist in the wider [context of reading.](#sn:2) The contemporary consensus among cognitive psychologists is that we read individual letters in parallel to obtain character identities ([Larson, 2005](#ref:larson2005); [Grainger, Rey & Dufau, 2008](#ref:grainger-rey-dufau2008)), see also [Figure 1](#fig:1). These are subsequently mapped to potential candidate words. The process of character identification/recognition is not perfect and there may be a need to confirm the identities from context, for example:
+Although the focus is on scripts and character recognition, it is worth remembering that these exist in the wider [context of reading.](#sn:2) The contemporary consensus among cognitive psychologists is that we process individual letters in parallel to obtain character identities ([Larson, 2005](#ref:larson2005); [Grainger, Rey & Dufau, 2008](#ref:grainger-rey-dufau2008)), see also [Figure 1](#fig:1). These are subsequently mapped to potential candidate words. The process of character identification/recognition is not perfect and there may be a need to confirm the identities from context, for example:
 
 - based on the content ([Palmer, 1999, p. 428](#ref:palmer1999); [Carreiras et al., 2014](#ref:carreirasetal2014); [Marcet and Perea, 2017](#ref:marcet-perea2017)), see also [Figure 2](#fig:2), or
 - based on the overall appearance of the font ([Sanocki, 1987](#ref:sanocki-1987); [Gauthier et al., 2006](#ref:gauthieretal2006); [Walker, 2008](#ref:walker2008); [Sanocki and Dyson, 2012](#ref:sanocki-dyson2012)).
 
-![A diagram showing obtaining letter identities as a part of word recognition (after Larson, 2005)](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_01.svg){: .full}
+![A diagram showing the obtaining of letter identities as a part of word recognition (after Larson, 2005)](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_01.svg){: .full}
 
-<figcaption id="fig:1"><strong>Figure 1:</strong> A diagram showing obtaining letter identities as a part of word recognition (after <a href="#ref:larson2005">Larson, 2005</a>). The stimulus (bottom row) is interpreted through a network of feature detectors (the third row) and associated character detectors (the second row) to select one of the potential word candidates (the first row). The correct candidate, the word “CORK”, is confirmed by virtue of all of its four characters being recognized in the correct order.</figcaption>
+<figcaption id="fig:1"><strong>Figure 1:</strong> A diagram showing the obtaining of letter identities as a part of word recognition (after <a href="#ref:larson2005">Larson, 2005</a>). The stimulus (bottom row) is interpreted through a network of feature detectors (the third row) and associated character detectors (the second row) to select one of the potential word candidates (the first row). The correct candidate, the word “CORK”, is confirmed by virtue of all of its four characters being recognised in the correct order.</figcaption>
 
 ![The geometrically identical shape is interpreted as two different character identities (“H” in the word “THE” and “A” in the word “CAT”) based on context (after Palmer 1999, p. 429).](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_02.svg){: .full}
 
@@ -45,7 +48,7 @@ Although the focus is on scripts and character recognition, it is worth remember
 
 Most of us learned what the letter “a” should look like in elementary school. But where does this knowledge come from, originally? After all, the teachers were taught the same way we were. In the words of Gertrude Stein ([1922, p. 178—188](#ref:stein1922)): the “a” is an “a” is an “a”. The convention is the curriculum.
 
-There is a good reason for such a conservative epistemology. It ensures the stability of the scripts and writing systems in use, but it also has a down side. And to paraphrase further, this time Noam Chomsky in the documentary Manufacturing Consent ([Achbar & Wintonick, 1992](#ref:achbar-wintonick1992)): reading acquisition can be seen as a system of imposed ignorance. Pupils are taught to read and write in a way that limits the potential shapes characters could have. Visual variation is repressed for the sake of effective communication. Many shapes are left to be ignored as non-characters. Is it possible that we repress some that would function well with respect to human requirements?
+There is a good reason for such a conservative epistemology. It ensures the stability of the scripts and writing systems in use, but it also has a downside. And to paraphrase further, this time Noam Chomsky in the documentary Manufacturing Consent ([Achbar & Wintonick, 1992](#ref:achbar-wintonick1992)): reading acquisition can be seen as a system of imposed ignorance. Pupils are taught to read and write in a way that limits the potential shapes characters could have. Visual variation is repressed for the sake of effective communication. Many shapes are left to be ignored as non-characters. Is it possible that we repress some that would function well with respect to human requirements?
 
 [Figure 3](#fig:3), showing a variety of shapes for the letter “a”, is inspired by a similar overview by Douglas Hofstadter ([1982](#ref:hofstadter1982)). It shows the visual diversity of the notion of the letter “a”. Would our teachers approve of them all? How can we identify most of them without any [additional instruction?](#sn:3)
 
@@ -68,13 +71,13 @@ The potential to reform may be exhilarating for the radical artist within, but p
 
 ## Script grammar
 
-Although employed by languages, scripts are visual entities that can be studied in their own right ([Vachek, 1945](#ref:vachek1945)). Taking inspiration from linguistics and Chomsky’s search for language universals ([1965](#ref:chomsky1965)), the idea of innate universal script principles would provide ways of studying the morphology and visual syntax of scripts, formally, in a unified way as a form of script grammar. Thus, the principles would feed into fields such as grammatology ([Gelb, 1952/1963](#ref:gelb1952)) and graphetics ([Meletis, 2020a](#ref:meletis2020a); [2020b](#ref:meletis2020b)), or [typeface/font design.](#sn:6) Below, I would like to illustrate why the idea of a script grammar is compelling and how we might go about defining it.
+Although employed by languages, scripts are visual entities that can be studied in their own right ([Vachek, 1945](#ref:vachek1945)). Taking inspiration from linguistics and Chomsky’s search for language universals ([1965](#ref:chomsky1965)), the idea of innate universal script principles would provide ways of studying the morphology and visual syntax of scripts, formally, in a unified way as a form of [script grammar.](#sn:6) Thus, the principles would feed into fields such as grammatology ([Gelb, 1952/1963](#ref:gelb1952)) and graphetics ([Meletis, 2020a](#ref:meletis2020a); [2020b](#ref:meletis2020b)), or typeface/font design. Below, I would like to illustrate why the idea of a script grammar is compelling and how we might go about defining it.
 
-Conventionally within visual communication, the unit of a script is called a character . It may be defined as the smallest unit of writing that can be mapped to a unit of language (comparable to *basic shapes* in [Meletis, 2020a](#ref:meletis2020a)). While fluent readers might be able to point out a particular letter from a line-up and consider it the simplest thing, representing a character within a script grammar requires consideration of the general population of its users and psychological processes involved in character recognition as well as processes of production.
+Conventionally within visual communication, the unit of a script is called a character. It may be defined as the smallest unit of writing that can be mapped to a unit of language (comparable to *basic shapes* in [Meletis, 2020a](#ref:meletis2020a)). While fluent readers might be able to point out a particular letter from a line-up and consider it the simplest thing, representing a character within a script grammar requires consideration of the general population of its users and psychological processes involved in character recognition as well as processes of production.
 
-In order to explain why we are extremely good at reading, which is a relatively novel invention on the evolutionary scale, neuroscientists Stanislas Dehaene and Laurent Cohen ([2010](#ref:dehaene-cohen2010)) offer the hypothesis of neuronal recycling which proposes that during their lifetimes, humans reappropriate neuron centres in the brain that originally developed for different purposes, most notably shape recognition.
+In order to explain why we are extremely good at reading, which is a relatively novel invention on the evolutionary scale, neuroscientists Stanislas Dehaene and Laurent Cohen ([2010](#ref:dehaene-cohen2010)) offer the hypothesis of neuronal recycling which proposes that during their lifetimes, humans reappropriate neuron centres in the brain that were originally developed for different purposes, most notably shape recognition.
 
-The differences between shapes and character shapes have been recently summarized by Mary Dyson and the author ([Dyson & Březina, 2024](#ref:dyson-brezina2024)). From these, the most relevant to morphology are the human ability to [unlearn](#sn:7) mirror invariance and the positive effect of visual coherence across distinct characters (more about that in the next section).
+The differences between shapes and character shapes have been recently summarised by Mary Dyson and the author ([Dyson & Březina, 2024](#ref:dyson-brezina2024)). From these, the most relevant to morphology are the human ability to [unlearn](#sn:7) mirror invariance and the positive effect of visual coherence across distinct characters (more about that in the next section).
 
 Humans consider objects, such as faces or cars, identical to their mirrored images. This is not true for characters in some scripts of the world, such as Latin, where this invariance gets unlearned through education.
 
@@ -85,20 +88,20 @@ This can help us expose more nuance regarding the nature of a character. Lookin
 
 <figcaption id="fig:5"><strong>Figure 5:</strong> Letters “b” and “d” and a mirror image of “d” on the right from a seriffed font.</figcaption>
 
-There are two different ways we look at these letter shapes. Depending on the objective of the comparison, we choose one that better suits the task. In order to model these, we would need multiplicitous representations or two simple ones for either letter. Importantly, this also shows that there are conceptual differences between material characters and their corresponding internal representations.
+There are two different ways we look at these letter shapes. Depending on the objective of the comparison, we choose one that better suits the task. In order to model these, we would need multiplicitous formal descriptions or two simple ones for either letter. Importantly, this also shows that there are conceptual differences between material characters and their corresponding internal representations.
 
-The different levels of character representations can be modelled on a scale from material to more general (see [Figure 6](#fig:6)). There has been an increasing interest among scientists in decoding these internal representations and the processes involved across world scripts ([Changizi & Shimojo, 2005](#ref:changizi-shimojo2005); [Changizi et al., 2006](#ref:changizietal2006); [Morin, 2018](#ref:morin2018); [Miton & Morin, 2021](#ref:miton-morin2021); [Kim et al., 2025](#ref:kimetal2025)).
+The different character descriptions can be placed on a scale from material to more general (see [Figure 6](#fig:6)). There has been an increasing interest among scientists in formalising the internal representations and the processes involved across world scripts ([Changizi & Shimojo, 2005](#ref:changizi-shimojo2005); [Changizi et al., 2006](#ref:changizietal2006); [Morin, 2018](#ref:morin2018); [Miton & Morin, 2021](#ref:miton-morin2021); [Kim et al., 2025](#ref:kimetal2025)).
 
-![A diagram showing that characters can be modelled at different levels from specific material instances to more general representations](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_06.svg){: .full}
+![A diagram showing that characters can be modelled at different levels from specific material instances to more general descriptions](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_06.svg){: .full}
 
-<figcaption id="fig:6"><strong>Figure 6:</strong> A diagram showing that characters can be modelled at different levels from specific material instances to more general representations. The top layer represents their identities as used in language.</figcaption>
+<figcaption id="fig:6"><strong>Figure 6:</strong> A diagram showing that characters can be modelled at different levels from specific material instances to more general descriptions. The top layer represents their identities as used in language.</figcaption>
 
-The key question is what would be the right kind of general to describe a script grammar? Focusing on character identities in the graphemic sense provides no indication regarding their visual appearance (the linguistic units are associated with the visual units by convention). On the other hand, describing material character images in terms of their production might leave them disconnected from their use in language. Is there a way to formalize and connect the perceptual processes, including recognition and related top-down processes, to the material and production level? This would allow them to inform each other and connect more easily to the scripts’ socially-constructed nature. In fact, Blesser et al. ([1973](#ref:blesser1973)) suggested that a set of “grammar-like” rules could describe invariant similarity relationships among characters to predict human performance in character recognition.
+The key question is what would be the right kind of general to describe a script grammar? Focusing on character identities in the graphemic sense provides no indication regarding their visual appearance (the linguistic units are associated with the visual units by convention). On the other hand, describing material character images in terms of their production might leave them disconnected from their use in language. Is there a way to formalise and connect the perceptual processes, including recognition and related top-down processes, to the material and production level? This would allow them to inform each other and connect more easily to the scripts’ socially-constructed nature. In fact, Blesser et al. ([1973](#ref:blesseretal1973)) suggested that a set of “grammar-like” rules could describe invariant similarity relationships among characters to predict human performance in character recognition.
 
 ## The visual units of writing
 
 A character is not necessarily the smallest unit of a script when
-considered independently of language. Calligraphers might argue that, the smallest unit of writing should be a *stroke* as expressed in the work of Edward Johnston ([1906/1958](#ref:johnston1906)) and further formalised by Gerrit Noordzij ([2005](#ref:noordzij2005)). On the other hand, developers of contemporary font editors might nominate a *segment of a bézier curve* or a shape *component*. Note, that the propositions made by either group are motivated by the technology they use to produce character shapes. Writing is seen as primarily a material artefact or a [technological process.](#sn:8)
+considered independently of language. Calligraphers might argue that the smallest unit of writing should be a *stroke* as expressed in the work of Edward Johnston ([1906/1958](#ref:johnston1906)) and further formalised by Gerrit Noordzij ([2005](#ref:noordzij2005)). On the other hand, developers of contemporary font editors might nominate a *segment of a bézier curve* or a shape *component*. Note, that the propositions made by either group are motivated by the technology they use to produce character shapes. Writing is seen as primarily a material artefact or a [technological process.](#sn:8)
 
 In fact, the study of font production tools reveals a pool of diverse character decompositions motivated by efficiency and convenience. The Metafont system by Donald Knuth ([1982](#ref:knuth1982)) started off with a stroke-based paradigm derived from calligraphy. The Ikarus system developed by Peter Karow ([1998](#ref:karow1998)) and his team in the early 1970s described character contours as a series of splines (curved segments). Barry Blesser et al. ([1973](#ref:blesseretal1973)) and Hofstadter ([1982](#ref:hofstadter1982)) elaborated on more notional features, see [Figures 7](#fig:7) and [8](#fig:8). Debra Adams ([1989](#ref:adams1989)) experimented with “primitive parts" (components) used to build whole characters, see [Figure 9](#fig:9). Changyuan Hu and Roger Hersch ([2001](#ref:hu-hersch2001)) proposed a hybrid approach that combines components of different kinds, see [Figure 10](#fig:10).
 
@@ -120,25 +123,24 @@ In fact, the study of font production tools reveals a pool of diverse character
 
 Although geometrically precise, these descriptions cannot by themselves warrant successful recognition — it is unclear what makes a sequence of strokes a rendering of a character. This cannot be determined solely by a brush or pen or font editor or rudimentary topological descriptions (so-called skeletons). The top-down processes of human perception are a necessary requirement.
 
-However, it can be shown that some production concepts such as components and more general attributes and notions can be taken as [similarity features](#sn:9) and used to effectively model similarity judgements and coherence in fonts ([Březina, 2018](#ref:brezina2018), see [Figure 11](#fig:11). This suggests that by studying craft knowledge, we can start modelling perceptual character representations and their [relationships.](#sn:10)
+However, it can be shown that some production concepts such as components and more general attributes and notions can be taken as [similarity features](#sn:9) and used to effectively model similarity judgements and coherence in fonts ([Březina, 2018](#ref:brezina2018), see [Figure 11](#fig:11). This suggests that by studying craft knowledge, we can start formalising internal character representations and their [relationships.](#sn:10)
 
 ![Character models derived from craft knowledge were used to predict perceptual similarity judgements by readers: diagrams showing the character shapes interpreted in terms of features on the basis of craft knowledge](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_11a.svg){: .full}
 ![Character models derived from craft knowledge were used to predict perceptual similarity judgements by readers: contextual similarity judgements of character triplets were collected and compared with predictions calculated using the features](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_11b.svg){: .full}
 
-<figcaption id="fig:11"><strong>Figure 11:</strong> Character models derived from craft knowledge were used to predict perceptual similarity judgements by readers (<a href="#ref:brezina2018">Březina, 2018</a>). Above: diagrams showing the character shapes interpreted in terms of features on the basis of craft knowledge. Below: contextual similarity judgements of character triplets were collected and compared with predictions calculated using the features.</figcaption>
+<figcaption id="fig:11"><strong>Figure 11:</strong> Character models derived from craft knowledge were used to predict perceptual similarity judgements by readers (<a href="#ref:brezina2018">Březina, 2018</a>). Above: diagrams showing the character shapes interpreted in terms of features on the basis of craft knowledge. Below: comparison of contextual judgements of character triplets collected from readers.</figcaption>
 
 ## The universal principles
 
-With ways to elicit features and confirm their perceptual relevance, we might describe characters in a way that is relevant to recognition and that allows critiquing and upgrading the script grammars as our understanding evolves.
+With methods to elicit features and confirm their perceptual relevance, we might describe characters in a way that is relevant to recognition and that allows critiquing and upgrading the script grammars as our understanding evolves.
 
-While the script grammar can use more specific character representations, the universal script principles would rely on more general requirements determined by the constraints of human perception and globally applicable to all forms of writing. Here is an early draft of a few script principles that might hold as universal:
+While the script grammar can use more specific formal descriptions, the universal script principles would rely on more general requirements determined by the constraints of human perception and be globally applicable to all forms of writing. Here is an early draft of a few script principles that might hold as universal:
 
-- Spatially, characters are organized in a predominantly linear way.
+- Spatially, characters are organised in a predominantly linear way.
 - Although they can touch or connect, characters occupy their own space with minimal overlaps.
 - Character identities are invariant to size, rotation, position, and colour.
 - Characters can be represented as configurations of more or less specific [features.](#sn:11)
-- The features within a character are organized spatially in a non-linear way, typically in two dimensions.
-- Besides shared connections, each design feature belongs exclusively to a single character.
+- The features within a character are organised spatially in a non-linear way, typically in two dimensions.
 - The features of a character enable its recognition, overall visual coherence, or both. The recognition relies on sufficiently distinct sets of features being used for different characters while the visual coherence emerges as an effect of features shared across different characters.
 
 Notably, any of these principles can be compromised which may impede the effectivity of character recognition or overall visual coherence. For example, one might have difficulty reading a distant or rotated sign or artistic calligraphic piece with numerous letter overlaps.
@@ -192,7 +194,7 @@ Many designers have heard the cliché that every font is a revival, referring t
 Achbar, M., & Wintonick, P. (1992). *Manufacturing consent: Noam Chomsky and the media*. Zeitgeist Video.
 {: id="ref:achbar-wintonick1992"}
 
-Adams, D. (1989). abcdefg (a better constraint driven environment for font generation). In J. André & R. D. Hersch (Eds.), *Raster imaging and digital typography* (pp. 54-70). Cambridge University Press.
+Adams, D. (1989). abcdefg (a better constraint driven environment for font generation). In J. André & R. D. Hersch (Eds.), *Raster imaging and digital typography* (pp. 54–70). Cambridge University Press.
 {: id="ref:adams1989"}
 
 Black\[Foundry\], & Van Rossum, J. (2025). *Fontra*. <https://fontra.xyz>
@@ -213,7 +215,7 @@ Carreiras, M., Armstrong, B. C., Perea, M., & Frost, R. (2014). The what, when, 
 Changizi, M. A., & Shimojo, S. (2005). Character complexity and redundancy in writing systems over human history. *Proceedings of the Royal Society B: Biological Sciences*, *272*(1560), 267—275. <https://doi.org/10.1098/rspb.2004.2942>
 {: id="ref:changizi-shimojo2005"}
 
-Changizi, M. A., Zhang, Q., Ye, H., & Shimojo, S. (2006). The structures of letters and symbols throughout human history are selected to match those found in objects in natural scenes. *The American Naturalist*, *167*(5), E117—39. <https://doi.org/10.1086/502806>
+Changizi, M. A., Zhang, Q., Ye, H., & Shimojo, S. (2006). The structures of letters and symbols throughout human history are selected to match those found in objects in natural scenes. *The American Naturalist*, *167*(5), E117—139. <https://doi.org/10.1086/502806>
 {: id="ref:changizietal2006"}
 
 Chomsky, N. (1965). *Aspects of the theory of syntax*. The MIT Press.
@@ -229,7 +231,7 @@ Crouwel, W. (1967). *New alphabet, an introduction for a programmed typography, 
 Dehaene, S. (2010). *Reading in the brain: The new science of how we read*. Penguin Books.
 {: id="ref:dehaene-cohen2010"}
 
-Dyson, M. C., & Březina, D. (2024). Do we process characters as shapes, nothing special? In *Grapholinguistics in the 21st Century*. Venice. <https://grafematik2024.sciencesconf.org/>
+Dyson, M. C., & Březina, D. (2024, October 23–25). Do we process characters as shapes, nothing special? [Conference presentation]. *Grapholinguistics in the 21st Century*. Venice, Italy. <https://grafematik2024.sciencesconf.org/>
 {: id="ref:dyson-brezina2024"}
 
 Eliade, M. (1961). *Images and symbols* \[Images et symboles\] (P. Mairet, Trans.). Harvill Press. (Original work published 1952)
