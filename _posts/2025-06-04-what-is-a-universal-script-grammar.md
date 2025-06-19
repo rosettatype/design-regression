@@ -13,10 +13,11 @@ theme: red
 intro:
 sharing_image: /assets/2025-06-04-what-is-a-universal-script-grammar/sharing_image.png
 permissions:
-- larson2005: given via email
-- blesseretal1973: todo
+- larson2005: after, given via email
+- palmer1999: after
+- blesseretal1973: after
 - mcgraw-hofstadter1996: given via email
-- adams1989: todo
+- adams1989: after
 - hu-hersch2001: given via email
 ---
 
@@ -105,17 +106,17 @@ considered independently of language. Calligraphers might argue that the smalles
 
 In fact, the study of font production tools reveals a pool of diverse character decompositions motivated by efficiency and convenience. The Metafont system by Donald Knuth ([1982](#ref:knuth1982)) started off with a stroke-based paradigm derived from calligraphy. The Ikarus system developed by Peter Karow ([1998](#ref:karow1998)) and his team in the early 1970s described character contours as a series of splines (curved segments). Barry Blesser et al. ([1973](#ref:blesseretal1973)) and Hofstadter ([1982](#ref:hofstadter1982)) elaborated on more notional features, see [Figures 7](#fig:7) and [8](#fig:8). Debra Adams ([1989](#ref:adams1989)) experimented with “primitive parts" (components) used to build whole characters, see [Figure 9](#fig:9). Changyuan Hu and Roger Hersch ([2001](#ref:hu-hersch2001)) proposed a hybrid approach that combines components of different kinds, see [Figure 10](#fig:10).
 
-![Blesser et al. (1973) pointed out differences between physical, perceptual, and functional character attributes](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_07.png)
+![Differences between physical, perceptual, and functional character attributes (after Blesser et al., 1973)](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_07.svg)
 
-<figcaption id="fig:7"><strong>Figure 7:</strong> Blesser et al. (<a href="#ref:blesseretal1973">1973</a>) pointed out differences between physical, perceptual, and functional character attributes.</figcaption>
+<figcaption id="fig:7"><strong>Figure 7:</strong> Differences between physical, perceptual, and functional character attributes (after Blesser et al., <a href="#ref:blesseretal1973">1973</a>).</figcaption>
 
 ![Hofstadter (1982) proposed the idea of a “role” to capture more notional design features](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_08.png)
 
 <figcaption id="fig:8"><strong>Figure 8:</strong> Hofstadter (<a href="#ref:hofstadter1982">1982</a>) proposed the idea of a “role” to capture more notional design features. The illustration is from Gary McGraw and Douglas Hofstadter (<a href="#ref:mcgraw-hofstadter1996">1996</a>).</figcaption>
 
-![To compose character shapes, abcdefg by Adams (1989) recombines “primitive parts”](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_09.png)
+![To compose character shapes, the abcdefg system by Adams (1989) would recombine “primitive parts”](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_09.svg)
 
-<figcaption id="fig:9"><strong>Figure 9:</strong> To compose character shapes, <em>abcdefg</em> by Adams (<a href="#ref:adams1989">1989</a>) recombines “primitive parts”.</figcaption>
+<figcaption id="fig:9"><strong>Figure 9:</strong> To compose character shapes, the <em>abcdefg</em> system would recombine “primitive parts” (after Adams <a href="#ref:adams1989">1989</a>). The top row shows decomposition of the letter “h” into primitive parts. The bottom row shows letterforms that could be theoretically produced using these parts (barring the dot above “i”).</figcaption>
 
 ![To compose character shapes CPFPage by Hu and Hersch (2001) combines qualitatively different components such as sweeps, stems, and serifs](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_10.png)
 
@@ -267,7 +268,7 @@ Joyce, J. (1922). *Ulysses*. Shakespeare and Company.
 Karow, P. (1998). Two decades of typographic research at URW: A retrospective. In R. D. Hersch, J. André, & H. Brown (Eds.), *Electronic publishing, artistic imaging, and digital typography* (pp. 265—280). Springer. <https://doi.org/10.1007/BFb0053276>
 {: id="ref:karow1998"}
 
-Kim, Y., Allassonnière-Tang, M., Miton, H., & Morin, O. (2025). The phonology of letter shapes: Feature economy and informativeness in 43 writing systems. *Journal of Memory and Language*, *142*, 104620. <https://doi.org/10.1016/j.jml.2025.104620>
+Kim, Y., Allassonnière-Tang, M., Miton, H., & Morin, O. (2025). The phonology of letter shapes: Feature economy and informativeness in 43 writing systems. *Journal of Memory and Language*, *142*, 1–13. <https://doi.org/10.1016/j.jml.2025.104620>
 {: id="ref:kimetal2025"}
 
 Knuth, D. E. (1982). The concept of a meta-font. *Visible Language*, *16*(1), 3—27.
