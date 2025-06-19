@@ -108,7 +108,7 @@ In fact, the study of font production tools reveals a pool of diverse character
 
 ![Differences between physical, perceptual, and functional character attributes (after Blesser et al., 1973)](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_07.svg)
 
-<figcaption id="fig:7"><strong>Figure 7:</strong> Differences between physical, perceptual, and functional character attributes (after Blesser et al., <a href="#ref:blesseretal1973">1973</a>).</figcaption>
+<figcaption id="fig:7"><strong>Figure 7:</strong> Differences between physical, perceptual, and functional character attributes (after Blesser et al., <a href="#ref:blesseretal1973">1973</a>).</figcaption>
 
 ![Hofstadter (1982) proposed the idea of a “role” to capture more notional design features](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_08.png)
 
