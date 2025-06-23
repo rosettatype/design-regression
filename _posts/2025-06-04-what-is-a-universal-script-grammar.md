@@ -10,7 +10,8 @@ editor:
     - Mary Dyson
 readingtime: 15 min read
 theme: red
-intro:
+intro: |
+    The notion of a script grammar is elaborated through considering the importance of users and their perceptual processes and connecting these to material images and methods of production. There is much to ponder and debate as David Březina seeks to describe characters in a way that is relevant to recognition, rather than technology.
 sharing_image: /assets/2025-06-04-what-is-a-universal-script-grammar/sharing_image.png
 permissions:
 - larson2005: after, given via email
