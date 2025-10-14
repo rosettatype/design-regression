@@ -2,7 +2,8 @@
     $highlight: $blue-interactive-highlight,
     $background: $blue-interactive-background,
     $accent: $blue-interactive-accent,
-    $interactive: $blue-interactive-interactive) {
+    $interactive: $blue-interactive-interactive,
+    $home-interactive: $blue-interactive-home-interactive) {
 
     // The body tag
     & {
@@ -58,9 +59,28 @@
         }
     }
 
+    // Header
+    .byline {
+        color: $interactive;
+        &:hover {
+            color: $foreground;
+        }
+    }
+    .header button {
+        background-color: $interactive;
+        &:hover {
+            background-color: $foreground;
+        }
+    }
+
     // Page logotype
     h1#title a {
-        @include underline(4px, $foreground, $interactive);
+        color: $interactive;
+        //@include underline(4px, $foreground, $interactive);
+        @include underline(4px, $interactive, $foreground);
+        &:hover {
+            color: $foreground;
+        }
 
         @media screen and (max-width: 400px) {
             &:after {
@@ -180,13 +200,28 @@
     // Frontpage styling
     &.split {
         #featured {
-            background: $highlight;
+            background: $interactive;
+            color: $background;
 
-            // .main {
-            //     .excerpt .meta>* {
-            //         border-color: $highlight;
-            //     }
-            // }
+            h1#title a {
+                color: $background;
+                @include underline(4px, $background, $home-interactive);
+                &:hover {
+                    color: $home-interactive;
+                }
+            }
+
+            .main {
+                .excerpt a:hover {
+                    color: $home-interactive;
+                }
+                .excerpt .meta>* {
+                    border-color: $background;
+                }
+                .excerpt a:hover .meta>* {
+                    border-color: $home-interactive;
+                }
+            }
         }
 
         main .main .excerpt:after {
@@ -250,10 +285,10 @@ body {
     }
 
     &.theme-red {
-        @include theme($red-foreground, $red-highlight, $red-background, $red-accent, $red-interactive);
+        @include theme($red-foreground, $red-highlight, $red-background, $red-accent, $red-interactive, $red-home-interactive);
     }
 
     &.theme-sand {
-        @include theme($sand-foreground, $sand-highlight, $sand-background, $sand-accent, $sand-interactive);
+        @include theme($sand-foreground, $sand-highlight, $sand-background, $sand-accent, $sand-interactive, $sand-home-interactive);
     }
 }

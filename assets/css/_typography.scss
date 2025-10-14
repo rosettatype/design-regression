@@ -23,7 +23,7 @@
 }
 
 @mixin heading {
-    @include font-heading(32px, 1.15, -0.01em, 700);
+    @include font-heading(32px, 1.15, 0, 700);
 }
 
 @mixin heading-s {
@@ -106,7 +106,7 @@
         bottom: 0;
         height: $thickness;
         background-color: $color;
-        border-radius: $thickness/2;
+        // border-radius: $thickness/2;
         transition: background-color 0.1s ease-out;
     }
 
