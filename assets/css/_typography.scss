@@ -73,6 +73,7 @@
     @include text-meta-large;
     font-size: 12px;
     letter-spacing: 0.04em;
+    font-feature-settings: "ss06" 1, "case" 1;
 }
 
 @mixin text-label {
@@ -290,7 +291,6 @@ footer {
 
 .meta {
     @include text-meta-small;
-    font-feature-settings: "ss06" 1;
 }
 
 // A list preview item / article
