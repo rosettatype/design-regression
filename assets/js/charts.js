@@ -27,20 +27,20 @@ var COLORS = {
     // theme-accent
     // theme-foreground
     // theme-foreground + "4D"
-    "sand": [
-        "#D6CBA2",
-        "#302C0D",
-        "#30280D4D",
-    ],
     "blue": [
-        "#ADCBDC",
-        "#002241",
+        "#d1dfe8",
         "#0022414D",
+        "#002241",
     ],
     "red": [
         "#DAABA5",
-        "#2F000E",
-        "#2F000E4D",
+        "#310a044D",
+        "#310a04",
+    ],
+    "sand": [
+        "#D6CBA2",
+        "#4135004D",
+        "#413500",
     ]
 }
 

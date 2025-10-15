@@ -23,7 +23,7 @@
 }
 
 @mixin heading {
-    @include font-heading(32px, 1.15, -0.01em, 700);
+    @include font-heading(32px, 1.15, 0, 700);
 }
 
 @mixin heading-s {
@@ -94,7 +94,7 @@
     @include font-mono;
 }
 
-@mixin underline($thickness, $color:inherit, $hovercolor:$blue-interactive-accent) {
+@mixin underline($thickness, $color:inherit, $hovercolor:$blue-accent) {
     border: 0;
 
     &:after {
@@ -106,7 +106,7 @@
         bottom: 0;
         height: $thickness;
         background-color: $color;
-        border-radius: $thickness/2;
+        // border-radius: $thickness/2;
         transition: background-color 0.1s ease-out;
     }
 
@@ -242,7 +242,7 @@ p {
         @include no-underline;
         width: 40px;
         height: 40px;
-        color: $blue-interactive-background;
+        color: $blue-background;
         text-align: center;
         border-radius: 100%;
         margin: 0;
@@ -253,7 +253,7 @@ p {
         &:focus {
 
             i.icon-close {
-                color: $blue-interactive-background;
+                color: $blue-background;
             }
         }
 
@@ -290,6 +290,7 @@ footer {
 
 .meta {
     @include text-meta-small;
+    font-feature-settings: "ss06" 1;
 }
 
 // A list preview item / article

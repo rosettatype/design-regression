@@ -336,6 +336,18 @@ aside#note {
         }
     }
 
+    .has-errors {
+        .message {
+            display: inline-block;
+            margin: 1em 0;
+            padding: .5em 1em;
+            background-color: $black;
+            color: $white;
+            border-radius: $border-radius;
+        }
+    }
+
+
     @include tablet {
         border-bottom: $border;
     }

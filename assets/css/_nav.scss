@@ -54,7 +54,7 @@ nav {
             @include underline(4px);
 
             &.current {
-                @include underline(4px, $blue-interactive-foreground);
+                @include underline(4px, $blue-foreground);
             }
 
             display: inline-block;

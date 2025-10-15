@@ -1,6 +1,6 @@
 // The icons triggering the tooltip on hover
 .tooltip-wrapper {
-    color: $blue-interactive-foreground;
+    color: $blue-foreground;
     background: transparent;
     display: inline-block;
     cursor: help;
@@ -12,7 +12,7 @@
 
     .icon-tooltip {
         font-size: 24px;
-        color: $blue-interactive-foreground;
+        color: $blue-foreground;
         top: -1px;
         transition: $transition;
         height: 1em;
@@ -25,7 +25,7 @@
     &:hover,
     &:focus {
         .icon-tooltip {
-            color: $blue-interactive-dark;
+            color: $blue-dark;
         }
     }
 }
@@ -37,8 +37,8 @@
     // The actual tooltip container
     .tooltip-inner {
         font-size: 0.8rem;
-        background: $blue-interactive-foreground;
-        color: $blue-interactive-background;
+        background: $blue-foreground;
+        color: $blue-background;
         border-radius: $border-radius;
         padding: $gutter/6 $gutter/4;
         max-width: 450px;

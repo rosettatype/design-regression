@@ -1,14 +1,20 @@
-<div class="meta meta-small">
-    <div class="meta-categories">
-        {{ post.categories|join: ", "}}
+<a href="{{ post.url | relative_url }}">
+    <div class="meta meta-small">
+        <div class="meta-categories">
+            {{ post.categories|join: ", "}}
+        </div>
+
+        <div class="meta-authors">
+            {{ post.authors|join: ", " }}
+        </div>
+
+        <!-- <div class="meta-authors">
+            {{ post.date|date_to_string }}
+        </div> -->
+        
     </div>
 
-    <div class="meta-authors">
-        {{ post.authors|join: ", " }}
-    </div>
-</div>
-
-
-<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-<div class="article-excerpt">{% if post.intro %}{{ post.intro }}{% else %}{{ post.excerpt }}{% endif %}</div>
-<span class="meta meta-date">{{ post.date|date_to_string }}</span>
+    <h2>{{ post.title }}</h2>
+    <div class="article-excerpt">{% if post.intro %}{{ post.intro }}{% else %}{{ post.excerpt }}{% endif %}</div>
+    <span class="meta meta-date">->> {{post.readingtime}}</span>
+</a>

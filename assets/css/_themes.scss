@@ -1,8 +1,8 @@
-@mixin theme($foreground: $blue-interactive-foreground,
-    $highlight: $blue-interactive-highlight,
-    $background: $blue-interactive-background,
-    $accent: $blue-interactive-accent,
-    $interactive: $blue-interactive-interactive) {
+@mixin theme($foreground: $blue-foreground,
+    $highlight: $blue-highlight,
+    $background: $blue-background,
+    $accent: $blue-accent,
+    $interactive: $blue-interactive) {
 
     // The body tag
     & {
@@ -58,9 +58,27 @@
         }
     }
 
+    // Header
+    .byline {
+        color: $interactive;
+        &:hover {
+            color: $foreground;
+        }
+    }
+    .header button {
+        background-color: $interactive;
+        &:hover {
+            background-color: $foreground;
+        }
+    }
+
     // Page logotype
     h1#title a {
-        @include underline(4px, $foreground, $interactive);
+        color: $interactive;
+        @include underline(4px, $interactive, $foreground);
+        &:hover {
+            color: $foreground;
+        }
 
         @media screen and (max-width: 400px) {
             &:after {
@@ -77,6 +95,9 @@
         >* {
             border-color: $foreground;
         }
+    }
+    a:hover .meta>* {
+        border-color: $interactive;
     }
 
     // Outlined images
@@ -152,10 +173,16 @@
         color: $highlight;
     }
 
-    .newsletter input {
-        &:focus,
-        &:hover {
-            border-color: $interactive;
+    .newsletter {
+        input {
+            &:focus,
+            &:hover {
+                border-color: $interactive;
+            }
+        }
+        .has-errors .message {
+            background-color: $interactive;
+            color: $background;
         }
     }
 
@@ -180,13 +207,28 @@
     // Frontpage styling
     &.split {
         #featured {
-            background: $highlight;
+            background-color: $black;
+            color: $background;
+            &:hover {
+                background-color: $interactive;
+            }
 
-            // .main {
-            //     .excerpt .meta>* {
-            //         border-color: $highlight;
-            //     }
-            // }
+            h1#title a {
+                color: $background;
+                @include underline(4px, $background, $background);
+                &:hover {
+                    color: $background;
+                }
+            }
+
+            .main {
+                .excerpt a:hover {
+                    color: $background;
+                }
+                .excerpt .meta>* {
+                    border-color: $background;
+                }
+            }
         }
 
         main .main .excerpt:after {
@@ -200,16 +242,63 @@
     }
 
     // Nav menu
-    nav {
-        background: $accent;
+    nav.open {
+        background-color: $black;
+        color: $white;
 
-        #menu-wrapper a:hover:after {
-            background-color: $interactive;
+        .byline {
+            color: $white;
+            &:hover {
+                color: $interactive;
+            }
         }
 
-        #menu-newsletter button {
-            color: $accent;
+        button {
+            color: $black;
+            background-color: $white;
+            &:hover {
+                color: $white;
+                background-color: $interactive;
+            }
         }
+        
+        h1#title a {
+            color: $white;
+            &:hover {
+                color: $interactive;
+            }
+            @include underline(4px, $white, $interactive);
+        }
+        
+        #menu-wrapper a {
+            &:hover {
+                color: $interactive;
+            }
+            &.current {
+                @include underline(4px, $white, $interactive);
+            }
+            @include underline(4px, $black, $interactive);
+        }
+        #menu-newsletter {
+            input[type=email] {
+                color: $white;
+                border-color: $white;
+                &:hover {
+                    border-color: $interactive;
+                }
+            }
+            input+button {
+                color: $black !important;
+                background-color: $white;
+                &:hover {
+                    color: $white !important;
+                    background-color: $interactive;
+                }
+            }
+        }
+    }
+    nav.open+header {
+        display: none;
     }
 
     // CTA boxes
