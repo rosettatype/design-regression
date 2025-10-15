@@ -18,15 +18,15 @@ $knob-size: 24px;
 }
 
 .range-slider-rail {
-    background: $blue-interactive-extralight;
+    background: $blue-extralight;
 }
 
 .range-slider-fill {
-    background: $blue-interactive-accent;
+    background: $blue-accent;
 }
 
 .range-slider-knob {
-    background: $blue-interactive-dark;
+    background: $blue-dark;
     box-shadow: none;
     border: none;
 
@@ -37,8 +37,8 @@ $knob-size: 24px;
 
 // Own styling for custom slot with value display on hover/dragging
 .range-slider-value {
-    color: $blue-interactive-background;
-    background: $blue-interactive-foreground;
+    color: $blue-background;
+    background: $blue-foreground;
     border-radius: $border-radius;
     position: absolute;
     left: 50%;
@@ -75,19 +75,19 @@ $knob-size: 24px;
     opacity: 1;
 
     .range-slider-fill {
-        background: $blue-interactive-highlight;
+        background: $blue-highlight;
     }
 
     .range-slider-rail {
-        background: $blue-interactive-highlight;
+        background: $blue-highlight;
     }
 
     .range-slider-knob {
-        border: 1px solid $blue-interactive-highlight;
-        background: $blue-interactive-highlight;
+        border: 1px solid $blue-highlight;
+        background: $blue-highlight;
 
         .range-slider-value {
-            background: $blue-interactive-highlight;
+            background: $blue-highlight;
         }
     }
 }
@@ -98,15 +98,15 @@ $knob-size: 24px;
     &:hover {
 
         .range-slider-rail {
-            background: $blue-interactive-extralight;
+            background: $blue-extralight;
         }
 
         .range-slider-fill {
-            background: $blue-interactive-accent;
+            background: $blue-accent;
         }
 
         .range-slider-knob {
-            background: $blue-interactive-dark;
+            background: $blue-dark;
             box-shadow: none;
             border: none;
 
@@ -115,7 +115,7 @@ $knob-size: 24px;
             }
 
             .range-slider-value {
-                background: $blue-interactive-foreground;
+                background: $blue-foreground;
             }
         }
     }

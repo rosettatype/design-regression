@@ -1,7 +1,7 @@
 @import "../node_modules/vue-multiselect/dist/vue-multiselect.min";
 
 .multiselect {
-    background: $blue-interactive-accentest;
+    background: $blue-accentest;
     border-radius: $border-radius;
     padding: 0;
     min-height: 2rem; // Needs to grow if more tags select in multiselect
@@ -10,7 +10,7 @@
 
 .multiselect__placeholder {
     font-size: 1rem;
-    color: $blue-interactive-highlight-transluscent;
+    color: $blue-highlight-transluscent;
     padding: 0;
     margin: 0;
     line-height: 2rem;
@@ -30,7 +30,7 @@
         text-align: right;
         padding-right: $gutter/2;
         // line-height: 2.5rem;
-        // color: $blue-interactive-dark;
+        // color: $blue-dark;
         display: block;
         position: absolute;
         bottom: 0;
@@ -60,7 +60,7 @@
     // The search input
     .multiselect__input {
         padding: 0 $gutter/2;
-        background: $blue-interactive-background;
+        background: $blue-background;
         border-bottom: $border;
         border-radius: 0;
         height: 2rem;
@@ -78,7 +78,7 @@
     margin: 0;
     line-height: 2rem;
     padding: 3px 15px;
-    color: $blue-interactive-dark;
+    color: $blue-dark;
     font-size: 1rem;
 }
 
@@ -92,8 +92,8 @@
     font-size: 16px;
     letter-spacing: -0.01em;
     height: 32px;
-    color: $blue-interactive-dark;
-    border: 0.5px solid $blue-interactive-accent;
+    color: $blue-dark;
+    border: 0.5px solid $blue-accent;
     border-radius: $border-radius;
 
     &:hover {
@@ -122,7 +122,7 @@
         &:after {
             @include icon($font-icons-remove);
             line-height: 32px;
-            color: $blue-interactive-accent;
+            color: $blue-accent;
             font-weight: 400;
             position: relative;
             font-size: 11px;
@@ -161,7 +161,7 @@
         right: 50%;
         margin-right: -20px;
         line-height: 40px;
-        color: $blue-interactive-dark;
+        color: $blue-dark;
     }
 }
 
@@ -200,15 +200,15 @@
 
         // hover
         &.multiselect__option--highlight {
-            background: $blue-interactive-accenter;
-            color: $blue-interactive-dark;
+            background: $blue-accenter;
+            color: $blue-dark;
         }
 
         // selected items
         &.multiselect__option--selected {
             font-weight: normal;
-            background: $blue-interactive-dark;
-            color: $blue-interactive-background;
+            background: $blue-dark;
+            color: $blue-background;
 
             &:before {
                 @include icon($font-icons-check);
@@ -224,7 +224,7 @@
         &.multiselect__option--disabled {
             cursor: not-allowed !important;
             background: transparent !important;
-            color: $blue-interactive-highlight !important;
+            color: $blue-highlight !important;
         }
     }
 }
@@ -234,7 +234,7 @@
     left: 0;
     top: auto;
     font-size: 16px;
-    color: $blue-interactive-dark;
+    color: $blue-dark;
 }
 
 .multiselect--active #search-languages-quicklinks {

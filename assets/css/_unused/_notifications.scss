@@ -24,8 +24,8 @@ body .vue-notification {
     }
 
     &.warn {
-        background: $blue-interactive-foreground;
-        color: $blue-interactive-accent;
+        background: $blue-foreground;
+        color: $blue-accent;
     }
 
     &.error {
