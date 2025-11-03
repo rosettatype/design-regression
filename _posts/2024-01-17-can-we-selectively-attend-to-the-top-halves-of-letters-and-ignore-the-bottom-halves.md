@@ -215,11 +215,7 @@ letter.
    data-offset="0"
    ></div>
 
-<figcaption id="fig:six"><strong>Figure 6:</strong> Mean AUC scores for each group of participants, comparing
-discrimination between same and different letters in congruent and
-incongruent pairs. A higher score for congruent pairs compared with
-incongruent indicates holistic processing. The standard error bars
-represent the amount of variation among participants.</figcaption>
+<figcaption id="fig:six"><strong>Figure 6:</strong> Mean AUC scores for each group of participants, comparing discrimination between same and different letters in congruent and incongruent pairs. A higher score for congruent pairs compared with incongruent indicates holistic processing. The standard error bars represent the amount of variation among participants.</figcaption>
 
 ### Further comparisons across groups of participants
 
