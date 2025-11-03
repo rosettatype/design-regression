@@ -221,7 +221,7 @@ defined as follows:
 
 The typefaces used are Hind and Kohinoor designed by Indian Type Foundry (see <a href="#ref:adobe-fonts-itf">Adobe Fonts, n.d.</a>; <a href="#ref:google-fonts-itf">Google Fonts,n.d.</a>), Mangal designed by Raghunath Joshi (see <a href="#ref:microsoft-2022">Microsoft Typography, 2022</a>), Mukta designed by Ek Type (see <a href="#ref:google-fonts-ek-type">Google Fonts, n.d.</a>), and Yogesh designed by the GIST group at CDAC (Mumbai) (see <a href="#ref:salrc">South Asia Language Resource Center, n.d.</a>).
 
-<table class="full">
+<table class="full top-aligned">
     <thead>
         <tr>
             <th>Metro</th>
@@ -235,7 +235,7 @@ The typefaces used are Hind and Kohinoor designed by Indian Type Foundry (see <a
     </thead>
     <tbody>
         <tr>
-            <td>Pune</td>
+            <td><strong>Pune</strong></td>
             <td>Pune & Pimpri-Chinchwad (Maharashtra)</td>
             <td><ol>
                 <li>Marathi (Devanagari)</li>
@@ -248,7 +248,7 @@ The typefaces used are Hind and Kohinoor designed by Indian Type Foundry (see <a
             <td>Figs. <a href="#fig:f123">1–3</a></td>
         </tr>
         <tr>
-            <td>Nagpur</td>
+            <td><strong>Nagpur</strong></td>
             <td>Nagpur (Maharashtra)</td>
             <td><ol>
                 <li>Marathi (Devanagari)</li>
@@ -261,7 +261,7 @@ The typefaces used are Hind and Kohinoor designed by Indian Type Foundry (see <a
             <td>Figs. <a href="#fig:f4">4</a>, <a href="#fig:f5">5</a></td>
         </tr>
         <tr>
-            <td>Bengaluru<br>(Namma Metro) – original</td>
+            <td><strong>Bengaluru<br>(Namma Metro)</strong><br>Original</td>
             <td>Bengaluru (Karnataka)</td>
             <td><ol>
                 <li>Kannada (Kannada)</li>
@@ -274,7 +274,7 @@ The typefaces used are Hind and Kohinoor designed by Indian Type Foundry (see <a
             <td><a href="#fig:f6">Fig. 6</a></td>
         </tr>
         <tr>
-            <td>Bengaluru<br>(Namma Metro) – current)</td>
+            <td><strong>Bengaluru<br>(Namma Metro)</strong><br>Current</td>
             <td>Bengaluru (Karnataka)</td>
             <td><ol>
                 <li>Kannada (Kannada)</li>
@@ -286,7 +286,7 @@ The typefaces used are Hind and Kohinoor designed by Indian Type Foundry (see <a
             <td><a href="#fig:f7">Fig. 7</a></td>
         </tr>
         <tr>
-            <td>Hyderabad</td>
+            <td><strong>Hyderabad</strong></td>
             <td>Hyderabad (Telangana)</td>
             <td><ol>
                 <li>Telugu (Telugu)</li>
@@ -300,7 +300,7 @@ The typefaces used are Hind and Kohinoor designed by Indian Type Foundry (see <a
             <td>Figs. <a href="#fig:f89">8, 9</a></td>
         </tr>
         <tr>
-            <td>Mumbai</td>
+            <td><strong>Mumbai</strong></td>
             <td>Mumbai (Maharashtra)</td>
             <td><ol>
                 <li>Marathi (Devanagari)</li>
@@ -313,7 +313,7 @@ The typefaces used are Hind and Kohinoor designed by Indian Type Foundry (see <a
             <td>Figs. <a href="#fig:f10">10</a>, <a href="#fig:f11">11</a>, <a href="#fig:f12">12</a></td>
         </tr>
         <tr>
-            <td>Kolkata</td>
+            <td><strong>Kolkata</strong></td>
             <td>Kolkata (West Bengal)</td>
             <td><ol>
                 <li>Bengali (Bengali)</li>
@@ -326,7 +326,7 @@ The typefaces used are Hind and Kohinoor designed by Indian Type Foundry (see <a
             <td>Fig. <a href="#fig:f13">13</a></td>
         </tr>
         <tr>
-            <td>Ahmedabad</td>
+            <td><strong>Ahmedabad</strong></td>
             <td>Ahmedabad & Gandhinagar (Gujarat)</td>
             <td><ol>
                 <li>Gujarati (Gujarati)</li>
@@ -343,7 +343,7 @@ The typefaces used are Hind and Kohinoor designed by Indian Type Foundry (see <a
             <td>Figs. <a href="#fig:f14">14</a>, <a href="#fig:f15">15</a></td>
         </tr>
         <tr>
-            <td>Lucknow</td>
+            <td><strong>Lucknow</strong></td>
             <td>Lucknow (Uttar Pradesh)</td>
             <td><ol>
                 <li>Hindi (Devanagari)</li>
@@ -355,7 +355,7 @@ The typefaces used are Hind and Kohinoor designed by Indian Type Foundry (see <a
             <td>Figs. <a href="#fig:f16">16</a>, <a href="#fig:f17">17</a>, <a href="#fig:f181920">18, 19, 20</a></td>
         </tr>
         <tr>
-            <td>Delhi</td>
+            <td><strong>Delhi</strong></td>
             <td>Delhi NCR</td>
             <td><ol>
                 <li>Hindi (Devanagari)</li>
