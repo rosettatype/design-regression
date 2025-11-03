@@ -23,7 +23,7 @@
 }
 
 @mixin heading {
-    @include font-heading(32px, 1.15, 0, 700);
+    @include font-heading(32px, 1.25, 0, 700);
 }
 
 @mixin heading-s {
