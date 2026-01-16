@@ -516,6 +516,14 @@ article main {
         overflow-x: scroll;
     }
 
+    // use for inline layout examples
+    .sample-layout {
+        @include text-code;
+        text-align: center;
+        line-height: 140%;
+        padding: 1em;
+    }
+
     blockquote {
         @include text-s; // font-text(inherit, inherit, inherit, inherit);
         padding: 0.5rem 0 0.5rem 1rem;
