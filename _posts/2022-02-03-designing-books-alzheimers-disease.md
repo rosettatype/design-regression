@@ -6,6 +6,8 @@ categories:
   - Article
 authors:
   - Marie E. Leahy
+editor:
+  - Mary Dyson
 readingtime: 15 min read
 intro: An account of three studies carried out in order to investigate whether adjusting the design of books could help readers with a memory impairment.
 sharing_image: /assets/2022-02-03-designing-books-alzheimers-disease/sharing_image.png
