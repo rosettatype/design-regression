@@ -229,7 +229,6 @@ Chomsky, N. (1980). *Rules and representations*. Oxford University Press.
 Crouwel, W. (1967). *New alphabet, an introduction for a programmed typography, a possibility for the new development*. Steendrukkerij de Jong en Co.
 {: id="ref:crouwel1967"}
 
-
 Dehaene, S. (2010). *Reading in the brain: The new science of how we read*. Penguin Books.
 {: id="ref:dehaene-cohen2010"}
 
