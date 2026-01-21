@@ -4,19 +4,32 @@ import glob
 import os
 
 
+# COLOURS
+
+themecols = {
+    "blue": {
+        "text": (1, 1, 1),  # white
+        "accent": [c / 255 for c in (131, 9, 192)],
+    },
+    "red": {
+        "text": (1, 1, 1),  # white
+        "accent": [c / 255 for c in (224, 46, 22)],
+    },
+    "sand": {
+        "text": (0, 0, 0),  # black
+        "accent": [c / 255 for c in (239, 189, 8)],
+    },
+}
+
+
 def saveSharingImage(outpath, title, authors, categories, theme):
-    themecols = {
-        "blue": [(0.0, 0.13, 0.25, 1.0), (0.95, 0.98, 1.0, 1.0), (0.68, 0.8, 0.86, 1.0)],
-        "red": [(0.18, 0.0, 0.06, 1.0), (1.0, 0.96, 0.95, 1.0), (0.85, 0.67, 0.65, 1.0)],
-        "sand": [(0.188,0.173, 0.051), (0.98, 0.97, 0.94), (0.84, 0.8, 0.63, 1.0)]
-    }
     DR = "Design Regression".upper()
     w, h = 1200, 600
     mainpad = 40
 
     # get theme colours
-    textcol = themecols[theme][0]
-    bgcol = themecols[theme][2]
+    textcol = themecols[theme]["text"]
+    bgcol = themecols[theme]["accent"]
     db.newPage(w, h)
     # background
     db.fill(*bgcol)

@@ -6,26 +6,26 @@ $breakpoint-tablet: 1024px;
 
 // Colors
 // NOTE when changing theme colors also update in charts.js
-$black: #000000;
-$white: #ffffff;
+$black: rgb(0, 0, 0);
+$white: rgb(255, 255, 255);
 
-$blue-foreground: #002241;
-$blue-highlight: rgba(0, 34, 65, 0.3);
-$blue-background: #F1FBFF;
-$blue-accent: #d1dfe8;
-$blue-interactive: #097dc0;
+$blue-foreground: rgb(0, 0, 0);
+$blue-highlight: rgba(34, 9, 46, 0.3);
+$blue-background: rgb(255, 255, 255);
+$blue-accent: rgb(222, 206, 231);
+$blue-interactive: rgb(131, 9, 192);
 
-$red-foreground: #310a04;
+$red-foreground: rgb(0, 0, 0);
 $red-highlight: rgba(59, 10, 0, 0.3);
-$red-background: #FEF4F3;
-$red-accent: #DAABA5;
-$red-interactive: #e02e16;
+$red-background: rgb(254, 244, 243);
+$red-accent: rgb(218, 171, 165);
+$red-interactive: rgb(224, 46, 22);
 
-$sand-foreground: #413500;
+$sand-foreground: rgb(0, 0, 0);
 $sand-highlight: rgba(48, 40, 13, 0.3);
-$sand-background: #F9F7EF;
-$sand-accent: #D6CBA2;
-$sand-interactive: #efbd08;
+$sand-background: rgb(249, 247, 239);
+$sand-accent: rgb(214, 203, 162);
+$sand-interactive: rgb(239, 189, 8);
 
 // Always with transparent, and then overwritten with theme body class in _themes.scss
 $border: 1px solid transparent;
