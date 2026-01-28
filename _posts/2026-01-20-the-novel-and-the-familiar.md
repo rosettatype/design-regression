@@ -29,7 +29,7 @@ In his invaluable guide *How novels work* John Mullen ([2006](#ref:mullen2006)) 
 
 ![Daniel Defoe’s Robinson Crusoe](/assets/2026-01-20-the-novel-and-the-familiar/figure_1.jpg)
 
-<figcaption id="fig:1"><strong>Figure 1:</strong> Daniel Defoe’s <em>Robinson Crusoe</em> (<a href="#ref:defoe1719">1719/1996</a>) is considered to be one of the very earliest novels written in the English language. The text takes the form of a first-person account by the fictional narrator, Crusoe, and describes his extraordinary experiences as a castaway on a desert island. In some later editions the continuous text of the original was broken down into chapters with descriptive headings and illustrations were added. The frontispiece image is from the first edition of the book.</figcaption>
+<figcaption id="fig:1"><strong>Figure 1:</strong> Daniel Defoe’s <em>Robinson Crusoe</em> (<a href="#ref:defoe1719">1719/1996</a>) is considered to be one of the very earliest novels written in the English language. The text takes the form of a first-person account by the fictional narrator, Crusoe, and describes his extraordinary experiences as a castaway on a desert island. In some later editions the continuous text of the original was broken down into chapters with descriptive headings and illustrations were added. The engraved frontispiece appears in the first edition of the book.</figcaption>
 
 ## The genre
 
@@ -40,26 +40,22 @@ Although works of fiction are primarily defined by their length and intention (t
 The plot is about causality, the chain of events that make up the structure of a story ([Mullen, 2006, p. 170](#ref:mullen2006)). E. M. Forster in his *Aspects of the Novel* 
 ([1927, pp. 89–90](#ref:forster1927)) describes how the reader engages with the plot:
 
-> And over it, as it unfolds, will hover the memory of the reader (that dull glow of the mind of which intelligence is the bright advancing edge) and will constantly rearrange and reconsider, seeing new clues, new chains of cause and effect ….
-
-The author continues:
-
-> “… and the final sense (if the plot has been a fine one) will not be of clues or chains, but of something aesthetically compact, something which might have been shown by the novelist straight away, only if he had shown it straight away it would never have been beautiful.”
+> And over it, as it unfolds, will hover the memory of the reader (that dull glow of the mind of which intelligence is the bright advancing edge) and will constantly rearrange and reconsider, seeing new clues, new chains of cause and effect, and the final sense (if the plot has been a fine one) will not be of clues or chains, but of something aesthetically compact, something which might have been shown by the novelist straight away, only if he had shown it straight away it would never have been beautiful.
 
 However, the sequential nature of a plot poses immediate problems for readers whose memory is challenged. In order to infer or deduce the significance of each new event the reader has to remember what has led up to it.
 
-For this reason, *The Salt Path* by Raynor Winn ([2018](#ref:winn2018); [Figure 2](#fig:2)) was a rather surprising recommendation made by Teresa Davies, a volunteer from the [LikeMinded group](#sn:3) in Mold, north east Wales, who spoke to me about fiction via Zoom  on May 5, 2022. The autobiographical account of the long walk undertaken by Raynor Winn and her husband along the coastal path from Somerset to Dorset may well blur fact and fiction, but the structure of the narrative provides an insight into what a reader with an imperfect working memory can absorb. The text is episodic and repetitious, but it is full of separate incidents that are vividly and economically recounted. The story arc is clear, and the tone is hopeful and carries the reader forward. So beyond knowing broadly what the two characters set out to achieve at the outset, no memory of what happened in earlier chapters is required. Each success or disaster can be enjoyed separately as the story progresses.
+For this reason, *The Salt Path* by Raynor Winn ([2018](#ref:winn2018); [Figure 2](#fig:2)) was a rather surprising recommendation made by Teresa Davies, a volunteer from the [LikeMinded group](#sn:2) in Mold, north east Wales, who spoke to me about fiction via Zoom  on May 5, 2022. The autobiographical account of the long walk undertaken by Raynor Winn and her husband along the coastal path from Somerset to Dorset may well blur fact and fiction, but the structure of the narrative provides an insight into what a reader with an imperfect working memory can absorb. The text is episodic and repetitious, but it is full of separate incidents that are vividly and economically recounted. The story arc is clear, and the tone is hopeful and carries the reader forward. So beyond knowing broadly what the two characters set out to achieve at the outset, no memory of what happened in earlier chapters is required. Each success or disaster can be enjoyed separately as the story progresses.
 
 ![The front cover of The Salt Path by Raynor Winn](/assets/2026-01-20-the-novel-and-the-familiar/figure_2.jpg)
 {: .narrow}
 
-<figcaption id="fig:2"><strong>Figure 2:</strong> The front cover of <em>The Salt Path</em> by Raynor Winn (<a href="#ref:winn2018">2018</a>) published by Penguin. Although it was later criticised for its accuracy, the text provides a useful model for the construction of incident-rich narratives that progress in time and do not make excessive demands on the reader’s memory. The artwork is by Michael Joseph. Copyright © Raynor Winn, 2018. Reprinted by permission of Penguin Books Limited.</figcaption>
+<figcaption id="fig:2"><strong>Figure 2:</strong> The front cover of <em>The Salt Path</em> by Raynor Winn (<a href="#ref:winn2018">2018</a>) published by Penguin. Although it was later criticised for its accuracy, the text provides a useful model for the construction of incident-rich narratives that progress in time and do not make excessive demands on the reader’s memory. The artwork is by Penguin Michael Joseph. Copyright © Raynor Winn, 2018. Reprinted by permission of Penguin Books Limited.</figcaption>
 
 Literature is of course full of picaresque novels that adopt this approach in order to maintain the reader’s interest and Walter Ong suggests that its origin can be traced back to a purely oral tradition ([Ong, 1982, pp. 140–141](#ref:ong1982)). However, in the context of reading with dementia, the lesson is that an incident-rich text need not overburden the memory if events are self-contained and presented sequentially.
 
 ## The story-teller
 
-Volunteers who took part in my research studies ([Leahy, 2021](#ref:leahy2021)) did not comment on the way a story was narrated. They showed no preference for a first person or a third person narrative although during a session that focused on fiction it was noted that the use of the “I” or the “we” form made the story seem personal and vivid (Teresa Davies). However, the choice of an omniscient narrator who claims to describe events as they happen to other people would allow writers more scope when devising texts for memory-challenged readers. A narrator who has an overview of the entire story can direct the reader’s understanding of the plot and can alert them to particularly significant events. By inserting little reflective asides (e.g., “she would come to regret this later”) the writer can support the reader’s grasp of the unfolding shape of [the story.](#sn:4)
+Volunteers who took part in my research studies ([Leahy, 2021](#ref:leahy2021)) did not comment on the way a story was narrated. They showed no preference for a first person or a third person narrative although during a session that focused on fiction it was noted that the use of the “I” or the “we” form made the story seem personal and vivid (Teresa Davies). However, the choice of an omniscient narrator who claims to describe events as they happen to other people would allow writers more scope when devising texts for memory-challenged readers. A narrator who has an overview of the entire story can direct the reader’s understanding of the plot and can alert them to particularly significant events. By inserting little reflective asides (e.g., “she would come to regret this later”) the writer can support the reader’s grasp of the unfolding shape of [the story.](#sn:3)
 
 ## The structure
 
@@ -67,7 +63,7 @@ The way the contents of a story is organised can help or hinder the reader’s u
 
 > So I’m finding this book a little bit difficult to follow. I’m enjoying it … I have to keep going back, you know, turning the page back and reading again to find, oh yes, well that must be him that’s talking now.
 
-The same reader mentioned the difficulty of handling texts where different chapters give the viewpoint of different characters. It is a commonly used device, but it can place a heavy burden on a [declining memory.](#sn:5)
+The same reader mentioned the difficulty of handling texts where different chapters give the viewpoint of different characters. It is a commonly used device, but it can place a heavy burden on a [declining memory.](#sn:4)
 
 Dividing the story into short chapters is likely to be advantageous. For clarity, it would be best to separate the major events and use descriptive chapter titles to act as signposts indicating where the story is heading next. Some authors like to use their chapter titles as a trailer for what they are about to narrate. For example, Charles Dickens writes in his *Pickwick Papers* ([1836–37/2011, p. 320](#ref:dickens183637)):
 
@@ -76,7 +72,7 @@ Dividing the story into short chapters is likely to be advantageous. For clarity
 > SHOWING THAT AN ATTACK OF RHEUMATISM, IN SOME CASES, ACTS AS A QUICKENER TO INVENTIVE GENIUS
 {:.sample-layout}
 
-and A.A. Milne, author of *Winnie-the-Pooh* ([1988, p. 19](#ref:milne1988)), gives his readers a hint of the story ahead:.
+and A. A. Milne, author of *Winnie-the-Pooh* ([1988, p. 19](#ref:milne1988)), gives his readers a hint of the story ahead:
 
 > Chapter 2
 >
@@ -89,11 +85,11 @@ Numbering the chapters clearly – preferably with the more familiar Arabic nume
 
 Volunteers clearly enjoyed the collaboration between writer and reader that lies at the heart of reading for pleasure. They continued to engage willingly with an author’s imaginings and fully appreciated the ability to evoke a scene by a deft arrangement of words.
 
-Making a mental image of a described situation is referred to by psychologists as the construction of a situation model ([Castles et al., 2018](#ref:castlesetal2018); [Zwaan, 1999](#ref:zwaan1999)). Making a mental model requires a reader to draw on their memories in order to visualise events or places as they are portrayed. Keeping descriptions brief and grounding them in recognisable schemas using concrete and vivid language could help to make a story easier to [retain.](#sn:6)
+Making a mental image of a described situation is referred to by psychologists as the construction of a situation model ([Castles et al., 2018](#ref:castlesetal2018); [Zwaan, 1999](#ref:zwaan1999)). Making a mental model requires a reader to draw on their memories in order to visualise events or places as they are portrayed. Keeping descriptions brief and grounding them in recognisable schemas using concrete and vivid language could help to make a story easier to [retain.](#sn:5)
 
 ## The characters
 
-The human interest in a story is based on the characters involved. As the story unfolds, we learn about them through their interactions and reactions ([Douglas-Fairhurst, 2025, p. 5](#ref:douglas-fairhurst2025); [Lodge, 2011, p. 5](#ref:lodge2011)). However, too many characters can be taxing for the memory. As volunteer Teresa Davies noted “What helps as well is if you have a few characters in a book … it’s good to have on the chapter who’s taking part in that”. So restricting the number and building each chapter around key individuals could be a good move. In his novel *The Strange Case of Dr Jekyll and Mr Hyde*, Robert Louis Stevenson ([1886/1979](#ref:stevenson1886)) marks out his story quite clearly. The second chapter (p. 35) has the heading:
+The human interest in a story is based on the characters involved. As the story unfolds, we learn about them through their interactions and reactions ([Douglas-Fairhurst, 2025, p. 5](#ref:douglas-fairhurst2025); [Lodge, 2011, p. 5](#ref:lodge2011)). However, too many characters can be taxing for the memory. As volunteer Teresa Davies noted “What helps as well is if you have a few characters in a book it’s good to have on the chapter who’s taking part in that.” So restricting the number and building each chapter around key individuals could be a good move. In his novel *The Strange Case of Dr Jekyll and Mr Hyde*, Robert Louis Stevenson ([1886/1979](#ref:stevenson1886)) marks out his story quite clearly. The second chapter (p. 35) has the heading:
 
 > Search for Mr Hyde
 {:.sample-layout}
@@ -105,9 +101,9 @@ and the third chapter (p. 43) is headed:
 
 In this case the chapters are not numbered but, as already noted, including chapter numbers can make it easier for the reader to know where they are in a text.
 
-Characters in a story need to be sharply delineated and their relationships to one another clearly spelled out. For example, at intervals it can be helpful to insert a reminder such as “Mary looked at *her son* John”. It is also best to refer consistently to Mr and Mrs Smith, for example, or to establish early on what forenames are to be used for each rather than alternate between the two. In fact, unless the story requires otherwise, it is helpful to use one name consistently for a protagonist. Shortened versions can introduce a momentary doubt in the mind of the reader especially where the name can refer to either a male or a [female character.](#sn:7)
+Characters in a story need to be sharply delineated and their relationships to one another clearly spelled out. For example, at intervals it can be helpful to insert a reminder such as “Mary looked at *her son* John.” It is also best to refer consistently to Mr and Mrs Smith, for example, or to establish early on what forenames are to be used for each rather than alternate between the two. In fact, unless the story requires otherwise, it is helpful to use one name consistently for a protagonist. Shortened versions can introduce a momentary doubt in the mind of the reader especially where the name can refer to either a male or a [female character.](#sn:6)
 
-Describing the appearance of each character vividly when they are first introduced can be a way of helping the reader construct a mental model to guide them as the story unfolds. Cratylic names, that is to say names that are memorable and appropriate to the individual’s nature, can help to fix them in memory ([Mullen, 2006, p. 276](#ref:mullen2006)[).](#sn:8) One thinks, for example, of:
+Describing the appearance of each character vividly when they are first introduced can be a way of helping the reader construct a mental model to guide them as the story unfolds. Cratylic names, that is to say names that are memorable and appropriate to the individual’s nature, can help to fix them in memory ([Mullen, 2006, p. 276](#ref:mullen2006)[).](#sn:7) One thinks, for example, of:
 
 * the tenacious fiancée Miss Lucy Steele in Jane Austen’s, *Sense and Sensibility* ([1811/2003](#ref:austen1811)).
 * Agnes Grey, the pious but resolute heroine of Anne Brontë’s novel by the same name ([1847/2004](#ref:bronte1847)).
@@ -116,7 +112,7 @@ Describing the appearance of each character vividly when they are first introduc
 
 ## Writing style
 
-Talking to readers with Alzheimer’s disease showed me that literacy skills are not lost in the order in which they are acquired. Whereas beginner readers may struggle to link sounds (phonemes) to symbols (graphemes) and thence to written words and their meaning ([Castles et al., 2018](#ref:castlesetal2018)), experienced readers with early-stage dementia appear to have no issues with word recognition or basic sentence comprehension ([Patterson et al., 1994](#ref:pattersonetal1994)). They often retain a wide passive vocabulary and, crucially, according to Bayles and Kim ([2003](#ref:bayles-kim2003)) “… many investigators demonstrated that AD patients could recognize that which they cannot recall.” It is primarily the deficit in working memory that is the challenge. For example, when I queried the use of the word “mesmerised” in a book for readers with dementia, Teresa Davies commented:
+Talking to readers with Alzheimer’s disease showed me that literacy skills are not lost in the order in which they are acquired. Whereas beginner readers may struggle to link sounds (phonemes) to symbols (graphemes) and thence to written words and their meaning ([Castles et al., 2018](#ref:castlesetal2018)), experienced readers with early-stage dementia appear to have no issues with word recognition or basic sentence comprehension ([Patterson et al., 1994](#ref:pattersonetal1994)). They often retain a wide passive vocabulary and, crucially, according to Bayles and Kim ([2003](#ref:bayles-kim2003)) “many investigators demonstrated that AD patients could recognize that which they cannot recall.” It is primarily the deficit in working memory that is the challenge. For example, when I queried the use of the word “mesmerised” in a book for readers with dementia, Teresa Davies commented:
 
 > Yes, well I find that ok. Yes, and they’re words … somebody, you know, you remember, you can remember what mesmerised means, you will, because you might have heard that word all your life. So they’re old words, aren’t they?
 
@@ -128,7 +124,7 @@ Ideally, therefore, story texts should be broken down into short chapters, with 
 
 There is no mention of book illustration in John Mullen’s analysis of the way novels work, and this is hardly surprising as continuous prose is generally perceived as being the final goal as far as the acquisition of literacy skills is concerned. Beginner readers typically progress from picture books to books combining large images and small amounts of text before they move on to chapter books as they master written English. Chapter books typically have a simple story broken down into short chapters with just a few supporting illustrations to make aspects of the story explicit and to aid flagging concentration. Fiction for readers with imperfect memories might well benefit from a similar approach. Illustrations in this case would act as landmarks and, if used opposite chapter openers, could help the reader find their place again after time away from the text. Simple black and white line drawings would be sufficient to summarise a scene or to highlight an important event. Avoiding giving the book a childish feel would be the essence of the brief to the artist as would a reminder that an illustration might merely suggest rather than make explicit. As the <a href="https://quentinblake.com/search?query=roald+dahl">illustrations by Quentin Blake</a> to Roald Dahl’s stories show, the reader’s imagination can be fired by just a few lines on the white page.
 
-The use of family trees and stylised maps can also help to support the reader’s understanding. David Nicholls’s best-selling *You Are Here* ([2024](#ref:nicholls2024)) describes a walking trip not unlike Raynor Winn’s event-packed *Salt Path* and both accounts provide simple sketch maps to allow the reader to visualise the distances so painfully covered. Positioning the maps opposite the relevant chapter opener or, better still, on the appropriate page would be a better option for the memory-challenged reader. This was clearly the designer’s strategy in a recent book about Thomas Bewick published by Open Ended Books ([2024](#ref:lawrance2024); [Figure 3](#fig:3)[).](#sn:9)
+The use of family trees and stylised maps can also help to support the reader’s understanding. David Nicholls’s best-selling *You Are Here* ([2024](#ref:nicholls2024)) describes a walking trip not unlike Raynor Winn’s event-packed *Salt Path* and both accounts provide simple sketch maps to allow the reader to visualise the distances so painfully covered. Positioning the maps opposite the relevant chapter opener or, better still, on the appropriate page would be a better option for the memory-challenged reader. This was clearly the designer’s strategy in a recent book about Thomas Bewick published by Open Ended Books ([2024](#ref:lawrance2024); [Figure 3](#fig:3)[).](#sn:8)
 
 ![Page 20 of “Bewick Tales. Stories from the Life and Work of Thomas Bewick” by Sarah Lawrance](/assets/2026-01-20-the-novel-and-the-familiar/figure_3.jpg)
 
@@ -136,9 +132,9 @@ The use of family trees and stylised maps can also help to support the reader’
 
 ## Design
 
-Readers who have dementia comment favourably on the tactile quality of printed books and it is precisely this aspect that publishers of fiction are currently choosing to emphasise. Alongside Kindle editions, publishers are now producing conspicuously large-format hardbacks with texts set in a generous, seriffed typeface with conspicuous [line spacing,](#sn:10) a page number inserted at the foot of the page and printed on bulky, off-white paper – all features which are intended to appeal to the traditional book buyer and to distance the product from the [onscreen alternative.](#sn:11)
+Readers who have dementia comment favourably on the tactile quality of printed books and it is precisely this aspect that publishers of fiction are currently choosing to emphasise. Alongside Kindle editions, publishers are now producing conspicuously large-format hardbacks with texts set in a generous, seriffed typeface with conspicuous [line spacing,](#sn:9) a page number inserted at the foot of the page and printed on bulky, off-white paper – all features which are intended to appeal to the traditional book buyer and to distance the product from the [onscreen alternative.](#sn:10)
 
-The idea of consulting adult readers about the design of works of fiction is perhaps a new one. Bloomsbury have taken the lead with their [autumn 2025 list](https://www.bloomsbury.com/uk/connect/latest-news/for-over-6-million-uk-adults-reading-just-got-easier), which features “an industry-first initiative that sees 11 iconic bestselling adult titles put into a format designed specifically to support adults with dyslexia”. Experienced readers with early-stage Alzheimer’s disease also tend to have specific literacy needs ([Leahy, 2021](#ref:leahy2021)). Aspects of the format chosen for the Bloomsbury books might well be relevant – the unjustified setting, for example, and the use of off-white paper to reduce contrast. However, the texts are printed in dark-blue ink, with a sans serif typeface and with bold type replacing italic. The non-fiction titles produced by Open Ended Books have reached different conclusions after close consultation with volunteer readers who have dementia. For these carefully illustrated books a serif typeface was chosen for the introductory narrative sections and italics were used wherever the experienced reader might expect them ([Figure 4](#fig:4)).
+The idea of consulting adult readers about the design of works of fiction is perhaps a new one. Bloomsbury have taken the lead with their [autumn 2025 list](https://www.bloomsbury.com/uk/connect/latest-news/for-over-6-million-uk-adults-reading-just-got-easier), which features “an industry-first initiative that sees 11 iconic bestselling adult titles put into a format designed specifically to support adults with dyslexia.” Experienced readers with early-stage Alzheimer’s disease also tend to have specific literacy needs ([Leahy, 2021](#ref:leahy2021)). Aspects of the format chosen for the Bloomsbury books might well be relevant – the unjustified setting, for example, and the use of off-white paper to reduce contrast. However, the texts are printed in dark-blue ink, with a sans serif typeface and with bold type replacing italic. The non-fiction titles produced by Open Ended Books have reached different conclusions after close consultation with volunteer readers who have dementia. For these carefully illustrated books a serif typeface was chosen for the introductory narrative sections and italics were used wherever the experienced reader might expect them ([Figure 4](#fig:4)).
 
 ![Page 30 of Dorothy Wordsworth’s Grasmere Days by Sarah Lawrance](/assets/2026-01-20-the-novel-and-the-familiar/figure_4.jpg)
 
@@ -152,30 +148,30 @@ In fact, as with all special needs design, every component of the book needs to 
 
 Any successful design is the combination of the novel and the familiar. In the case of a work of fiction it is the artful, unpredictable expression of an idea in a recognisable literary form. Published stories are constructed from a number of components skilfuly arranged, but for readers with dementia, texts need to combine the imagination of the author with the insights of the neuropsychologist, the skills of an experienced book designer, and the input at every stage of the potential book user. So, unlikely as it may seem given the prevalence of digital media, now would be a good time for publishers to enter the fiction market for non-typical readers and bring together the many insights gained from interdisciplinary research.
 
-The Government has declared 2026 to be the National Year of Reading. In its bold mission statement the Government proposes “a [UK-wide campaign](https://goallin.org.uk) designed to inspire more people to make reading a regular part of their lives”. Readers with memory issues must not be forgotten. Simple guidelines given to authors and designers could make all the difference.
+The Government has declared 2026 to be the National Year of Reading. In its bold mission statement the Government proposes “a [UK-wide campaign](https://goallin.org.uk) designed to inspire more people to make reading a regular part of their lives.” Readers with memory issues must not be forgotten. Simple guidelines given to authors and designers could make all the difference.
 
 
-<aside id="sn:1">It is encouraging to note that Jane Austen was so dissatisfied with her original ending to <em>Persuasion</em> that she completely rewrote it before publication (<a href="#ref:austen1817">Austen, 1817/1973</a>). Penguin. The heavily corrected manuscripts and proofs of many of Charles Dickens’s works are held at the Victoria & Albert Museum, where they provide “an invaluable resource to scholars and researchers, providing information about Dickens’s creative process”  (<a href="#ref:vanda2026">V&A, 2026</a>).</aside>
+<aside id="sn:1">It is encouraging to note that Jane Austen was so dissatisfied with her original ending to <em>Persuasion</em> that she completely rewrote it before publication (<a href="#ref:austen1817">Austen, 1817/1973</a>). The heavily corrected manuscripts and proofs of many of Charles Dickens’s works are held at the Victoria & Albert Museum, where they provide “an invaluable resource to scholars and researchers, providing information about Dickens’s creative process”  (<a href="#ref:vanda2026">V&A, 2026</a>).</aside>
 
-<aside id="sn:3">The <a href="https://www.dementiavoices.org.uk/group/likeminded-mold/">website for the LikeMinded Mold</a> describes the group as “By people living with dementia for people living with dementia.” It is related to the Dementia Engagement and Empowerment Project (DEEP), which is now a nationwide organisation.</aside>
+<aside id="sn:2">The <a href="https://www.dementiavoices.org.uk/group/likeminded-mold/">website for LikeMinded Mold</a> describes the group as “By people living with dementia for people living with dementia.” It is related to the Dementia Engagement and Empowerment Project (DEEP), which is now a nationwide organisation.</aside>
 
-<aside id="sn:4">An elderly nursing-home resident gave me a copy of <em>The Woman Who Left</em> (<a href="#ref:cox2001">2001</a>) by Josephine Cox, a favourite author of hers. The text is easy to follow and paragraphs are often rounded off with a forward-facing comment by the narrator such as “<em>Unfortunately, she was wrong</em>” and “Oh yes, he would pay all right” (author’s italics, p. 361).</aside>
+<aside id="sn:3">An elderly nursing-home resident gave me a copy of <em>The Woman Who Left</em> (<a href="#ref:cox2001">2001</a>) by Josephine Cox, a favourite author of hers. The text is easy to follow and paragraphs are often rounded off with a forward-facing comment by the narrator such as “<em>Unfortunately, she was wrong</em>” (p. 306, author’s italics) and “Oh yes, he would pay all right” (p. 361).</aside>
 
-<aside id="sn:5">The nine different viewpoints used in Liane Moriarty’s best-selling <em>Nine Perfect Strangers</em> (<a href="#ref:moriarty2018">2018</a>) certainly make for a mentally taxing reading experience.</aside>
+<aside id="sn:4">The nine different viewpoints used in Liane Moriarty’s best-selling <em>Nine Perfect Strangers</em> (<a href="#ref:moriarty2018">2018</a>) certainly make for a mentally taxing reading experience.</aside>
 
-<aside id="sn:6">The plots of the Jack Reacher novels are complex, but Lee Child’s descriptions of the empty American mid-west are both terse and evocative. Despite being also somewhat formulaic, his novels have <a href="https://www.amazon.co.uk/stores/author/B000APO0PQ/about">sold over one hundred million copies worldwide</a>.</aside>
+<aside id="sn:5">The plots of the Jack Reacher novels are complex, but Lee Child’s descriptions of the empty American mid-west are both terse and evocative. Despite being also somewhat formulaic, his novels have <a href="https://www.amazon.co.uk/stores/author/B000APO0PQ/about">sold over one hundred million copies worldwide</a>.</aside>
 
-<aside id="sn:7">Rather unexpectedly, the chief character in Graham Norton’s novel <em>Frankie</em> (<a
+<aside id="sn:6">Rather unexpectedly, the chief character in Graham Norton’s novel <em>Frankie</em> (<a
 href="#ref:norton2024">2024</a>) is an elderly lady called
 Frances. The name of her friend, Norah, is often abbreviated to “Nor”, which causes confusion when her name is used as the first word of a sentence.</aside>
 
-<aside id="sn:8">Charles Dickens used memorable names quite deliberately for his numerous characters. Several of his novels were first published in serialised form and readers had to wait for a week or even a month for the next instalment.</aside>
+<aside id="sn:7">Charles Dickens used memorable names quite deliberately for his numerous characters. Several of his novels were first published in serialised form and readers had to wait for a week or even a month for the next instalment.</aside>
 
-<aside id="sn:9"><a href="https://www.equalarts.org.uk/dementia-friendly-reading">Open Ended Books</a> is the publishing section of Equal Arts, a leading creative ageing charity which supports older people and those living with dementia in Gateshead, Newcastle and across the UK.</aside>
+<aside id="sn:8"><a href="https://www.equalarts.org.uk/dementia-friendly-reading">Open Ended Books</a> is the publishing section of Equal Arts, a leading creative ageing charity which supports older people and those living with dementia in Gateshead, Newcastle and across the UK.</aside>
 
-<aside id="sn:10">The bulky hardback edition of Alan Hollinghurst’s <em>Our Evenings</em> (<a href="#ref:hollinghurst2024">2024</a>) is set in a conventional Stempel Garamond. The author, who was knighted in 2024 for services to literature, is known for his exceptional handling of English prose.</aside>
+<aside id="sn:9">The bulky hardback edition of Alan Hollinghurst’s <em>Our Evenings</em> (<a href="#ref:hollinghurst2024">2024</a>) is set in a conventional Stempel Garamond. The author, who was knighted in 2024 for services to literature, is known for his exceptional handling of English prose.</aside>
 
-<aside id="sn:11">Where a large market is anticipated for a well-known author – Richard Osman, for example – the budget also allows for costly features such as decorative sprayed edges and hand-drawn lettering on the jacket.</aside>
+<aside id="sn:10">Where a large market is anticipated for a well-known author – Richard Osman, for example – the budget also allows for costly features such as decorative sprayed edges and hand-drawn lettering on the jacket.</aside>
 
 {% include cta-feedback.html %}
 
@@ -184,7 +180,7 @@ Frances. The name of her friend, Norah, is often abbreviated to “Nor”, which
 
 ## References
 
-Austen, J. (1973). *Persuasion* (D.W. Harding, Ed.). Penguin. (Original work published 1817)
+Austen, J. (1973). *Persuasion* (D. W. Harding, Ed.). Penguin. (Original work published 1817)
 {: id="ref:austen1817"}
 
 Austen, J. (2003). *Sense and sensibility*. Penguin. (Original work published 1811)
