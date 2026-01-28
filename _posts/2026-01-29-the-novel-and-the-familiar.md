@@ -1,17 +1,17 @@
 ---
 layout: post
 title: "The Novel and the Familiar: Writing stories for readers with memory loss"
-date: 2026-01-02 10:00:00
+date: 2026-01-28 10:00:00
 categories:
     - Article
 authors:
     - Marie E. Leahy
 editor:
     - Mary Dyson
-readingtime: 17 min read
+readingtime: 21 min read
 intro: |
     How the combination of editorial skills, design practice, and neuroscience could be used to develop fiction for non-typical readers.
-sharing_image: /assets/2026-01-20-the-novel-and-the-familiar/sharing_image.png
+sharing_image: /assets/2026-01-29-the-novel-and-the-familiar/sharing_image.png
 theme: blue
 ---
 
@@ -27,7 +27,7 @@ All printed books are constructed. As the author’s Acknowledgements paragraph 
 
 In his invaluable guide *How novels work* John Mullen ([2006](#ref:mullen2006)) explains how the novel developed from earlier literary genres (see [Figure 1](#fig:1) for an example) and goes on to analyse the components that are the defining features of this form of text. Given that any new work of fiction will to a large extent be a reassembling of these components, it might be useful to consider Mullen’s explanation of the main aspects of the novel when commissioning texts for readers who have problems with their memory.
 
-![Daniel Defoe’s Robinson Crusoe](/assets/2026-01-20-the-novel-and-the-familiar/figure_1.jpg)
+![Daniel Defoe’s Robinson Crusoe](/assets/2026-01-29-the-novel-and-the-familiar/figure_1.jpg)
 
 <figcaption id="fig:1"><strong>Figure 1:</strong> Daniel Defoe’s <em>Robinson Crusoe</em> (<a href="#ref:defoe1719">1719/1996</a>) is considered to be one of the very earliest novels written in the English language. The text takes the form of a first-person account by the fictional narrator, Crusoe, and describes his extraordinary experiences as a castaway on a desert island. In some later editions the continuous text of the original was broken down into chapters with descriptive headings and illustrations were added. The engraved frontispiece appears in the first edition of the book.</figcaption>
 
@@ -46,7 +46,7 @@ However, the sequential nature of a plot poses immediate problems for readers wh
 
 For this reason, *The Salt Path* by Raynor Winn ([2018](#ref:winn2018); [Figure 2](#fig:2)) was a rather surprising recommendation made by Teresa Davies, a volunteer from the [LikeMinded group](#sn:2) in Mold, north east Wales, who spoke to me about fiction via Zoom  on May 5, 2022. The autobiographical account of the long walk undertaken by Raynor Winn and her husband along the coastal path from Somerset to Dorset may well blur fact and fiction, but the structure of the narrative provides an insight into what a reader with an imperfect working memory can absorb. The text is episodic and repetitious, but it is full of separate incidents that are vividly and economically recounted. The story arc is clear, and the tone is hopeful and carries the reader forward. So beyond knowing broadly what the two characters set out to achieve at the outset, no memory of what happened in earlier chapters is required. Each success or disaster can be enjoyed separately as the story progresses.
 
-![The front cover of The Salt Path by Raynor Winn](/assets/2026-01-20-the-novel-and-the-familiar/figure_2.jpg)
+![The front cover of The Salt Path by Raynor Winn](/assets/2026-01-29-the-novel-and-the-familiar/figure_2.jpg)
 {: .narrow}
 
 <figcaption id="fig:2"><strong>Figure 2:</strong> The front cover of <em>The Salt Path</em> by Raynor Winn (<a href="#ref:winn2018">2018</a>) published by Penguin. Although it was later criticised for its accuracy, the text provides a useful model for the construction of incident-rich narratives that progress in time and do not make excessive demands on the reader’s memory. The artwork is by Penguin Michael Joseph. Copyright © Raynor Winn, 2018. Reprinted by permission of Penguin Books Limited.</figcaption>
@@ -89,7 +89,7 @@ Making a mental image of a described situation is referred to by psychologists a
 
 ## The characters
 
-The human interest in a story is based on the characters involved. As the story unfolds, we learn about them through their interactions and reactions ([Douglas-Fairhurst, 2025, p. 5](#ref:douglas-fairhurst2025); [Lodge, 2011, p. 5](#ref:lodge2011)). However, too many characters can be taxing for the memory. As volunteer Teresa Davies noted “What helps as well is if you have a few characters in a book it’s good to have on the chapter who’s taking part in that.” So restricting the number and building each chapter around key individuals could be a good move. In his novel *The Strange Case of Dr Jekyll and Mr Hyde*, Robert Louis Stevenson ([1886/1979](#ref:stevenson1886)) marks out his story quite clearly. The second chapter (p. 35) has the heading:
+The human interest in a story is based on the characters involved. As the story unfolds, we learn about them through their interactions and reactions ([Douglas-Fairhurst, 2025, p. 5](#ref:douglas-fairhurst2025); [Lodge, 2011, p. 5](#ref:lodge2011)). However, too many characters can be taxing for the memory. As volunteer Teresa Davies noted “What helps as well is if you have a few characters in a book … it’s good to have on the chapter who’s taking part in that.” So restricting the number and building each chapter around key individuals could be a good move. In his novel *The Strange Case of Dr Jekyll and Mr Hyde*, Robert Louis Stevenson ([1886/1979](#ref:stevenson1886)) marks out his story quite clearly. The second chapter (p. 35) has the heading:
 
 > Search for Mr Hyde
 {:.sample-layout}
@@ -126,7 +126,7 @@ There is no mention of book illustration in John Mullen’s analysis of the way 
 
 The use of family trees and stylised maps can also help to support the reader’s understanding. David Nicholls’s best-selling *You Are Here* ([2024](#ref:nicholls2024)) describes a walking trip not unlike Raynor Winn’s event-packed *Salt Path* and both accounts provide simple sketch maps to allow the reader to visualise the distances so painfully covered. Positioning the maps opposite the relevant chapter opener or, better still, on the appropriate page would be a better option for the memory-challenged reader. This was clearly the designer’s strategy in a recent book about Thomas Bewick published by Open Ended Books ([2024](#ref:lawrance2024); [Figure 3](#fig:3)[).](#sn:8)
 
-![Page 20 of “Bewick Tales. Stories from the Life and Work of Thomas Bewick” by Sarah Lawrance](/assets/2026-01-20-the-novel-and-the-familiar/figure_3.jpg)
+![Page 20 of “Bewick Tales. Stories from the Life and Work of Thomas Bewick” by Sarah Lawrance](/assets/2026-01-29-the-novel-and-the-familiar/figure_3.jpg)
 
 <figcaption id="fig:3"><strong>Figure 3:</strong> Page 20 of <em>Bewick Tales. Stories from the Life and Work of Thomas Bewick</em> by Sarah Lawrance (<a href="#ref:lawrance2024">2024</a>). To avoid taxing the reader’s memory, the simplified map of Bewick’s route home is positioned at its point of reference in the text.</figcaption>
 
@@ -136,7 +136,7 @@ Readers who have dementia comment favourably on the tactile quality of printed b
 
 The idea of consulting adult readers about the design of works of fiction is perhaps a new one. Bloomsbury have taken the lead with their [autumn 2025 list](https://www.bloomsbury.com/uk/connect/latest-news/for-over-6-million-uk-adults-reading-just-got-easier), which features “an industry-first initiative that sees 11 iconic bestselling adult titles put into a format designed specifically to support adults with dyslexia.” Experienced readers with early-stage Alzheimer’s disease also tend to have specific literacy needs ([Leahy, 2021](#ref:leahy2021)). Aspects of the format chosen for the Bloomsbury books might well be relevant – the unjustified setting, for example, and the use of off-white paper to reduce contrast. However, the texts are printed in dark-blue ink, with a sans serif typeface and with bold type replacing italic. The non-fiction titles produced by Open Ended Books have reached different conclusions after close consultation with volunteer readers who have dementia. For these carefully illustrated books a serif typeface was chosen for the introductory narrative sections and italics were used wherever the experienced reader might expect them ([Figure 4](#fig:4)).
 
-![Page 30 of Dorothy Wordsworth’s Grasmere Days by Sarah Lawrance](/assets/2026-01-20-the-novel-and-the-familiar/figure_4.jpg)
+![Page 30 of Dorothy Wordsworth’s Grasmere Days by Sarah Lawrance](/assets/2026-01-29-the-novel-and-the-familiar/figure_4.jpg)
 
 <figcaption id="fig:4"><strong>Figure 4:</strong> Page 30 of <em>Dorothy Wordsworth’s Grasmere Days</em> by Sarah Lawrance (<a href="#ref:lawrance2025">2025</a>). The text has been broken down into short, readable sections which are distinguished by their type size and font. The punctuation marks and quotation marks are prominent, and italic type has been used for the title of the book by Thomas Bewick from which the engraving has been taken.</figcaption>
 
