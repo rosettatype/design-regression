@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Novel and the Familiar: Writing stories for readers with memory loss"
-date: 2026-01-28 10:00:00
+date: 2026-01-29 10:00:00
 categories:
     - Article
 authors:
