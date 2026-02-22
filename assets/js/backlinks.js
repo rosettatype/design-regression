@@ -31,8 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
     referenceMap[refId].forEach((citationId, i) => {
       const backlink = document.createElement("a");
       backlink.href = `#${citationId}`;
-      backlink.textContent = "↑";
-      backlink.style.marginLeft = "0.4em";
+      backlink.textContent = `${i + 1}`;
       backlink.title = "Back to citation no. " + `${i + 1}`;
 
       backlinkContainer.appendChild(backlink);

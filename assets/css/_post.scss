@@ -239,6 +239,19 @@
         text-overflow: ellipsis;
         width: 100%;
         overflow-x: hidden;
+
+        // Reference backlinks
+        .backlinks a::before {
+            margin: 0 0.3em;
+            @include font-mono(16px, $weight: 450);
+            content: "↗︎";
+        }
+        .backlinks a {
+            margin-left: 0.3em;
+            @include font-mono(16px, $weight: 450);
+            text-decoration: none;
+            font-feature-settings: "ss11"1;
+        }
     }
 
     footer {
