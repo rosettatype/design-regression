@@ -252,6 +252,12 @@
             text-decoration: none;
             font-feature-settings: "ss11"1;
         }
+        .backlinks a:hover {
+            margin-left: 0.3em;
+            @include font-mono(16px, $weight: 450);
+            text-decoration: none;
+            font-feature-settings: "ss12"1;
+        }
     }
 
     footer {
