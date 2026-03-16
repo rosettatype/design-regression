@@ -33,10 +33,10 @@ It could be argued that the success of machine learning owes much to the willing
 
 This is particularly important with respect to digital technologies that embody writing. The assemblage of [topics discussed](#sn:1) attempts to map the relationship among the font technologies (such as font formats and font editors), the manual and educational origins of writing (in the sense of *mark making*), and human perception (namely character recognition). Would it be theoretically possible to derive basic morphological principles of scripts based on the human condition? And if so, why would we want to do that?
 
-Although the focus is on scripts and character recognition, it is worth remembering that these exist in the wider [context of reading.](#sn:2) The contemporary consensus among cognitive psychologists is that we process individual letters in parallel to obtain character identities ([Larson, 2005](#ref:larson2005); [Grainger, Rey & Dufau, 2008](#ref:grainger-rey-dufau2008)), see also [Figure 1](#fig:1). These are subsequently mapped to potential candidate words. The process of character identification/recognition is not perfect and there may be a need to confirm the identities from context, for example:
+Although the focus is on scripts and character recognition, it is worth remembering that these exist in the wider [context of reading.](#sn:2) The contemporary consensus among cognitive psychologists is that we process individual letters in parallel to obtain character identities ([Larson, 2005](#ref:larson2005); [Grainger et al., 2008](#ref:grainger-et-al2008)), see also [Figure 1](#fig:1). These are subsequently mapped to potential candidate words. The process of character identification/recognition is not perfect and there may be a need to confirm the identities from context, for example:
 
-- based on the content ([Palmer, 1999, p. 428](#ref:palmer1999); [Carreiras et al., 2014](#ref:carreirasetal2014); [Marcet and Perea, 2017](#ref:marcet-perea2017)), see also [Figure 2](#fig:2), or
-- based on the overall appearance of the font ([Sanocki, 1987](#ref:sanocki-1987); [Gauthier et al., 2006](#ref:gauthieretal2006); [Walker, 2008](#ref:walker2008); [Sanocki and Dyson, 2012](#ref:sanocki-dyson2012)).
+- based on the content ([Palmer, 1999, p. 428](#ref:palmer1999); [Carreiras et al., 2014](#ref:carreirasetal2014); [Marcet & Perea, 2017](#ref:marcet-perea2017)), see also [Figure 2](#fig:2), or
+- based on the overall appearance of the font ([Sanocki, 1987](#ref:sanocki-1987); [Gauthier et al., 2006](#ref:gauthieretal2006); [Walker, 2008](#ref:walker2008); [Sanocki & Dyson, 2012](#ref:sanocki-dyson2012)).
 
 ![A diagram showing the obtaining of letter identities as a part of word recognition (after Larson, 2005)](/assets/2025-06-04-what-is-a-universal-script-grammar/figure_01.svg){: .full}
 
@@ -250,8 +250,8 @@ Gauthier, I., Wong, A. C., Hayward, W. G., & Cheung, O. S. (2006). Font tuning a
 Gelb, I. J. (1963). *A study of writing: The foundations of grammatology* (Second revised ed.). University of Chicago Press. (Original work published 1952)
 {: id="ref:gelb1952"}
 
-Grainger, J., Rey, A., & Dufau, S. (2008). Letter perception: from pixels to pandemonium. *Trends in Cognitive Sciences*, 12, 381—387. <https://doi.org/10.1016/j.tics.2008.06.006>
-{: id="ref:grainger-rey-dufau2008"}
+Grainger, J., Rey, A., & Dufau, S. (2008). Letter perception: from pixels to pandemonium. *Trends in Cognitive Sciences*, *12*, 381—387. <https://doi.org/10.1016/j.tics.2008.06.006>
+{: id="ref:grainger-et-al2008"}
 
 Hofstadter, D. R. (1982). Meta-font, metamathematics, and metaphysics: Comments on Donald Knuth's “The concept of a meta-font”. *Visible Language*, *16*(4), 309—338.
 {: id="ref:hofstadter1982"}
@@ -286,7 +286,7 @@ Marcet, A., & Perea, M. (2017). Is nevtral NEUTRAL? Visual similarity effects in
 Mathey, Y., & Babé, L.-R. (2014). *Prototypo: Streamlining font creation*. <https://www.prototypo.io>
 {: id="ref:mathey-babe2014"}
 
-McGraw, G., & Hofstadter, D. R. (1996). Emergent letter perception: Implementing the role hypothesis. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 18.
+McGraw, G., & Hofstadter, D. R. (1996). Emergent letter perception: Implementing the role hypothesis. *Proceedings of the Annual Meeting of the Cognitive Science Society*, *18*.
 {: id="ref:mcgraw-hofstadter1996"}
 
 Meletis, D. (2020a). *The nature of writing*. Fluxus Editions. <https://doi.org/10.36824/2020-MELETIS>
