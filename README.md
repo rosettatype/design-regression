@@ -2,6 +2,9 @@
 
 Design Regression is a journalette (mini journal) publishing texts that are about design for reading and reading-related research. It aims for the hard-to-get blend of approachability with seriousness and relevance to practice.
 
+💰 [Sponsor via GitHub](https://github.com/sponsors/rosettatype) or directly via [Stripe](https://donate.stripe.com/7sYcN51Hvgv3aHYakWdfG0g). Any and all contributions are much appreciated! 🙏
+
+
 ## Licence
 
 The articles are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International licence (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
