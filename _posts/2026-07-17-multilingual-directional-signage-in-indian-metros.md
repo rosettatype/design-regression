@@ -323,7 +323,7 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_16.png)
 
-<figcaption id="fig:f16"><strong>Figure 16:</strong> Delhi Metro directional signage illustrating equal priority to English and Hindi. Notably, the text alignment and spatial organisation are inconsistent; while the text block on the left aligns with the direction of the arrow, the layout on the right uses left alignment for the exit information “Minto Road”), but right alignment for the text “Exit”.</figcaption>
+<figcaption id="fig:f16"><strong>Figure 16:</strong> Delhi Metro directional signage illustrating equal priority to English and Hindi. Notably, the text alignment and spatial organisation are inconsistent; while the text block on the left aligns with the direction of the arrow, the layout on the right uses left alignment for the exit information (‘Minto Road’), but right alignment for the text ‘Exit’.</figcaption>
 
 
 
