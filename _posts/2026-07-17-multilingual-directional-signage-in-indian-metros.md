@@ -261,70 +261,69 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 ## Figures
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_1.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_1.jpg){: .grayscale}
 
 <figcaption id="fig:f1"><strong>Figure 1:</strong> Pune Metro’s trilingual directional signage, featuring Marathi at the top in the largest font, followed by Hindi and English with the same apparent font size.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_2.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_2.jpg){: .grayscale}
 
 <figcaption id="fig:f2"><strong>Figure 2:</strong> Nagpur Metro directional signage featuring Marathi at the top in bold, with Hindi and English text below in smaller and lighter font weights.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_3.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_3.jpg){: .grayscale}
 
 <figcaption id="fig:f3"><strong>Figure 3:</strong> Nagpur Metro directional signage illustrating its text alignment varying according to the direction the sign is pointing.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_4.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_4.jpg){: .grayscale}
 
 <figcaption id="fig:f4"><strong>Figure 4:</strong> Bengaluru Metro (Namma Metro) signage before Devanagari was removed from the system. The photo is by రహ్మానుద్దీన్, licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license and it is available from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi_road_Metro_station_bangalore.jpg).</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_5.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_5.jpg){: .grayscale}
 
 <figcaption id="fig:f5"><strong>Figure 5:</strong> Namma Metro signage after Devanagari was removed from the system.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_6.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_6.jpg){: .grayscale}
 
 <figcaption id="fig:f6"><strong>Figure 6:</strong> Hyderabad Metro directional signage demonstrating the four-language wayfinding system. Telugu and English are prioritised at the top in larger font sizes, with Hindi and Urdu positioned below. A thin vertical line is used to separate distinct destination information. The photo is by Rajasekhar, licensed under the Creative Commons CC0 1.0 Universal Public Domain Dedication and it is available from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Exit_B_of_Victoria_Memorial_metro_station.jpg).</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_7.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_7.jpg){: .grayscale}
 
 <figcaption id="fig:f7"><strong>Figure 7:</strong> Hyderabad Metro directional signage illustrating its script-specific alignment strategy. Telugu and Hindi are right-aligned against the central vertical separator lines, while English and Urdu are left-aligned.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_8.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_8.jpg){: .grayscale}
 
 <figcaption id="fig:f8"><strong>Figure 8:</strong> Mumbai Metro directional signage, showcasing its use of the three languages.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_9.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_9.jpg){: .grayscale}
 
 <figcaption id="fig:f9"><strong>Figure 9:</strong> Mumbai Metro directional signage with the exit destinations only in English. The text is aligned right, consistent with the direction the arrow is pointing towards. </figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_10.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_10.jpg){: .grayscale}
 
 <figcaption id="fig:f10"><strong>Figure 10:</strong> Mumbai Metro directional signage with the word ‘घाटकोपर’ shared between Marathi and Hindi, while the sponsor name ‘HDFC SKY’ is only in the Latin script.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_11.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_11.jpg){: .grayscale}
 
 <figcaption id="fig:f11"><strong>Figure 11:</strong> Kolkata Metro directional signage exhibiting a confusing layout and hierarchy.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_12.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_12.jpg){: .grayscale}
 
 <figcaption id="fig:f12"><strong>Figure 12:</strong> Ahmedabad Metro directional signage illustrating equal priority for all three languages.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_13.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_13.jpg){: .grayscale}
 
 <figcaption id="fig:f13"><strong>Figure 13:</strong> Ahmedabad Metro directional signage illustrating its text alignment being opposite to the directions the sign is pointing.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_14.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_14.jpg){: .grayscale}
 
 <figcaption id="fig:f14"><strong>Figure 14:</strong> Lucknow Metro directional signage illustrating equal priority for Devanagari and Latin.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_15.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_15.jpg){: .grayscale}
 
 <figcaption id="fig:f15"><strong>Figure 15:</strong> Lucknow Metro signage displaying secondary information in both Hindi and English.</figcaption>
 
-![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_16.jpg)
+![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_16.jpg){: .grayscale}
 
 <figcaption id="fig:f16"><strong>Figure 16:</strong> Delhi Metro directional signage illustrating equal priority to English and Hindi. Notably, the text alignment and spatial organisation are inconsistent; while the text block on the left aligns with the direction of the arrow, the layout on the right uses left alignment for the exit information (‘Minto Road’), but right alignment for the text ‘Exit’.</figcaption>
-
 
 
 <aside id="sn:sn1">This previous work is my MA Information Design dissertation at the University of Reading (<a href="#ref:shah-2024">2024</a>), titled ‘Exploring typographic parameters for Devanagari script in metro system directional signage: A comparative analysis with Latin script directional signage’. This underscored the need for script-specific guidelines, highlighting gaps in standardisation, design uniformity, and hierarchical clarity.</aside>
@@ -340,11 +339,6 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 <aside id="sn:sn6">The Urdu text is displayed in the <em>Naskh</em> style. This is notable as Urdu is often written in the <em>Nastaliq</em> style, whose diagonal orientation can be less practical for standardised wayfinding signage compared to the more linear Naskh.</aside>
 
 <aside id="sn:sn7">The study relied on the expertise of Fiona Ross (University of Reading) and Vaibhav Singh (Typeland), to identify Devanagari typefaces across the various networks. In the case of Ahmedabad, this analysis was supplemented by data provided directly by the metro authority.</aside>
-
-
-{% include cta-feedback.html %}
-
-{% include cta-newsletter.html %}
 
 
 
@@ -370,4 +364,9 @@ South Asia Language Resource Center. (n.d.). *Hindi font: Yogesh*. University of
 
 Times of India. (2017, August 5). *Namma Metro pulls down Hindi signage.* <https://timesofindia.indiatimes.com/city/bengaluru/namma-metro-pulls-down-hindi-signage/articleshow/59924104.cms>
 {: id="ref:times-2017"}
+
+
+{% include cta-feedback.html %}
+
+{% include cta-newsletter.html %}
 

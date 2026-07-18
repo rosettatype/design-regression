@@ -388,6 +388,14 @@ article main {
         border-radius: 2px; // ALL images rounded edges!
     }
 
+    img.grayscale {
+        filter: grayscale(1);
+        &:hover,
+        &:focus {
+            filter: none;
+        }
+    }
+
     // A narrow paragraph or image container
     .narrow {
         max-width: 50%;
