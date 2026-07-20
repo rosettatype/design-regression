@@ -275,7 +275,7 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_4.jpg){: .grayscale}
 
-<figcaption id="fig:f4"><strong>Figure 4:</strong> Bengaluru Metro (Namma Metro) signage before Devanagari was removed from the system. The photo is by రహ్మానుద్దీన్, licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license and it is available from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi_road_Metro_station_bangalore.jpg).</figcaption>
+<figcaption id="fig:f4"><strong>Figure 4:</strong> Bengaluru Metro (Namma Metro) signage before Devanagari was removed from the system. The photo is by రహ్మానుద్దీన్, licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license and it is available from the <a href=https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi_road_Metro_station_bangalore.jpg">Wikimedia Commons</a>.</figcaption>
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_5.jpg){: .grayscale}
 
@@ -283,7 +283,7 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_6.jpg){: .grayscale}
 
-<figcaption id="fig:f6"><strong>Figure 6:</strong> Hyderabad Metro directional signage demonstrating the four-language wayfinding system. Telugu and English are prioritised at the top in larger font sizes, with Hindi and Urdu positioned below. A thin vertical line is used to separate distinct destination information. The photo is by Rajasekhar, licensed under the Creative Commons CC0 1.0 Universal Public Domain Dedication and it is available from the [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Exit_B_of_Victoria_Memorial_metro_station.jpg).</figcaption>
+<figcaption id="fig:f6"><strong>Figure 6:</strong> Hyderabad Metro directional signage demonstrating the four-language wayfinding system. Telugu and English are prioritised at the top in larger font sizes, with Hindi and Urdu positioned below. A thin vertical line is used to separate distinct destination information. The photo is by Rajasekhar, licensed under the Creative Commons CC0 1.0 Universal Public Domain Dedication and it is available from the <a href="https://commons.wikimedia.org/wiki/File:Exit_B_of_Victoria_Memorial_metro_station.jpg">Wikimedia Commons</a>.</figcaption>
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_7.jpg){: .grayscale}
 
@@ -295,7 +295,7 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_9.jpg){: .grayscale}
 
-<figcaption id="fig:f9"><strong>Figure 9:</strong> Mumbai Metro directional signage with the exit destinations only in English. The text is aligned right, consistent with the direction the arrow is pointing towards. </figcaption>
+<figcaption id="fig:f9"><strong>Figure 9:</strong> Mumbai Metro directional signage with the exit destinations only in English. The text is aligned right, consistent with the direction the arrow is pointing towards.</figcaption>
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_10.jpg){: .grayscale}
 
@@ -332,7 +332,7 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 <aside id="sn:sn3">Kolkata Metro employs two distinct wayfinding systems. The analysis presented here focuses on the older, legacy signage, as newer stations have adopted an updated design.</aside>
 
-<aside id="sn:sn4">The visual data comprised original photographs taken specifically for this study, photographs taken by friends and family, and photographs sourced from [Wikimedia Commons](Wikimedia Commons).</aside>
+<aside id="sn:sn4">The visual data comprised original photographs taken specifically for this study, photographs taken by friends and family, and photographs sourced from <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>.</aside>
 
 <aside id="sn:sn5">A similar linguistic strategy, balancing regional identity with broader domestic and universal comprehension, is employed across the majority of the metro networks examined in this study.</aside>
 
