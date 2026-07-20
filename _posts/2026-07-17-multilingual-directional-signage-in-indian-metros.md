@@ -275,7 +275,7 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_4.jpg){: .grayscale}
 
-<figcaption id="fig:f4"><strong>Figure 4:</strong> Bengaluru Metro (Namma Metro) signage before Devanagari was removed from the system. The photo is by రహ్మానుద్దీన్, licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license and it is available from the <a href=https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi_road_Metro_station_bangalore.jpg">Wikimedia Commons</a>.</figcaption>
+<figcaption id="fig:f4"><strong>Figure 4:</strong> Bengaluru Metro (Namma Metro) signage before Devanagari was removed from the system. The photo is by రహ్మానుద్దీన్, licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license and it is available from the <a href="https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi_road_Metro_station_bangalore.jpg">Wikimedia Commons</a>.</figcaption>
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_5.jpg){: .grayscale}
 
