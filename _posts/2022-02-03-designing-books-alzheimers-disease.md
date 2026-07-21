@@ -251,7 +251,7 @@ The design of the book covers was deliberately fresh and simple with a strong re
 
 ![Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s Treasure Island](/assets/2022-02-03-designing-books-alzheimers-disease/figure_7_bookmark-with-ribbon.jpg)
 {: .narrow}
-<figcaption id="fig:figure-7"><strong>Figure 7:</strong> Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s <em>Treasure Island</em> (<a href="#ref:cassell-1883">Cassell & Co., 1883</a>).</figcaption>
+<figcaption id="fig:figure-7"><strong>Figure 7:</strong> Bookmark, attached by a ribbon, providing a list of the characters in Robert Louis Stevenson’s <em>Treasure Island</em> (<a href="#ref:stevenson-1883">1883</a>).</figcaption>
 
 ![Bookmark with a list of the characters in Treasure Island](/assets/2022-02-03-designing-books-alzheimers-disease/figure_8_bookmark-front-flap.jpg)
 <figcaption id="fig:figure-8"><strong>Figure 8:</strong> Bookmark with a list of the characters in <em>Treasure Island</em> provided as a detachable strip printed on the front flap.</figcaption>
@@ -276,7 +276,7 @@ The idea of including a list of characters at the start of a text was welcomed. 
 
 ## What the results suggest
 
-Taken together, the fieldwork and the formal studies suggest that there re a number of adjustments which might facilitate errorless reading. ubstantial typographical modifications do not appear to be necessary or the habitual readers who go on to develop Alzheimer’s disease. owever, it would seem to be essential to avoid any obstacles that might nterfere with a correct understanding of the text. Readers are likely o benefit from a well-defined typeface and a page layout that is amiliar and offers prominent, conventionally positioned running heads nd page numbers. Space should be used to connect and to separate; dentical and contrasting colours may be used to indicate similarity and ifference; unnecessary decorative features may cause distraction and eed to be avoided.
+Taken together, the fieldwork and the formal studies suggest that there are a number of adjustments which might facilitate errorless reading. Substantial typographical modifications do not appear to be necessary or the habitual readers who go on to develop Alzheimer’s disease. However, it would seem to be essential to avoid any obstacles that might interfere with a correct understanding of the text. Readers are likely to benefit from a well-defined typeface and a page layout that is familiar and offers prominent, conventionally positioned running heads and page numbers. Space should be used to connect and to separate; identical and contrasting colours may be used to indicate similarity and difference; unnecessary decorative features may cause distraction and need to be avoided.
 
 Finding that informants retained their ability to visualise scenes and people was surprising given the wide range of losses that can be caused by strokes and brain injuries ([Zeman et al., 2016](#ref:zeman-dewar-della-salla-2016)). Research into  the commissioning of texts for readers with early-stage dementia would need to explore this aspect of imagination, which lies at the heart of the author/reader [collaboration.](#sn:jamie-stonebridge)
 
@@ -286,11 +286,11 @@ Publishing is a multidisciplinary exercise and producing books for any readershi
 
 ## Notes
 
-<aside id="sn:ritter">Ritter writes in <em>The Oxford Manual of Style</em>  ([1992, p. 112](#ref:ref:ritter-1992)) that “Punctuation exists to clarify meaning in the written word and to facilitate reading. Too much can hamper understanding through an uneven, staccato text, while too little can lead to misreading.”</aside>
+<aside id="sn:ritter">Ritter writes in <em>The Oxford Manual of Style</em>  (<a href="#ref:ritter-1992">1992, p. 112</a>) that “Punctuation exists to clarify meaning in the written word and to facilitate reading. Too much can hamper understanding through an uneven, staccato text, while too little can lead to misreading.”</aside>
 
 <aside id="sn:professional-designers">The layouts illustrated in <a href="#fig:figure-1a">Figures 1–6</a> were prepared by David Woodward. The materials illustrated in <a href="#fig:figure-7">Figures 7–9</a> were prepared by Tamsin Ogilvie. I am grateful to both designers for their contribution to the studies.</aside>
 
-<aside id="sn:jamie-stonebridge">The series of paperback books independently published by Jamie Stonebridge makes a significant contribution to this area.  Each title consists of a short story with simple documentary illustrations and  carefully edited text that is designed for independent reading. The books are  listed at <a href="https://jamiestonebridge.com">https://jamiestonebridge.com</a>.</aside>
+<aside id="sn:jamie-stonebridge">The series of paperback books independently published by Jamie Stonebridge makes a significant contribution to this area.  Each title consists of a short story with simple documentary illustrations and  carefully edited text that is designed for independent reading. The books are listed at <a href="https://www.waterstones.com/author/jamie-stonebridge/5139944">https://www.waterstones.com/author/jamie-stonebridge/5139944</a>.</aside>
 
 {% include cta-feedback.html %}
 
