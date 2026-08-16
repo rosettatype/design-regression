@@ -257,6 +257,8 @@ The practical application of typography reveals numerous inconsistencies:
 
 **Alignment and spatial organisation:** A range of alignment strategies is observed across the systems. The most common approach is direction-based alignment, where text is justified in the same direction the sign indicates, as seen in Pune, Nagpur, Bengaluru, Lucknow, and Delhi. Other networks apply alternative rules, such as Ahmedabad’s opposite direction alignment and Hyderabad’s script-specific alignment. In contrast, both Mumbai and Kolkata feature inconsistent layouts that vary between signs without a discernible system. Beyond alignment, the inconsistent application of differentiators such as spacing and coloured lines often creates additional visual noise, as observed in Hyderabad.
 
+### Implications for the designers
+
 These inconsistencies highlight the absence of standardised guidelines for Devanagari-centric multilingual typography. While the script’s structural complexity demands tailored solutions, ad-hoc decisions driven by local pragmatism or politics result in fragmented user experiences. Skilful typography and clear hierarchical structuring can address this issue. Future efforts must prioritise empirical legibility testing, further exploration and development of script-specific typefaces, and flexible frameworks that balance regional preferences with universal accessibility. As India’s urban mobility networks expand, such harmonisation will be critical to ensuring equitable navigation in linguistically diverse spaces.
 
 ## Figures
@@ -287,7 +289,7 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_7.jpg){: .grayscale}
 
-<figcaption id="fig:f7"><strong>Figure 7:</strong> Hyderabad Metro directional signage illustrating its script-specific alignment strategy. Telugu and Hindi are right-aligned against the central vertical separator lines, while English and Urdu are left-aligned.</figcaption>
+<figcaption id="fig:f7"><strong>Figure 7:</strong> Hyderabad Metro directional signage illustrating its script-specific alignment strategy. Telugu and Hindi are right-aligned against the central vertical separator lines, while English and Urdu are left-aligned. The left alignment goes against the natural alignment/direction of the Arabic script used for Urdu.</figcaption>
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_8.jpg){: .grayscale}
 
