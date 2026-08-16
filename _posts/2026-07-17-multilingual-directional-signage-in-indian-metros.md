@@ -11,7 +11,7 @@ editor:
 readingtime: 15 min read
 theme: sand
 intro: |
-    This article examines the integration of Devanagari script within multilingual and multi-script directional signage across India’s metro networks.
+    The case study addresses wayfinding using multilingual and multi-script signage highlighting diverse approaches to script prioritisation, typographic harmonisation, and spatial organisation. 
 published: true
 sharing_image: /assets/2026-07-17-multilingual-directional-signage-in-indian-metros/sharing_image.jpg
 ---
@@ -113,7 +113,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td>Marathi (top, largest, boldest), Hindi & English (equal, smaller)</td>
             <td>Direction-based</td>
             <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
-            <td>Fig. <a href="#fig:f1">1</a></td>
+            <td><a href="#fig:f1">Fig. 1</a></td>
         </tr>
         <tr>
             <td><strong>Nagpur</strong></td>
@@ -126,7 +126,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td>Marathi (top, largest, boldest), Hindi & English (equal, smaller)</td>
             <td>Direction-based</td>
             <td>Mukta (all scripts)</td>
-            <td>Figs. <a href="#fig:f2">2</a> & <a href="#fig:f3">3</a></td>
+            <td><a href="#fig:f2">Figs. 2</a>, <a href="#fig:f3">3</a></td>
         </tr>
         <tr>
             <td><strong>Bengaluru<br>(Namma Metro)</strong><br>Original</td>
@@ -165,7 +165,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td>Telugu & English (top, larger), Hindi & Urdu (bottom, smaller)</td>
             <td>Script-specific</td>
             <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
-            <td>Figs. <a href="#fig:f6">6</a> & <a href="#fig:f7">7</a></td>
+            <td><a href="#fig:f6">Figs. 6</a>, <a href="#fig:f7">7</a></td>
         </tr>
         <tr>
             <td><strong>Mumbai</strong></td>
@@ -178,7 +178,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td>Marathi & Hindi (top, equal weight), English (bottom, lighter, all-caps)</td>
             <td>Inconsistent</td>
             <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
-            <td>Figs. <a href="#fig:f8">8</a>, <a href="#fig:f9">9</a>, <a href="#fig:f10">10</a></td>
+            <td><a href="#fig:f8">Figs. 8</a>, <a href="#fig:f9">9</a>, <a href="#fig:f10">10</a></td>
         </tr>
         <tr>
             <td><strong>Kolkata</strong></td>
@@ -191,7 +191,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td>Bengali (top-left, stacked), Hindi (top-right, stacked), English (bottom, unstacked)</td>
             <td>Left-aligned</td>
             <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
-            <td>Fig. <a href="#fig:f11">11</a></td>
+            <td><a href="#fig:f11">Fig. 11</a></td>
         </tr>
         <tr>
             <td><strong>Ahmedabad</strong></td>
@@ -208,7 +208,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
                 <p>Mukta (Gujarati)</p>
                 <p>Hind (Latin)</p>
             </td>
-            <td>Figs. <a href="#fig:f12">12</a>, <a href="#fig:f13">13</a></td>
+            <td><a href="#fig:f12">Figs. 12</a>, <a href="#fig:f13">13</a></td>
         </tr>
         <tr>
             <td><strong>Lucknow</strong></td>
@@ -220,7 +220,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td>Both equal size/weight</td>
             <td>Direction-based</td>
             <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
-            <td>Fig. <a href="#fig:f14">14</a>, <a href="#fig:f15">15</a></td>
+            <td><a href="#fig:f14">Fig. 14</a>, <a href="#fig:f15">15</a></td>
         </tr>
         <tr>
             <td><strong>Delhi</strong></td>
@@ -232,7 +232,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td>All equal size/weight</td>
             <td>Inconsistent</td>
             <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
-            <td>Fig. <a href="#fig:f16">16</a></td>
+            <td><a href="#fig:f16">Fig. 16</a></td>
         </tr>
     </tbody>
 </table>
