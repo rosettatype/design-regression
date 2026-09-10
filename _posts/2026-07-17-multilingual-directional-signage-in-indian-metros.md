@@ -48,12 +48,11 @@ Nagpur Metro, operational since 2019, uses a multilingual approach similar to Pu
 
 ### 3. Bengaluru (Namma Metro)
 
-Namma Metro initially implemented a trilingual signage system incorporating Kannada (in Kannada script), Hindi (in Devanagari), and English (in Latin script). Prior to the removal of Hindi, the typographic treatment of Devanagari varied depending on the sign’s deployment. While large station indicators utilised a variant of the legacy Yogesh typeface, the internal directional signage relied on Mangal, a standard system font. Following local opposition to perceived Hindi imposition, the current system retains only Kannada and English, eliminating Devanagari entirely ([Times of India,
-2017](#ref:times-2017)).
+Namma Metro initially implemented a trilingual signage system incorporating Kannada (in Kannada script), Hindi (in Devanagari), and English (in Latin script). Prior to the removal of Hindi, the typographic treatment of Devanagari varied depending on the sign’s deployment. While large station indicators utilised a variant of the legacy [Yogesh](#sn:sn6) typeface, the internal directional signage relied on [Mangal](#sn:sn7), a standard system font. Following local opposition to perceived Hindi imposition, the current system retains only Kannada and English, eliminating Devanagari entirely ([Times of India, 2017](#ref:times-2017)).
 
 ### 4. Hyderabad
 
-Hyderabad Metro integrates four languages and scripts in its signage: Telugu (in Telugu script), English (in Latin script), Hindi (in Devanagari), and Urdu (in Arabic [script)](#sn:sn6). Telugu and English are prioritised at the top of signage panels with larger font sizes reflecting Hyderabad’s status as a technology hub and its Telugu-speaking majority. Text alignment varies by script: Telugu and Hindi are right-aligned, while English and, notably, Urdu are left-aligned, which is unconventional for the typically right-to-left Arabic script. Thick red and blue lines separate language pairs, with thinner white lines distinguishing destination information.
+Hyderabad Metro integrates four languages and scripts in its signage: Telugu (in Telugu script), English (in Latin script), Hindi (in Devanagari), and Urdu (in Arabic [script)](#sn:sn8). Telugu and English are prioritised at the top of signage panels with larger font sizes reflecting Hyderabad’s status as a technology hub and its Telugu-speaking majority. Text alignment varies by script: Telugu and Hindi are right-aligned, while English and, notably, Urdu are left-aligned, which is unconventional for the typically right-to-left Arabic script. Thick red and blue lines separate language pairs, with thinner white lines distinguishing destination information.
 
 ### 5. Mumbai
 
@@ -65,8 +64,7 @@ Kolkata Metro, India’s oldest, uses a trilingual wayfinding system incorporati
 
 ### 7. Ahmedabad
 
-Ahmedabad Metro, serving Ahmedabad and Gandhinagar, uses a trilingual system incorporating Gujarati (in Gujarati script), Hindi (Devanagari), and English (Latin). The wayfinding system was designed by the National Institute of Design (NID), one of India’s premier design institutions ([Metro Rail
-News, 2017](#ref:metro-rail-2017)). A ‘No Exit’ sign was observed where the vertical spacing between the scripts is unequal. The Gujarati and Hindi text are placed closely together, while a larger space is left below the English text.
+Ahmedabad Metro, serving Ahmedabad and Gandhinagar, uses a trilingual system incorporating Gujarati (in Gujarati script), Hindi (Devanagari), and English (Latin). The wayfinding system was designed by the National Institute of Design (NID), one of India’s premier design institutions ([Metro Rail News, 2017](#ref:metro-rail-2017)). A ‘No Exit’ sign was observed where the vertical spacing between the scripts is unequal. The Gujarati and Hindi text are placed closely together, while a larger space is left below the English text.
 
 ### 8. Lucknow
 
@@ -80,7 +78,7 @@ Delhi Metro, India’s largest and most comprehensive metro system, uses a bilin
 
 The following comparative table summarises the key characteristics identified across the nine metro systems.
 
-Consistent with the article’s primary focus on Devanagari, the Devanagari typeface for each of the nine metro systems has been [identified.](#sn:sn7). A typographic analysis of every corresponding Latin and regional script typeface, however, is beyond the scope of this study. Consequently, non-Devanagari typefaces are identified only under specific circumstances: when the information was officially provided; when it was readily available from public sources; or when the typeface choice itself is central to a key analytical point, as with Nagpur’s use of a single font family across all scripts.
+Consistent with the article’s primary focus on Devanagari, the Devanagari typeface for each of the nine metro systems has been [identified.](#sn:sn9). A typographic analysis of every corresponding Latin and regional script typeface, however, is beyond the scope of this study. Consequently, non-Devanagari typefaces are identified only under specific circumstances: when the information was officially provided; when it was readily available from public sources; or when the typeface choice itself is central to a key analytical point, as with Nagpur’s use of a single font family across all scripts.
 
 To clarify the analytical terminology used, the ‘Alignment’ column is defined as follows:
 
@@ -243,17 +241,17 @@ The analysis of nine Indian metro systems provides critical insights into the in
 
 ### Linguistic diversity and script harmonisation
 
-All systems employ multilingual signage comprising two to four languages, reflecting India’s linguistic plurality. While Devanagari (used for Hindi and regional languages) coexists alongside the Latin, Bengali, Telugu, and Arabic scripts, its visual harmonisation with these different writing systems remains inconsistent. For example, Mumbai Metro’s singular representation of identical Marathi and Hindi words (see <a href="#fig:f10">Figure 10</a>) efficiently reduces visual clutter. Conversely, Kolkata Metro’s strictly compartmentalised layout (see <a href="#fig:f11">Figure 11</a>) creates a fragmented reading experience that undermines overall readability.
+All systems employ multilingual signage comprising two to four languages, reflecting India’s linguistic plurality. While Devanagari (used for Hindi and regional languages) coexists alongside the Latin, Bengali, Telugu, and Arabic scripts, its visual harmonisation with these different writing systems remains inconsistent. For example, Mumbai Metro’s singular representation of identical Marathi and Hindi words (see [Figure 10](#fig:f10)) efficiently reduces visual clutter. Conversely, Kolkata Metro’s strictly compartmentalised layout (see [Figure 11](#fig:f11)) creates a fragmented reading experience that undermines overall readability.
 
 ### Hierarchical tensions and cultural dynamics
 
-Systems prioritise scripts differently: regional languages (e.g., Marathi in Pune, see <a href="#fig:f1">Figure 1</a>) often dominate through size and positioning, while others (e.g., Delhi, see <a href="#fig:f16">Figure 16</a>) grant equal status to Hindi and English. Political influences further shape these hierarchies, as seen in Bengaluru’s removal of Hindi. These variations reflect unresolved tensions between regional identity, national policies, and global accessibility.
+Systems prioritise scripts differently: regional languages (e.g., Marathi in Pune, see [Figure 1](#fig:f1)) often dominate through size and positioning, while others (e.g., Delhi, see [Figure 16](#fig:f16)) grant equal status to Hindi and English. Political influences further shape these hierarchies, as seen in Bengaluru’s removal of Hindi. These variations reflect unresolved tensions between regional identity, national policies, and global accessibility.
 
 ### Typographic inconsistencies
 
 The practical application of typography reveals numerous inconsistencies:
 
-**Typefaces:** Typeface selection reveals a fundamental split between reliance on legacy system fonts and the adoption of modern typographic solutions. The majority of metros fall into the former category, primarily using variants of Yogesh (often distributed as part of the Shree-Lipi software suite). This pre-Unicode, legacy Devanagari typeface from the 1980s and 1990s became heavily ingrained in local desktop publishing and has subsequently been widely adopted for public signage. Bengaluru also followed this approach, using the common system font Mangal for its now-removed Hindi text. In contrast, a few systems use contemporary fonts through two distinct strategies. Nagpur achieves consistency with the unified Mukta typeface for all languages, while Ahmedabad mixes modern fonts for each script: Kohinoor (Devanagari), Mukta (Gujarati), and Hind (Latin). The coexistence of these legacy, unified, and mixed-font strategies underscores a profound lack of standardisation.
+**Typefaces:** Typeface selection reveals a fundamental split between reliance on legacy system fonts and the adoption of modern typographic solutions. The majority of metros fall into the former category, primarily using variants of Yogesh (often distributed as part of the Shree-Lipi software suite). This pre-Unicode, legacy Devanagari typeface from the 1980s and 1990s became heavily ingrained in local desktop publishing and has subsequently been widely adopted for public signage. Bengaluru also followed this approach, using the common system font Mangal for its now-removed Hindi text. In contrast, a few systems use contemporary fonts through two distinct strategies. Nagpur achieves consistency with the unified [Mukta](#sn:sn10) typeface for all languages, while Ahmedabad mixes modern fonts for each script: [Kohinoor](#sn:sn11) (Devanagari), Mukta (Gujarati), and [Hind](#sn:sn12) (Latin). The coexistence of these legacy, unified, and mixed-font strategies underscores a profound lack of standardisation.
 
 **Alignment and spatial organisation:** A range of alignment strategies is observed across the systems. The most common approach is direction-based alignment, where text is justified in the same direction the sign indicates, as seen in Pune, Nagpur, Bengaluru, Lucknow, and Delhi. Other networks apply alternative rules, such as Ahmedabad’s opposite direction alignment and Hyderabad’s script-specific alignment. In contrast, both Mumbai and Kolkata feature inconsistent layouts that vary between signs without a discernible system. Beyond alignment, the inconsistent application of differentiators such as spacing and coloured lines often creates additional visual noise, as observed in Hyderabad.
 
@@ -338,10 +336,19 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 <aside id="sn:sn5">A similar linguistic strategy, balancing regional identity with broader domestic and universal comprehension, is employed across the majority of the metro networks examined in this study.</aside>
 
-<aside id="sn:sn6">The Urdu text is displayed in the <em>Naskh</em> style. This is notable as Urdu is often written in the <em>Nastaliq</em> style, whose diagonal orientation can be less practical for standardised wayfinding signage compared to the more linear Naskh.</aside>
+<aside id="sn:sn6">Yogesh is a prominent legacy typeface family. While closely associated with development by the GIST group at C-DAC (see <a href="#ref:salrc">South Asia Language Resource Center, n.d.</a>), variants are also heavily distributed as part of Modular InfoTech’s Shree-Lipi software suite (see <a href="#ref:itr">ITR Graphic Systems, n.d.</a>), making it a ubiquitous standard in Indian signage.</aside>
 
-<aside id="sn:sn7">The study relied on the expertise of Fiona Ross (University of Reading) and Vaibhav Singh (Typeland), to identify Devanagari typefaces across the various networks. In the case of Ahmedabad, this analysis was supplemented by data provided directly by the metro authority.</aside>
+<aside id="sn:sn7">Designed by Raghunath Joshi (see <a href="#ref:microsoft-2022">Microsoft, 2022</a>).</aside>
 
+<aside id="sn:sn8">The Urdu text is displayed in the <em>Naskh</em> style. This is notable as Urdu is often written in the <em>Nastaliq</em> style, whose diagonal orientation can be less practical for standardised wayfinding signage compared to the more linear Naskh.</aside>
+
+<aside id="sn:sn9">The study relied on the expertise of Fiona Ross (University of Reading) and Vaibhav Singh (Typeland), to identify Devanagari typefaces across the various networks. In the case of Ahmedabad, this analysis was supplemented by data provided directly by the metro authority.</aside>
+
+<aside id="sn:sn9">Designed by Ek Type (see <a href="#ref:google-fonts-ek-type">Google Fonts, n.d.</a>).</aside>
+
+<aside id="sn:sn11">Designed by Indian Type Foundry (see <a href="#ref:adobe-fonts-itf">Adobe Fonts, n.d.</a>).</aside>
+
+<aside id="sn:sn12">Designed by Indian Type Foundry (see <a href="#ref:google-fonts-itf">Google Fonts, n.d.</a>).</aside>
 
 
 ## References
@@ -354,6 +361,8 @@ Indian Type Foundry. (n.d.). *Hind*. Google Fonts. <https://fonts.google.com/spe
 
 Indian Type Foundry. (n.d.). *Kohinoor Devanagari*. Adobe Fonts. <https://fonts.adobe.com/fonts/kohinoor-devanagari>
 {: id="ref:adobe-fonts-itf"}
+
+ITR Graphic Systems. (n.d.). *Catalog of ITR type faces: Fonts for Shree-Lipi [Catalog]*. Modular InfoTech Pvt. Ltd. <https://www.modular-infotech.com/downloads/sl/ITR.pdf>{: id="ref:itr"}
 
 Microsoft. (2022, March). *Mangal font family*. Microsoft Learn. <https://learn.microsoft.com/en-us/typography/font-list/mangal>
 {: id="ref:microsoft-2022"}
