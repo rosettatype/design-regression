@@ -362,7 +362,8 @@ Indian Type Foundry. (n.d.). *Hind*. Google Fonts. <https://fonts.google.com/spe
 Indian Type Foundry. (n.d.). *Kohinoor Devanagari*. Adobe Fonts. <https://fonts.adobe.com/fonts/kohinoor-devanagari>
 {: id="ref:adobe-fonts-itf"}
 
-ITR Graphic Systems. (n.d.). *Catalog of ITR type faces: Fonts for Shree-Lipi [Catalog]*. Modular InfoTech Pvt. Ltd. <https://www.modular-infotech.com/downloads/sl/ITR.pdf>{: id="ref:itr"}
+ITR Graphic Systems. (n.d.). *Catalog of ITR type faces: Fonts for Shree-Lipi [Catalog]*. Modular InfoTech Pvt. Ltd. <https://www.modular-infotech.com/downloads/sl/ITR.pdf>
+{: id="ref:itr"}
 
 Microsoft. (2022, March). *Mangal font family*. Microsoft Learn. <https://learn.microsoft.com/en-us/typography/font-list/mangal>
 {: id="ref:microsoft-2022"}
