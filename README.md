@@ -6,12 +6,12 @@ Maintained by [Rosetta Type/Research](https://rosettatype.com)
 
 ## 💰 Sponsor
 
-We welcome contributions to support our editorial work via Rosetta’s [GitHub](https://github.com/sponsors/rosettatype) or [Stripe](https://donate.stripe.com/7sYcN51Hvgv3aHYakWdfG0g). Any level of support is greatly appreciated and helps sustain the project.
+We welcome contributions to support our editorial work via Rosetta’s [GitHub](https://github.com/sponsors/rosettatype). Any level of support is greatly appreciated and helps sustain the project.
 
 - Contributions above €/$750 will be acknowledged on the website (About page) for a minimum of five years.
 - Contributions above €/$2,500 will also be featured in the website header as “Funded by…” for one year.
 
-For more details, feel free to [get in touch via email](mailto:designregression@pm.me).
+For more details or to arrange an alternative form of payment (bank transfer, online card payment), feel free to [get in touch via email](mailto:designregression@pm.me).
 
 ## Licence
 
