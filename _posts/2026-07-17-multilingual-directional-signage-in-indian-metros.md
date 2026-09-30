@@ -251,7 +251,7 @@ Systems prioritise scripts differently: regional languages (e.g., Marathi in Pun
 
 The practical application of typography reveals numerous inconsistencies:
 
-**Typefaces:** Typeface selection reveals a fundamental split between reliance on legacy system fonts and the adoption of modern typographic solutions. The majority of metros fall into the former category, primarily using variants of [Yogesh.](#sn:yogesh) This pre-Unicode, legacy Devanagari typeface from the 1980s and 1990s became heavily ingrained in local desktop publishing and has subsequently been widely adopted for public signage. Bengaluru took a somewhat different approach, using a customised variant of Shree Dev 715 for its large station indicators and the common system font Mangal for the internal directional signage, before its Hindi text was removed. In contrast, a few systems use contemporary fonts through two distinct strategies. Nagpur achieves consistency with the unified [Mukta](#sn:sn10) typeface for all languages, while Ahmedabad mixes modern fonts for each script: [Kohinoor](#sn:sn11) (Devanagari), Mukta (Gujarati), and [Hind](#sn:sn12) (Latin). The coexistence of these legacy, unified, and mixed-font strategies underscores a profound lack of standardisation.
+**Typefaces:** Typeface selection reveals a fundamental split between reliance on legacy system fonts and the adoption of modern typographic solutions. The majority of metros fall into the former category, primarily using variants of [Yogesh.](#sn:sn10) This pre-Unicode, legacy Devanagari typeface from the 1980s and 1990s became heavily ingrained in local desktop publishing and has subsequently been widely adopted for public signage. Bengaluru took a somewhat different approach, using a customised variant of Shree Dev 715 for its large station indicators and the common system font Mangal for the internal directional signage, before its Hindi text was removed. In contrast, a few systems use contemporary fonts through two distinct strategies. Nagpur achieves consistency with the unified [Mukta](#sn:sn11) typeface for all languages, while Ahmedabad mixes modern fonts for each script: [Kohinoor](#sn:sn12) (Devanagari), Mukta (Gujarati), and [Hind](#sn:sn13) (Latin). The coexistence of these legacy, unified, and mixed-font strategies underscores a profound lack of standardisation.
 
 **Alignment and spatial organisation:** A range of alignment strategies is observed across the systems. The most common approach is direction-based alignment, where text is justified in the same direction the sign indicates, as seen in Pune, Nagpur, Bengaluru, Lucknow, and Delhi. Other networks apply alternative rules, such as Ahmedabad’s opposite direction alignment and Hyderabad’s script-specific alignment. In contrast, both Mumbai and Kolkata feature inconsistent layouts that vary between signs without a discernible system. Beyond alignment, the inconsistent application of differentiators such as spacing and coloured lines often creates additional visual noise, as observed in Hyderabad.
 
@@ -336,19 +336,21 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 <aside id="sn:sn5">A similar linguistic strategy, balancing regional identity with broader domestic and universal comprehension, is employed across the majority of the metro networks examined in this study.</aside>
 
+<aside id="sn:sn6">This information was provided directly by the wayfinding consultancy Maynard, the parent company of Transport Design Consultancy, the agency that designed the Namma Metro signage. The typeface was customised by a specialist Indian type designer to match the line weight and character style of DIN, the typeface used for the English text.</aside>
+
 <aside id="sn:sn7">Designed by Raghunath Joshi (see <a href="#ref:microsoft-2022">Microsoft, 2022</a>).</aside>
 
 <aside id="sn:sn8">The Urdu text is displayed in the <em>Naskh</em> style. This is notable as Urdu is often written in the <em>Nastaliq</em> style, whose diagonal orientation can be less practical for standardised wayfinding signage compared to the more linear Naskh.</aside>
 
 <aside id="sn:sn9">The study relied on the expertise of Fiona Ross (University of Reading) and Vaibhav Singh (Typeland), to identify Devanagari typefaces across the various networks. In the case of Ahmedabad, this analysis was supplemented by data provided directly by the metro authority.</aside>
 
-<aside id="sn:yogesh">Yogesh is a prominent legacy Devanagari typeface family, closely associated with development by the GIST group at C-DAC (see <a href="#ref:salrc">South Asia Language Resource Center, n.d.</a>).</aside>
+<aside id="sn:sn10">Yogesh is a prominent legacy Devanagari typeface family, closely associated with development by the GIST group at C-DAC (see <a href="#ref:salrc">South Asia Language Resource Center, n.d.</a>).</aside>
 
-<aside id="sn:sn10">Designed by Ek Type (see <a href="#ref:google-fonts-ek-type">Google Fonts, n.d.</a>).</aside>
+<aside id="sn:sn11">Designed by Ek Type (see <a href="#ref:google-fonts-ek-type">Google Fonts, n.d.</a>).</aside>
 
-<aside id="sn:sn11">Designed by Indian Type Foundry (see <a href="#ref:adobe-fonts-itf">Adobe Fonts, n.d.</a>).</aside>
+<aside id="sn:sn12">Designed by Indian Type Foundry (see <a href="#ref:adobe-fonts-itf">Adobe Fonts, n.d.</a>).</aside>
 
-<aside id="sn:sn12">Designed by Indian Type Foundry (see <a href="#ref:google-fonts-itf">Google Fonts, n.d.</a>).</aside>
+<aside id="sn:sn13">Designed by Indian Type Foundry (see <a href="#ref:google-fonts-itf">Google Fonts, n.d.</a>).</aside>
 
 
 ## References
