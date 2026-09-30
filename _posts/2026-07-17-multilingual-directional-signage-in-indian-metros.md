@@ -48,7 +48,7 @@ Nagpur Metro, operational since 2019, uses a multilingual approach similar to Pu
 
 ### 3. Bengaluru (Namma Metro)
 
-Namma Metro initially implemented a trilingual signage system incorporating Kannada (in Kannada script), Hindi (in Devanagari), and English (in Latin script). Prior to the removal of Hindi, the typographic treatment of Devanagari varied depending on the sign’s deployment. While large station indicators utilised a variant of the legacy [Yogesh](#sn:sn6) typeface, the internal directional signage relied on [Mangal](#sn:sn7), a standard system font. Following local opposition to perceived Hindi imposition, the current system retains only Kannada and English, eliminating Devanagari entirely ([Times of India, 2017](#ref:times-2017)).
+Namma Metro initially implemented a trilingual signage system incorporating Kannada (in Kannada script), Hindi (in Devanagari), and English (in Latin script). Prior to the removal of Hindi, the typographic treatment of Devanagari varied depending on the sign’s deployment. While large station indicators used a customised variant of [Shree Dev 715](#sn:sn6) typeface, the internal directional signage relied on typeface [Mangal](#sn:sn7), a standard system font. Following local opposition to perceived Hindi imposition, the current system retains only Kannada and English, eliminating Devanagari entirely ([Times of India, 2017](#ref:times-2017)).
 
 ### 4. Hyderabad
 
@@ -110,7 +110,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>Marathi (top, largest, boldest), Hindi & English (equal, smaller)</td>
             <td>Direction-based</td>
-            <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
+            <td>Variant of Yogesh (Devanagari)</td>
             <td><a href="#fig:f1">Fig. 1</a></td>
         </tr>
         <tr>
@@ -136,7 +136,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>All equal size/weight</td>
             <td>Direction-based</td>
-            <td>Shree-Lipi – variant of Yogesh (Devanagari), and variant of Mangal (Devanagari)</td>
+            <td>Variant of Yogesh (Devanagari), and variant of Mangal (Devanagari)</td>
             <td><a href="#fig:f4">Fig. 4</a></td>
         </tr>
         <tr>
@@ -148,7 +148,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>All equal size/weight</td>
             <td>Direction-based</td>
-            <td>Shree-Lipi – variant of Yogesh (Devanagari), and variant of Mangal (Devanagari)</td>
+            <td>Variant of Yogesh (Devanagari), and variant of Mangal (Devanagari)</td>
             <td><a href="#fig:f5">Fig. 5</a></td>
         </tr>
         <tr>
@@ -162,7 +162,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>Telugu & English (top, larger), Hindi & Urdu (bottom, smaller)</td>
             <td>Script-specific</td>
-            <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
+            <td>Variant of Yogesh (Devanagari)</td>
             <td><a href="#fig:f6">Figs. 6</a>, <a href="#fig:f7">7</a></td>
         </tr>
         <tr>
@@ -175,7 +175,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>Marathi & Hindi (top, equal weight), English (bottom, lighter, all-caps)</td>
             <td>Inconsistent</td>
-            <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
+            <td>Variant of Yogesh (Devanagari)</td>
             <td><a href="#fig:f8">Figs. 8</a>, <a href="#fig:f9">9</a>, <a href="#fig:f10">10</a></td>
         </tr>
         <tr>
@@ -188,7 +188,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>Bengali (top-left, stacked), Hindi (top-right, stacked), English (bottom, unstacked)</td>
             <td>Left-aligned</td>
-            <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
+            <td>Variant of Yogesh (Devanagari)</td>
             <td><a href="#fig:f11">Fig. 11</a></td>
         </tr>
         <tr>
@@ -217,7 +217,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>Both equal size/weight</td>
             <td>Direction-based</td>
-            <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
+            <td>Variant of Yogesh (Devanagari)</td>
             <td><a href="#fig:f14">Fig. 14</a>, <a href="#fig:f15">15</a></td>
         </tr>
         <tr>
@@ -229,7 +229,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>All equal size/weight</td>
             <td>Inconsistent</td>
-            <td>Shree-Lipi – variant of Yogesh (Devanagari)</td>
+            <td>Variant of Yogesh (Devanagari)</td>
             <td><a href="#fig:f16">Fig. 16</a></td>
         </tr>
     </tbody>
@@ -251,7 +251,7 @@ Systems prioritise scripts differently: regional languages (e.g., Marathi in Pun
 
 The practical application of typography reveals numerous inconsistencies:
 
-**Typefaces:** Typeface selection reveals a fundamental split between reliance on legacy system fonts and the adoption of modern typographic solutions. The majority of metros fall into the former category, primarily using variants of Yogesh (often distributed as part of the Shree-Lipi software suite). This pre-Unicode, legacy Devanagari typeface from the 1980s and 1990s became heavily ingrained in local desktop publishing and has subsequently been widely adopted for public signage. Bengaluru also followed this approach, using the common system font Mangal for its now-removed Hindi text. In contrast, a few systems use contemporary fonts through two distinct strategies. Nagpur achieves consistency with the unified [Mukta](#sn:sn10) typeface for all languages, while Ahmedabad mixes modern fonts for each script: [Kohinoor](#sn:sn11) (Devanagari), Mukta (Gujarati), and [Hind](#sn:sn12) (Latin). The coexistence of these legacy, unified, and mixed-font strategies underscores a profound lack of standardisation.
+**Typefaces:** Typeface selection reveals a fundamental split between reliance on legacy system fonts and the adoption of modern typographic solutions. The majority of metros fall into the former category, primarily using variants of [Yogesh.](#sn:yogesh) This pre-Unicode, legacy Devanagari typeface from the 1980s and 1990s became heavily ingrained in local desktop publishing and has subsequently been widely adopted for public signage. Bengaluru took a somewhat different approach, using a customised variant of Shree Dev 715 for its large station indicators and the common system font Mangal for the internal directional signage, before its Hindi text was removed. In contrast, a few systems use contemporary fonts through two distinct strategies. Nagpur achieves consistency with the unified [Mukta](#sn:sn10) typeface for all languages, while Ahmedabad mixes modern fonts for each script: [Kohinoor](#sn:sn11) (Devanagari), Mukta (Gujarati), and [Hind](#sn:sn12) (Latin). The coexistence of these legacy, unified, and mixed-font strategies underscores a profound lack of standardisation.
 
 **Alignment and spatial organisation:** A range of alignment strategies is observed across the systems. The most common approach is direction-based alignment, where text is justified in the same direction the sign indicates, as seen in Pune, Nagpur, Bengaluru, Lucknow, and Delhi. Other networks apply alternative rules, such as Ahmedabad’s opposite direction alignment and Hyderabad’s script-specific alignment. In contrast, both Mumbai and Kolkata feature inconsistent layouts that vary between signs without a discernible system. Beyond alignment, the inconsistent application of differentiators such as spacing and coloured lines often creates additional visual noise, as observed in Hyderabad.
 
@@ -336,13 +336,13 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 <aside id="sn:sn5">A similar linguistic strategy, balancing regional identity with broader domestic and universal comprehension, is employed across the majority of the metro networks examined in this study.</aside>
 
-<aside id="sn:sn6">Yogesh is a prominent legacy typeface family. While closely associated with development by the GIST group at C-DAC (see <a href="#ref:salrc">South Asia Language Resource Center, n.d.</a>), variants are also heavily distributed as part of Modular InfoTech’s Shree-Lipi software suite (see <a href="#ref:itr">ITR Graphic Systems, n.d.</a>), making it a ubiquitous standard in Indian signage.</aside>
-
 <aside id="sn:sn7">Designed by Raghunath Joshi (see <a href="#ref:microsoft-2022">Microsoft, 2022</a>).</aside>
 
 <aside id="sn:sn8">The Urdu text is displayed in the <em>Naskh</em> style. This is notable as Urdu is often written in the <em>Nastaliq</em> style, whose diagonal orientation can be less practical for standardised wayfinding signage compared to the more linear Naskh.</aside>
 
 <aside id="sn:sn9">The study relied on the expertise of Fiona Ross (University of Reading) and Vaibhav Singh (Typeland), to identify Devanagari typefaces across the various networks. In the case of Ahmedabad, this analysis was supplemented by data provided directly by the metro authority.</aside>
+
+<aside id="sn:yogesh">Yogesh is a prominent legacy Devanagari typeface family, closely associated with development by the GIST group at C-DAC (see <a href="#ref:salrc">South Asia Language Resource Center, n.d.</a>).</aside>
 
 <aside id="sn:sn10">Designed by Ek Type (see <a href="#ref:google-fonts-ek-type">Google Fonts, n.d.</a>).</aside>
 
@@ -361,9 +361,6 @@ Indian Type Foundry. (n.d.). *Hind*. Google Fonts. <https://fonts.google.com/spe
 
 Indian Type Foundry. (n.d.). *Kohinoor Devanagari*. Adobe Fonts. <https://fonts.adobe.com/fonts/kohinoor-devanagari>
 {: id="ref:adobe-fonts-itf"}
-
-ITR Graphic Systems. (n.d.). *Catalog of ITR type faces: Fonts for Shree-Lipi [Catalog]*. Modular InfoTech Pvt. Ltd. <https://www.modular-infotech.com/downloads/sl/ITR.pdf>
-{: id="ref:itr"}
 
 Microsoft. (2022, March). *Mangal font family*. Microsoft Learn. <https://learn.microsoft.com/en-us/typography/font-list/mangal>
 {: id="ref:microsoft-2022"}
