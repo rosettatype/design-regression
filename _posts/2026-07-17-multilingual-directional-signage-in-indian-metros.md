@@ -108,7 +108,10 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
                 <li>Hindi (Devanagari)</li>
                 <li>English (Latin)</li>
             </ol></td>
-            <td>Marathi (top, largest, boldest), Hindi & English (equal, smaller)</td>
+            <td><ul>
+                <li>Marathi (top, largest, boldest)</li>
+                <li>Hindi & English (equal, smaller)</li>
+            </ul></td>
             <td>Direction-based</td>
             <td>Variant of Yogesh (Devanagari)</td>
             <td><a href="#fig:f1">Fig. 1</a></td>
@@ -121,7 +124,10 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
                 <li>Hindi (Devanagari)</li>
                 <li>English (Latin)</li>
             </ol></td>
-            <td>Marathi (top, largest, boldest), Hindi & English (equal, smaller)</td>
+            <td><ul>
+                <li>Marathi (top, largest, boldest)</li>
+                <li>Hindi & English (equal, smaller)</li>
+            </ul></td>
             <td>Direction-based</td>
             <td>Mukta (all scripts)</td>
             <td><a href="#fig:f2">Figs. 2</a>, <a href="#fig:f3">3</a></td>
@@ -136,7 +142,12 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>All equal size/weight</td>
             <td>Direction-based</td>
-            <td>DIN (Latin), KAN–854BM (Kannada), custom variant of Shree Dev 715 (Devanagari), and variant of Mangal (Devanagari)</td>
+            <td><ul>
+                <li>KAN–854BM (Kannada)</li>
+                <li>Custom variant of Shree Dev 715 (Devanagari)</li>
+                <li>Variant of Mangal (Devanagari)</li>
+                <li>DIN (Latin)</li>
+            </ul></td>
             <td><a href="#fig:f4">Fig. 4</a></td>
         </tr>
         <tr>
@@ -148,7 +159,10 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>Both equal size/weight</td>
             <td>Direction-based</td>
-            <td>Variant of Yogesh (Devanagari) and variant of Mangal (Devanagari)</td> <!-- ?? -->
+            <td><ul>
+                <li>KAN–854BM (Kannada)</li>
+                <li>DIN (Latin)</li>
+            </ul></td>
             <td><a href="#fig:f5">Fig. 5</a></td>
         </tr>
         <tr>
@@ -160,7 +174,10 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
                 <li>Hindi (Devanagari)</li>
                 <li>Urdu (Naskh)</li>
             </ol></td>
-            <td>Telugu & English (top, larger), Hindi & Urdu (bottom, smaller)</td>
+            <td><ul>
+                <li>Telugu & English (top, larger)</li>
+                <li>Hindi & Urdu (bottom, smaller)</li>
+            </ul></td>
             <td>Script-specific</td>
             <td>Variant of Yogesh (Devanagari)</td>
             <td><a href="#fig:f6">Figs. 6</a>, <a href="#fig:f7">7</a></td>
@@ -173,7 +190,10 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
                 <li>Hindi (Devanagari)</li>
                 <li>English (Latin)</li>
             </ol></td>
-            <td>Marathi & Hindi (top, equal weight), English (bottom, lighter, all-caps)</td>
+            <td><ul>
+                <li>Marathi & Hindi (top, equal weight)</li>
+                <li>English (bottom, lighter, all-caps)</li>
+            </ul></td>
             <td>Inconsistent</td>
             <td>Variant of Yogesh (Devanagari)</td>
             <td><a href="#fig:f8">Figs. 8</a>, <a href="#fig:f9">9</a>, <a href="#fig:f10">10</a></td>
@@ -186,7 +206,11 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
                 <li>Hindi (Devanagari)</li>
                 <li>English (Latin)</li>
             </ol></td>
-            <td>Bengali (top-left, stacked), Hindi (top-right, stacked), English (bottom, unstacked)</td>
+            <td><ul>
+                <li>Bengali (top-left, stacked)</li>
+                <li>Hindi (top-right, stacked)</li>
+                <li>English (bottom, unstacked)</li>
+            </ul></td>
             <td>Left-aligned</td>
             <td>Variant of Yogesh (Devanagari)</td>
             <td><a href="#fig:f11">Fig. 11</a></td>
@@ -201,11 +225,11 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>All equal size/weight</td>
             <td>Opposite direction</td>
-            <td>
-                <p>Kohinoor (Devanagari)</p>
-                <p>Mukta (Gujarati)</p>
-                <p>Hind (Latin)</p>
-            </td>
+            <td><ul>
+                <li>Mukta (Gujarati)</li>
+                <li>Kohinoor (Devanagari)</li>
+                <li>Hind (Latin)</li>
+            </ul></td>
             <td><a href="#fig:f12">Figs. 12</a>, <a href="#fig:f13">13</a></td>
         </tr>
         <tr>
