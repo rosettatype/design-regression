@@ -130,7 +130,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td><a href="#fig:f2">Figs. 2</a>, <a href="#fig:f3">3</a></td>
         </tr>
         <tr>
-            <td><strong>Namma Metro – Bengaluru</strong><br>Karnataka<br>Original</td>
+            <td><strong>Namma Metro – Bengaluru</strong><br>Karnataka<br>(Original)</td>
             <td><ol>
                 <li>Kannada (Kannada)</li>
                 <li>Hindi (Devanagari)</li>
@@ -147,7 +147,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td><a href="#fig:f4">Fig. 4</a></td>
         </tr>
         <tr>
-            <td><strong>Namma Metro – Bengaluru</strong><br>Karnataka<br>Current</td>
+            <td><strong>Namma Metro – Bengaluru</strong><br>Karnataka<br>(Current)</td>
             <td><ol>
                 <li>Kannada (Kannada)</li>
                 <li>English (Latin)</li>
