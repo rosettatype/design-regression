@@ -136,7 +136,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             </ol></td>
             <td>All equal size/weight</td>
             <td>Direction-based</td>
-            <td>Variant of Yogesh (Devanagari), and variant of Mangal (Devanagari)</td>
+            <td>DIN (Latin), KAN–854BM (Kannada), custom variant of Shree Dev 715 (Devanagari), and variant of Mangal (Devanagari)</td>
             <td><a href="#fig:f4">Fig. 4</a></td>
         </tr>
         <tr>
@@ -146,9 +146,9 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
                 <li>Kannada (Kannada)</li>
                 <li>English (Latin)</li>
             </ol></td>
-            <td>All equal size/weight</td>
+            <td>Both equal size/weight</td>
             <td>Direction-based</td>
-            <td>Variant of Yogesh (Devanagari), and variant of Mangal (Devanagari)</td>
+            <td>Variant of Yogesh (Devanagari) and variant of Mangal (Devanagari)</td> <!-- ?? -->
             <td><a href="#fig:f5">Fig. 5</a></td>
         </tr>
         <tr>
@@ -199,7 +199,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
                 <li>Hindi (Devanagari)</li>
                 <li>English (Latin)</li>
             </ol></td>
-            <td>Both equal size/weight</td>
+            <td>All equal size/weight</td>
             <td>Opposite direction</td>
             <td>
                 <p>Kohinoor (Devanagari)</p>
@@ -218,7 +218,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td>Both equal size/weight</td>
             <td>Direction-based</td>
             <td>Variant of Yogesh (Devanagari)</td>
-            <td><a href="#fig:f14">Fig. 14</a>, <a href="#fig:f15">15</a></td>
+            <td><a href="#fig:f14">Figs. 14</a>, <a href="#fig:f15">15</a></td>
         </tr>
         <tr>
             <td><strong>Delhi</strong></td>
@@ -227,7 +227,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
                 <li>Hindi (Devanagari)</li>
                 <li>English (Latin)</li>
             </ol></td>
-            <td>All equal size/weight</td>
+            <td>Both equal size/weight</td>
             <td>Inconsistent</td>
             <td>Variant of Yogesh (Devanagari)</td>
             <td><a href="#fig:f16">Fig. 16</a></td>
