@@ -40,13 +40,13 @@ The following section presents detailed descriptions of each system’s directio
 
 ### 1. Pune
 
-Pune Metro, operational since 2022, serves the cities of Pune and Pimpri-Chinchwad, one of Maharashtra’s major and rapidly growing urban centres. Its directional signage incorporates three languages: Marathi (in Devanagari), Hindi (in Devanagari), and English (in Latin script). Marathi, the regional language, is included to reflect the area’s linguistic identity. The inclusion of Hindi caters to the Hindi-speaking immigrant population, while English accommodates non-Hindi speakers and international [visitors.](#sn:sn5)
+Pune Metro, operational since 2022, serves the cities of Pune and & Pimpri-Chinchwad, one of Maharashtra’s major and rapidly growing urban centres. Its directional signage incorporates three languages: Marathi (in Devanagari), Hindi (in Devanagari), and English (in Latin script). Marathi, the regional language, is included to reflect the area’s linguistic identity. The inclusion of Hindi caters to the Hindi-speaking immigrant population, while English accommodates non-Hindi speakers and international [visitors.](#sn:sn5)
 
 ### 2. Nagpur
 
 Nagpur Metro, operational since 2019, uses a multilingual approach similar to Pune with signs in Marathi (in Devanagari), Hindi (in  Devanagari), and English (in Latin script).
 
-### 3. Bengaluru (Namma Metro)
+### 3. Namma Metro – Bengaluru
 
 Namma Metro initially implemented a trilingual signage system incorporating Kannada (in Kannada script), Hindi (in Devanagari), and English (in Latin script). Prior to the removal of Hindi, the typographic treatment of Devanagari varied depending on the sign’s deployment. While large station indicators used a customised variant of [Shree Dev 715](#sn:sn6) typeface, the internal directional signage relied on typeface [Mangal,](#sn:sn7) a standard system font. Following local opposition to perceived Hindi imposition, the current system retains only Kannada and English, eliminating Devanagari entirely ([Times of India, 2017](#ref:times-2017)).
 
@@ -90,8 +90,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
 <table class="full top-aligned">
     <thead>
         <tr>
-            <th>Metro</th>
-            <th>Location</th>
+            <th>Metro location</th>
             <th>Language hierarchy</th>
             <th>Differentiation</th>
             <th>Alignment</th>
@@ -101,8 +100,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
     </thead>
     <tbody>
         <tr>
-            <td><strong>Pune</strong></td>
-            <td>Pune & Pimpri-Chinchwad (Maharashtra)</td>
+            <td><strong>Pune</strong><br>Maharashtra</td> <!-- & Pimpri-Chinchwad -->
             <td><ol>
                 <li>Marathi (Devanagari)</li>
                 <li>Hindi (Devanagari)</li>
@@ -117,8 +115,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td><a href="#fig:f1">Fig. 1</a></td>
         </tr>
         <tr>
-            <td><strong>Nagpur</strong></td>
-            <td>Nagpur (Maharashtra)</td>
+            <td><strong>Nagpur</strong><br>Maharashtra</td>
             <td><ol>
                 <li>Marathi (Devanagari)</li>
                 <li>Hindi (Devanagari)</li>
@@ -133,8 +130,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td><a href="#fig:f2">Figs. 2</a>, <a href="#fig:f3">3</a></td>
         </tr>
         <tr>
-            <td><strong>Bengaluru<br>(Namma Metro)</strong><br>Original</td>
-            <td>Bengaluru (Karnataka)</td>
+            <td><strong>Namma Metro – Bengaluru</strong><br>Karnataka<br>Original</td>
             <td><ol>
                 <li>Kannada (Kannada)</li>
                 <li>Hindi (Devanagari)</li>
@@ -151,8 +147,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td><a href="#fig:f4">Fig. 4</a></td>
         </tr>
         <tr>
-            <td><strong>Bengaluru<br>(Namma Metro)</strong><br>Current</td>
-            <td>Bengaluru (Karnataka)</td>
+            <td><strong>Namma Metro – Bengaluru</strong><br>Karnataka<br>Current</td>
             <td><ol>
                 <li>Kannada (Kannada)</li>
                 <li>English (Latin)</li>
@@ -166,8 +161,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td><a href="#fig:f5">Fig. 5</a></td>
         </tr>
         <tr>
-            <td><strong>Hyderabad</strong></td>
-            <td>Hyderabad (Telangana)</td>
+            <td><strong>Hyderabad</strong><br>Telangana</td>
             <td><ol>
                 <li>Telugu (Telugu)</li>
                 <li>English (Latin)</li>
@@ -183,8 +177,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td><a href="#fig:f6">Figs. 6</a>, <a href="#fig:f7">7</a></td>
         </tr>
         <tr>
-            <td><strong>Mumbai</strong></td>
-            <td>Mumbai (Maharashtra)</td>
+            <td><strong>Mumbai</strong><br>Maharashtra</td>
             <td><ol>
                 <li>Marathi (Devanagari)</li>
                 <li>Hindi (Devanagari)</li>
@@ -199,8 +192,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td><a href="#fig:f8">Figs. 8</a>, <a href="#fig:f9">9</a>, <a href="#fig:f10">10</a></td>
         </tr>
         <tr>
-            <td><strong>Kolkata</strong></td>
-            <td>Kolkata (West Bengal)</td>
+            <td><strong>Kolkata</strong><br>West Bengal</td>
             <td><ol>
                 <li>Bengali (Bengali)</li>
                 <li>Hindi (Devanagari)</li>
@@ -216,8 +208,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td><a href="#fig:f11">Fig. 11</a></td>
         </tr>
         <tr>
-            <td><strong>Ahmedabad</strong></td>
-            <td>Ahmedabad & Gandhinagar (Gujarat)</td>
+            <td><strong>Ahmedabad</strong><br>Gujarat</td><!-- & Gandhinagar -->
             <td><ol>
                 <li>Gujarati (Gujarati)</li>
                 <li>Hindi (Devanagari)</li>
@@ -233,8 +224,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td><a href="#fig:f12">Figs. 12</a>, <a href="#fig:f13">13</a></td>
         </tr>
         <tr>
-            <td><strong>Lucknow</strong></td>
-            <td>Lucknow (Uttar Pradesh)</td>
+            <td><strong>Lucknow</strong><br>Uttar Pradesh</td>
             <td><ol>
                 <li>Hindi (Devanagari)</li>
                 <li>English (Latin)</li>
@@ -245,8 +235,7 @@ To clarify the analytical terminology used, the ‘Alignment’ column is define
             <td><a href="#fig:f14">Figs. 14</a>, <a href="#fig:f15">15</a></td>
         </tr>
         <tr>
-            <td><strong>Delhi</strong></td>
-            <td>Delhi NCR</td>
+            <td><strong>Delhi</strong><br>Delhi NCR</td>
             <td><ol>
                 <li>Hindi (Devanagari)</li>
                 <li>English (Latin)</li>
