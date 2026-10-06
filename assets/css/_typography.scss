@@ -388,6 +388,14 @@ article main {
         border-radius: 2px; // ALL images rounded edges!
     }
 
+    img.grayscale {
+        filter: grayscale(1);
+        &:hover,
+        &:focus {
+            filter: none;
+        }
+    }
+
     // A narrow paragraph or image container
     .narrow {
         max-width: 50%;
@@ -464,13 +472,13 @@ article main {
     }
 
     table.full {
-        margin-left: 0;
+        margin-left: -1.5rem;
     }
 
     table.top-aligned {
         td {
             vertical-align: top;
-            line-height: 120%;
+            line-height: 140%;
         }
         li {
             padding: 0;
@@ -557,6 +565,8 @@ article main {
         font-feature-settings: "tnum"1, "zero"1;
         width: 100%;
         table-layout: fixed;
+        display: block;
+        overflow-x: auto;
 
         th {
             @include text-label;
