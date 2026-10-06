@@ -29,7 +29,7 @@ sharing_image: /assets/sharing_image.png
 keywords: design, reading, type design, research, publication, article
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://designregression.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dev.designregression.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minima
